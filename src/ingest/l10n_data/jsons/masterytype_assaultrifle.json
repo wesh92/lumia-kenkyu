@@ -1,0 +1,5 @@
+{
+    "AssaultRifle": "Assault Rifle",
+    "Desc": "Assault rifles are long-ranged weapons that fire in bursts and specialize in rapid and constant attacks.",
+    "Stats": "Equipping Assault Rifle increases {0} by {1}\\n{2} by {3}\\n{4} by {5}"
+}

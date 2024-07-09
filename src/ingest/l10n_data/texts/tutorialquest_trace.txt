@@ -1,0 +1,3 @@
+TutorialQuest/Trace/Main/Title/1┃Track your enemy and kill them
+TutorialQuest/Trace/Main/Comment/1┃\n\nOperate the console to find your enemy and win the fight.
+TutorialQuest/Trace/Sub/Title/1┃Operate the console

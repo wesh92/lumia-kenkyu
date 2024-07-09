@@ -1,0 +1,1 @@
+ToolTipType/FirstHeal┃Initial Heal

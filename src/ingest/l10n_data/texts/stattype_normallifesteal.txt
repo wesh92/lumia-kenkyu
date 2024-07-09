@@ -1,0 +1,2 @@
+StatType/NormalLifeSteal┃Life Steal
+StatType/NormalLifeSteal/Desc┃Life Steal: Applies to basic attack damage.

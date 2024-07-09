@@ -1,0 +1,1 @@
+ToolTipType/FirstDamage┃Initial Damage

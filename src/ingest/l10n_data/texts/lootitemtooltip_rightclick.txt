@@ -1,0 +1,2 @@
+LootItemToolTip/RightClick/NormalMode┃Right-click for quick panel view
+LootItemToolTip/RightClick/DisintegrateMode┃Right-click to remove from list

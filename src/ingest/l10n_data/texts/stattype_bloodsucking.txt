@@ -1,0 +1,2 @@
+StatType/Bloodsucking┃Omnisyphon | Life Steal
+StatType/Bloodsucking/Desc┃Dealing damage also recovers some of your HP. (Applies only 50% to Area Damage and 60% to Wild Animals.)

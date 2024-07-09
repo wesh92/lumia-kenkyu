@@ -1,0 +1,1 @@
+ServerError/1007┃Client version mismatch

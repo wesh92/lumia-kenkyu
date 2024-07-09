@@ -1,0 +1,548 @@
+Item/Skills/NotEquip┃<color=red>Effect only occurs when equipped.</color>
+Item/Skills/UniqueSkill┃<color=red>The same effect is not applied multiple times.</color>
+Item/Skills/OnlyCloseCombat┃<color=red>Does not apply to ranged weapons.</color>
+Item/Skills/OnlyRangedCombat┃<color=red>Does not apply to melee weapons.</color>
+Item/Skills/6504000┃Gravitational Field
+Item/Skills/6504001┃Gravitational Field
+Item/Skills/6504001/Name┃Gravitational Field
+Item/Skills/6504001/Body┃Pull all enemy test subjects within {0}m towards the caster, dealing {2} true damage and stunning them for {1} seconds.\n(Cooldown: {3}s)
+Item/Skills/6505001/Name┃Rolling Thunder
+Item/Skills/6505001/Body┃{0} seconds after activation, buff all allies with [Rolling Thunder].\n\n[Rolling Thunder]\nPropelled by a wave of thunder, your Movement Speed gradually increases by {2}% for {1} seconds. Colliding with an enemy knocks them back and deals {3} skill damage.\nCooldown: {4}s
+Item/Skills/6504001/Desc┃Pull all enemy test subjects within {0}m towards the caster after a short while, dealing {2} true damage and stunning them for {1} seconds.\n(Cooldown: {3}s)
+Item/Skills/6505000┃Rolling Thunder
+Item/Skills/6505001┃Rolling Thunder
+Item/Skills/6505001/Desc┃{0} seconds after activation, buff all allies with [Rolling Thunder].\n\n[Rolling Thunder]\nPropelled by a wave of thunder, your Movement Speed gradually increases by {2}% for {1} seconds. Colliding with an enemy knocks them back and deals {3} skill damage.\nCooldown: {4}s
+Item/Skills/6501003┃Sprint
+Item/Skills/6501003/Name┃<color=yellow>Sprint</color>
+Item/Skills/6501003/Body┃Activate to increase your movement speed by {1}(Melee)/{3}(Ranged) for {6} seconds and ignore unit collision.\nPerforming an action other than moving cancels this effect.\nCooldown: {0} seconds
+Item/Skills/6501003/Desc┃Activate to increase your movement speed by {1}(Melee)/{3}(Ranged) for {6} seconds and ignore unit collision.\nPerforming an action other than moving cancels this effect.\nCooldown: {0} seconds
+Item/Skills/6022001/Name┃<color=yellow>Reaper's Scythe</color>
+Item/Skills/6022001/Body┃Dealing damage to a test subject with <color=#688A08>{1}%</color> or less HP remaining kills them instantly.\n(Cooldown {2}s)
+Item/Skills/6022001/Desc┃Dealing damage to low-health test subjects kills them instantly.\nMelee: <color=#688A08>Test subjects with {0}%</color> or less HP remaining can be instantly killed.\nRanged: <color=#688A08>Test subjects with {1}%</color> or less HP remaining can be instantly killed.\n(Cooldown {2}s)
+Item/Skills/6506000┃Truth Explosion
+Item/Skills/6506001┃Truth Explosion
+Item/Skills/6506001/Name┃<color=yellow>Truth Explosion</color>
+Item/Skills/6506001/Body┃After {0} seconds, deals {2} damage to enemies in a {1}m range. Become enhanced with Burst\nfor {7} seconds to gain additional effects.\n\nFailing to deal damage to an enemy stuns you for {6} seconds and slows you by {5}% for {3} seconds.\n\nWhile in Burst, your Attack Speed is increased by {8}% and your movement speed is increased by {9}%. \nAdditional effects below are gained according to the number of enemies hit. \n\n(Melee) \nDamage dealt increased by 6%, damage taken decreased by 12% \n\n(Ranged) \nDamage dealt increased by 4.5%, damage taken decreased by 10%\n\nCooldown: {4} seconds
+Item/Skills/6506001/Desc┃After {0} seconds, deals {2} damage to enemies in a {1}m range. Become enhanced with Burst\nfor {7} seconds to gain additional capabilities.\n\nFailing to deal damage to an enemy stuns you for {6} seconds and slows you by {5}% for {3} seconds.\n\nWhile in Burst, your Attack Speed is increased by {8}% and your movement speed is increased by {9}%. \nAdditional effects below are gained according to the number of enemies hit. \n\n(Melee) \nDamage dealt increased by 6%, damage taken decreased by 12% \n\n(Ranged) \nDamage dealt increased by 4.5%, damage taken decreased by 10%\n\nCooldown: {4} seconds
+Item/Skills/6507000┃Tether
+Item/Skills/6507001┃Tether
+Item/Skills/6507001/Name┃<color=yellow>Tether</color>
+Item/Skills/6507001/Body┃Connect to your closest ally within {0}m range to obtain <color=#688A08> {2}% Max HP</color> + {3} Shield for {1} seconds, increasing your movement speed by {4}%. \n\nYou share {5}% of damage dealt on your ally to yourself instead. \n\nCooldown: {7} seconds
+Item/Skills/6507001/Desc┃Connect to your closest ally within {0}m range to obtain <color=#688A08> {2}% Max HP</color> + {3} Shield for {1} seconds, increasing your movement speed by {4}%. \n\nYou share {5}% of damage dealt on your ally to yourself instead. \n\nCooldown: {7} seconds
+Item/Skills/6507002┃Tether
+Item/Skills/6507002/Name┃<color=yellow>Tether</color>
+Item/Skills/6507002/Body┃Connect to your closest ally within {0}m range to obtain <color=#688A08> {2}% Max HP</color> + {3} Shield for {1} seconds, increasing your movement speed by {4}%. \n\nYou share {5}% of damage dealt on your ally to yourself instead. \n\nCooldown: {7} seconds
+Item/Skills/6507002/Desc┃Connect to your closest ally within {0}m range to obtain <color=#688A08> {2}% Max HP</color> + {3} Shield for {1} seconds, increasing your movement speed by {4}%. \n\nYou share {5}% of damage dealt on your ally to yourself instead. \n\nCooldown: {7} seconds
+Item/Skills/6508000┃Prayer
+Item/Skills/6508001┃Prayer
+Item/Skills/6508001/Name┃<color=yellow>Prayer</color>
+Item/Skills/6508001/Body┃Allies immediatelly recover  {0} + <color=#688A08> {1}% of lost HP</color> and increase their defense by {3} for {2} seconds. \n\nCooldown: {4} seconds
+Item/Skills/6508001/Desc┃Allies immediatelly recover  {0} + <color=#688A08> {1}% of lost HP</color> and increase their defense by {3} for {2} seconds. \n\nCooldown: {4} seconds
+Item/Skills/6509000┃Impulse
+Item/Skills/6509001┃Impulse
+Item/Skills/6509001/Name┃<color=yellow>Impulse</color>
+Item/Skills/6509001/Body┃You temporarily stop for {0} seconds and immediately leap forward quickly when the effect is released. \n\nCooldown {1} seconds
+Item/Skills/6509001/Desc┃You temporarily stop for {0} seconds and immediately leap forward quickly when the effect is released. \n\nCooldown {1} seconds
+Item/Skills/6509002┃Impulse
+Item/Skills/6509002/Name┃<color=yellow>Impulse</color>
+Item/Skills/6509002/Body┃You temporarily stop for {0} seconds and immediately leap forward quickly when the effect is released. \n\nCooldown {1} seconds
+Item/Skills/6509002/Desc┃You temporarily stop for {0} seconds and immediately leap forward quickly when the effect is released. \n\nCooldown {1} seconds
+Item/Skills/6510000┃Fissure
+Item/Skills/6510001┃Fissure
+Item/Skills/6510001/Name┃<color=yellow>Fissure</color>
+Item/Skills/6510001/Body┃Create a Fissure forward, dealing {1} +  <color=#688A08> {2}% enemy's current HP</color> true damage, stunning them for {3} seconds and slowing them by {6}% for {5} seconds after {0} second.\n\nCooldown: {4} seconds
+Item/Skills/6510001/Desc┃Create a Fissure forward, dealing {1} +  <color=#688A08> {2}% enemy's current HP</color> true damage, stunning them for {3} seconds and slowing them by {6}% for {5} seconds after {0} second.\n\nCooldown: {4} seconds
+Item/Skills/6511000┃Mind Reader
+Item/Skills/6511001┃Mind Reader
+Item/Skills/6511001/Name┃<color=yellow>Mind Reader</color>
+Item/Skills/6511001/Body┃When used, block one source of damage taken within {0} seconds, deal skill damage equal to {1}% of the damage taken to the source enemy, and stun them for {2} seconds.\n\nCooldown: {3} seconds
+Item/Skills/6511001/Desc┃When used, block one source of damage taken within {0} seconds, deal skill damage equal to {1}% of the damage taken to the source enemy, and stun them for {2} seconds.\n\nCooldown: {3} seconds
+Item/Skills/6002010┃Biotic Infusion [Death Adder]
+Item/Skills/6002011/Name┃<color=yellow>Biotic Infusion</color>
+Item/Skills/6002012/Name┃<color=yellow>Biotic Infusion</color>
+Item/Skills/6002013/Name┃<color=yellow>Biotic Infusion</color>
+Item/Skills/6002011/Body┃During <color=red>VF Overflow</color>, Echion's skills cause Biotic Infusion.\nBiotic Infusion: your next basic attack within {4} seconds deals <color=green>{3}</color> extra skill damage. (Cooldown: {5}s)\n\nOnly <color=yellow>Biotic Infusion</color> from Deathadder will be active during <color=red>VF Overflow</color>.
+Item/Skills/6002011/Desc┃During <color=red>VF Overflow</color>, Echion's skills cause Biotic Infusion.\nBiotic Infusion: your next basic attack within {4} seconds deals extra skill damage. (Cooldown: {5}s)\nDamage dealt : <color=green>Character Level * {3}</color>\n\nOnly <color=yellow>Biotic Infusion</color> from Deathadder will be active during <color=red>VF Overflow</color>.
+Item/Skills/6007010┃Swift Strides [Sidewinder]
+Item/Skills/6007011/Name┃<color=yellow>Swift Strides</color>
+Item/Skills/6007012/Name┃<color=yellow>Swift Strides</color>
+Item/Skills/6007013/Name┃<color=yellow>Swift Strides</color>
+Item/Skills/6007011/Body┃During <color=red>VF Overflow</color>, gain a stack of Swift Strides every {2}m you move, up to {1}.\nYour movement speed will increase by up to {4} based on how many stacks you have. Basic attacks consume all stacks, dealing up to {7} skill damage.{9}\n\nOnly <color=yellow>Swift Strides</color> from Sidewinder will be active during <color=red>VF Overflow</color>.
+Item/Skills/6007011/Desc┃During <color=red>VF Overflow</color>, gain a stack of Swift Strides every {1}m you move, up to {0}.\nYour movement speed will increase by up to {3}, based on how many stacks you have. Basic attacks consume all stacks, dealing up to {6} skill damage.\nAt {0} stacks, your next basic attack slows enemies by {10} for {11} seconds.\n\nOnly <color=yellow>Swift Strides</color> from Sidewinder will be active during <color=red>VF Overflow</color>.
+Item/Skills/6001010┃Flame Barrier [Black Mamba King-TL]
+Item/Skills/6001011/Name┃<color=yellow>Flame Barrier</color>
+Item/Skills/6001012/Name┃<color=yellow>Flame Barrier</color>
+Item/Skills/6001011/Body┃During <color=red>VF Overflow</color>, <color=#688A08>{4}</color> skill damage is dealt to enemies in a {1}m range every {6}second when in combat.\n\nOnly <color=yellow>Flame Barrier</color> from Black Mamba King-TL will be active during <color=red>VF Overflow</color>.
+Item/Skills/6001011/Desc┃During <color=red>VF Overflow</color>, <color=#688A08>{3}</color> of the target's max HP is dealt as skill damage to enemies in a {0}m range every {9} second when in combat.\n\nOnly <color=yellow>Flame Barrier</color> from Black Mamba King-TL will be active during <color=red>VF Overflow</color>
+Item/Skills/6021010┃VF Control Enhancement [Alpha Sidewinder ML]
+Item/Skills/6021011/Name┃<color=yellow>VF Control Enhancement</color>
+Item/Skills/6021011/Body┃The duration of Exuviation is reduced by {0}/{1}/{2}/{3} based on the level of VF Overflow.
+Item/Skills/6021011/Desc┃The duration of Exuviation is reduced by {0}/{1}/{2}/{3} based on the level of VF Overflow.
+Item/Skills/6021000┃Defense Reduction [Death Adder Queen-MT]
+Item/Skills/6021001/Name┃<color=yellow>Necrosis</color>
+Item/Skills/6021001/Body┃Reduce the defense of enemies hit by Envenomization by {1} for {0} seconds. This can be stacked up to {2} times.
+Item/Skills/6021001/Desc┃Reduce the defense of enemies hit by Envenomization by {1} for {0} seconds. This can be stacked up to {2} times.
+Item/Skills/6002000┃Biotic Infusion
+Item/Skills/6002001/Name┃<color=yellow>Biotic Infusion</color>
+Item/Skills/6002001/Body┃({6})Using a skill causes a Biotic Infusion. Your next basic attack within {4} seconds deals extra skill damage equivalent to <color=#688A08>{1} of the enemy's max HP</color>. (Cooldown: {5}s)
+Item/Skills/6002001/Desc┃Using a skill causes a Biotic Infusion. Your next basic attack within {4} seconds deals extra skill damage. (Cooldown: {5}s)\nMelee: Deals damage equivalent to <color=#688A08>{1} of the enemy's max HP.</color>｜Ranged: Deals damage equivalent to <color=#688A08>{7} of the enemy's max HP. </color>
+Item/Skills/6002002/Name┃<color=yellow>Biotic Infusion</color>
+Item/Skills/6002002/Body┃({6})Using a skill causes a Biotic Infusion.\nBiotic Infusion: Your next basic attack within {4} seconds deals <color=#DDA0DD>{2}</color> extra skill damage. (Cooldown: {5}s)
+Item/Skills/6002002/Desc┃Using a skill causes a Biotic Infusion. Your next basic attack within {4} seconds deals extra skill damage.  (Cooldown: {5}s)\nMelee: Deals damage equivalent to <color=#DDA0DD>{2} Skill Amplification</color>｜Ranged: Deals damage equivalent to <color=#DDA0DD>{8} Skill Amplification</color>.
+Item/Skills/6002003/Name┃<color=yellow>Biotic Infusion</color>
+Item/Skills/6002003/Body┃({6})Using a skill causes a Biotic Infusion.\nBiotic Infusion: Your next basic attack within {4} seconds deals <color=#DDA0DD>{2}</color> extra skill damage. (Cooldown: {5}s)
+Item/Skills/6002003/Desc┃Using a skill causes a Biotic Infusion. Your next basic attack within {4} seconds deals extra skill damage. (Cooldown: {5}s)\nMelee: Deals damage equivalent to <color=#DDA0DD>{2} Skill Amplification</color>｜Ranged: Deals damage equivalent to <color=#DDA0DD>{8} Skill Amplification</color>.
+Item/Skills/6002004/Name┃<color=yellow>Biotic Infusion</color>
+Item/Skills/6002004/Body┃({6})Using a skill causes a Biotic Infusion.\nBiotic Infusion: your next basic attack within {4} seconds deals extra skill damage equivalent to <color=#688A08>{1} of the enemy's max HP</color>. (Cooldown: {5}s)
+Item/Skills/6002004/Desc┃Using a skill causes a Biotic Infusion. Your next basic attack within {4} seconds deals extra skill damage. (Cooldown: {5}s)\nMelee: Deals damage equivalent to <color=#688A08>{1} of the enemy's max HP.</color>
+Item/Skills/6002005/Name┃<color=yellow>Biotic Infusion</color>
+Item/Skills/6002005/Body┃({6})Using a skill causes a Biotic Infusion.\nBiotic Infusion: Your next basic attack within {4} seconds deals <color=#DDA0DD>{2}</color> extra skill damage. (Cooldown: {5}s)
+Item/Skills/6002005/Desc┃Using a skill causes a Biotic Infusion. Your next basic attack within {4} seconds deals extra skill damage. (Cooldown: {5}s)\nDeals damage equivalent to <color=#DDA0DD>{8} Skill Amplification</color>.
+Item/Skills/6002006/Name┃<color=yellow>Biotic Infusion</color>
+Item/Skills/6002006/Body┃({6})Using a skill causes a Biotic Infusion.\nBiotic Infusion: Your next basic attack within {4} seconds deals <color=#008000>{8}</color> extra skill damage. (Cooldown: {5}s)
+Item/Skills/6002006/Desc┃Using a skill causes a Biotic Infusion. Your next basic attack within {4} seconds deals extra skill damage. (Cooldown: {5}s)\nDeals damage equivalent to ({6} + <color=#008000>(Character Level * {9})</color>).
+Item/Skills/6002007/Name┃<color=yellow>Biotic Infusion</color>
+Item/Skills/6002007/Body┃({6}) Using a skill causes a Biotic Infusion. Your next basic attack within {4} seconds deals <color=#008000>{8}</color> extra skill damage. (Cooldown: {5}s)
+Item/Skills/6002007/Desc┃({6})Using a skill causes a Biotic Infusion.Your next basic attack within {4} seconds deals <color=#008000>{8}</color> extra skill damage. (Cooldown: {5}s)\n(Melee) Deals damage equivalent to ({6} + <color=#008000>(Character Level * {3})</color>)｜(Ranged)Deals damage equivalent to ({6} + <color=#008000>(Character Level * {9})</color>).
+Item/Skills/6002008/Name┃<color=yellow>Biotic Infusion</color>
+Item/Skills/6002009/Name┃<color=yellow>Biotic Infusion</color>
+Item/Skills/6001000┃Flame Barrier
+Item/Skills/6001001/Name┃<color=yellow>Flame Barrier</color>
+Item/Skills/6001001/Body┃({0}) Deals <color=#688A08>{4}</color> skill damage to enemies in a {1}m range every {6}second when in combat.
+Item/Skills/6001001/Desc┃Damages enemies in a {0}m range every {9} second when in combat.\nMelee: Deals <color=#688A08>{3} of your Max HP</color> skill damage.｜Ranged: Deals <color=#688A08>{7} of your Max HP</color> skill damage.
+Item/Skills/6001002/Name┃<color=yellow>Flame Barrier</color>
+Item/Skills/6001002/Body┃({0}) Deals <color=#688A08>{4}</color> skill damage to enemies in a {1}m range every {6}second when in combat.
+Item/Skills/6001002/Desc┃Damages enemies in a {0}m range every {9} second when in combat.\nMelee: Deals <color=#688A08>{3} of your Max HP</color> skill damage.｜Ranged: Deals <color=#688A08>{7} of your Max HP</color> skill damage.
+Item/Skills/6001003/Name┃<color=yellow>Flame Barrier</color>
+Item/Skills/6001003/Body┃({0}) Deals <color=#688A08>{4}</color> skill damage to enemies in a {1}m range every {6}second when in combat.
+Item/Skills/6001003/Desc┃Damages enemies in a {0}m range every {9} second when in combat.\nMelee: Deals <color=#688A08>{3} of your Max HP</color> skill damage.｜Ranged: Deals <color=#688A08>{7} of your Max HP</color> skill damage.
+Item/Skills/6001004/Name┃<color=yellow>Flame Barrier</color>
+Item/Skills/6001004/Body┃({0}) Deals <color=#688A08>{4}</color> skill damage to enemies in a {1}m range every {6}second when in combat.
+Item/Skills/6001004/Desc┃Damages enemies in a {0}m range every {9} second when in combat.\nMelee: Deals <color=#688A08>{3} of your Max HP</color> skill damage.｜Ranged: Deals <color=#688A08>{7} of your Max HP</color> skill damage.
+Item/Skills/6003000┃Tenacity
+Item/Skills/6003001/Name┃<color=yellow>Tenacity</color>
+Item/Skills/6003001/Body┃Reduces crowd control effects by {0}%.\n(Excludes Suppression, Airborne, Knockback, Grabbed)
+Item/Skills/6003001/Desc┃Reduces crowd control effects by {0}%.\n(Excludes Suppression, Airborne, Knockback, Grabbed)
+Item/Skills/6003002/Name┃<color=yellow>Tenacity</color>
+Item/Skills/6004000┃Smolder
+Item/Skills/6004001/Name┃<color=yellow>Smolder</color>
+Item/Skills/6004001/Body┃Basic attacks apply Smoldering for {6} seconds, stacking up to {4} times.\n\nEach stack of Smoldering deals <color=green>{3}</color> true damage each {5}second.
+Item/Skills/6004001/Desc┃Basic attacks apply Smoldering for {8} seconds, stacking up to {6} times. Each stack of Smoldering deals true damage every {7} seconds.\nMelee: Deals <color=green>Character Level * 4</color> true damage.\nRanged: Deals <color=green>Character Level * {5}</color> true damage.
+Item/Skills/6004002/Name┃<color=yellow>Smolder</color>
+Item/Skills/6004002/Body┃Basic attacks apply Smoldering for {6}s, stacking up to {4} times.\n\nEach stack of Smoldering deals true damage equal to <color=#688A08>{2} of the enemy's Max HP</color> each {5}s.
+Item/Skills/6004002/Desc┃Basic attacks apply Smoldering for {8} seconds, stacking up to {6} times.\n\nEach stack of Smoldering deals true damage each {7} seconds.\nMelee: Deals <color=#688A08>{2} Max HP</color> true damage.\nRanged: Deals <color=#688A08>{3} Max HP</color> true damage.
+Item/Skills/6004003/Name┃<color=yellow>Smolder</color>
+Item/Skills/6004003/Body┃Basic attacks apply Smoldering for {6} seconds, stacking up to {4} times.\n\nEach stack of Smoldering deals true damage equal to <color=#688A08>{2} of the enemy's Max HP</color> each {5}s.
+Item/Skills/6004003/Desc┃Basic attacks apply Smoldering for {8} seconds, stacking up to {6} times.\n\nEach stack of Smoldering deals true damage equal to <color=#688A08>{2} of the enemy's Max HP</color> each {7} second.
+Item/Skills/6004004/Name┃<color=yellow>Smolder</color>
+Item/Skills/6004005/Name┃<color=yellow>Smolder</color>
+Item/Skills/6004005/Body┃Basic attacks apply Smoldering for {6}s, stacking up to {4} times.\n\nEach stack of Smoldering deals true damage equal to <color=#688A08>{2} of the enemy's Max HP</color> each {5}s.
+Item/Skills/6004005/Desc┃Basic attacks apply Smoldering for {8} seconds, stacking up to {6} times.\n\nEach stack of Smoldering deals true damage each {7} seconds.\nMelee: Deals <color=#688A08>{2} Max HP</color> true damage.\nRanged: Deals <color=#688A08>{3} Max HP</color> true damage.
+Item/Skills/6004006/Name┃<color=yellow>Smolder</color>
+Item/Skills/6004006/Body┃Basic attacks apply Smoldering for {6}s, stacking up to {4} times.\n\nEach stack of Smoldering deals true damage equal to <color=#688A08>{2} of the enemy's Max HP</color> each {5}s.
+Item/Skills/6004006/Desc┃Basic attacks apply Smoldering for {8} seconds, stacking up to {6} times.\n\nEach stack of Smoldering deals true damage each {7} seconds.\nMelee: Deals <color=#688A08>{2} Max HP</color> true damage.\nRanged: Deals <color=#688A08>{3} Max HP</color> true damage.
+Item/Skills/6004007/Name┃<color=yellow>Smolder</color>
+Item/Skills/6004007/Body┃Basic attacks apply Smoldering for {6}s, stacking up to {4} times.\n\nEach stack of Smoldering deals true damage equal to <color=#688A08>{2} of the enemy's Max HP</color> each {5}s.
+Item/Skills/6004007/Desc┃Basic attacks apply Smoldering for {8} seconds, stacking up to {6} times.\n\nEach stack of Smoldering deals true damage each {7} seconds.\nMelee: Deals <color=#688A08>{2} Max HP</color> true damage.\nRanged: Deals <color=#688A08>{3} Max HP</color> true damage.
+Item/Skills/6005000┃Focused Impact
+Item/Skills/6005001/Name┃<color=yellow>Focused Impact</color>
+Item/Skills/6005001/Body┃Every {0} seconds, your next basic attack gains a {1} bonus critical strike chance.
+Item/Skills/6005001/Desc┃Every {0} seconds, your next basic attack gains a {1} bonus critical strike chance.
+Item/Skills/6005006/Body┃Every {0} seconds, your next basic attack gains a {1} Critical Strike chance bonus and slows enemies by {3}% for {2} seconds.
+Item/Skills/6005006/Desc┃Every {0} seconds, your next basic attack gains a {1} Critical Strike chance bonus and slows enemies by {3}% for {2} seconds.
+Item/Skills/6005002/Name┃<color=yellow>Focused Impact</color>
+Item/Skills/6005003/Name┃<color=yellow>Focused Impact</color>
+Item/Skills/6005004/Name┃<color=yellow>Focused Impact</color>
+Item/Skills/6005005/Name┃<color=yellow>Focused Impact</color>
+Item/Skills/6005006/Name┃<color=yellow>Lead Shell</color>
+Item/Skills/6008000┃Healing Reduction
+Item/Skills/6008001/Name┃<color=yellow>Healing Reduction from Skills</color>
+Item/Skills/6008001/Body┃({0}) Skills reduce target's healing received by {1} for {2} seconds.
+Item/Skills/6008001/Desc┃Skills reduce target's healing received for {2} seconds. \nMelee: {0} healing reduction.\nRanged: {1} healing reduction.
+Item/Skills/6008002/Name┃<color=yellow>Healing Reduction from Skills</color>
+Item/Skills/6008002/Body┃Skills reduce target's healing received by {1} for {2} seconds.
+Item/Skills/6008002/Desc┃Skills reduce target's healing received by {0} for {2} seconds.
+Item/Skills/6008003/Name┃<color=yellow>Healing Reduction from Skills</color>
+Item/Skills/6008003/Body┃Skills reduce target's healing received by {1} for {2} seconds.
+Item/Skills/6008003/Desc┃Skills reduce target's healing received by {1} for {2} seconds.
+Item/Skills/6008004/Name┃<color=yellow>Healing Reduction from Skills</color>
+Item/Skills/6008005/Name┃<color=yellow>Healing Reduction from Skills</color>
+Item/Skills/6008005/Body┃({0}) Skills reduce target's healing received by {1} for {2} seconds.
+Item/Skills/6008005/Desc┃Skills reduce target's healing received by {0} for {2} seconds.
+Item/Skills/6008101/Name┃<color=yellow>Healing Reduction from Basic Attacks</color>
+Item/Skills/6008101/Body┃({0}) Basic attacks reduce target's healing received by {1} for {2} seconds.
+Item/Skills/6008101/Desc┃Basic attacks reduce target's healing received by {2} seconds. \nMelee: {0} healing reduction.\nRanged: {1} healing reduction.
+Item/Skills/6008102/Name┃<color=yellow>Healing Reduction from Basic Attacks</color>
+Item/Skills/6008102/Body┃Basic attacks reduce target's healing received by {1} for {2} seconds.
+Item/Skills/6008102/Desc┃Basic attacks reduce target's healing received by {0} for {2} seconds.
+Item/Skills/6008103/Name┃<color=yellow>Healing Reduction from Basic Attacks</color>
+Item/Skills/6008103/Body┃Basic attacks reduce target's healing received by {1} for {2} seconds.
+Item/Skills/6008103/Desc┃Basic attacks reduce target's healing received by {1} for {2} seconds.
+Item/Skills/6008104/Name┃<color=yellow>Healing Reduction from Basic Attacks</color>
+Item/Skills/6007000┃Swift Strides
+Item/Skills/6007001/Name┃<color=yellow>Swift Strides</color>
+Item/Skills/6007001/Body┃Gain a stack of [Swift Strides] every {2}m you move, up to {1} stacks.\nBase movement speed increases by up to {4} based on how many stacks you have. Basic attacks consume all stacks, dealing up to <color=white>{7}</color> skill damage.{9}
+Item/Skills/6007001/Desc┃Gain a stack of [Swift Strides] every {1}m you move, up to {0} stacks.\nBase movement speed increases by up to {3}, based on how many stacks you have. Basic attacks consume all stacks, dealing up to <color=white>{6}</color> skill damage.\nMelee: At Max stacks, your next basic attack slows enemies by {10} for {11} seconds.
+Item/Skills/6007000/Melee┃\nMelee: At {2} stacks, your next basic attack slows enemies by {1} for {0} seconds.
+Item/Skills/6007002/Name┃<color=yellow>Swift Strides</color>
+Item/Skills/6007002/Body┃Gain a stack of [Swift Strides] every {2}m you move, up to {1}.\nMovement speed increases by up to  {4}, based on how many stacks you have. Basic attacks consume all stacks, dealing up to <color=white>{7}</color> skill damage.{9}
+Item/Skills/6007002/Desc┃Gain a stack of [Swift Strides] every {1}m you move, up to {0}.\nMovement speed increases by up to {3}, based on how many stacks you have. Basic attacks consume all stacks, dealing up to <color=white>{6}</color> skill damage.\nAt Max stacks, your next basic attack slows enemies by {10} for {11} seconds.
+Item/Skills/6007003/Name┃<color=yellow>Swift Strides</color>
+Item/Skills/6007003/Body┃Gain a stack of [Swift Strides] every {2}m you move, up to {1}.\nMovement speed increases by up to  {4}, based on how many stacks you have. Basic attacks consume all stacks, dealing up to <color=white>{7}</color> skill damage.
+Item/Skills/6007003/Desc┃Gain a stack of [Swift Strides] every {1}m you move, up to {0}.\nMovement speed increases by up to  {3}, based on how many stacks you have. Basic attacks consume all stacks, dealing up to <color=white>{6}</color> skill damage.
+Item/Skills/6007004/Name┃<color=yellow>Swift Strides</color>
+Item/Skills/6007004/Body┃Gain a stack of [Swift Strides] every {2}m you move, up to {1}.\nMovement speed increases by up to {4} based on how many stacks you have. Basic attacks consume all stacks, dealing up to <color=white>{7}</color> skill damage.{9}
+Item/Skills/6007004/Desc┃Gain a stack of [Swift Strides] every {1}m you move, up to {0}.\nMovement speed increases by up to {3}, based on how many stacks you have. Basic attacks consume all stacks, dealing up to <color=white>{6}</color> skill damage.\nMelee: At Max stacks, your next basic attack slows enemies by {10} for {11} seconds.
+Item/Skills/6007005/Name┃<color=yellow>Swift Strides</color>
+Item/Skills/6007006/Name┃<color=yellow>Swift Strides</color>
+Item/Skills/6007007/Name┃<color=yellow>Swift Strides</color>
+Item/Skills/6007008/Name┃<color=yellow>Swift Strides</color>
+Item/Skills/6006000┃Reflection
+Item/Skills/6006001/Name┃<color=yellow>Reflection</color>
+Item/Skills/6006001/Body┃When hit by a basic attack, reflect <color=grey>{4}</color> true damage to the attacker and reduce their healing by {3} for {5} seconds.\nTaking {7} or more damage over 4 seconds deals <color=white>{6}</color> skill damage to nearby enemies. (Cooldown: 3s)
+Item/Skills/6006001/Desc┃When hit by a basic attack, reflect <color=grey>{6}</color> true damage to the attacker and reduce their healing by {5} for {8} seconds. Taking {10} or more damage over 4 seconds deals <color=white>{9}</color> skill damage to nearby enemies. (Cooldown: 3s)
+Item/Skills/6006002/Name┃<color=yellow>Reflection</color>
+Item/Skills/6006002/Body┃When hit by a basic attack, reflect <color=grey>{4}</color> true damage to the attacker and reduce their healing by {3} for {5} seconds.\nTaking {7} or more damage over 4 seconds deals <color=white>{6}</color> skill damage to nearby enemies. (Cooldown: 1s)
+Item/Skills/6006002/Desc┃When hit by a basic attack, reflect <color=grey>{6}</color> true damage to the attacker and reduce their healing by {5} for {8} seconds.Taking {10} or more damage over 4 seconds deals <color=white>{9}</color> skill damage to nearby enemies. (Cooldown: 1s)
+Item/Skills/6006003/Name┃<color=yellow>Reflection</color>
+Item/Skills/6006003/Body┃When hit by a basic attack, reflect <color=grey>{4}</color> true damage to the attacker and reduce their healing by {3} for {5} seconds.\nTaking {7} or more damage over 4 seconds deals <color=white>{6}</color> skill damage to nearby enemies. (Cooldown: 1s)
+Item/Skills/6006003/Desc┃When hit by a basic attack, reflect <color=grey>{6}</color> true damage to the attacker and reduce their healing by {5} for {8} seconds.Taking {10} or more damage over 4 seconds deals <color=white>{9}</color> skill damage to nearby enemies. (Cooldown: 1s)
+Item/Skills/6009000┃Attack Range
+Item/Skills/6009001/Name┃<color=Yellow>Attack Range</color>
+Item/Skills/6009002/Name┃<color=Yellow>Attack Range</color>
+Item/Skills/6009003/Name┃<color=Yellow>Attack Range</color>
+Item/Skills/6009004/Name┃<color=Yellow>Attack Range</color>
+Item/Skills/6009005/Name┃<color=Yellow>Attack Range</color>
+Item/Skills/6009006/Name┃<color=Yellow>Attack Range</color>
+Item/Skills/6009007/Name┃<color=Yellow>Attack Range</color>
+Item/Skills/6010000┃Cooldown Reduction Cap
+Item/Skills/6010001/Name┃<color=Yellow>Cooldown Reduction Cap</color>
+Item/Skills/6010002/Name┃<color=Yellow>Cooldown Reduction Cap</color>
+Item/Skills/6011000┃Everlasting
+Item/Skills/6011001/Name┃<color=Yellow>Everlasting</color>
+Item/Skills/6011002/Name┃<color=Yellow>Everlasting</color>
+Item/Skills/6009001/Body┃Only one [Unique Passive] of the same name can be applied.\n<color=#01ac01>{0} +{1}</color>
+Item/Skills/6009001/Desc┃Only one [Unique Passive] of the same name can be applied.\n<color=#01ac01>{0} +{1}</color>
+Item/Skills/6012000┃Conclusion
+Item/Skills/6012001/Name┃<color=yellow>Conclusion: Last Word</color>
+Item/Skills/6012001/Body┃Basic Attacks using the last bullet of your ammo deals <color=#DDA0DD>(+{2})</color>  + <color=#688A08>{5}% of enemy's max HP</color> extra skill damage and heal you for <color=white>{4}%</color> of damage dealt.
+Item/Skills/6012001/Desc┃Basic Attacks using the last bullet of your ammo deals <color=#DDA0DD>{1} Skill Amplification</color> + <color=#688A08>{6}% of enemy's max HP</color> extra skill damage, and heal for <color=white>{3}%</color> of damage dealt.
+Item/Skills/6012002/Name┃<color=yellow>Conclusion: Double Tap</color>
+Item/Skills/6012002/Body┃Basic Attacks using the last bullet of your ammo deals <color=#DDA0DD>{2}</color> <color=#688A08>(+{5}% of enemy's max HP)</color> extra skill damage. Damage is increased by <color=#DDA0DD>Skill Amplification</color> and <color=green>Character Level</color>.
+Item/Skills/6012002/Desc┃Basic Attacks using the last bullet of your ammo deal <color=green>Character Level * {5}</color> <color=#DDA0DD>(+{1} Skill Amplification)</color><color=#688A08>(+{6}% of enemy's max HP)</color> as extra skill damage.
+Item/Skills/6013000┃Burden
+Item/Skills/6013001/Name┃<color=yellow>Burden: Magnetic Midnight</color>
+Item/Skills/6013001/Body┃Your next basic attack deals <color=white>{0}</color> additional skill damage and slows your target by {2}% for {1} seconds. (Cooldown: {9}s)
+Item/Skills/6013001/Desc┃Your next basic attack deals <color=white>{0}</color> additional skill damage and slows your target by {2}% for {1} seconds. (Cooldown: {6}s)
+Item/Skills/6013002/Name┃<color=yellow>Burden: Lead Shell</color>
+Item/Skills/6013002/Body┃Your next basic attack deals <color=white>{0}</color> additional skill damage and slows your target by {2}% for {4} seconds. (Cooldown: {9}s)
+Item/Skills/6013002/Desc┃Your next basic attack deals <color=white>{0}</color> additional skill damage and slows your target by {2}% for {4} seconds. (Cooldown: {6}s)
+Item/Skills/6013003/Name┃<color=yellow>Burden: Magnetic Midnight</color>
+Item/Skills/6013003/Body┃Your next basic attack deals <color=green>{8}</color><color=#DDA0DD>(+{6})</color> additional skill damage and slows your target by {2}% for {4} seconds. \n(Cooldown: {9}s)
+Item/Skills/6013003/Desc┃Your next basic attack deals <color=green>Character Level * {8}</color><color=#DDA0DD>(+{7} Skill Amp)</color> additional skill damage and slows your target by {2}% for {4} seconds. \n(Cooldown: {6}s)
+Item/Skills/6013006/Body┃Your next basic attack deals <color=green>{8}</color> additional skill damage and slows your target by {2}% for {4} seconds. \n(Cooldown: {9}s)
+Item/Skills/6013006/Desc┃Your next basic attack deals <color=green>Character Level * {8}</color> additional skill damage and slows your target by {2}% for {4} seconds. \n(Cooldown: {6}s)
+Item/Skills/6013004/Name┃<color=yellow>Burden: Magnetic Midnight</color>
+Item/Skills/6013004/Body┃Your next basic attack slows movement speed by {2}% for {1} seconds. (Cooldown: {9}s)
+Item/Skills/6013004/Desc┃Your next basic attack slows movement speed by {2}% for {1} seconds. (Cooldown: {6}s)
+Item/Skills/6013005/Name┃<color=yellow>Burden: Magnetic Midnight</color>
+Item/Skills/6013006/Name┃<color=yellow>Burden: Magnetic Midnight</color>
+Item/Skills/6013007/Name┃<color=yellow>Burden: Magnetic Midnight</color>
+Item/Skills/6013008/Name┃<color=yellow>Burden: Magnetic Midnight</color>
+Item/Skills/6014000┃Primordial Hex
+Item/Skills/6014001/Name┃<color=yellow>Primordial Hex</color>
+Item/Skills/6014001/Body┃Hitting an enemy with a skill hexes them for {2}s, dealing <color=#DDA0DD>{1}</color> true damage when the hex expires. Targets cannot be hexed again for {4} seconds. (Basic attacks reduce this cooldown by 1s)\n(Cooldown: 2 seconds)
+Item/Skills/6014001/Desc┃Hitting an enemy with a skill hexes them for {3}s, dealing {0} + <color=#DDA0DD>{1} Skill Amplification</color> true damage when the hex expires. Targets cannot be hexed again for {5} seconds. (Basic attacks reduce this cooldown by 1s)\n(Cooldown: 2 seconds)
+Item/Skills/6014002/Name┃<color=yellow>Primordial Hex</color>
+Item/Skills/6014002/Body┃Hitting an enemy with a skill hexes them for {2}s, dealing <color=#DDA0DD>{1}</color> true damage when the hex expires. Targets cannot be hexed again for {4} seconds. (Basic attacks reduce this cooldown by 1s)\n(Cooldown: 2 seconds)
+Item/Skills/6014002/Desc┃Hitting an enemy with a skill hexes them for {3}s, dealing {0} + <color=#DDA0DD>{1} Skill Amplification</color> true damage when the hex expires. Targets cannot be hexed again for {5} seconds. (Basic attacks reduce this cooldown by 1s)\n(Cooldown: 2 seconds)
+Item/Skills/6014003/Name┃<color=yellow>Primordial Hex</color>
+Item/Skills/6014003/Body┃Hitting an enemy with a skill hexes them for {2}s, dealing <color=#DDA0DD>{1}</color> true damage when the hex expires. Targets cannot be hexed again for {4} seconds. (Basic attacks reduce this cooldown by 1s)\n(Cooldown: 2 seconds)
+Item/Skills/6014003/Desc┃Hitting an enemy with a skill hexes them for {3}s, dealing {0} + <color=#DDA0DD>{1} Skill Amplification</color> true damage when the hex expires. Targets cannot be hexed again for {5} seconds. (Basic attacks reduce this cooldown by 1s)\n(Cooldown: 2 seconds)
+Item/Skills/6014004/Name┃<color=yellow>Primordial Hex</color>
+Item/Skills/6014004/Body┃Hitting an enemy with a skill hexes them for {2}s, dealing <color=#DDA0DD>{1}</color> true damage when the hex expires. Targets cannot be hexed again for {4} seconds. (Basic attacks reduce this cooldown by 1s)\n(Cooldown: 2 seconds)
+Item/Skills/6014004/Desc┃Hitting an enemy with a skill hexes them for {3}s, dealing {0} + <color=#DDA0DD>{1} Skill Amplification</color> true damage when the hex expires. Targets cannot be hexed again for {5} seconds. (Basic attacks reduce this cooldown by 1s)\n(Cooldown: 2 seconds)
+Item/Skills/6014005/Name┃<color=yellow>Primordial Hex</color>
+Item/Skills/6014005/Body┃Hitting an enemy with a skill hexes them for {2}s, dealing <color=#DDA0DD>{1}</color> true damage when the hex expires. Targets cannot be hexed again for {4} seconds. (Basic attacks reduce this cooldown by 1s)\n(Cooldown: 2 seconds)
+Item/Skills/6014005/Desc┃Hitting an enemy with a skill hexes them for {3}s, dealing {0} + <color=#DDA0DD>{1} Skill Amplification</color> true damage when the hex expires. Targets cannot be hexed again for {5} seconds. (Basic attacks reduce this cooldown by 1s)\n(Cooldown : 2 seconds)
+Item/Skills/6014006/Name┃<color=yellow>Primordial Hex</color>
+Item/Skills/6014006/Body┃Hitting an enemy with a skill hexes them for {2}s, dealing <color=#DDA0DD>{1}</color> true damage when the hex expires. Targets cannot be hexed again for {4} seconds. (Basic attacks reduce this cooldown by 1s)\n(Cooldown: 2 seconds)
+Item/Skills/6014006/Desc┃Hitting an enemy with a skill hexes them for {3}s, dealing {0} + <color=#DDA0DD>{1} Skill Amplification</color> true damage when the hex expires. Targets cannot be hexed again for {5} seconds. (Basic attacks reduce this cooldown by 1s)\n(Cooldown: 2 seconds)
+Item/Skills/6014007/Name┃<color=yellow>Primordial Hex</color>
+Item/Skills/6014007/Body┃Hitting an enemy with a skill hexes them for {2}s, dealing <color=#DDA0DD>{1}</color> true damage when the hex expires. Targets cannot be hexed again for {4} seconds. (Basic attacks reduce this cooldown by 1s)\n(Cooldown: 2 seconds)
+Item/Skills/6014007/Desc┃Hitting an enemy with a skill hexes them for {3}s, dealing {0} + <color=#DDA0DD>{1} Skill Amplification</color> true damage when the hex expires. Targets cannot be hexed again for {5} seconds. (Basic attacks reduce this cooldown by 1s)\n(Cooldown: 2 seconds)
+Item/Skills/6015000┃Streamlined
+Item/Skills/6015001/Name┃<color=yellow>Streamlined: Rudra Embodied</color>
+Item/Skills/6015001/Body┃Hitting a single enemy with a basic attack or skill {1} times within {0} seconds increases your movement speed by {11}% and attack power by {13}% for {3} seconds.\nExcludes multiple hit effects.\n(Cooldown: {2} seconds)
+Item/Skills/6015001/Desc┃Hitting a single enemy with a basic attack or skill {1} times within {0} seconds increases your movement speed by {4}% and attack power by {11}% for {3} seconds.\nExcludes multiple hit effects.\n(Cooldown: {2} seconds)\n
+Item/Skills/6015002/Name┃<color=yellow>Streamlined: Zephyr</color>
+Item/Skills/6015002/Body┃Hitting a single enemy with a basic attack or skill {1} times within {0} seconds grants you a shield of {10} and increases your movement speed by {11}% and attack speed by {14}% for {3} seconds.\nExcludes multiple hit effects.\n(Cooldown: {2} seconds)\n
+Item/Skills/6015002/Desc┃Hitting a single enemy with a basic attack or skill {1} times within {0} seconds grants you a shield of {10} and increases your movement speed by {4}% and attack speed by {12}% for {3} seconds.\nExcludes multiple hit effects.\n(Cooldown: {2} seconds)
+Item/Skills/6015003/Name┃<color=yellow>Streamlined: Charge Carrier</color>
+Item/Skills/6015003/Body┃Hitting a single enemy with a basic attack or skill {1} times within {0} seconds grants you a shield of {10} and increases your movement speed by <color=green>{5}%</color> for {3} seconds.\nExcludes multiple hit effects.\n(Cooldown: {2} seconds)
+Item/Skills/6015003/Desc┃Hitting a single enemy with a basic attack or skill {1} times within {0} seconds grants you a shield of {10} and increases your movement speed by <color=green>Character Level * 1</color> for {3} seconds.\nExcludes multiple hit effects.\n(Cooldown: {2} seconds)
+Item/Skills/6015004/Name┃<color=yellow>Streamlined: Rudra Embodied</color>
+Item/Skills/6015004/Body┃Hitting a single enemy with a basic attack or skill {1} times within {0} seconds increases your movement speed by {11}% and attack power by {13}% for {3} seconds.\nExcludes multiple hit effects.\n(Cooldown: {2} seconds)
+Item/Skills/6015004/Desc┃Hitting a single enemy with a basic attack or skill {1} times within {0} seconds increases your movement speed by {4}% and attack power by {11}% for {3} seconds.\nExcludes multiple hit effects.\n(Cooldown: {2} seconds)\n
+Item/Skills/6015005/Name┃<color=yellow>Streamlined: Charge Carrier</color>
+Item/Skills/6015005/Body┃Hitting a single enemy with a basic attack or skill {1} times within {0} seconds grants you a shield of {10} and increases your movement speed by <color=green>{5}%</color> for {3} seconds.\nExcludes multiple hit effects.\n(Cooldown: {2} seconds)
+Item/Skills/6015005/Desc┃Hitting a single enemy with a basic attack or skill {1} times within {0} seconds grants you a shield of {10} and increases your movement speed by <color=green>Character Level * 1</color> for {3} seconds.\nExcludes multiple hit effects.\n(Cooldown: {2} seconds)
+Item/Skills/6015007/Name┃<color=yellow>Streamlined</color>
+Item/Skills/6015008/Name┃<color=yellow>Streamlined</color>
+Item/Skills/6015007/Body┃Hitting a single enemy with a basic attack or skill {1} times within {0} seconds increases your movement speed by {4}% for {3} seconds.\n(Cooldown: {2} seconds)
+Item/Skills/6015007/Desc┃Hitting a single enemy with a basic attack or skill {1} times within {0} seconds increases your movement speed by {4}% for {3} seconds.\n(Cooldown: {2} seconds)
+Item/Skills/6016000┃Second Wind
+Item/Skills/6016001/Name┃<color=yellow>Second Wind: Blood Pact</color>
+Item/Skills/6016001/Body┃If HP drops below {0}% and you take damage from an enemy, you gain a <color=white>{11}</color> HP shield, 50% Tenacity for {1} seconds, {15} increases by {16} for {5} seconds, and HP Recovery on you is {9}% more effective for {5} seconds. (Cooldown: {13}s)
+Item/Skills/6016001/Desc┃If HP drops below {0}% and you take damage from an enemy, you gain a {2} <color=#008000>(+Character Level * {3})</color> HP shield and 50% Tenacity for {1} seconds. Additionally, either <color=#FFD775>Attack Power is increased by {13}</color> OR <color=#DDA0DD>Skill Amp is increased by {14}</color> for {5} seconds. HP Recovery on you is also {9}% more effective for {5} seconds. (Cooldown: {11}s)
+Item/Skills/6016002/Name┃<color=yellow>Second Wind: Panic Button</color>
+Item/Skills/6016002/Body┃If HP drops below {0}% and you take damage from an enemy, you gain a <color=white>{11}</color> HP shield for {1} seconds, {15} increases by {16} for {5} seconds, and HP Recovery on you is {12}% more effective for {5} seconds. (Cooldown: {13}s)
+Item/Skills/6016002/Desc┃If HP drops below {0}% and you take damage from an enemy, you gain a {2} <color=#008000>(+Character Level * {3})</color> HP shield for {1} seconds. Additionally, either <color=#FFD775>Attack Power is increased by {13}</color> OR <color=#DDA0DD>Skill Amp is increased by {14}</color> for {5} seconds. HP Recovery on you is also (Melee: {9}% ｜ Ranged: {10}%) more effective for {5} seconds. (Cooldown: {11}s)
+Item/Skills/6016004/Name┃<color=yellow>Second Wind: Quick Guard</color>
+Item/Skills/6016004/Body┃When taking damage from an enemy player, you gain a <color=white>{11}</color> HP shield for {1} seconds. (Cooldown: {13}s)
+Item/Skills/6016004/Desc┃When taking damage from an enemy player, you gain a {2} <color=#008000>(+Character Level * {3})</color> HP shield for {1} seconds. (Cooldown: {11}s)
+Item/Skills/6016006/Name┃<color=yellow>Second Wind: Panic Button</color>
+Item/Skills/6016006/Body┃If HP drops below {0}% and you take damage from an enemy, you gain a {2} <color=white>(+Character Level * {3})</color> HP shield for {1} seconds. (Cooldown: {13}s)
+Item/Skills/6016006/Desc┃If HP drops below {0}% and you take damage from an enemy, you gain a {2} <color=#008000>(+Character Level * {3})</color> HP shield for {1} seconds. (Cooldown: {11}s)
+Item/Skills/6017000┃Vigor
+Item/Skills/6017001/Name┃<color=yellow>Vigor</color>
+Item/Skills/6017001/Body┃Hitting a test subject with a basic attack deals skill damage equal to <color=#688A08>{0}% of the target’s current HP</color> and stacks Vigor for {8} seconds. Your Attack Speed increases by {3}% per stack. At {9} stacks, you gain extra {5} Attack Power.
+Item/Skills/6017001/Desc┃Hitting a test subject with a basic attack deals skill damage equal to <color=#688A08>{0}% of the target’s current HP</color> and stacks Vigor for {8} seconds. Your Attack Speed increases by {3}% per stack. At {9} stacks, you gain extra {5} Attack Power.
+Item/Skills/6017002/Name┃<color=yellow>Vigor</color>
+Item/Skills/6017010/Name┃<color=yellow>Vigor</color>
+Item/Skills/6017031/Name┃<color=yellow>Vigor</color>
+Item/Skills/6017002/Body┃Hitting a test subject with a basic attack deals skill damage equal to <color=#688A08>{1}% of the target’s current HP</color> and stacks Vigor for {8} seconds. Your Attack Speed increases by {3}% per stack. At {9} stacks, you gain an extra {5} Attack Power and {6} Movement speed.
+Item/Skills/6017002/Desc┃Hitting a test subject with a basic attack deals skill damage equal to <color=#688A08>{1}% of the target’s current HP</color> and stacks Vigor for {8} seconds. Your Attack Speed increases by {3}% per stack. At {9} stacks, you gain an extra {5} Attack Power and {6} Movement speed.
+Item/Skills/6017003/Name┃<color=yellow>Vigor</color>
+Item/Skills/6017003/Body┃Hitting a test subject with a basic attack deals skill damage equal to <color=#688A08>{0}% of the target’s current HP</color> and stacks Vigor for {8} seconds. Your Attack Speed increases by {3}% per stack. At {9} stacks, you gain an extra {5} Attack Power and {6} Movement speed.
+Item/Skills/6017003/Desc┃Hitting a test subject with a basic attack deals skill damage equal to <color=#688A08>{0}% of the target’s current HP</color> and stacks Vigor for {8} seconds. Your Attack Speed increases by {3}% per stack. At {9} stacks, you gain an extra {5} Attack Power and {6} Movement speed.
+Item/Skills/6017004/Name┃<color=yellow>Vigor</color>
+Item/Skills/6017004/Body┃Hitting a test subject with a basic attack deals skill damage equal to <color=#688A08>{0}% of the target’s current HP</color> and stacks Vigor for {8} seconds. Your Attack Speed increases by {3}% per stack. At {9} stacks, you gain an extra {5} Attack Power and {6} Movement speed.
+Item/Skills/6017004/Desc┃Hitting a test subject with a basic attack deals skill damage equal to <color=#688A08>{0}% of the target’s current HP</color> and stacks Vigor for {8} seconds. Your Attack Speed increases by {3}% per stack. At {9} stacks, you gain an extra {5} Attack Power and {6} Movement speed.
+Item/Skills/6017005/Name┃<color=yellow>Vigor</color>
+Item/Skills/6017006/Name┃<color=yellow>Vigor - Circulation</color>
+Item/Skills/6017005/Body┃When hitting a test subject with a basic attack, deal <color=#DDA0DD>{11}</color> skill damage, and gain Vigor stacks that give {3}% Attack Speed for {8} seconds.
+Item/Skills/6017005/Desc┃When hitting a test subject with a basic attack, deal (<color=#DDA0DD>Melee: {10} (+{11} Skill Amp</color>) ｜<color=#DDA0DD> Ranged: {10} (+{12} Skill Amp</color>) skill damage, and gain Vigor stacks that give {3}% Attack Speed for {8} seconds.
+Item/Skills/6017007/Name┃<color=yellow>Vigor - Circulation</color>
+Item/Skills/6017008/Name┃<color=yellow>Vigor</color>
+Item/Skills/6017008/Body┃Hitting a test subject with a basic attack deals skill damage equal to <color=#688A08>{1}% of the target’s current HP</color> and stacks Vigor for {8} seconds. Your Attack Speed increases by {3}% per stack. At {9} stacks, you gain an extra {5} Attack Power.
+Item/Skills/6017008/Desc┃Hitting a test subject with a basic attack deals skill damage equal to <color=#688A08>{1}% of the target’s current HP</color> and stacks Vigor for {8} seconds. Your Attack Speed increases by {3}% per stack. At {9} stacks, you gain an extra {5} Attack Power.
+Item/Skills/6017009/Name┃<color=yellow>Vigor</color>
+Item/Skills/6017010/Name┃<color=yellow>Vigor</color>
+Item/Skills/6017021/Name┃<color=yellow>Vigor</color>
+Item/Skills/6017022/Name┃<color=yellow>Vigor</color>
+Item/Skills/6017023/Name┃<color=yellow>Vigor</color>
+Item/Skills/6017024/Name┃<color=yellow>Vigor</color>
+Item/Skills/6017025/Name┃<color=yellow>Vigor</color>
+Item/Skills/6018000┃Temporal Refraction
+Item/Skills/6018001/Name┃<color=yellow>Temporal Refraction</color>
+Item/Skills/6018001/Body┃Create a temporal anomaly, negating damage and effects of the next hostile skill or trap. The anomaly then disappears, returning after {0} seconds.
+Item/Skills/6018001/Desc┃Create a temporal anomaly, negating damage and effects of the next hostile skill or trap. The anomaly then disappears, returning after {0} seconds.
+Item/Skills/6018002/Name┃<color=yellow>Temporal Refraction</color>
+Item/Skills/6018002/Body┃Create a temporal anomaly, negating damage and effects of the enemy's next hostile skill or trap. The anomaly then disappears, returning after {0} seconds.
+Item/Skills/6018002/Desc┃Create a temporal anomaly, negating damage and effects of the enemy's next hostile skill or trap. The anomaly then disappears, returning after {0} seconds.
+Item/Skills/6018003/Name┃<color=yellow>Temporal Refraction</color>
+Item/Skills/6018003/Body┃Create a temporal anomaly, negating damage and effects of the next hostile skill or trap. The anomaly then disappears, returning after {0} seconds.
+Item/Skills/6018003/Desc┃Create a temporal anomaly, negating damage and effects of the next hostile skill or trap. The anomaly then disappears, returning after {0} seconds.
+Item/Skills/6019000┃Lich's Grasp
+Item/Skills/6019001/Name┃<color=yellow>Lich's Grasp</color>
+Item/Skills/6019001/Body┃Dealing damage to an enemy with a skill slows them by {1}%, and reduces their Attack Speed by {3}% for {4} seconds.\n(Cooldown: {5} seconds)
+Item/Skills/6019001/Desc┃Dealing damage to an enemy with a skill slows them by {1}%, and reduces their Attack Speed by {3}% for {4} seconds.\n(Cooldown: {5} seconds)
+Item/Skills/6019002/Name┃<color=yellow>Lich's Grasp</color>
+Item/Skills/6019002/Body┃Dealing damage to an enemy with a skill slows them by {1}% for {4} seconds.\n(Cooldown: {5} seconds)
+Item/Skills/6019002/Desc┃Dealing damage to an enemy with a skill slows them by {1}% for {4} seconds.\n(Cooldown: {5} seconds)
+Item/Skills/6019003/Name┃<color=yellow>Lich's Grasp</color>
+Item/Skills/6019003/Body┃Dealing damage to an enemy with a skill slows them by {1}% for {4} seconds.\n(Cooldown: {5} seconds)
+Item/Skills/6019003/Desc┃Dealing damage to an enemy with a skill slows them by {1}% for {4} seconds.\n(Cooldown: {5} seconds)
+Item/Skills/6019004/Name┃<color=yellow>Lich's Grasp</color>
+Item/Skills/6019004/Body┃Dealing damage to an enemy with a skill slows them by {1}%, and reduces their Attack Speed by {3}% for {4} seconds.\n(Cooldown: {5} seconds)
+Item/Skills/6019004/Desc┃Dealing damage to an enemy with a skill slows them by {1}%, and reduces their Attack Speed by {3}% for {4} seconds.\n(Cooldown: {5} seconds)
+Item/Skills/6019005/Name┃<color=yellow>Lich's Grasp</color>
+Item/Skills/6019005/Body┃Dealing damage to an enemy reduces their Attack Speed by {3}% for {4} seconds.\n(Cooldown: {5} seconds)
+Item/Skills/6019005/Desc┃Dealing damage to an enemy reduces their Attack Speed by {3}% for {4} seconds.\n(Cooldown: {5} seconds)
+Item/Skills/6019006/Name┃<color=yellow>Lich's Grasp</color>
+Item/Skills/6019006/Body┃Dealing damage to an enemy with a skill slows them by {1}% for {4} seconds.\n(Cooldown: {5} seconds)
+Item/Skills/6019006/Desc┃Dealing damage to an enemy with a skill slows them by {1}% for {4} seconds.\n(Cooldown: {5} seconds)
+Item/Skills/6020000┃Tranquility
+Item/Skills/6020001/Name┃<color=yellow>Tranquility</color>
+Item/Skills/6020001/Body┃Not taking damage for {0} seconds grants a <color=white>{1}</color> shield per <color=white>{1}</color> second. Max Shield: {2}
+Item/Skills/6020001/Desc┃Not taking damage for {0} seconds grants a (Melee: {1}<color=#008000>(+Character Level * {3})</color>｜Ranged: {2}<color=#008000>(+Character Level * {4})</color>) shield per second. Max Shield: (Melee: {5}<color=#008000>(+Character Level * {7})</color><color=#DDA0DD>(+{13}% Skill Amp)</color>｜Ranged: {6}+<color=#008000>(Character Level * {8})</color><color=#DDA0DD>(+{14}% Skill Amp)</color>)
+Item/Skills/6020002/Name┃<color=yellow>Tranquility</color>
+Item/Skills/6020002/Body┃Not taking damage for {0} seconds grants a {1} shield per second. Max Shield: {2}
+Item/Skills/6020002/Desc┃Not taking damage for {0} seconds grants a (Melee: {1}<color=#008000>(+Character Level * {3})</color>｜Ranged: {2}<color=#008000>(+Character Level * {4})</color>) shield per second. Max Shield: (Melee: {5}<color=#008000>(+Character Level * {7})</color><color=#DDA0DD>(+{13}% Skill Amp)</color>｜Ranged: {6}+<color=#008000>(Character Level * {8})</color><color=#DDA0DD>(+{14}% Skill Amp)</color>)
+Item/Skills/6020003/Name┃<color=yellow>Tranquility</color>
+Item/Skills/6020003/Body┃Not taking damage for {0} seconds grants a {1} shield per {1} second. Max Shield: {2}
+Item/Skills/6020003/Desc┃Not taking damage for {0} seconds grants a (Melee: {1}<color=#008000>(+Character Level * {3})</color>｜Ranged: {2}<color=#008000>(+Character Level * {4})</color>) shield per second. Max Shield: (Melee: {5}<color=#008000>(+Character Level * {7})</color><color=#DDA0DD>(+{13}% Skill Amp)</color>｜Ranged: {6}+<color=#008000>(Character Level * {8})</color><color=#DDA0DD>(+{14}% Skill Amp)</color>)
+Item/Skills/6023001┃Smooth Walker
+Item/Skills/6023001/Name┃<color=yellow>Smooth Walker</color>
+Item/Skills/6023001/Body┃Grants up to {3} Smooth Walker stacks every {0} seconds.\nCasting a movement skill consumes a stack and gives the caster the Smooth Walker buff.\nSmooth Walker Mode increases the base range of your next basic attack by {2}m.
+Item/Skills/6023001/Desc┃Grants up to {3} Smooth Walker stacks every {0} seconds.\nCasting a movement skill consumes a stack and gives the caster the Smooth Walker buff.\nSmooth Walker Mode increases the base range of your next basic attack by {2}m.
+Item/Skills/6023002/Name┃<color=yellow>Smooth Walker</color>
+Item/Skills/6024001┃Electric Shock
+Item/Skills/6024001/Name┃<color=yellow>Electric Shock</color>
+Item/Skills/6024001/Body┃Charges Electric Shock for {7} seconds per basic attack. (Maximum {0} times)\nBasic attacks with maximum stacks or towards a shielded enemy deal <color=#688A08>{1} Enemy's Max HP</color> <color=green>(+{6})</color> additional skill damage and remove all your Electric Shock charges.
+Item/Skills/6024001/Desc┃Charges Electric Shock for {11} seconds per basic attack. (Maximum {0} times)\nBasic attacks with maximum stacks or towards a shielded enemy deal additional skill damage and remove all your Electric Shock stacks.\n(Melee) Deal <color=#688A08>{1} Enemy's Max HP</color> + <color=green>{4} - {5}(Based on Character Level)</color> skill damage.｜(Ranged) Deal <color=#688A08>{6} Enemy's Max HP</color> + <color=green>{9} - {10}(Based on Character Level)</color> skill damage.
+Item/Skills/6024002/Name┃<color=yellow>Electric Shock</color>
+Item/Skills/6024002/Body┃Charges Electric Shock for {7} seconds per basic attack. (Maximum {0} times)\nBasic attacks with maximum stacks or towards a shielded enemy deal <color=#688A08>{1} Enemy's Max HP</color> <color=green>(+{6})</color> additional skill damage and remove all your Electric Shock charges.
+Item/Skills/6024002/Desc┃Charges Electric Shock for {11} seconds per basic attack. (Maximum {0} times)\nBasic attacks with maximum stacks or towards a shielded enemy deal additional skill damage and remove all your Electric Shock stacks.\n(Melee) Deal <color=#688A08>{1} Enemy's Max HP</color> + <color=green>{4} - {5}(Based on Character Level)</color> skill damage.｜(Ranged) Deal <color=#688A08>{6} Enemy's Max HP</color> + <color=green>{9} - {10}(Based on Character Level)</color> skill damage.
+Item/Skills/6024003/Name┃<color=yellow>Electric Shock</color>
+Item/Skills/6024003/Body┃Charges Electric Shock for {7} seconds per basic attack. (Maximum {0} times)\nBasic attacks with maximum stacks or towards a shielded enemy deal <color=#688A08>{1} Enemy's Max HP</color> <color=green>(+{6})</color> additional skill damage and remove all your Electric Shock charges.
+Item/Skills/6024003/Desc┃Charges Electric Shock for {11} seconds per basic attack. (Maximum {0} times)\nBasic attacks with maximum stacks or towards a shielded enemy deal additional skill damage and remove all your Electric Shock stacks.\n(Melee) Deal <color=#688A08>{1} Enemy's Max HP</color> + <color=green>{4} - {5}(Based on Character Level)</color> skill damage.｜(Ranged) Deal <color=#688A08>{6} Enemy's Max HP</color> + <color=green>{9} - {10}(Based on Character Level)</color> skill damage.
+Item/Skills/6025001┃Corrosive Compound
+Item/Skills/6025001/Name┃<color=yellow>Corrosive Compound</color>
+Item/Skills/6025001/Body┃Damaging enemies with skills applys Corrosive Compound for {0} seconds. Enemies affected lose ({1} + <color=#008000>{2}</color>) + {3}% of their shield) per second.
+Item/Skills/6025001/Desc┃Damaging enemies with skills applys Corrosive Compound for {0} seconds. Enemies affected lose ({1} + <color=#008000>Character Level * {3}</color> + {5}% of their shield) per second.
+Item/Skills/6025002/Name┃<color=yellow>Corrosive Compound</color>
+Item/Skills/6026001┃Petal Torrent
+Item/Skills/6026001/Name┃<color=yellow>In Full Bloom</color>
+Item/Skills/6026001/Body┃If you land four consecutive hits on an enemy test subject, deal an additional {0}<color=#008000>(+{1})</color> skill damage.\n(Cooldown {4} seconds)
+Item/Skills/6026001/Desc┃If you land four consecutive hits on an enemy test subject, deal an additional {0} <color=#008000>(+Character Level * {1})</color> skill damage.\n(Cooldown {4} seconds)
+Item/Skills/6034001┃Extended Fury
+Item/Skills/6034001/Name┃<color=yellow>Extended Fury</color>
+Item/Skills/6034001/Body┃Your next basic attack is enhanced every {0} seconds, increasing its range by {1}% up to {3}m, and dealing <color=#008000>{2}</color> additional skill damage. Hitting with a basic attack reduces 1 second of the skill cooldown.
+Item/Skills/6034001/Desc┃Your next basic attack is enhanced every {0} seconds, increasing its range by {1}% up to {3}m, and dealing <color=#008000>(Character Level * {2})</color> additional skill damage. Hitting with a basic attack reduces 1 second of the skill cooldown.
+Item/Skills/6500000┃Nullification
+Item/Skills/6500001┃Nullification
+Item/Skills/6500001/Name┃<color=yellow>Nullification</color>
+Item/Skills/6500002┃Nullification
+Item/Skills/6500002/Name┃<color=yellow>Nullification</color>
+Item/Skills/6500001/Body┃Activate to instantly cleanse debuffs or crowd control effects on you.\nThis excludes Airborne, Knockback, Grab, and Stasis.\nCooldown: {0} seconds.
+Item/Skills/6500001/Desc┃Activate to instantly cleanse debuffs or crowd control effects on you.\nThis excludes Airborne, Knockback, Grab, and Stasis.\nCooldown: {0} seconds.
+Item/Skills/6501000┃Sprint
+Item/Skills/6501001┃Sprint
+Item/Skills/6501001/Name┃<color=yellow>Sprint</color>
+Item/Skills/6501001/Body┃Activate to increase your movement speed by {1}(Melee)/{3}(Ranged) for {6} seconds and ignore unit collision.\nPerforming an action other than moving cancels this effect.\nCooldown: {0} seconds
+Item/Skills/6501001/Desc┃Activate to increase your movement speed by {1}(Melee)/{3}(Ranged) for {6} seconds and ignore unit collision.\nPerforming an action other than moving cancels this effect.\nCooldown: {0} seconds
+Item/Skills/6502000┃Respite
+Item/Skills/6502001┃Respite
+Item/Skills/6502001/Name┃<color=yellow>Respite</color>
+Item/Skills/6502002┃Respite
+Item/Skills/6502002/Name┃<color=yellow>Respite</color>
+Item/Skills/6502001/Body┃Activate to put the user in stasis for {1} second, making them invulnerable unable to perform any other actions as well.\nCooldown: {0} seconds
+Item/Skills/6502001/Desc┃Activate to put the user in stasis for {1} second, making them invulnerable unable to perform any other actions as well.\nCooldown: {0} seconds
+Item/Skills/6503000┃Blessing
+Item/Skills/6503001┃Blessing: Calm Mind
+Item/Skills/6503001/Name┃<color=yellow>Blessing: Calm Mind</color>
+Item/Skills/6503001/Body┃Activate to instantly heal <color=#688A08>{6}% of your max HP</color> and recover <color=#F78181>{11}%</color> of your missing HP & SP per second for {1} seconds.\nTaking damage will end the effect.\nCooldown: {0} seconds
+Item/Skills/6503001/Desc┃Activate to instantly heal <color=#688A08>{6}% of your max HP</color> and recover <color=#F78181>{11}%</color> of your missing HP & SP per second for {1} seconds.\nTaking damage will end the effect.\nCooldown: {0} seconds
+Item/Skills/6503002┃Blessing: Cosmic Efflux
+Item/Skills/6503002/Name┃<color=yellow>Blessing: Cosmic Efflux</color>
+Item/Skills/6503002/Body┃Activate to increase your Attack Power by {2}% and Defense by {3}% for {1} seconds.\nCooldown: {0} seconds
+Item/Skills/6503002/Desc┃Activate to increase your Attack Power by {2}% and Defense by {3}% for {1} seconds.\nCooldown: {0} seconds
+Item/Skills/6512000┃False Oath
+Item/Skills/6512001┃False Oath
+Item/Skills/6512001/Name┃<color=yellow>False Oath</color>
+Item/Skills/6512001/Body┃Consumes {0} HP, and you become pledged for 6s. You cannot die due to HP consumption when skill is activated.\n\nWhen pledged, your consumed HP slowly recovers, gaining {1}% Omnisyphon and {2} Attack Power. The lower your current HP and the higher your character's level, the more HP you cover. Remaining HP is immediately recovered upon killing an enemy test subject, and skill cooldown resets.\n\nCooldown: {3}s
+Item/Skills/6512001/Desc┃Consumes {0} HP, and you become pledged for 6s. You cannot die due to HP consumption when skill is activated.\n\nWhen pledged, your consumed HP slowly recovers, gaining {1}% Omnisyphon and {2} Attack Power. The lower your current HP and the higher your character's level, the more HP you cover. Remaining HP is immediately recovered upon killing an enemy test subject, and skill cooldown resets.\n\nCooldown: {3}s
+Item/Skills/6512002┃False Oath
+Item/Skills/6512002/Name┃<color=yellow>False Oath</color>
+Item/Skills/6512002/Body┃Consumes {0} HP, and you become pledged for 6s. You cannot die due to HP consumption when skill is activated.\n\nWhen pledged, your consumed HP slowly recovers, gaining {1}% Omnisyphon and {2} Attack Power. The lower your current HP and the higher your character's level, the more HP you cover. Remaining HP is immediately recovered upon killing an enemy test subject, and skill cooldown resets.\n\nCooldown: {3}s
+Item/Skills/6512002/Desc┃Consumes {0} HP, and you become pledged for 6s. You cannot die due to HP consumption when skill is activated.\n\nWhen pledged, your consumed HP slowly recovers, gaining {1}% Omnisyphon and {2} Attack Power. The lower your current HP and the higher your character's level, the more HP you cover. Remaining HP is immediately recovered upon killing an enemy test subject, and skill cooldown resets.\n\nCooldown: {3}s
+Item/Skills/6513000┃Blade of Truth
+Item/Skills/6513001┃Blade of Truth
+Item/Skills/6513001/Name┃<color=yellow>Blade of Truth</color>
+Item/Skills/6513001/Body┃Deals <color=white>{0}</color> to nearby enemies and steals (Melee: {2}%) (Ranged: {5}%) Movement Speed. Recovers {3}% of damage dealt to enemies.\n\nCooldown: {4}s
+Item/Skills/6513001/Desc┃Deals <color=white>{0}</color> + <color=#FFD775>{6}% Attack Power</color> + <color=#DDA0DD>{1}% Skill Amp</color> to nearby enemies and steals (Melee: {2}%) (Ranged: {5}%) Movement Speed. Recovers {3}% of damage dealt to enemies.\n\nCooldown: {4}s
+Item/Skills/6513002┃Blade of Truth
+Item/Skills/6513002/Name┃<color=yellow>Blade of Truth</color>
+Item/Skills/6513002/Body┃Deals <color=white>{0}</color> to nearby enemies and steals (Melee: {2}%) (Ranged: {5}%) Movement Speed. Recovers {3}% of damage dealt to enemies.\n\nCooldown: {4}s
+Item/Skills/6513002/Desc┃Deals <color=white>{0}</color> + <color=#FFD775>{6}% Attack Power</color> + <color=#DDA0DD>{1}% Skill Amp</color> to nearby enemies and steals (Melee: {2}%) (Ranged: {5}%) Movement Speed. Recovers {3}% of damage dealt to enemies.\n\nCooldown: {4}s
+Item/Skills/6514000┃E.M.O.T.E
+Item/Skills/6514001┃E.M.O.T.E
+Item/Skills/6514001/Name┃<color=yellow>E.M.O.T.E</color>
+Item/Skills/6514001/Body┃Summons an EMOTE robot that gives different effects to nearby test subjects depending on your current HP. EMOTE disappears after {0}s.\n\n(If your HP is more than half) Nearby enemies are slowed up to {2}%.\n(If your HP is less than half) Nearby allies HP is restored by {3}% every {6} seconds.\n\nCooldown: {4}s
+Item/Skills/6514001/Desc┃Summons an EMOTE robot that gives different effects to nearby test subjects depending on your current HP. EMOTE disappears after {0}s.\n\n(If your HP is more than half) Nearby enemies are slowed up to {2}%.\n(If your HP is less than half) Nearby allies HP is restored by {3}% every {6} seconds.\n\nCooldown: {4}s
+Item/Skills/6514002┃E.M.O.T.E
+Item/Skills/6514002/Name┃<color=yellow>E.M.O.T.E</color>
+Item/Skills/6514002/Body┃Summons an EMOTE robot that gives different effects to nearby test subjects depending on your current HP. EMOTE disappears after {0}s.\n\n(If your HP is more than half) Nearby enemies are slowed up to {2}%.\n(If your HP is less than half) Nearby allies HP is restored by {3}% every {6} seconds.\n\nCooldown: {4}s
+Item/Skills/6514002/Desc┃Summons an EMOTE robot that gives different effects to nearby test subjects depending on your current HP. EMOTE disappears after {0}s.\n\n(If your HP is more than half) Nearby enemies are slowed up to {2}%.\n(If your HP is less than half) Nearby allies HP is restored by {3}% every {6} seconds.\n\nCooldown: {4}s
+Item/Skills/6514100┃E.M.O.T.E is with you!
+Item/Skills/6514101┃E.M.O.T.E is with you!
+Item/Skills/6514101/Name┃<color=yellow>E.M.O.T.E is with you!</color>
+Item/Skills/6514101/Body┃E.M.O.T.E is with the test subject.
+Item/Skills/6514101/Desc┃E.M.O.T.E is with the test subject.
+Item/Skills/6027001┃Enlightenment - Vanguard
+Item/Skills/6027001/Name┃<color=yellow>Enlightenment - Vanguard </color>
+Item/Skills/6027001/Body┃Activates when you gain {0} or more Additional HP.\nIf you take {2} or more damage from your enemies within {1} seconds when activated, your damage taken is reduced by {8}% and the attack speed of enemies within {4}m is reduced by {5}% for {3} seconds. (Cooldown: {7}s)
+Item/Skills/6027001/Desc┃Activates when you gain {0} or more Additional HP.\nIf you take {2} or more damage from your enemies within {1} seconds when activated, your damage taken is reduced by {8}% and the attack speed of enemies within {4}m is reduced by {5}% for {3} seconds. (Cooldown: {7}s)
+Item/Skills/6027101┃Enlightenment - Vanguard
+Item/Skills/6027101/Name┃<color=yellow>Enlightenment - Vanguard</color>
+Item/Skills/6027101/Body┃Activates when you gain {0} or more Additional HP.\nIf you take {2} or more damage from your enemies within {1} seconds when activated, your damage taken is reduced by {8}% and the attack speed of enemies within {4}m is reduced by {5}% for {3} seconds. (Cooldown: {7}s)
+Item/Skills/6027101/Desc┃Activates when you gain {0} or more Additional HP.\nIf you take {2} or more damage from your enemies within {1} seconds when activated, your damage taken is reduced by {8}% and the attack speed of enemies within {4}m is reduced by {5}% for {3} seconds. (Cooldown: {7}s)
+Item/Skills/6022101┃Enlightenment - Verdict
+Item/Skills/6022101/Name┃<color=yellow>Enlightenment - Verdict</color>
+Item/Skills/6022101/Body┃Activates when Armor Penetration is {0} or higher. \nEnemy test subjects are instantly eliminated when they take damage and their HP drops below <color=#688A08>{2}%</color>. (Cooldown {1} seconds)
+Item/Skills/6022101/Desc┃Activates when Armor Penetration is {0} or higher. \nEnemy test subjects are instantly eliminated when they take damage and their HP drops below <color=#688A08>{2}%</color>. (Cooldown {1} seconds)
+Item/Skills/6030001┃Debilitation
+Item/Skills/6030001/Name┃<color=yellow>Debilitation</color>
+Item/Skills/6030001/Body┃Enemies hit by a skill are debilitated, taking <color=#688A08>{0} of the target's Max HP</color><color=#DDA0DD>(+{1})</color><color=#688A08>%</color> skill damage every second for {2} seconds. (Max Stacks: {3})
+Item/Skills/6030001/Desc┃Enemies hit by a skill are debilitated, taking <color=#688A08>{0} of the target's Max HP</color><color=#DDA0DD>(+{1}% Skill Amp)</color><color=#688A08>%</color> skill damage every second for {2} seconds. (Max Stacks: {3})
+Item/Skills/6030002┃Debilitation
+Item/Skills/6030002/Name┃<color=yellow>Debilitation</color>
+Item/Skills/6030002/Body┃Enemies hit by a skill are debilitated, taking <color=#688A08>{0} of the target's Max HP</color><color=#DDA0DD>(+{1})</color><color=#688A08>%</color> skill damage every second for {2} seconds. (Max Stacks: {3})
+Item/Skills/6030002/Desc┃Enemies hit by a skill are debilitated, taking <color=#688A08>{0} of the target's Max HP</color><color=#DDA0DD>(+{1}% Skill Amp)</color><color=#688A08>%</color> skill damage every second for {2} seconds. (Max Stacks: {3})
+Item/Skills/6028001┃Pulverization
+Item/Skills/6028001/Name┃<color=yellow>Pulverization</color>
+Item/Skills/6028001/Body┃Each individual attack on an enemy will cause a [Pulverization] effect that stacks up to {2} times for {0} seconds. The [Pulverization] effect reduces enemy's Defense by {1}%. Movement speed is also increased by {4} for {3} seconds when dealing damage to a target with [Pulverization].
+Item/Skills/6028001/Desc┃Each individual attack on an enemy will cause a [Pulverization] effect that stacks up to {2} times for {0} seconds. The [Pulverization] effect reduces enemy's Defense by {1}%. Movement speed is also increased by {4} for {3} seconds when dealing damage to a target with [Pulverization].
+Item/Skills/6008201┃Healing Reduction - Weak
+Item/Skills/6008201/Name┃<color=yellow>Healing Reduction - Weak</color>
+Item/Skills/6008201/Body┃Dealing damage to a target reduces their healing by {1}% for {0} seconds.
+Item/Skills/6008201/Desc┃Dealing damage to a target reduces their healing by {1}% for {0} seconds.
+Item/Skills/6008202┃Healing Reduction - Strong
+Item/Skills/6008202/Name┃<color=yellow>Healing Reduction - Strong</color>
+Item/Skills/6008202/Body┃Dealing damage to a target reduces their healing by {1}% for {0} seconds.
+Item/Skills/6008202/Desc┃Dealing damage to a target reduces their healing by {1}% for {0} seconds.
+Item/Skills/6033001┃Photon Launcher
+Item/Skills/6033001/Name┃<color=yellow>Photon Launcher</color>
+Item/Skills/6033001/Body┃Gain stacks whenever you hit an enemy with a basic attack. When you have {0} stacks, hitting an enemy with a basic attack consumes all stacks, dealing {1}<color=#FFD775>(+{2})</color><color=green>(+{3})</color> additional skill damage and recovering {4}% of the additional damage.
+Item/Skills/6033001/Desc┃Gain stacks whenever you hit an enemy with a basic attack. When you have {0} stacks, hitting an enemy with a basic attack consumes all stacks, dealing {1}<color=#FFD775>(+{2}% Attack Power)</color><color=green>(+Character Level*{3})</color> additional skill damage and recovering {4}% of the additional damage.
+Item/Skills/6033002/Name┃<color=yellow>Photon Launcher</color>
+Item/Skills/6033002/Body┃Gain stacks whenever you hit an enemy with a basic attack. When you have {0} stacks, hitting an enemy with a basic attack consumes all stacks, dealing <color=#DDA0DD>{5}</color> additional skill damage and recovering {4}% of the additional damage.
+Item/Skills/6033002/Desc┃Gain stacks whenever you hit an enemy with a basic attack. When you have {0} stacks, hitting an enemy with a basic attack consumes all stacks, dealing {1}<color=#DDA0DD>(+{5}% Skill Amp)</color> additional skill damage and recovering {4}% of the additional damage.
+Item/Skills/6033003/Name┃<color=yellow>Photon Launcher</color>
+Item/Skills/6033003/Body┃Every time you hit an enemy with a basic attack, you gain a stack. When you have {0} stacks and hit an opponent with a basic attack, you consume all stacks to deal <color=#DDA0DD>{5}</color> additional skill damage.
+Item/Skills/6033003/Desc┃Every time you hit an enemy with a basic attack, you gain a stack. When you have {0} stacks and hit an opponent with a basic attack, you consume all stacks to deal {1}<color=#DDA0DD>(+{5}% Skill Amp)</color> additional skill damage.
+Item/Skills/6033004/Name┃<color=yellow>Photon Launcher</color>
+Item/Skills/6033004/Body┃Every time you hit an enemy with a basic attack, you gain a stack. When you have {0} stacks and hit an opponent with a basic attack, you consume all stacks to deal {1}<color=#FFD775>(+{2})</color><color=green>(+{3})</color> additional skill damage.
+Item/Skills/6033004/Desc┃Every time you hit an enemy with a basic attack, you gain a stack. When you have {0} stacks and hit an opponent with a basic attack, you consume all stacks to deal {1}<color=#FFD775>(+{2}% Attack Power)</color><color=green>(+Character Level*{3})</color> additional skill damage.
+Item/Skills/6032001┃Empowerment
+Item/Skills/6032001/Name┃<color=yellow>Empowerment</color>
+Item/Skills/6032001/Body┃When you heal or shield an ally with a skill, their Adaptability increases by <color=green>{1}</color> and their attack speed by {2}% for {0} seconds.
+Item/Skills/6032001/Desc┃When you heal or shield an ally with a skill, their Adaptability increases by {1}<color=green>(+Character Level*{2})</color> and their attack speed by {3}% for {0} seconds.
+Item/Skills/6035001┃Quickstep
+Item/Skills/6035001/Name┃<color=yellow>Quickstep</color>
+Item/Skills/6035001/Body┃Gain a stack that increases your movement speed by {1}% for {0} seconds every time you deal individual damage to a test subject. (Max Stacks: {2})
+Item/Skills/6035001/Desc┃Gain a stack that increases your movement speed by {1}% for {0} seconds every time you deal individual damage to a test subject. (Max Stacks: {2})
+Item/Skills/6036001┃Whirlwind
+Item/Skills/6036001/Name┃<color=yellow>Whirlwind</color>
+Item/Skills/6036001/Body┃Hitting an enemy 3 times within {0} seconds releases a whirlwind that deals <color=#DDA0DD>{2}</color><color=#688A08>(+{3}% of Target's Max HP)</color> skill damage every {6} second for {4} seconds. (Cooldown: {5}s)
+Item/Skills/6036001/Desc┃Hitting an enemy 3 times within {0} seconds releases a whirlwind that deals {2}<color=#DDA0DD>(+{3}% of Skill Amplification)</color><color=#688A08>(+{5}% of Target's Max HP)</color> skill damage every {8} second for {6} seconds. (Cooldown: {7}s)
+Item/Skills/6037001┃Targeting Pod
+Item/Skills/6037001/Name┃<color=yellow>Targeting Pod</color>
+Item/Skills/6037001/Body┃Hitting an enemy test subject with a movement impairing effect leaves a mark that lasts for {0} seconds.\nWhen allies hit the marked target with a basic attack, \nthey deal <color=green>{1}</color> additional skill damage and are healed for <color=green>{2}</color>. (Cooldown: {3}s)
+Item/Skills/6037001/Desc┃Hitting an enemy test subject with a movement impairing effect leaves a mark that lasts for {0} seconds.\nWhen allies hit the marked target with a basic attack, \nthey deal {1}<color=green>(+Character Level*{2})</color> additional skill damage and are healed for {3}<color=green>(+Character Level*{4})</color>. (Cooldown: {5}s)
+Item/Skills/6038001┃Crushing Blow
+Item/Skills/6038001/Name┃<color=yellow>Crushing Blow</color>
+Item/Skills/6038001/Body┃During combat, an enhanced basic attack is charged every {0} seconds. The enhanced basic attack deals  <color=#688A08>{1}</color> additional skill damage and heals you for <color=#688A08>{2}</color>.
+Item/Skills/6038001/Desc┃During combat, an enhanced basic attack is charged every {0} seconds. The enhanced basic attack deals  {1}<color=#688A08>(+{2}% of Additional HP)</color><color=green>(+Character Level*{3})</color> additional skill damage and heals you for {4}<color=#688A08>(+{5}% of Additional HP)</color>.
+Item/Skills/6039001┃Brute Enforcer
+Item/Skills/6039001/Name┃<color=yellow>Brute Enforcer</color>
+Item/Skills/6039001/Body┃When your enemy's current HP is below <color=#688A08>{0}% of their max HP</color>, your skill damage dealt to that enemy <color=#ffd775>is increased by {1}%</color>.
+Item/Skills/6039001/Desc┃When your enemy's current HP is below <color=#688A08>{0}% of their max HP</color>, your skill damage dealt to that enemy <color=#ffd775>is increased by {1}%</color>.
+Item/Skills/6040001┃Taser Gun
+Item/Skills/6040001/Name┃<color=yellow>Taser Gun</color>
+Item/Skills/6040001/Body┃Your basic attacks are enhanced and deal <color=#DDA0DD>{2}</color> additional damage \nto enemy test subjects that stay within 8 meters for more than 3 seconds.\n\nHitting with an enhanced basic attack increases the skill damage dealt to the target by {4}% for {3} seconds. (Cooldown: {5}s)
+Item/Skills/6040001/Desc┃Your basic attacks are enhanced and deal {2}<color=#DDA0DD>(+{4}% Skill Amp)</color> additional damage to enemy test subjects that stay within 8 meters for more than 3 seconds.\n\nHitting with an enhanced basic attack increases the skill damage dealt to the target by {6}% for {5} seconds. (Cooldown: {7}s)
+Item/Skills/6041001┃Debilitating Fog
+Item/Skills/6041001/Name┃<color=yellow>Debilitating Fog</color>
+Item/Skills/6041001/Body┃Applying immobilizing effects to an enemy test subject creates a foggy area around them for {0} seconds, reducing their defense by {1}% and dealing <color=#688A08>{2}</color> skill damage every second. (Cooldown: {4}s)
+Item/Skills/6041001/Desc┃Applying immobilizing effects to an enemy test subject creates a foggy area around them for {0} seconds, reducing their defense by {1}% and dealing {2}<color=#688A08>(+{3}% of Additional HP)</color> skill damage every second. (Cooldown: {4}s)
+Item/Skills/6042001┃Echoing Strike
+Item/Skills/6042001/Name┃<color=yellow>Echoing Strike</color>
+Item/Skills/6042001/Body┃You fire additional projectiles, dealing <color=#FFD775>{1}</color> additional skill damage to targets hit with basic attacks. The projectiles bounce onto up to {0} test subjects nearby, dealing the same amount of skill damage. (Cooldown: {3}s)
+Item/Skills/6042001/Desc┃You fire additional projectiles, dealing <color=#FFD775>(+{2}% Attack Power)</color> additional skill damage to targets hit with basic attacks. The projectiles bounce onto up to {0} test subjects nearby, dealing the same amount of skill damage. (Cooldown: {3}s)
+Item/Skills/6044001┃Spirit Harvest
+Item/Skills/6044001/Name┃<color=yellow>Spirit Harvest</color>
+Item/Skills/6044001/Body┃Dealing skill damage to an enemy subject, deals <color=#DDA0DD>{0}</color> additional skill damage and leaves a mark on the enemy.\n\nEnemies that take skill damage again after 4 seconds from being marked, take <color=#DDA0DD>{2}</color> additional skill damage. (Cooldown: {3}s)
+Item/Skills/6044001/Desc┃Dealing skill damage to an enemy subject, deals {0}<color=#DDA0DD>(+{1}% Skill Amp)</color> additional skill damage and leaves a mark on the enemy.\n\nEnemies that take skill damage again after 4 seconds from being marked, take {3}<color=#DDA0DD>(+{4}% Skill Amp)</color> additional skill damage. (Cooldown: {5}s)

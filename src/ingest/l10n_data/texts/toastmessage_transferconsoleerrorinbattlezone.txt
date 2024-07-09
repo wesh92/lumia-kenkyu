@@ -1,0 +1,1 @@
+ToastMessage/TransferConsoleErrorInBattlezone┃You cannot use a Kiosk while in the Battle Zone.

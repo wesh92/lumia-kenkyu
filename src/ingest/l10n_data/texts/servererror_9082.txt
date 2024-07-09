@@ -1,0 +1,1 @@
+ServerError/9082┃Character already owned.

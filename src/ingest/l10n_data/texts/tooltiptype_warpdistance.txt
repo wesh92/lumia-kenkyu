@@ -1,0 +1,1 @@
+ToolTipType/WarpDistance┃[Nina] Teleport Distance

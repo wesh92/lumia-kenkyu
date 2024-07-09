@@ -1,0 +1,3 @@
+DisintegrateMode/ToolTip/AddByFilter┃Add items to the list that meet the filter criteria.
+DisintegrateMode/ToolTip/ShowFilter┃Modify filters applied to batch additions.
+DisintegrateMode/ToolTip/RemoveAllSelection┃Reset the list.

@@ -1,0 +1,16 @@
+PurchaseWithdrawalType/LinkText/Asset7Days┃Read Refund Policy
+PurchaseWithdrawalType/LinkText/Asset7Days_KAKAO┃자세히 보기
+PurchaseWithdrawalType/LinkText/Acoin7Days┃Read Refund Policy
+PurchaseWithdrawalType/LinkText/Acoin7Days_KAKAO┃운영정책 바로가기
+PurchaseWithdrawalType/LinkText/Item7Days┃Read Refund Policy
+PurchaseWithdrawalType/LinkText/Item7Days_KAKAO┃Read Rules of Conduct
+PurchaseWithdrawalType/LinkText/BoxKey7Days┃Read Refund Policy
+PurchaseWithdrawalType/LinkText/BoxKey7Days_KAKAO┃Read Rules of Conduct
+PurchaseWithdrawalType/LinkText/Within7Days┃Read Refund Policy
+PurchaseWithdrawalType/LinkText/Within7Days_KAKAO┃Read Rules of Conduct
+PurchaseWithdrawalType/LinkText/TokenNoWithdrawal┃Read Refund Policy
+PurchaseWithdrawalType/LinkText/TokenNoWithdrawal_KAKAO┃Read Rules of Conduct
+PurchaseWithdrawalType/LinkText/PackageNoWithdrawal┃Read Refund Policy
+PurchaseWithdrawalType/LinkText/PackageNoWithdrawal_KAKAO┃Read Rules of Conduct
+PurchaseWithdrawalType/LinkText/ImmediateUseNoWithdrawal┃Read Refund Policy
+PurchaseWithdrawalType/LinkText/ImmediateUseNoWithdrawal_KAKAO┃Read Rules of Conduct

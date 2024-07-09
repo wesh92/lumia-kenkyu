@@ -1,0 +1,1 @@
+ToolTipType/AdditionalCriticalDamage┃Extra Critical Strike Damage

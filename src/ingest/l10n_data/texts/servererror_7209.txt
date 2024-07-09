@@ -1,0 +1,1 @@
+ServerError/7209┃This coupon cannot be used in the region where you're currently playing the game.

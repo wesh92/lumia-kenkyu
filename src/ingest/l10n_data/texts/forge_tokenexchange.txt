@@ -1,0 +1,6 @@
+Forge/TokenExchange/ResetTime/Week┃{0} Week(s)
+Forge/TokenExchange/ResetTime/Day┃{0} Day(s)
+Forge/TokenExchange/ResetTime/Hour┃{0} Hour(s)
+Forge/TokenExchange/ResetTime/Minute┃{0} Minute(s)
+Forge/TokenExchange/NotEnoughToken┃Not enough Tokens.
+Forge/TokenExchange/ExceedExchangeLimit┃Exchange Limit Exceeded

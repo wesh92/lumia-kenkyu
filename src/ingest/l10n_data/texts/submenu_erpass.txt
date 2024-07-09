@@ -1,0 +1,2 @@
+subMenu/ERPass/Reward┃ER Pass Reward
+subMenu/ERPass/Mission┃ER Pass Mission

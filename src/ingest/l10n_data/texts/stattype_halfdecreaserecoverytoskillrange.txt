@@ -1,0 +1,1 @@
+StatType/HalfDecreaseRecoveryToSkillRange┃Skill Healing Reduction (Ranged)

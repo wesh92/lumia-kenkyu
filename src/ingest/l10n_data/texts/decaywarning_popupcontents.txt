@@ -1,0 +1,1 @@
+DecayWarning/PopupContents┃You've used or almost used all your Grace Points.\nOnce demotion due to inactivity begins, your RP will decrease and you may be demoted a tier.

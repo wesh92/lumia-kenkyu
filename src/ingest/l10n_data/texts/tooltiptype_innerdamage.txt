@@ -1,0 +1,2 @@
+ToolTipType/InnerDamage┃Inner Range Damage
+ToolTipType/InnerDamage┃Damage at Inner Range

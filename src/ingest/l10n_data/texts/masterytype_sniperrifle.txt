@@ -1,0 +1,3 @@
+MasteryType/SniperRifle┃Sniper Rifle
+MasteryType/SniperRifle/Desc┃Sniper rifles have high Attack Power and the longest attack range. They cover more distance than range of vision, so be sure to carefully select a position and secure a good range of vision.
+MasteryType/SniperRifle/Stats┃Equipping Sniper Rifle increases {0} by {1}\n{2} by {3}\n{4} by {5}

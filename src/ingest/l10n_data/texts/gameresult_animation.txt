@@ -1,0 +1,6 @@
+GameResult/Animation/Cobalt/Win┃VICTORY
+GameResult/Animation/Cobalt/Lose┃DEFEAT
+GameResult/Animation/Lumia/Win┃LAST SURVIVOR
+GameResult/Animation/Lumia/Lose┃ELIMINATED
+GameResult/Animation/Lumia/EscapeSuccess┃ESCAPED
+GameResult/Animation/Lumia/EscapeFail┃ELIMINATED

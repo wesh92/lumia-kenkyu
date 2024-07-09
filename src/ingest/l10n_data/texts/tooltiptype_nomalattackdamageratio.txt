@@ -1,0 +1,1 @@
+ToolTipType/NomalAttackDamageRatio┃Basic Attack Damage Increase (%)

@@ -1,0 +1,1 @@
+ToolTipType/DamageAmpCoef┃Damage Skill Amplification

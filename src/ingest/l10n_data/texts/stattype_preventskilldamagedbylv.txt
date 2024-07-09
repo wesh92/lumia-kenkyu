@@ -1,0 +1,1 @@
+StatType/PreventSkillDamagedByLv┃Skill Damage Reduction per level

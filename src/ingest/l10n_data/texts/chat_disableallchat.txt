@@ -1,0 +1,2 @@
+Chat/DisableAllChat┃[All] chat has been muted.
+Chat/DisableAllChat┃All chat is muted.

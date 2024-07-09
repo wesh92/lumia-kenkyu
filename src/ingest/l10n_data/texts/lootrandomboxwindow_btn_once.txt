@@ -1,0 +1,1 @@
+LootRandomBoxWindow/Btn_Once┃Open 1 Box

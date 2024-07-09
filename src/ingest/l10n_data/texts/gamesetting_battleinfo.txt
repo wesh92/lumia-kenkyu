@@ -1,0 +1,1 @@
+GameSetting/BattleInfo┃Displays the weapon mastery of characters.

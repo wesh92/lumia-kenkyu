@@ -1,0 +1,1 @@
+ToolTipType/HealTick┃[Nina] Heal Ratio

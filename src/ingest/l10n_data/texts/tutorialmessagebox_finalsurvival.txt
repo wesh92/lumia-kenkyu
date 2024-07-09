@@ -1,0 +1,2 @@
+TutorialMessageBox/FinalSurvival/Step1/Title┃Survival
+TutorialMessageBox/FinalSurvival/Step1/Comment┃\n\nOkay. Now let's try to survive.\n\nThere can only be <color=orange>one survivor</color> among the 18 on Lumia Island. You already knew this though, right?

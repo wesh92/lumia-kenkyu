@@ -1,0 +1,3 @@
+Ping/Alpha/Wait┃{0}({1}) : <color=#C2FFA0>{2}</color> left until <color=red>Alpha</color> appears
+Ping/Alpha/Roam┃{0}({1}) : <color=red>Alpha</color> is now in <color=#C2FFA0>{2}</color>.
+Ping/Alpha/Dead┃{0}({1}): Alpha has been slain.

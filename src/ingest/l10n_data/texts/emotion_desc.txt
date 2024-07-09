@@ -1,0 +1,1 @@
+Emotion/Desc/Base┃Use emotes to communicate (or taunt) in-game.

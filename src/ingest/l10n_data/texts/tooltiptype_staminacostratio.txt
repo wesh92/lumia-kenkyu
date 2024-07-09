@@ -1,0 +1,1 @@
+ToolTipType/StaminaCostRatio┃Percentage of SP Consumption (%)

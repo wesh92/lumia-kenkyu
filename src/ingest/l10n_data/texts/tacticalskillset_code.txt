@@ -1,0 +1,47 @@
+TacticalSkillSet/Code/Name/500091┃<color=yellow>Meteor</color>
+TacticalSkillSet/Code/Name/500081┃Fantastical Punch
+TacticalSkillSet/Code/Name/4510001┃<color=yellow>Lightning Shield</color>
+TacticalSkillSet/Code/Name/4511002┃Blessing: Calm Mind
+TacticalSkillSet/Code/Name/500021┃Blessing: Calm Mind
+TacticalSkillSet/Code/Name/500021┃Gravitational Field
+TacticalSkillSet/Code/Name/500031┃Rolling Thunder
+TacticalSkillSet/Code/Name/500041┃Truth Explosion
+TacticalSkillSet/Code/Name/500081┃Impulse
+TacticalSkillSet/Code/Name/500061┃Prayer
+TacticalSkillSet/Code/Name/500071┃Fissure
+TacticalSkillSet/Code/Name/500121┃Blink
+TacticalSkillSet/Code/Name/500122┃Blink
+TacticalSkillSet/Code/Name/500123┃Blink
+TacticalSkillSet/Code/Name/500131┃Quake
+TacticalSkillSet/Code/Name/500132┃Quake
+TacticalSkillSet/Code/Name/500133┃Quake
+TacticalSkillSet/Code/Name/500141┃Protocol Violation
+TacticalSkillSet/Code/Name/500142┃Protocol Violation
+TacticalSkillSet/Code/Name/500143┃Protocol Violation
+TacticalSkillSet/Code/Name/500151┃Electric Shift
+TacticalSkillSet/Code/Name/500152┃Electric Shift
+TacticalSkillSet/Code/Name/500153┃Electric Shift
+TacticalSkillSet/Code/Name/500161┃Force Field
+TacticalSkillSet/Code/Name/500162┃Force Field
+TacticalSkillSet/Code/Name/500163┃Force Field
+TacticalSkillSet/Code/Name/500171┃Totem
+TacticalSkillSet/Code/Name/500172┃Totem
+TacticalSkillSet/Code/Name/500173┃Totem
+TacticalSkillSet/Code/Name/500181┃Nullification
+TacticalSkillSet/Code/Name/500182┃Nullification
+TacticalSkillSet/Code/Name/500183┃Nullification
+TacticalSkillSet/Code/Name/500191┃Soul Stealer
+TacticalSkillSet/Code/Name/500192┃Soul Stealer
+TacticalSkillSet/Code/Name/500193┃Soul Stealer
+TacticalSkillSet/Code/Name/500201┃The Strijder
+TacticalSkillSet/Code/Name/500202┃The Strijder
+TacticalSkillSet/Code/Name/500203┃The Strijder
+TacticalSkillSet/Code/Name/500211┃Blade of Truth
+TacticalSkillSet/Code/Name/500212┃Blade of Truth
+TacticalSkillSet/Code/Name/500213┃Blade of Truth
+TacticalSkillSet/Code/Name/500221┃False Oath
+TacticalSkillSet/Code/Name/500222┃False Oath
+TacticalSkillSet/Code/Name/500223┃False Oath
+TacticalSkillSet/Code/Name/500231┃Healing Wind
+TacticalSkillSet/Code/Name/500232┃Healing Wind
+TacticalSkillSet/Code/Name/500233┃Healing Wind

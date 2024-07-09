@@ -1,0 +1,1 @@
+StatType/SpRegenRatio┃SP Regen

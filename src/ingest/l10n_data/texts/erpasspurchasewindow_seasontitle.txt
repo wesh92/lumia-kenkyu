@@ -1,0 +1,4 @@
+ERPassPurchaseWindow/SeasonTitle/10┃Season: Vacance
+ERPassPurchaseWindow/SeasonTitle/11┃Season: Battle Maids
+ERPassPurchaseWindow/SeasonTitle/12┃Season: Change
+ERPassPurchaseWindow/SeasonTitle/13┃Season: Sunset

@@ -1,0 +1,1 @@
+StatType/UniqueMoveSpeed┃<color=#FFFF00>[Unique]</color> Movement Speed

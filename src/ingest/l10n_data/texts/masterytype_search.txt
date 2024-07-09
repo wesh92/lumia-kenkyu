@@ -1,0 +1,2 @@
+MasteryType/Search┃Search
+MasteryType/Search/Stats┃{0} {1} Increase

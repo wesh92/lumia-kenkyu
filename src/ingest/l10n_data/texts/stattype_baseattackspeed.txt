@@ -1,0 +1,1 @@
+StatType/BaseAttackSpeed┃Basic Attack Speed

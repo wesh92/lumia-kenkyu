@@ -1,0 +1,1 @@
+Shortcut/ToggleShowOverlay┃Toggle Information Overlay Lock

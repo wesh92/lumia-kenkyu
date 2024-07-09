@@ -1,0 +1,3 @@
+MasteryType/Camera┃Camera
+MasteryType/Camera/Desc┃Cameras are long-range weapons without any projectiles. They can also be used to blind enemies, which causing them to miss from the bright flash.
+MasteryType/Camera/Stats┃Equipping Camera increases {0} by {1}\n{2} by {3}\n{4} by {5}

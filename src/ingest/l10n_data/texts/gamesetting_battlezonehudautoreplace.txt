@@ -1,0 +1,1 @@
+GameSetting/BattleZoneHUDAutoReplace┃Automatically switches to Battle Zone HUD when you enter the Battle Zone location and Battle Zone.

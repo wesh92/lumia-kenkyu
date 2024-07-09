@@ -1,0 +1,2 @@
+ArmorType/Arm┃Arm/Accessory
+ArmorType/Arm/Desc┃Arm/Accessory Armor

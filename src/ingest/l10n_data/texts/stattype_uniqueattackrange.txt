@@ -1,0 +1,1 @@
+StatType/UniqueAttackRange┃<color=#FFFF00>[Unique]</color> Attack Range

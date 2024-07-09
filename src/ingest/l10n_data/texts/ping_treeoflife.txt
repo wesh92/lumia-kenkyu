@@ -1,0 +1,2 @@
+Ping/TreeOfLife/Wait┃{0}({1}) : <color=#C2FFA0>{2}</color> until <color=#D05EFF>Tree of Life</color> spawn. (<color=#C2FFA0>{3}</color>)
+Ping/TreeOfLife/None┃{0}({1}) : No more Tree of Life will spawn.

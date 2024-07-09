@@ -1,0 +1,12 @@
+Tutorial/나쟈/Dialogue/00┃You're new here, aren't you? Nice to meet you. What should we call you?
+Tutorial/나쟈/Dialogue/01┃Your basic training went alright?
+Tutorial/나쟈/Dialogue/02┃You can begin the experiment immediately.
+Tutorial/나쟈/Dialogue/03┃Press the Start button to begin.
+Tutorial/나쟈/Dialogue/04┃Or, you can continue your training.
+Tutorial/나쟈/Dialogue/05┃You need talent to make it this far, so I think you'll do well. \nEither way... Good luck.
+Tutorial/나쟈/Dialogue/10┃Congratulations on successfully completing your first training.
+Tutorial/나쟈/Dialogue/11┃My name is Nadja. I'm in charge of training the survivors and taking care of the test subjects.\nWhat's your name?
+Tutorial/나쟈/Dialogue/12┃{0}, huh? I have a nickname for you... But I'll hold back for now. I'll call you that when we're closer.
+Tutorial/나쟈/Dialogue/13┃Press Quick Start if you're ready to participate in the next experiment.
+Tutorial/나쟈/Dialogue/14┃If you're still not sure what's what, you may want to do more training.
+Tutorial/나쟈/Dialogue/15┃That's it for now.\nI'm sure you're tired of hearing me talk.\nHave fun, {0}! I'll be waiting for you at Research Center.

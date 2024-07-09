@@ -1,0 +1,23 @@
+WeaponType/Desc/Glove┃Glove is a melee weapon useful for quick, consecutive attacks.
+WeaponType/Desc/Tonfa┃Tonfa is a melee weapon with high viability.
+WeaponType/Desc/Bat┃Bat is a melee weapon that can handle enemies with ease.
+WeaponType/Desc/Whip┃Whip is a melee weapon specialized in controlling ranged battles.
+WeaponType/Desc/HighAngleFire┃Throw is a ranged weapon that is perfect for blocking vision during long-range battles.
+WeaponType/Desc/DirectFire┃Shuriken is a ranged weapon that deals heavy damage for both skills and basic attacks.
+WeaponType/Desc/Bow┃Bow is a ranged weapon that has the potential for high growth.
+WeaponType/Desc/CrossBow┃Crossbow is a ranged weapon that holds approaching enemies back and controls ranged fighting.
+WeaponType/Desc/Pistol┃Pistol is a ranged weapon that offers stylish/flashy combat through quick attack speed.
+WeaponType/Desc/AssaultRifle┃Assault Rifle is a ranged weapon that is proficient in continuous combat through fast attack speed.
+WeaponType/Desc/SniperRifle┃Sniper Rifle is a ranged weapon best used for long ranges and strong single-shot attacks.
+WeaponType/Desc/Hammer┃Hammer is a melee weapon that is slow to attack but offers powerful hits.
+WeaponType/Desc/Axe┃Axe is a melee weapon built to last in combat.
+WeaponType/Desc/OneHandSword┃Dagger is a melee weapon best for surprise attacks and instant, close-range battle.
+WeaponType/Desc/TwoHandSword┃Two-handed Sword is a melee weapon that is well-balanced in all stats.
+WeaponType/Desc/DualSword┃Duals Swords are melee weapons capable of stylish combat.
+WeaponType/Desc/Spear┃Spear is a melee weapon made for mid-range battle.
+WeaponType/Desc/Nunchaku┃Nunchaku is a melee weapon that is versatile in different kinds of battle.
+WeaponType/Desc/Rapier┃Rapier is a melee weapon that allows you to quickly rush your enemy.
+WeaponType/Desc/Guitar┃Guitar is a ranged weapon optimitzed to support your allies.
+WeaponType/Desc/Camera┃Camera is a ranged weapon that can block enemy vision range.
+WeaponType/Desc/Arcana┃Arcana is a ranged weapon that uses a combination of magic to fight.
+WeaponType/Desc/VFArm┃VF Prosthetics is a melee weapon that can be upgraded without combining different weapons.

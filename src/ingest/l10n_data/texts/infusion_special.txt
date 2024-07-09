@@ -1,0 +1,2 @@
+Infusion/Special/Title/9000001┃Suspicious Experiment
+Infusion/Special/Desc/9000001┃Get a random Infusion.

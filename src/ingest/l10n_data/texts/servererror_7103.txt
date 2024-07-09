@@ -1,0 +1,1 @@
+ServerError/7103┃You cannot add yourself as a friend!

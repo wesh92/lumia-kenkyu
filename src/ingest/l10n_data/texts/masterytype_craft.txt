@@ -1,0 +1,2 @@
+MasteryType/Craft┃Craft
+MasteryType/Craft/Stats┃{0} {1} Increase

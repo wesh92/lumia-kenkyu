@@ -1,0 +1,2 @@
+ArmorType/Head┃Head
+ArmorType/Head/Desc┃Head Armor

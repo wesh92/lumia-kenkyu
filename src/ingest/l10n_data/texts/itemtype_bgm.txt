@@ -1,0 +1,2 @@
+ItemType/BGM/Name┃BGM
+ItemType/BGM/Desc┃Options for Lobby background music.

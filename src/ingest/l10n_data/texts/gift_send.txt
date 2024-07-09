@@ -1,0 +1,8 @@
+Gift/Send/TargetBanned┃You cannot send a gift to a suspended account.
+Gift/Send/TargetNotFound┃Recipient not found!
+Gift/Send/TargetConditionDate┃You can only send gifts to accounts that are over a day old.
+Gift/Send/TargetConditionLevel┃You can only send gifts to accounts that are Level 5 or higher.
+Gift/Send/TargetNotFriend┃You can only send gifts to accounts on your friends list.
+Gift/Send/DailyLimit┃You have reached your daily gift limit.
+Gift/Send/Decline┃The selected friend is declining any gift.
+Gift/Send/ServiceUnavailable┃Gifting service is temporarily unavailable.

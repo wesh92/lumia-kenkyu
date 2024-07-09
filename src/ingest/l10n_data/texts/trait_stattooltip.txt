@@ -1,0 +1,135 @@
+Trait/StatTooltip/7900101┃Gain {0} Attack Power.
+Trait/StatTooltip/7900102┃Gain {0} Attack Power.
+Trait/StatTooltip/7900103┃Gain {0} Attack Power.
+Trait/StatTooltip/7900201┃Gain {0} Defense.
+Trait/StatTooltip/7900202┃Gain {0} Defense.
+Trait/StatTooltip/7900203┃Gain {0} Defense.
+Trait/StatTooltip/7900301┃Increases Attack Speed by {0}%.
+Trait/StatTooltip/7900302┃Increases Attack Speed by {0}%.
+Trait/StatTooltip/7900303┃Increases Attack Speed by {0}%.
+Trait/StatTooltip/7900401┃Increases Movement Speed by {0}.
+Trait/StatTooltip/7900402┃Increases Movement Speed by {0}.
+Trait/StatTooltip/7900403┃Increases Movement Speed by {0}.
+Trait/StatTooltip/7900501┃Increases Cooldown Reduction by {0}%.\nIncreases maximum Cooldown Reduction by {1}%.
+Trait/StatTooltip/7900502┃Increases Cooldown Reduction by {0}%.\nIncreases maximum Cooldown Reduction by {1}%.
+Trait/StatTooltip/7900503┃Increases Cooldown Reduction by {0}%.\nIncreases maximum Cooldown Reduction by {1}%.
+Trait/StatTooltip/7900601┃Gain {0}% Omnisyphon.
+Trait/StatTooltip/7900602┃Gain {0}% Omnisyphon.
+Trait/StatTooltip/7900603┃Gain {0}% Omnisyphon.
+Trait/StatTooltip/7900701┃Gain {0}% Tenacity.
+Trait/StatTooltip/7900702┃Gain {0}% Tenacity.
+Trait/StatTooltip/7900703┃Gain {0}% Tenacity.
+Trait/StatTooltip/7900801┃Gain {0}% Critical Strike Chance.
+Trait/StatTooltip/7900802┃Gain {0}% Critical Strike Chance.
+Trait/StatTooltip/7900803┃Gain {0}% Critical Strike Chance.
+Trait/StatTooltip/7920101┃Gain additional Defense and Omnisyphon when below {0}% HP.\n\nDefense Increase: {1}\nOmnisyphon Increase: {2}%
+Trait/StatTooltip/7920102┃Gain additional Defense and Omnisyphon when below {0}% HP.\n\nDefense Increase: {1}\nOmnisyphon Increase: {2}%
+Trait/StatTooltip/7920103┃Gain additional Defense and Omnisyphon when below {0}% HP.\n\nDefense Increase: {1}\nOmnisyphon Increase: {2}%
+Trait/StatTooltip/7920201┃Gain {1}% Critical Strike Chance and {2}% Attack Speed when below {0}% HP.\n\nCritical Strike Chance Increase: {1}%\nAttack Speed Increase: {2}%
+Trait/StatTooltip/7920202┃Gain {1}% Critical Strike Chance and {2}% Attack Speed when below {0}% HP.\n\nCritical Strike Chance Increase: {1}%\nAttack Speed Increase: {2}%
+Trait/StatTooltip/7920203┃Gain increased Movement Speed and HP Regen when below {0}% HP.\n\nMovement Speed Increase: {1}\nHP Regen Increase: {2}%
+Trait/StatTooltip/7920301┃Whenever you deal skill damage to an enemy test subject, drain them for {5}% of their current HP as true damage to recover {6}% of your current HP. (Cooldown: {0}s)\n\n(Melee) Drain {1}% of target's current HP to recover (2)% of your current HP.\n(Ranged) Drain {3}% of target's current HP to recover (4)% of your current HP.\n\nApplied Damage Ratio: {5}%\nApplied HP Recovery Ratio: {6}%
+Trait/StatTooltip/7920302┃Whenever you deal skill damage to an enemy test subject, drain them for {5}% of their current HP as true damage to recover {6}% of your current HP. (Cooldown: {0}s)\n\n(Melee) Drain {1}% of target's current HP to recover (2)% of your current HP.\n(Ranged) Drain {3}% of target's current HP to recover (4)% of your current HP.\n\nApplied Damage Ratio: {5}%\nApplied HP Recovery Ratio: {6}%
+Trait/StatTooltip/7920303┃Whenever you deal skill damage to an enemy test subject, drain them for {5}% of their current HP as true damage to recover {6}% of your current HP. (Cooldown: {0}s)\n\n(Melee) Drain {1}% of target's current HP to recover (2)% of your current HP.\n(Ranged) Drain {3}% of target's current HP to recover (4)% of your current HP.\n\nApplied Damage Ratio: {5}%\nApplied HP Recovery Ratio: {6}%
+Trait/StatTooltip/7920401┃Upon dying, create a blast after {0} seconds with a radius of {1}m. All enemies hit are knocked airborne for {2} seconds and are dealt {3}% of their missing HP as true damage.
+Trait/StatTooltip/7920402┃Upon dying, create a blast after {0} seconds with a radius of {1}m. All enemies hit are knocked airborne for {2} seconds and are dealt {3}% of their missing HP as true damage.
+Trait/StatTooltip/7920403┃Upon dying, create a blast after {0} seconds with a radius of {1}m. All enemies hit are knocked airborne for {2} seconds and are dealt {3}% of their missing HP as true damage.
+Trait/StatTooltip/7920501┃If you haven't received combat damage in the last {0} seconds, recover {1}% of your missing HP and SP per second.
+Trait/StatTooltip/7920502┃If you haven't received combat damage in the last {0} seconds, recover {1}% of your missing HP and SP per second.
+Trait/StatTooltip/7920503┃If you haven't received combat damage in the last {0} seconds, recover {1}% of your missing HP and SP per second.
+Trait/StatTooltip/7920603┃Upon death, automatically revive with fully recovered HP and SP after 3 seconds. (Cooldown: {0}s)\nDuring cooldown, you gain 35{1} Attack Power and 50{2} Skill Amplification.
+Trait/StatTooltip/7920701┃Skill Amplification increased by {0}.\nGain {1}% additional Skill Amplification for each Infusion attached, up to 2 stacks.
+Trait/StatTooltip/7920702┃Skill Amplification increased by {0}.\nGain {1}% additional Skill Amplification for each Infusion attached, up to 2 stacks
+Trait/StatTooltip/7920703┃Skill Amplification increased by {0}.\nGain {1}% additional Skill Amplification for each Infusion attached, up to 2 stacks
+Trait/StatTooltip/7920801┃Upon dying, create a swamp that slows enemies in it by {1}% and lowers their defense by {2}% for {0} seconds.
+Trait/StatTooltip/7920802┃Upon dying, create a swamp that slows enemies in it by {1}% and lowers their defense by {2}% for {0} seconds.
+Trait/StatTooltip/7920803┃Upon dying, create a swamp that slows enemies in it by {1}% and lowers their defense by {2}% for {0} seconds.
+Trait/StatTooltip/7920903┃2 seconds after casting your weapon skill, enemy test subjects within {1}m are silenced for {2} seconds. (Cooldown: {0}s)
+Trait/StatTooltip/7921003┃1 second after casting your weapon skill, deal {0} true damage over {4} seconds to all enemies within {2}m. (Cooldown: {1}s)\n
+Trait/StatTooltip/7921101┃Casting your Ultimate (R) reduces the cooldown of your normal skills by {0}%. (Infusion cooldown: {1}s)\nCasting a normal skill reduces the cooldown of this Infusion by {2} seconds.
+Trait/StatTooltip/7921102┃Casting your Ultimate (R) reduces the cooldown of your normal skills by {0}%. (Infusion cooldown: {1}s)\nCasting a normal skill reduces the cooldown of this Infusion by {2} seconds.
+Trait/StatTooltip/7921103┃Casting your Ultimate (R) reduces the cooldown of your normal skills by {0}%. (Infusion cooldown: {1}s)\nCasting a normal skill reduces the cooldown of this Infusion by {2} seconds.
+Trait/StatTooltip/7921203┃Become Unstoppable for {0} seconds with {2}% increased Movement Speed upon casting your Ultimate (R). (Cooldown :{1}s)
+Trait/StatTooltip/7921301┃For each Power Beacon under ally control, the effect of each Power Beacon gets increased by {0}%.\n\nAdditional Attack Power Increase: {1}\nAdditional Defense Increase: {2}\nAdditional Movement Speed Increase: {3}
+Trait/StatTooltip/7921302┃For each Power Beacon under ally control, the effect of each Power Beacon gets increased by {0}%.\n\nAdditional Attack Power Increase: {1}\nAdditional Defense Increase: {2}\nAdditional Movement Speed Increase: {3}
+Trait/StatTooltip/7921303┃Armor Penetration and HP increase {4} and {5} respectively.
+Trait/StatTooltip/7921401┃For every {0} Credits you own, deal {1}% additional damage to enemy test subjects and their summons. (Up to {2} stacks)\n\nCurrent Additional Damage: {3}%
+Trait/StatTooltip/7921402┃For every {0} Credits you own, deal {1}% additional damage to enemy test subjects and their summons. (Up to {2} stacks)\n\nCurrent Additional Damage: {3}%
+Trait/StatTooltip/7921403┃For every {0} Credits you own, deal {1}% additional damage to enemy test subjects and their summons. (Up to {2} stacks)\n\nCurrent Additional Damage: {3}%
+Trait/StatTooltip/7921501┃Hitting an enemy test subject with a skill causes them to dance for {0} seconds. (Cooldown: {1}s)
+Trait/StatTooltip/7921502┃Hitting an enemy test subject with a skill causes them to dance for {0} seconds. (Cooldown: {1}s)
+Trait/StatTooltip/7921503┃Hitting an enemy test subject with a skill causes them to dance for {0} seconds. (Cooldown: {1}s)
+Trait/StatTooltip/7921602┃Heal Packs recover {0}% more HP/SP and grant a {1} HP shield. While you have a shield from Health Insurance, your movement speed increases by {2}%.
+Trait/StatTooltip/7921701┃Upon passing the Acceleration Influx Perimeter, deal {1} additional true damage to enemies hit by Basic Attack within {0} seconds. Slow the target by {3}% for {2} seconds.
+Trait/StatTooltip/7921702┃Upon passing the Acceleration Influx Perimeter, deal {1} additional true damage to enemies hit by Basic Attack within {0} seconds. Slow the target by {3}% for {2} seconds.
+Trait/StatTooltip/7921703┃Upon passing the Acceleration Influx Perimeter, deal {1} additional true damage to enemies hit by Basic Attack within {0} seconds. Slows the target by {3}% for {2} seconds.
+Trait/StatTooltip/7921903┃While below a certain amount of HP, taking damage from an enemy test subject activates [Valkyrie Drive: Protection].\n\n[Valkyrie Drive: Protection]\nImmediately teleport to a random location away from combat. Then, gain a shield that lasts for 3 seconds and increased Movement Speed.
+Trait/StatTooltip/7922003┃Activates the A.M.D.S Barrier, making you immune to all skill effects and damage dealt by enemies for a short period of time. (Cooldown: {0}s)\nWhen the Barrier is broken by an enemy test subject, launch a homing missile that deals true damage. \n
+Trait/StatTooltip/7922102┃Your basic attacks that target enemy test subjects sends a shockwave to enemies in range, dealing {2} true damage (based on your max HP) to enemies behind the target.\n\nShockwave Damage\n(Melee) {0}% max HP\n(Ranged) {1}% max HP\n\nCurrent true damage: {2}\n\nAttack Speed is fixed at a low level.
+Trait/StatTooltip/7922201┃Gain a stack (up to a maximum of {2} stacks) whenever you hit an enemy test subject with a basic attack. For each stack, your basic attacks deal {0} (Melee) or {1} (Ranged) additional true damage.
+Trait/StatTooltip/7922202┃Gain a stack (up to a maximum of {2} stacks) whenever you hit an enemy test subject with a basic attack. For each stack, your basic attacks deal {0} (Melee) or {1} (Ranged) additional true damage.
+Trait/StatTooltip/7922203┃Gain a stack (up to a maximum of {2} stacks) whenever you hit an enemy test subject with a basic attack. For each stack, your basic attacks deal {0} (Melee) or {1} (Ranged) additional true damage.
+Trait/StatTooltip/7922302┃Armor Penetration increased by {0}%.
+Trait/StatTooltip/7922402┃Whenever you or your summons deal damage, recover HP equal to 28% and SP equal to {0}% of the damage dealt.
+Trait/StatTooltip/7922502┃After receiving a Critical Strike, take {1}% reduced damage from subsequent Critical Strikes for {0} seconds. (Cooldown: {2}s)
+Trait/StatTooltip/7922602┃Take {0}% reduced damage when immobilized.
+Trait/StatTooltip/7922702┃Immobilizing a target increases all damage dealt to them by {1}% for {0} seconds. (Cooldown: {2}s)
+Trait/StatTooltip/7922803┃Your skills and basic attacks deal an additional burst of true damage. This amount varies based on whether your test subject is Melee or Ranged. (Cooldown: {1}s)\n\nMelee: Deal {1} true damage per sec for {3} seconds.\nRanged: Deal {2} true damage per sec for {4} seconds.
+Trait/StatTooltip/7922903┃Moving leaves a trail of poisonous footsteps that deal true damage over {0} seconds to enemies who step on the trail.\n\nDamage per second: {1} + {2}% of enemy max HP
+Trait/StatTooltip/7923101┃While owning this Infusion, your Attack Power is reduced by {1}%. \nYour basic attacks now hit enemies twice.\n(Cooldown: {0}s)
+Trait/StatTooltip/7923102┃While owning this Infusion, your Attack Power is reduced by {1}%. \nYour basic attacks now hit enemies twice.\n(Cooldown: {0}s)
+Trait/StatTooltip/7923103┃While owning this Infusion, your Attack Power is reduced by {1}%. \nYour basic attacks now hit enemies twice.\n(Cooldown: {0}s)
+Trait/StatTooltip/7923203┃Critical Strike activates when you inflict skill damage. Crit Chance and Attack Power are reduced by {0}% and {1}% respectively.
+Trait/StatTooltip/7923002┃When you revive, all other test subjects and summons are put into stasis for {0} seconds.
+Trait/StatTooltip/7000201┃Hitting the same enemy character with {1} basic attacks or separate skills within {0} seconds deals additional {2} true damage and reduces their defense by <color=#ffffff>{4}%</color> for {3} seconds. (Cooldown: {5}s).\n\nTotal Extra Damage Count: {6}\nTotal Extra Damage: {7}
+Trait/StatTooltip/7000401┃Damaging a test subject with a basic attack or individual skill grants you <color=#ffffff>{11}</color> {10} and <color=#ffffff>(Melee: {12}%/Ranged: {13}%)</color> Omnisyphon stacking up to {1} time. At max stacks, you gain {10} by {9}. \nDamage increases based on enemies hit when dealing damage to multiple enemies with a skill.\n\nDamaging multiple targets with individual skills, grants you stacks equal to the number of targets that have been damaged.\n\nTotal HP Recovered: {6}
+Trait/StatTooltip/7000501┃Damaging an enemy with a skill deals <color=#ffffff>{1}</color> skill damage. Damage dealt to test subjects further than {15}m is increased by <color=#ffffff>{16}%</color>. The sprite also chains to the nearest enemy subject within {7}m, dealing {8} reduced skill damage.  \nDamaging an enemy test subject with an individual skill reduces the cooldown of Red Sprite by {9} seconds. (Cooldown: {5} seconds) \n\nTimes Activated: {10}\nTotal Damage Dealt: {13}
+Trait/StatTooltip/7000601┃Every time you damage an enemy test subject with a Basic Attack, gain a stack of Adrenaline that lasts for {16} seconds, up to a maximum of {1} stacks. \n\nGain <color=#ffffff>{21}%</color> Attack Speed per Adrenaline stack.\nWhile at max stacks, ignore the attack speed limit and gain additional <color=#ffffff>{22}%</color> attack speed and <color=#ffffff>{14}%</color> movement speed. \n\nMax Stacks Count: {6}
+Trait/StatTooltip/7010101┃Gain {0}% Armor Penetration.
+Trait/StatTooltip/7010501┃Deal <color=#ffffff>{2}% ~ {3}%</color> extra damage to test subjects with <color=#ffffff>{0}% ~ {1}%</color> more Max HP than you.\n\nTotal Extra Damage: {4}
+Trait/StatTooltip/7010201┃Deal {0}% more damage in safe zones after final restricted areas are activated.\n\nTotal Extra Damage: {1}
+Trait/StatTooltip/7010301┃Restore {0}% of your damage dealt as SP.\n\nTotal SP Recovery: {1}
+Trait/StatTooltip/7010401┃You and your summons deal {0}% more damage and heal for {1}% of damage dealt to wild animals. You and your summons also deal (2)% more damage and heal for {3}% of damage dealt to Alpha, Omega, Wickeline.\n\nTotal SP Recovery: {1}
+Trait/StatTooltip/7010601┃Slaying Test Subjects, Bears, or Boss Monsters grants <color=#ffffff>{10}</color> permanently.\n({10} Can obtain up to {0} stacks of Anima Reaper. Test Subjects grant {7} and Bear and Boss Monsters grant {8}.)\n\nIncreased {10}: {9}
+Trait/StatTooltip/7100101┃Immobilizing an enemy player increases your Defense by <color=#ffffff>{1}</color> for {0} seconds. \nDeal <color=#ffffff>{4}</color> skill damage in a {3}m radius around you after the duration.\nEnemies hit are slowed by <color=#ffffff>{6}%</color> for {5} seconds. \n(Cooldown: {7}s)\n\nTimes Enemies Slowed: {8}\nTotal Defense Increase: {9}\nTotal Damage Dealt: {10}
+Trait/StatTooltip/7100201┃({21}) Using a Weapon Skill makes you Ironclad, reducing your damage taken by {23}% and granting you {24}% Tenacity for {22} seconds. (Cooldown: {0}s)\n\nTimes Tenacity Increased: {11}\nTotal Damage Reduction: {12}
+Trait/StatTooltip/7100301┃Take less Basic Attack Damage when your HP is low.\n({21}) Take {24} - {25}% reduced Basic Attack damage if your HP is below  {22} - {23}%.\n\n\nDamage reduced is multiplied by ({10}+Defense*{11}) and is reflected to the inflictor as Skill Damage.\n\nTotal Damage Reduced: {12}\nTotal Damage Reflected: {13}
+Trait/StatTooltip/7100401┃({21}) Gain a shield equal to <color=#ffffff>({21}) {1}</color>. When the shield is broken, immediately cleanse all crowd control and debuffs and gain <color=#ffffff>{23}%</color> additional movement speed for <color=#ffffff>{22}</color>s. (Cooldown {0}s)\n\nCannot cleanse Airborne, Knocked back, or Grabbed. \nIf the shield is broken by damage from a wild animal, this Augment's cooldown is reduced by {4}%. \n\nDamage Absorbed by Shield: {7}\nTimes CC Cleansed: {8}
+Trait/StatTooltip/7100501┃Gain <color=#ffffff>1</color> stack per <color=#F78181>{0}% HP lost in damage taken from enemy test subjects</color>. (Max {2} stacks)\n\nDamage taken is reduced by <color=#ffffff>{11}%</color> per stack held.\n\n({21}) At max stacks, your next Basic Attack consumes this Augment's stacks to deal <color=#ffffff>{22}</color> additional skill damage. (Cooldown: {8}s){25}\n\nIf stacks expire, you return to a Calm state and recover <color=#ffffff>{7}</color> of your max HP for each stack that expired.\n\nTotal Bitter Retribution Attacks Performed: {10}\nAmount Healed with Calm: {9}
+Trait/StatTooltip/7100501/Melee┃\nAt max stacks, your next basic attack slows enemies by {1} for {0} seconds.
+Trait/StatTooltip/7110101┃Increase your Defense by {2} for <color=#ffffff>{0} seconds</color> after gaining a shield from a skill or being healed by a skill or an augment. (Cooldown: {3}s)\n\nDefense Increase Count: {4}\nTotal Defense Increased: {5}
+Trait/StatTooltip/7110201┃Damage taken is reduced by <color=#ffffff>{1}%</color> if there are no ally test subjects within {0}m.\n\nTotal Damage Reduced: {2}
+Trait/StatTooltip/7110401┃Take <color=#ffffff>{1}%</color> less damage when immobilized. \n\nTotal Damage Reduced: {2}
+Trait/StatTooltip/7110301┃Upon receiving critical strike damage, critical strike damage taken in the next {0} seconds is reduced by {1}%. (Cooldown: {2}s)\n\nTimes Triggered: {3}
+Trait/StatTooltip/7110501┃Damage Reduction stats on items are {0}% more effective on you.
+Trait/StatTooltip/7110601┃The time required to consume food and beverages is reduced by 3 seconds. (Recovery increases per second)\n\nIf your HP drops below <color=#ffffff>70%</color> or your SP drops below <color=#ffffff>50%</color>, you will automatically consume a food/beverage item with 400 or more HP recovery, starting at the front of your inventory.\n\nTotal food/beverage consumption: {26}
+Trait/StatTooltip/7200101┃Your skills or augments' heals and shields are <color=#ffffff>{0}%</color> more effective. Whenever you heal or shield a target, <color=#ffffff>{10} is increased by {9} for {2} seconds</color>. \nDoes not include HP recovery from consumables, Life Steal, HP Regeneration, or Resting.\n\nTotal HP recovered: {5}\nTotal Defense Increase: {6}\nTimes Ally {10} Increased: {7}
+Trait/StatTooltip/7200301┃If you and any ally test subject within {1}m around you take damage when your HP is below {8}%, a Healing Drone will follow you for {0} seconds.\nThe drone heals you and your allies in a {1}m radius for <color=#ffffff>{3}%</color> missing health every second. (Cooldown: {4}s)\nWhen receiving healing from multiple Healing Drones, each drone is only {5}% as effective.\n\nTotal HP recovered: {6}
+Trait/StatTooltip/7200201┃Using your ultimate summons an Amplification Drone that follows you around for {0} seconds.\nThe drone <color=#ffffff>increases Movement Speed by {3}% and Skill Amplification by 5%</color> for you and your allies in a {1}m radius. (Cooldown: {6}s)\n\n\nMultiple Amplification Drones do not stack.\n\nTotal Active Drone Duration: {8}s
+Trait/StatTooltip/7200401┃After killing a wild animal, you recover {6}-{7} of HP, depending of your lost HP. Moving towards another enemy gradually increases your movement speed up to {1}%.\nInstead of recovering HP, slaying a test subject, Alpha, Omega, Gamma, or Wickeline reduces taken damage by {2}% for {0}s, and increases your movement speed by {12}x.\n(Cooldown: {3}s)\n\nTimes Movement Speed Increased: {4}\nTimes Movement Speed Increased (Enhanced): {5}
+Trait/StatTooltip/7200501┃Damaging an enemy test subject with a skill grants you and your allies within {0}m a shield that lasts up to {1} second(s). (Cooldown: {2}s)\nWhen you fall below {3}% HP, gain a {4} HP shield. This shield's HP cannot exceed {5}% of your max HP.\n\n\nSquad: Defense {11}\nCobalt: Defense {13}\n\nDamage Absorbed: {14}\nTimes Shielded: {15}
+Trait/StatTooltip/7210101┃Immobilizing a target causes them to take <color=#ffffff>{1}%</color> increased damage from all sources for <color=#ffffff>{0} seconds</color>. (Cooldown: {2}s)\n\nTotal Damage Increased: {3}
+Trait/StatTooltip/7210201┃Using your ultimate grants you and your allies in a {0}m radius a shield for {1} seconds, absorbing {2} damage. (Cooldown: {3}s)\nAdditional shields received from Assembly within {4} seconds are decreased by {5}%.\n\nTotal Defense applied: {6}
+Trait/StatTooltip/7210401┃Gain <color=#ffffff>{0} Telephoto Cameras</color> every night.\nTelephoto Cameras is dropped on the ground if you have insufficient inventory space.\n\nTotal Telephoto Cameras Gained: {1}
+Trait/StatTooltip/7210301┃Increase your Vision Range at night by 1.25m.
+Trait/StatTooltip/7210501┃You get <color=#ffffff>2 Claymore</color> every night. It will drop to the ground if you run out of space.\n\nNumber of traps installed: {3}
+Trait/StatTooltip/7210601┃Start the game with Clogs equipped. Out of combat movement speed is increased by {0} while equipped with a Epic or Legendary leg item.
+Trait/StatTooltip/7210801┃Kiosk is discounted by <color=#ffffff>{0}</color> Credits.\n\nTotal Savings: {2}
+Trait/StatTooltip/7010311┃Recovers <color=#ffffff>{0}%</color> SP of all damage dealt by you or your summons. In addition, your SP Regen is increased by <color=#ffffff>{1}%</color> while in combat.\n\nTotal SP Recovered by Damage: {2}
+Trait/StatTooltip/7010701┃Deals <color=#ffffff>{0}</color><color=#688A08>(+{6}% of Target's Current HP)</color> skill damage over 2 seconds when you damage an enemy. (Cooldown: {4}s)\n\nTotal cumulative damage: {5}
+Trait/StatTooltip/7110801┃At the start of each night, you get <color=#ffffff>{0} Portable Campfire Kit</color>. It will drop to the ground if you run out of item space. \n\nCrafting food/beverages <color=#ffffff>increases out of combat movement speed by {2} for {3} seconds.</color>.  \n\nAlso, the chance of getting good food ingredients from fishing and collecting potatoes is greatly increased.\n\nTotal Portable Campfire Kits acquired: {1}
+Trait/StatTooltip/7110901┃The recovery of meat or meat-containing food is adjusted to <color=#ffffff>{0}</color>, and <color=#ffffff>{1}</color> of recovery is instantly restored upon use.\n\nTotal Instant Recovery: {2}
+Trait/StatTooltip/7211001┃Increases the damage you or your summons deal to wild animals by {0}%. Killing a wild animal heals you for {6}-{9} of HP lost, and  your movement speed increases by {1}% and gradually decreases over {13} seconds. (Cooldown: {3}s)\n\nTotal triggers: {14}
+Trait/StatTooltip/7110701┃When using your ultimate, you gain <color=#ffffff>{2} Shield for {1} seconds</color>. (Cooldown: {3}s)\n\nTotal Shield: {6}
+Trait/StatTooltip/7010901┃Omnisyphon increases by <color=#ffffff>{2}%</color> every time your HP drops below <color=#ffffff>{1}%</color>. Omnisyphon can gradually increase up to <color=#ffffff>{4}%</color> when your HP drops below <color=#ffffff>{3}%</color>.\n\nTotal Recovery: {0}
+Trait/StatTooltip/7011001┃Your damage dealt increases by <color=#ffffff>{2}%</color> when your enemy's HP drops below <color=#ffffff>{1}%</color>. \n\nTotal Additional Damage: {0}
+Trait/StatTooltip/7211101┃Enemy kill assists grant you {1} or {2} credits. \n\nTotal Credits Earned: {0}
+Trait/StatTooltip/7310101┃You gain <color=#ffffff>{1}~{2}</color> Adaptability when Day/Night changes. You can accumulate more Adabtability over time.\n\nIncreased Adaptability: {0}
+Trait/StatTooltip/7310301┃Your cooldown reduction is increased by <color=#ffffff>{1}%</color>. \nUpon reaching max cooldown reduction, every {3}% additional cooldown reduction increases your {4} by <color=#ffffff>{2}</color>. (Max: {5}%)\n\nIncreased {4}: {0}
+Trait/StatTooltip/7310401┃Dealing damage to an enemy increases your Armor Penetration by <color=#ffffff>{2}%</color> for <color=#ffffff>{1}</color> second. (Cooldown {3} seconds)\nArmor penetration increase is also applied to initial damage.\n\nTimes Activated: {0}
+Trait/StatTooltip/7310501┃Using an ultimate skill reduces <color=#ffffff>{1}</color>% of the cooldown of that skill.\n\nThis does not affect skills with fixed cooldowns.\n\nTotal Ult Skill Cooldown Reduction: {0}s
+Trait/StatTooltip/7111001┃Your defense increases based on your lost HP. It can increase gradually up to <color=#ffffff>{1}%</color> when your HP drops below {2}%.\n\nCurrent Increased Defense: {0}
+Trait/StatTooltip/7300201┃Dealing damage equal to {7}% of your enemy's Max HP within {6} seconds releases a ghost light that attacks the enemy, dealing <color=#ffffff>{1}</color> true damage over {8} seconds and applying {12}% healing reduction. Not dealing damage to your enemy for {11} seconds causes your cooldown to reduce twice as fast. (Cooldown: {5}s) \n\nBase damage increases as your level increases.\n\nDamage dealt to enemy by the Ghost Light: {0}
+Trait/StatTooltip/7300101┃Activating different skills within {1} seconds causes a Stellar Charge. At {2} stacks, your next basic attack within {3} seconds deals the following effects depending on your target.\n\nEnemy Test Subject and their Summons: You deal <color=#ffffff>{11}</color> additional true damage, your basic skill's cooldown is reduced by <color=#ffffff>{6}%</color>. (Cooldown: {7}s)\nWild Animals: You deal <color=#ffffff>{12}</color> additional true damage, your basic skill's cooldown is reduced by <color=#ffffff>{10}%</color>. (Cooldown: {13}s)\n\nBase damage increases as your level increases.\nSkills in the same slot are considered the same skill.\nCooldown does not affect fixed skills.\n\nDamage dealt by Stellar Charge: {0}
+Trait/StatTooltip/7000701┃Using basic attacks against enemy test subjects makes your {10} basic attacks' speed increase by <color=#ffffff>{1}%</color> and lifts the attack speed limit. The effect ends if you don't use your next basic attack within {9} seconds. Your last basic attack deals <color=#ffffff>{2}</color> skill damage. (Cooldown: {8}s)\n\n\nBase damage increases as your level increases.\nThis augment does not lift the attack speed limit for test subjects with a limited attack speed.\n\nTotal Damage Dealt: {0}
+Trait/StatTooltip/7310201┃For {2} seconds, recover HP equal to <color=#ffffff>{1}%</color> of the SP consumed to activate a skill.\nOny applied once per second, per skill. \n\nTotal Recovery: {0} HP

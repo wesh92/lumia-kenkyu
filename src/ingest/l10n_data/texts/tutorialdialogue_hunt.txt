@@ -1,0 +1,2 @@
+TutorialDialogue/Hunt/1┃Pistols are long-range weapons that let the user be very swift!\nThey can be quite hard to handle, but you'll get used to it.\nLet's practice by hunting!
+TutorialDialogue/Hunt/2┃A successful hunt!\n<color=orange>Right-Click</color> the corpses of wild animals to see what items you can get.

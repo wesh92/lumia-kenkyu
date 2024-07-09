@@ -1,0 +1,1 @@
+StatType/UniqueHpHealedIncreaseRatio┃<color=#FFFF00>[Unique]</color> Healing Received

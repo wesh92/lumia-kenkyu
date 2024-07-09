@@ -1,0 +1,2 @@
+ItemType/ANNOUNCE/Name┃Announcer Pack
+ItemType/ANNOUNCE/Desc┃Change the voice of the in-game announcer.

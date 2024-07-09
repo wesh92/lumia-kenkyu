@@ -1,0 +1,1 @@
+Friend/RequestListFull┃{0}'s friend request list if full.

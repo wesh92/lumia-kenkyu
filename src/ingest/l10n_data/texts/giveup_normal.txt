@@ -1,0 +1,6 @@
+GiveUp/Normal/Solo/WithTeam┃If you leave the game, your test subject will immediately perish.\nAre you sure you want to leave the game?\n<color=#ff0000>(Forfeiting the match will result in a matchmaking cooldown penalty.)</color>
+GiveUp/Normal/Solo/Alone┃If you leave the game, your test subject will immediately perish.\nAre you sure you want to leave the game?\n<color=#ff0000>(Forfeiting the match will result in a matchmaking cooldown penalty.)</color>
+GiveUp/Normal/Duo/WithTeam┃If you leave the game, your test subject will immediately perish.\nAre you sure you want to leave the game?\n<color=#ff0000>(Forfeiting the match will result in a matchmaking cooldown penalty.)</color>
+GiveUp/Normal/Duo/Alone┃If you leave the game, your test subject will immediately perish.\nAre you sure you want to leave the game?\n<color=#ff0000>(Forfeiting the match will result in a matchmaking cooldown penalty.)</color>
+GiveUp/Normal/Squad/WithTeam┃If you leave the game, your test subject will immediately perish.\nAre you sure you want to leave the game?\n<color=#ff0000>(Forfeiting the match will result in a matchmaking cooldown penalty.)</color>
+GiveUp/Normal/Squad/Alone┃If you leave the game, your test subject will immediately perish.\nAre you sure you want to leave the game?\n<color=#ff0000>(Forfeiting the match will result in a matchmaking cooldown penalty.)</color>

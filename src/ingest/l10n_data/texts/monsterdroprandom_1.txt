@@ -1,0 +1,1 @@
+MonsterDropRandom/1┃Drops either <color=white>Meat</color> or <color=white>Feather</color>.

@@ -1,0 +1,1 @@
+MasteryConditionType/UndefendedDamaged┃100 Damage Taken (Before mitigation)

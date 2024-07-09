@@ -1,0 +1,1 @@
+ToolTipType/DecreaseCooldownR┃Cooldown Reduction(R)

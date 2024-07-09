@@ -1,0 +1,2 @@
+StatType/IncreaseSkillDamageRatio┃Increased Skill Damage
+StatType/IncreaseSkillDamageRatio/Desc┃Skill Damage increased.

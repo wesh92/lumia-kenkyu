@@ -1,0 +1,6 @@
+subMenu/Store/Recommended┃Recommended
+subMenu/Store/Bundle┃Bundle
+subMenu/Store/Character┃Character
+subMenu/Store/Skin┃Skin
+subMenu/Store/Etc┃Miscellaneous
+subMenu/Store/NP┃NP

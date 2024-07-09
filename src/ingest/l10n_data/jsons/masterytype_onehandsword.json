@@ -1,0 +1,5 @@
+{
+    "OneHandSword": "Dagger",
+    "Desc": "Daggers are specialized for surprise attacks. They excel in quick, short range battles.",
+    "Stats": "Equipping Dagger increases {0} by {1}\\n{2} by {3}\\n{4} by {5}"
+}

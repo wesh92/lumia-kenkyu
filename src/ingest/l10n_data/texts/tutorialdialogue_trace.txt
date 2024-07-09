@@ -1,0 +1,6 @@
+TutorialDialogue/Trace/1┃Handling the axe is easy. It's strong right from the start!\nNow the only thing left is to kill everyone I suppose.
+TutorialDialogue/Trace/2┃Ok, should we play hide and seek?
+TutorialDialogue/Trace/4┃Let's try to operate the console first.
+TutorialDialogue/Trace/5┃Found 'ya! \nThere's fighting going on over there, too? \nI hope they don't mind me crashing the party.
+TutorialDialogue/Trace/6┃Attack enemies by <color=orange>right clicking</color> them.
+TutorialDialogue/Trace/7┃Use your skills by pressing<color=orange> Q, W, E, or R</color>.

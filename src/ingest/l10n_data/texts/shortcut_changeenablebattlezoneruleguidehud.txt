@@ -1,0 +1,1 @@
+Shortcut/ChangeEnableBattleZoneRuleGuideHUD┃(Spectator, Replay) Hide Battle Zone UI

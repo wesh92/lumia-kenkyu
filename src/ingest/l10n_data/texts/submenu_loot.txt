@@ -1,0 +1,3 @@
+subMenu/Loot/Box┃Box
+subMenu/Loot/Forge┃Forging
+subMenu/Loot/Exchange┃Exchange

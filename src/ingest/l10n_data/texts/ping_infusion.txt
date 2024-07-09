@@ -1,0 +1,4 @@
+Ping/Infusion/Owned┃{0}({1}) : {2}({3}) - {4} Owned
+Ping/Infusion/Bought┃{0}({1}) : {4} - Purchased
+Ping/Infusion/CanBuy┃{0}({1}) : {4} - Available for Purchase
+Ping/Infusion/NotEnoughCredit┃{0}({1}) : {4} - {5} Insufficient Credits

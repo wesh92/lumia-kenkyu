@@ -1,0 +1,1 @@
+ToolTipType/IncreaseDamageRatio┃Damage Increase (%)

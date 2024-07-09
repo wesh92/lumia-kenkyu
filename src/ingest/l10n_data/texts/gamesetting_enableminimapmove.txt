@@ -1,0 +1,1 @@
+GameSetting/EnableMinimapMove┃Allows you to move by right clicking on the minimap.

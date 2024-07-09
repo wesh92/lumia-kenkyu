@@ -1,0 +1,2 @@
+MasteryType/Move┃Move
+MasteryType/Move/Stats┃{0} {1} Increase

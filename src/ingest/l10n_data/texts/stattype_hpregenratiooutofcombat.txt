@@ -1,0 +1,1 @@
+StatType/HpRegenRatioOutOfCombat┃Out of combat HP Regeneration

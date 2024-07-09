@@ -1,0 +1,1 @@
+StatType/FullDecreaseRecoveryToBasicAttackMelee┃Basic Attack Healing Reduction (Melee)

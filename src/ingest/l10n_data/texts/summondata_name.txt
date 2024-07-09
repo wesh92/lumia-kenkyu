@@ -1,0 +1,58 @@
+SummonData/Name/1┃Surveillance Camera
+SummonData/Name/2┃Snare
+SummonData/Name/3┃Mousetrap
+SummonData/Name/4┃Piano Wire
+SummonData/Name/5┃Spiked Plank
+SummonData/Name/6┃Enhanced Mousetrap
+SummonData/Name/7┃Dynamite
+SummonData/Name/8┃Bamboo Trap
+SummonData/Name/9┃Bear Trap
+SummonData/Name/10┃Thorny Bead
+SummonData/Name/11┃Meiji's Roulette
+SummonData/Name/34┃Acupressure Mat
+SummonData/Name/13┃Mine
+SummonData/Name/14┃Pendulum Axe
+SummonData/Name/15┃Explosive Trap
+SummonData/Name/16┃RDX
+SummonData/Name/17┃Mythril String
+SummonData/Name/18┃Stingburst
+SummonData/Name/19┃Fire Trap
+SummonData/Name/20┃C-4
+SummonData/Name/21┃Double Guillotine
+SummonData/Name/22┃Claymore
+SummonData/Name/23┃Hidden Maiden
+SummonData/Name/24┃Remote Mine
+SummonData/Name/25┃Smart Bomb
+SummonData/Name/26┃Clang Clatter
+SummonData/Name/27┃Telephoto Camera
+SummonData/Name/31┃Campfire
+SummonData/Name/32┃Portable Campfire Kit
+SummonData/Name/33┃Magnifying Camera
+SummonData/Name/1001┃Squirrel Trap
+SummonData/Name/1002┃Squirrel Trap
+SummonData/Name/1003┃Anchor
+SummonData/Name/1011┃Semtex Bomb
+SummonData/Name/1012┃MOK Operational Mine
+SummonData/Name/1040┃Shoichi's Dagger
+SummonData/Name/1051┃Dove
+SummonData/Name/1052┃Hat Trick
+SummonData/Name/1100┃BT Sentry Gun Mk.II
+SummonData/Name/1110┃Alex
+SummonData/Name/1130┃Pool
+SummonData/Name/1140┃Baseball
+SummonData/Name/1141┃Baseball
+SummonData/Name/1142┃Baseball
+SummonData/Name/1143┃Baseball
+SummonData/Name/1151┃Trail Camera
+SummonData/Name/1191┃Nina
+SummonData/Name/1210┃Transcendent Censer
+SummonData/Name/100┃Team Blue Turret
+SummonData/Name/500┃Team Red Turret
+SummonData/Name/1290┃Chained Harpoon
+SummonData/Name/1291┃Chained Harpoon
+SummonData/Name/1292┃Chained Harpoon
+SummonData/Name/1293┃Giant harpoon
+SummonData/Name/1294┃Giant harpoon
+SummonData/Name/1351┃Miniature Camera
+SummonData/Name/1458┃Nimrod's Gate
+SummonData/Name/1480┃Wooden Log

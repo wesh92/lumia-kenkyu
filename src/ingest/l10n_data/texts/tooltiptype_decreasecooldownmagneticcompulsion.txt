@@ -1,0 +1,1 @@
+ToolTipType/DecreaseCooldownMagneticCompulsion┃Magnetic Compulsion Cooldown Reduction

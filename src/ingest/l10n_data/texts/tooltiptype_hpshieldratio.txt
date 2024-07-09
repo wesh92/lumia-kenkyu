@@ -1,0 +1,1 @@
+ToolTipType/HpShieldRatio┃Shield based on Max HP (%)

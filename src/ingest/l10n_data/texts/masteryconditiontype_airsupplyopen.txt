@@ -1,0 +1,1 @@
+MasteryConditionType/AirSupplyOpen┃Open Air Supply

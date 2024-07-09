@@ -1,0 +1,6 @@
+TutorialMessageBox/Hunt/Step1/Title┃Hunting wild animals
+TutorialMessageBox/Hunt/Step1/Comment┃\n\nHunting wild animals will provide you with experience or useful items.
+TutorialMessageBox/Hunt/Step2/Title┃Loading your weapon
+TutorialMessageBox/Hunt/Step2/Comment┃\n\nReload your weapon by pressing [F].\n\nYou can only reload gun weapons.
+TutorialMessageBox/Hunt/Step3/Title┃Resting
+TutorialMessageBox/Hunt/Step3/Comment┃\n\nRest by pressing [X].\n\nResting quickly restores your HP and SP.

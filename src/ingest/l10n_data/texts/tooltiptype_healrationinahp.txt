@@ -1,0 +1,1 @@
+ToolTipType/HealRatioNinaHP┃[Nina] Heal Ratio based on Max HP

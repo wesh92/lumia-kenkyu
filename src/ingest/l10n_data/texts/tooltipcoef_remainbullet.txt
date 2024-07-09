@@ -1,0 +1,1 @@
+ToolTipCoef/RemainBullet┃<color=#dda0dd>(+{0}% Skill Amp per remaining bullets)</color>

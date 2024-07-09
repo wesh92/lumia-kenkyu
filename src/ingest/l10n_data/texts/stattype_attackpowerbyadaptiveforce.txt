@@ -1,0 +1,1 @@
+StatType/AttackPowerByAdaptiveForce┃[Adaptability] Extra Attack Power

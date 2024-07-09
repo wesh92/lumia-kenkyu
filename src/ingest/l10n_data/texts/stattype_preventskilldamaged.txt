@@ -1,0 +1,1 @@
+StatType/PreventSkillDamaged┃Skill Damage Reduction

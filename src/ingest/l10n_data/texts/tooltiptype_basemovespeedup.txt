@@ -1,0 +1,1 @@
+ToolTipType/BaseMoveSpeedUp┃Min Movement Speed Increase

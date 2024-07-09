@@ -1,0 +1,1 @@
+ItemTag/Sub_AttackPower┃Attack Power

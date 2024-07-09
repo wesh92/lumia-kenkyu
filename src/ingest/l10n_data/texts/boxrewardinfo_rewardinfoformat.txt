@@ -1,0 +1,3 @@
+BoxRewardInfo/RewardInfoFormat/Default┃{0} {1}
+BoxRewardInfo/RewardInfoFormat/Morethan1┃{0} {1} x {2} ~ {3}
+BoxRewardInfo/RewardInfoFormat/SameAmount┃{0} {1} x {2}

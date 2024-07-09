@@ -22,6 +22,16 @@ def is_hangul(text):
 
 
 def translate_name(name: str, auth_key: str):
+    """
+    Translates the name from Korean to English using the DeepL API.
+
+    :param name: The name to translate.
+    :param auth_key: The DeepL API key.
+
+    :return: The translated name.
+
+    :raises: DeepLException if there is an error with the DeepL API.
+    """
     translator = deepl.Translator(auth_key)
 
     # if is_hangul(name):  # Check if there is any Hangul

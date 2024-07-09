@@ -1,0 +1,1 @@
+ServerError/5202┃Cannot start matchmaking. Gap between team tiers is too wide.

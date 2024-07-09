@@ -1,0 +1,1 @@
+ToolTipType/Irem_FirstDamage┃First Hit Extra Damage

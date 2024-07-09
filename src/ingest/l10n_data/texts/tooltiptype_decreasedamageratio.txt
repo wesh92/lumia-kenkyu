@@ -1,0 +1,1 @@
+ToolTipType/DecreaseDamageRatio┃Damage Reduction (%)

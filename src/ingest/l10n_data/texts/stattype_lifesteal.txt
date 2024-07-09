@@ -1,0 +1,2 @@
+StatType/LifeSteal┃Omnisyphon
+StatType/LifeSteal/Desc┃Omnisyphon: Applies to all damage dealt, besides trap damage.

@@ -1,0 +1,1 @@
+ToolTipType/SkillDfCoef┃Total Defense

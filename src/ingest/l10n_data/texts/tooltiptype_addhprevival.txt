@@ -1,0 +1,1 @@
+ToolTipType/AddHpRevival┃[Resurrection] Extra Heal

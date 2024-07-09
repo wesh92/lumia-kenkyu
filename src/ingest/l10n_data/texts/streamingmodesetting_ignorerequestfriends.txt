@@ -1,0 +1,1 @@
+StreamingModeSetting/IgnoreRequestFriends┃Disable all incoming friend requests.

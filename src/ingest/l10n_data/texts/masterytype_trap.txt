@@ -1,0 +1,2 @@
+MasteryType/Trap┃Trap
+MasteryType/Trap/Stats┃{0} {1} Increase

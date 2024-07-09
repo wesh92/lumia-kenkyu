@@ -1,0 +1,4 @@
+{
+    "CriticalStrikeChance": "Critical Strike Chance",
+    "Desc": "Probability of Basic Attacks landing a Critical hit.\\nCritical hits deal {0}% basic attack amplification damage."
+}

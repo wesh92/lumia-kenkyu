@@ -1,0 +1,1 @@
+ServerError/1111┃This nickname is unavailable.

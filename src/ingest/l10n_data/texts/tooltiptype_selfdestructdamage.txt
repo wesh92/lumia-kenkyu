@@ -1,0 +1,1 @@
+ToolTipType/SelfDestructDamage┃Self Destruct Damage

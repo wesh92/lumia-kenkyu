@@ -1,0 +1,1 @@
+ServerError/9210┃You are not part of a team. (9210)

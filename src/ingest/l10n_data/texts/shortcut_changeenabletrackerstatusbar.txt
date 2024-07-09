@@ -1,0 +1,1 @@
+Shortcut/ChangeEnableTrackerStatusBar┃Hide HP and SP bar

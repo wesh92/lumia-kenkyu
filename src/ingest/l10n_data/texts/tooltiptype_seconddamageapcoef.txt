@@ -1,0 +1,1 @@
+ToolTipType/SecondDamageApcoef┃Second Hit Attack Power

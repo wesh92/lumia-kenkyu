@@ -1,0 +1,1 @@
+ToolTipType/DamageTargetLossHpCoefByLevel┃Extra Damage proportional to enemy's missing HP

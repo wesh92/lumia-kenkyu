@@ -1,0 +1,4 @@
+Ping/Omega/Wait┃{0}({1}) : <color=#C2FFA0>{2}</color> left until <color=red>Omega</color> appears
+Ping/Omega/Roam┃{0}({1}) : <color=red>Omega</color> is now in <color=#C2FFA0>{2}</color>.
+Ping/Omega/Dead┃{0}({1}): Omega has been slain.
+Ping/Omega/None┃{0}({1}): Omega no longer spawns.

@@ -1,0 +1,1 @@
+ToolTipType/LinkedAttackFetter┃Root duration increase(%) based on Spearweaving

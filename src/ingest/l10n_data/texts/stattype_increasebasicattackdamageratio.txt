@@ -1,0 +1,2 @@
+StatType/IncreaseBasicAttackDamageRatio┃Basic Attack Amplification
+StatType/IncreaseBasicAttackDamageRatio/Desc┃Increases the damage of Basic Attacks.

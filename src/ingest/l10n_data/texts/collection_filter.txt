@@ -1,0 +1,4 @@
+Collection/Filter/All┃All
+Collection/Filter/InProgress┃In Progress
+Collection/Filter/Obtainable┃Available Rewards
+Collection/Filter/Complete┃Complete

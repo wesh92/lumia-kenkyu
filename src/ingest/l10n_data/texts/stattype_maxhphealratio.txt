@@ -1,0 +1,1 @@
+StatType/MaxHpHealRatio┃Max HP vs Recovery

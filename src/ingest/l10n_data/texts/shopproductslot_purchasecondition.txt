@@ -1,0 +1,9 @@
+ShopProductSlot/PurchaseCondition/ONCE_A_DAY┃Daily
+ShopProductSlot/PurchaseCondition/ONCE_A_WEEK┃Weekly
+ShopProductSlot/PurchaseCondition/ONCE_A_MONTH┃Monthly
+ShopProductSlot/PurchaseCondition/ONLY_ONCE┃Per Account
+ShopProductSlot/PurchaseCondition/DAY┃Daily
+ShopProductSlot/PurchaseCondition/WEEK┃Weekly
+ShopProductSlot/PurchaseCondition/MONTH┃Monthly
+ShopProductSlot/PurchaseCondition/LIMIT_AMOUNT┃Per Account
+ShopProductSlot/PurchaseCondition/TO_BE_UPDATED┃Coming Soon

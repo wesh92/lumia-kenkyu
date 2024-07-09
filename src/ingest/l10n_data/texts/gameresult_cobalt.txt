@@ -1,0 +1,2 @@
+GameResult/Cobalt/Win┃VICTORY
+GameResult/Cobalt/Lose┃DEFEAT

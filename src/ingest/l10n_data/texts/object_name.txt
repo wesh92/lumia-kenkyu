@@ -1,0 +1,22 @@
+Object/Name/ItemBox┃Box
+Object/Name/AirSupplyItemBox┃Air supply box
+Object/Name/StaticItemBox┃Box
+Object/Name/ResourceItemBox┃Collectable Resources
+Object/Name/Hyperloop┃Hyperloop
+Object/Name/SecurityCamera┃CCTV
+Object/Name/SecurityConsole┃Security Console
+Object/Name/PlasmaSynthesizer┃Synthesizer
+Object/Name/Dummy┃Dummy
+Object/Name/DeployingLoop┃Deploying Loop
+Object/Name/HealPack┃Heal Pack
+Object/Name/ShieldPack┃Shield Pack
+Object/Name/HealPackSpawnScratch┃Heal Pack Materializer
+Object/Name/ShieldPackSpawnScratch┃Shield Pack Materializer
+Object/Name/SpawnScratch┃Wild Animal Spawn Location
+Object/Name/SpawnScratchGroup┃Wild Animal Pack Spawn Location
+Object/Name/JumpPaddle┃Launch Pad
+Object/Name/TransferConsole┃Kiosk
+Object/Name/TransferSupplyBox┃Transfer Supply Box
+Object/Name/AmplificationTurbine_1┃Power Beacon - L
+Object/Name/AmplificationTurbine_2┃Power Beacon - R
+Object/Name/AmplificationTurbine_3┃Power Beacon - C

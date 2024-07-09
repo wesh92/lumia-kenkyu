@@ -1,0 +1,4 @@
+Option/TeamInviteRestrict/OnlyFriend┃Only friends
+Option/TeamInviteRestrict/IgnoreAll┃Ignore all
+Option/TeamInviteRestrict/All┃Allow all
+Option/TeamInviteRestrict/CurrentSetting┃Current invite status set to '{0}'.

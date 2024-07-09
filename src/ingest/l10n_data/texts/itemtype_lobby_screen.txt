@@ -1,0 +1,2 @@
+ItemType/LOBBY_SCREEN/Name┃Lobby Screen
+ItemType/LOBBY_SCREEN/Desc┃Customize the appearence of your lobby screen.

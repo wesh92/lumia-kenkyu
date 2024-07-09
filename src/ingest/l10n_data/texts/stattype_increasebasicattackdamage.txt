@@ -1,0 +1,1 @@
+StatType/IncreaseBasicAttackDamage┃Extra Basic Attack Damage

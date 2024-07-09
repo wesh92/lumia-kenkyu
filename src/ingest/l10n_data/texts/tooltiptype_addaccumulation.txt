@@ -1,0 +1,1 @@
+ToolTipType/AddAccumulation┃Extra Damage Accumulated (%)

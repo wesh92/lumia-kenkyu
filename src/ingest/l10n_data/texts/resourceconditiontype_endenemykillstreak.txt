@@ -1,0 +1,1 @@
+ResourceConditionType/EndEnemyKillStreak┃End an Enemy's {0}-Kill Streak

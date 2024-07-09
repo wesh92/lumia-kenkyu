@@ -1,0 +1,1 @@
+ToolTipType/MaxhpDamage┃Max HP Extra Damage

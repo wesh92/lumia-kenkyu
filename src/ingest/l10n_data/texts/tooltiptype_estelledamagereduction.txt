@@ -1,0 +1,1 @@
+ToolTipType/EstelleDamageReduction┃[Hazard Shield] Damage Taken Reduction (%)

@@ -1,0 +1,1 @@
+StatType/MaxHpByLv┃Max HP per level

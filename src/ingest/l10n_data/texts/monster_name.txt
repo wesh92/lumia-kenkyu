@@ -1,0 +1,35 @@
+Monster/Name/1┃Chicken
+Monster/Name/2┃Bat
+Monster/Name/3┃Boar
+Monster/Name/4┃Wild Dog
+Monster/Name/5┃Wolf
+Monster/Name/6┃Bear
+Monster/Name/7┃Wickeline
+Monster/Name/8┃Alpha
+Monster/Name/9┃Omega
+Monster/Name/10┃Gamma
+Monster/Name/11┃Drone
+Monster/Name/12┃Mutant Chicken
+Monster/Name/13┃Mutant Bat
+Monster/Name/14┃Mutant Boar
+Monster/Name/15┃Mutant Wild Dog
+Monster/Name/16┃Mutant Wolf
+Monster/Name/17┃Mutant Bear
+Monster/Name/100┃Turret
+Monster/Name/101┃Chicken
+Monster/Name/102┃Bat
+Monster/Name/103┃Boar
+Monster/Name/104┃Wild Dog
+Monster/Name/105┃Wolf
+Monster/Name/106┃Bear
+Monster/Name/107┃Wickeline
+Monster/Name/108┃Alpha
+Monster/Name/109┃Omega
+Monster/Name/110┃Gamma
+Monster/Name/111┃Drone
+Monster/Name/112┃Mutant Chicken
+Monster/Name/113┃Mutant Bat
+Monster/Name/114┃Mutant Boar
+Monster/Name/115┃Mutant Wild Dog
+Monster/Name/116┃Mutant Wolf
+Monster/Name/117┃Mutant Bear

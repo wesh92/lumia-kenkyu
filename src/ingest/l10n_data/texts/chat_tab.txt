@@ -1,0 +1,7 @@
+Chat/Tab/All┃All
+Chat/Tab/System┃System
+Chat/Tab/Custom┃Lobby
+Chat/Tab/CustomTeam┃Team Lobby
+Chat/Tab/Matching┃Lobby
+Chat/Tab/Team┃Team
+Chat/Tab/Result┃Lobby

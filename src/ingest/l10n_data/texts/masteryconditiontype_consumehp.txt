@@ -1,0 +1,1 @@
+MasteryConditionType/ConsumeHp┃Consume 100 HP

@@ -1,0 +1,4 @@
+{
+    "MoveSpeedRatio": "Movement Speed",
+    "Desc": "Current movement speed per second of character. It is affected by your Movement Mastery level."
+}

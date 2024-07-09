@@ -1,0 +1,1 @@
+ToolTipType/VFOverAreaDamage┃True Damage to Enemies Nearby

@@ -1,0 +1,1 @@
+ItemType/LOOT_TOKEN/Name┃Token

@@ -1,0 +1,5 @@
+TutorialQuest/Hunt/Main/Title/1┃Hunt 4 wild animals
+TutorialQuest/Hunt/Main/Comment/1┃Hunt nearby wild animals
+TutorialQuest/Hunt/Sub/Title/1┃Reload with [F1]
+TutorialQuest/Hunt/Sub/Title/2┃Rest with [X]
+TutorialQuest/Hunt/Sub/Title/3┃Search wild animal corpses

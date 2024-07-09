@@ -1,0 +1,1 @@
+GameSetting/InteractionObject┃Displays markers for interactable objects such as Hyperloops, Kiosks, etc.

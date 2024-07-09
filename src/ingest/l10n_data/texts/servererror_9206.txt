@@ -1,0 +1,1 @@
+ServerError/9206┃Cannot leave team.

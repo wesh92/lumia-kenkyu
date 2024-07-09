@@ -1,0 +1,1 @@
+StatType/AttackSpeedRatioByLv┃Attack speed per level

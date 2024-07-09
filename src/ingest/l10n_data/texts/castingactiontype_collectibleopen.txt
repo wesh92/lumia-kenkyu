@@ -1,0 +1,1 @@
+CastingActionType/CollectibleOpen┃Collecting Resources

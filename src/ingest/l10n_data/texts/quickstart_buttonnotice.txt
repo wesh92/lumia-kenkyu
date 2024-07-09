@@ -1,0 +1,2 @@
+QuickStart/ButtonNotice/TeamFinding┃Finding teammates
+QuickStart/ButtonNotice/Matching┃In Queue

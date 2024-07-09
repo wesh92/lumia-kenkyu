@@ -1,0 +1,3 @@
+AreaAttributes/GroupDesc/1┃This Battle Zone increases movement speed and reduces cooldown time.
+AreaAttributes/GroupDesc/2┃This Battle Zone increases final damage dealt and gives Omnisyphon.
+AreaAttributes/GroupDesc/3┃This Battle Zone grants you a shield after a certain amount of time out of combat.

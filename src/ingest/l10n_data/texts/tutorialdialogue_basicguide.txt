@@ -1,0 +1,16 @@
+TutorialDialogue/BasicGuide/1┃Shh, be quiet. We can't fight anyone just yet.\nWe need a stronger weapon first.
+TutorialDialogue/BasicGuide/2┃Why don't you just follow my lead for now?\nAll I've got is a <color=silver>kitchen knife</color>.
+TutorialDialogue/BasicGuide/3┃We need <color=silver>Branches</color>, <color=silver>Scrap Metal</color>, <color=silver>Battery</color> and <color=silver>Piano Wire</color>.\nThose shouldn't be too difficult to find.
+TutorialDialogue/BasicGuide/4┃I think we can find at least 3 of these in the Factory.
+TutorialDialogue/BasicGuide/5┃I think we should just try searching the boxes around here..\n<color=orange>Right-click</color> where you'd like to go to get moving.
+TutorialDialogue/BasicGuide/6┃Found 'em all!\nNow all we need to do is pick up some <color=silver>branches</color>.
+TutorialDialogue/BasicGuide/7┃You can pick up <color=silver>branches</color> off the ground. \nYou can find 'em almost everywhere, so take a good look around!
+TutorialDialogue/BasicGuide/8┃Alright! It looks like we can make something with this!\nTry clicking on the <color=lime>Army Knife</color> on the right.
+TutorialDialogue/BasicGuide/9┃Well, at least it's better than that <color=silver>kitchen knife</color>..
+TutorialDialogue/BasicGuide/10┃Good good. Now we should go and find some piano wire! Problem is.. there isn't any at the Factory.
+TutorialDialogue/BasicGuide/11┃Let's head to the Chapel!\nPress <color=orange>[M]</color> to show your saved route.
+TutorialDialogue/BasicGuide/12┃We're at the Chapel already?\nWhere could that <color=silver>piano wire</color> be?
+TutorialDialogue/BasicGuide/13┃We can make something else with this!\nLet's make stronger stuff until we're unstoppable!
+TutorialDialogue/BasicGuide/14┃Great, now it's time for a real game of hide and seek!
+TutorialDialogue/BasicGuide/15┃Click the <color=orange>Craft</color> button.
+TutorialDialogue/BasicGuide/16┃Try to craft even stronger things!

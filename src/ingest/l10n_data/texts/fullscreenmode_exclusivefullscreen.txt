@@ -1,0 +1,1 @@
+FullScreenMode/ExclusiveFullScreen┃Fullscreen

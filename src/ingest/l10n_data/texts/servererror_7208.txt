@@ -1,0 +1,1 @@
+ServerError/7208┃This coupon cannot be used at your current level.

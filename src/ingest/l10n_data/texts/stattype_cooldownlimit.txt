@@ -1,0 +1,1 @@
+StatType/CooldownLimit┃Cooldown Reduction Cap

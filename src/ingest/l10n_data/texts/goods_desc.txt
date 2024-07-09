@@ -1,0 +1,60 @@
+Goods/Desc/3102001┃This box contains skins and skin designs. \nRanked rewards and some specially utilized items are not included.\n\nData Boxes can be purchased from Store bundles or other products.
+Goods/Desc/3102002┃This box contains various items and designs.\nRanked Rewards and Limited Time items are not included.\n\nData Boxes can be purchased from Store bundles or other products.
+Goods/Desc/3102003┃You can get 1 of the following: Research Center Data Box, Data Key, NP, Data Fragment, or Token.
+Goods/Desc/3102004┃Reward for daily missions that you couldn't receive.
+Goods/Desc/3102005┃You can get one skin from the product list that you don't already own. If you already own all the skins in the product list, you will still receive one skin from the list (a duplicate).\nThe details of the contents can be found in the rewards list.
+Goods/Desc/3102006┃You get a skin. \nYou can check the details of the items included through the item list.
+Goods/Desc/3102007┃You can get Epic Skin Designs and Rare Data Fragments.\nYou can check the details of the items included through the item list.
+Goods/Desc/3102008┃Reward for daily attendance that you couldn't receive.
+Goods/Desc/3102009┃You can get holiday items. \nThe details of the contents can be found in the rewards list.
+Goods/Desc/3102010┃You can get 1 of the 3 items: Skin Data Box, Research Center Data Box or Data Key. Additionally you could also get a Collection item. You can check the details of the items included through the item list.
+Goods/Desc/3102011┃You can get rare skin items.\nYou can check the details of the items included through the item list.
+Goods/Desc/3103002┃You can get 4 different items.\nYou can check the details of the items included through the item list.
+Goods/Desc/3103003┃You can get A-Coin and Collection Items.\nAvailable for purchase in Store.
+Goods/Desc/3104009┃This box contains all goodies from Season 9. Open it to obtain rewards at random!
+Goods/Desc/3190001┃You can select and get one item from the list.
+Goods/Desc/3190002┃You can select and get one item from the list.
+Goods/Desc/3190003┃You can select and get one item from the list.
+Goods/Desc/3190004┃You can select and get one item from the list.
+Goods/Desc/3190005┃You can select and get one item from the list.
+Goods/Desc/3190006┃You can select and get one item from the list.
+Goods/Desc/3190007┃You can select and get one item from the list.
+Goods/Desc/3190008┃You can select and get one item from the list.
+Goods/Desc/3190009┃You can select and get one item from the list.
+Goods/Desc/3202000┃Data Keys can be used to open all types of Data Boxes.
+Goods/Desc/3303000┃Tokens can be obtained through the ER Pass, Season Packs, or at a certain probability by disassembling complete items in Forging. All season tokens have an expiration date and are only available before this date.  After they have expired, tokens become invalid.
+Goods/Desc/3303001┃Battle Maids Tokens can be obtained through the Battle Maids ER Pass, or exchanged in the Exchange menu. \nAll season tokens have an expiration date and are only available before this date.  After they have expired, tokens become invalid.
+Goods/Desc/3303002┃Change Tokens can be obtained through the Change ER Pass, or exchanged in the Exchange menu.\nAll season tokens have an expiration date and are only available before this date. After they have expired, tokens become invalid.
+Goods/Desc/3303003┃Sunset Tokens can be obtained through the Change ER PASS, Season Pack, or at a certain probability by disassembling complete items in Forging.\nAll season tokens have an expiration date and are only available before this date. After they have expired, tokens become invalid.
+Goods/Desc/3303301┃Holiday Tokens can be obtained by opening Holiday Data Boxes and they expire at the end of the event.
+Goods/Desc/3303302┃Joy Tokens can be obtained by purchasing a Lucky Clover or Joy Bundle and they expire at the end of the event.
+Goods/Desc/3303303┃Bake Shop can be obtained by opening Emma's Bread Basket and they expire at the end of the event.
+Goods/Desc/3303999┃Mileage can be obtained when purchasing NP products.
+Goods/Desc/3102015┃Sunset Tokens can be obtained through the Change ER PASS, Season Pack, or at a certain probability by disassembling complete items in Forging.\nAll season tokens have an expiration date and are only available before this date. After they have expired, tokens become invalid.
+Goods/Desc/4000000┃여러가지 아이템들 중 1개를 선택하여 확정적으로 획득할 수 있습니다.\n랭크 보상 및 일부 특수하게 활용된 아이템은 포함되지 않습니다.
+Goods/Desc/3102012┃You can get one complete skin.\nSkins you already have will appear as duplicates.\nDetails of the contents can be found in the rewards list.
+Goods/Desc/3102013┃Get 1 item at a certain probability from a variety of items.\nYou can check the details of the items included through the item list. Items are immediately applied upon purchase.
+Goods/Desc/3102014┃You can get 1 to 3 Season Tokens from the ongoing season at a certain probability.\nDetails of the contents can be found in the rewards list. Items are immediately applied upon purchase
+Goods/Desc/3102081┃Get 1 of the newly added skins to Skin Data Boxes.\nYou can check the details of the items included through the item list.
+Goods/Desc/3103004┃Get a White Flower Box, a Green Flower Box or some A-Coin. \nPlus, you might just luck out and score the White Flower from the Flower Collection!
+Goods/Desc/3103005┃Get a Green Flower Box, a Blue Flower Box, or some A-Coin. \nPlus, you might just luck out and score the Green Flower from the Flower Collection!
+Goods/Desc/3103006┃Get a Blue Flower Box, a Purple Flower Box or some A-Coin. \nPlus, you might just luck out and score the Blue Flower from the Flower Collection!
+Goods/Desc/3103007┃Get a Purple Flower Box, a Yellow Flower Box or some A-Coin. \nPlus, you might just luck out and score the Purple Flower from the Flower Collection!
+Goods/Desc/3103008┃Get a Yellow Flower Box, Change Tokens or some A-Coin. \nPlus, you might just luck out and score the Yellow Flower from the Flower Collection!
+Goods/Desc/3103009┃You can get 1 Joy Token at a probability. If you fail to get it, you'll instead get back the amount you paid.
+Goods/Desc/3103010┃You can get 1 Joy Token at a probability. If you fail to get it, you'll instead get back the amount you paid.
+Goods/Desc/3103011┃You can get 2 Joy Tokens at a probability. If you fail to get them, you'll instead get back the amount you paid.
+Goods/Desc/3103012┃You can get 4 Joy Tokens at a probability. If you fail to get them, you'll instead get back the amount you paid.
+Goods/Desc/3103013┃You can get 8 Joy Tokens at a probability. If you fail to get them, you'll instead get back the amount you paid.
+Goods/Desc/3103014┃You can get 16 Joy Tokens at a probability. If you fail to get them, you'll instead get back the amount you paid.
+Goods/Desc/3103015┃You can get 32 Joy Tokens at a probability. If you fail to get them, you'll instead get back the amount you paid.
+Goods/Desc/3103016┃Get 50 Joy Tokens.
+Goods/Desc/3103017┃This box contains 4 different items. \nYou can check the details of the items included through the item list.
+Goods/Desc/3103018┃Emma's Bread Basket includes items and tokens from Maid Adela's Coffee Shop Event.\nYou can check the details of the items included through the item list.
+Goods/Desc/3103019┃Wilson Bakery's Bag includes items from Maid Adela's Coffee Shop Event.\nYou can check the details of the items included through the item list.
+Goods/Desc/3103020┃Includes Rare skin items. \nYou can check the details of the items included through the item list.
+Goods/Desc/3103021┃You get a skin. \nYou can check the details of the items included through the item list.
+Goods/Desc/3103022┃Get 1 item at a certain probability from a variety of items.\nYou can check the details of the items included through the item list.
+Goods/Desc/3103023┃This box includes Debi & Marlene's Cards.\nYou can check the details of the items included through the item list.
+Goods/Desc/1┃You can receive 300 Event NP or 1,500 A-Coin as a reward.
+Goods/Desc/3┃You can get 1 Character.

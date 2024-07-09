@@ -1,0 +1,2 @@
+ArmorType/Leg┃Leg
+ArmorType/Leg/Desc┃Leg Armor

@@ -1,0 +1,1 @@
+GameSetting/AutoChangeEquipment┃When obtaining a higher rarity equipment in your saved plan,\nit is automatically equipped to replace the previously equipped one.

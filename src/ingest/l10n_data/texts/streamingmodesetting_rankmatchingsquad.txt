@@ -1,0 +1,1 @@
+StreamingModeSetting/RankMatchingSquad┃Begin searching for a Ranked match with queue time hidden.\n*You need to enable the [Use queue shortcuts] option in Settings ＞ Broadcast Mode.

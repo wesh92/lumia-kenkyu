@@ -1,0 +1,1 @@
+ToolTipType/DamagedOriginal┃Original Damage to Target

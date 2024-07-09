@@ -1,0 +1,28 @@
+Inventory/voice/category/행동┃Action
+Inventory/voice/sub/선택 완료┃Selection Complete
+Inventory/voice/sub/게임 시작┃Game Start
+Inventory/voice/sub/적 처치┃Kill Enemy
+Inventory/voice/sub/하이퍼루프 작동┃Operate Hyperloop
+Inventory/voice/sub/항공 보급 열기┃Open Air Supply
+Inventory/voice/sub/상자 열기┃Open Item Box
+Inventory/voice/sub/보안콘솔 작동┃Operate Security Console
+Inventory/voice/category/지역 이동┃Move to a New Area
+Inventory/voice/sub/골목길┃Alley
+Inventory/voice/sub/양궁장┃Archery Range
+Inventory/voice/sub/묘지┃Cemetery
+Inventory/voice/sub/성당┃Chapel
+Inventory/voice/sub/주유소┃Gas Station
+Inventory/voice/sub/경찰서┃Police Station
+Inventory/voice/sub/소방서┃Fire Station
+Inventory/voice/sub/창고┃Warehouse
+Inventory/voice/sub/공장┃Factory
+Inventory/voice/sub/숲┃Forest
+Inventory/voice/sub/항구┃Dock
+Inventory/voice/sub/병원┃Hospital
+Inventory/voice/sub/호텔┃Hotel
+Inventory/voice/sub/개울┃Stream
+Inventory/voice/sub/연못┃Pond
+Inventory/voice/sub/모래사장┃Beach
+Inventory/voice/sub/학교┃School
+Inventory/voice/sub/절┃Temple
+Inventory/voice/sub/고급주택가┃Uptown

@@ -1,0 +1,1 @@
+ToolTipType/ProportionLostHP┃Based on missing HP

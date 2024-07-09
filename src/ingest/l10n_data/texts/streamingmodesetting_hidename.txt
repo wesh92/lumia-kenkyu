@@ -1,0 +1,1 @@
+StreamingModeSetting/HideName┃Hide other players' nicknames except yours.

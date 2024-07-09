@@ -1,0 +1,1 @@
+StreamingModeSetting/CloseInvitePanel┃Create a team with the Invitation Panel disabled.\n The same applies to delegate team leaders.

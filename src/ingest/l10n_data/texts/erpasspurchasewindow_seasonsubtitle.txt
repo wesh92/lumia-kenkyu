@@ -1,0 +1,4 @@
+ERPassPurchaseWindow/SeasonSubTitle/10┃"A fun vacation is just getting started!"
+ERPassPurchaseWindow/SeasonSubTitle/11┃"Request accepted. We will now begin the Housekeeper service."
+ERPassPurchaseWindow/SeasonSubTitle/12┃Costume change! What do you think? Does it look good?
+ERPassPurchaseWindow/SeasonSubTitle/13┃"I want to keep this beautiful memory of the sea with all of you."

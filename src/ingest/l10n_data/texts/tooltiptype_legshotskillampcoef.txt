@@ -1,0 +1,1 @@
+ToolTipType/LegShotSkillAmpCoef┃Crippling Shot Skill Amplification Damage

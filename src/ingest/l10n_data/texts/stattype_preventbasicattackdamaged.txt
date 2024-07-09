@@ -1,0 +1,1 @@
+StatType/PreventBasicAttackDamaged┃Defense from Basic Attacks

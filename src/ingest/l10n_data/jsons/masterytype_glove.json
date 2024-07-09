@@ -1,0 +1,5 @@
+{
+    "Glove": "Glove",
+    "Desc": "Gloves have a short range, but you can extend that range when using their weapon skill.",
+    "Stats": "Equipping Gloves increases {0} by {1}\\n{2} by {3}\\n{4} by {5}"
+}

@@ -1,0 +1,1 @@
+StatType/SkillAmpRatioByLv┃Skill Amplification per level

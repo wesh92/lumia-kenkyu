@@ -1,0 +1,189 @@
+Tutorial/Announce/핵심1번/00┃These will be the settings you use most often. Click the button on the right when you're ready.
+Tutorial/Announce/핵심1번/01┃Right-click to move.
+Tutorial/Announce/핵심1번/02┃Open a box.
+Tutorial/Announce/핵심1번/03┃Click on the item to obtain it.
+Tutorial/Announce/핵심1번/04┃Combine two different materials to make a better item.\nYou can combine items by clicking the icon or using the Hotkey.
+Tutorial/Announce/핵심1번/05┃You can check your equipped items here.
+Tutorial/Announce/핵심1번/06┃Move along the designated path.
+Tutorial/Announce/핵심1번/07┃Try attacking the Wild Animals.
+Tutorial/Announce/핵심1번/08┃Use your skills to attack. Skills can be used by clicking on the icon or pressing the Hotkey.
+Tutorial/Announce/핵심1번/09┃Right-click Wild Animals to loot them after you slay them.
+Tutorial/Announce/핵심1번/10┃Hunt the remaining Wild Animals.
+Tutorial/Announce/핵심1번/11┃Take out your enemy.
+Tutorial/Announce/핵심1번/12┃You can loot items and equipment from dead enemies.\nIt doesn't matter if you killed them or someone else did.
+Tutorial/Announce/핵심1번/13┃When test subjects fight, pings appear on the Minimap. Head to where the fighting is and take out the enemy subject.
+Tutorial/Announce/핵심2번/00┃Every action you take increases your Mastery level.\nSkills get stronger and your level increases as your Mastery level goes up.
+Tutorial/Announce/핵심2번/01┃When encountering with a enemy test subject, press ALT to check their Mastery and see the difference between you and them.
+Tutorial/Announce/핵심2번/02┃Raise your Mastery level by being active.\n(Ex: Movement, Searching, Collecting, Crafting, Fighting)
+Tutorial/Announce/핵심2번/03┃New areas are restricted when Day and Night change. \nIf you remain in a restricted area too long, your experiment will be terminated.\nMove to a safe area.
+Tutorial/Announce/핵심2번/04┃You can use Weapon skills (D) when your Weapon Mastery reaches Level 5.
+Tutorial/Announce/핵심3번/00┃Saved Plans guide you to craft target items.
+Tutorial/Announce/핵심3번/01┃Target items have a <color=#93c9e7>yellow triangle</color>. Be on the lookout for it!
+Tutorial/Announce/핵심3번/02┃<color=#93c9e7>Open the boxes in the current area</color> to get the target items.
+Tutorial/Announce/핵심3번/03┃You have found all your target items in this area.
+Tutorial/Announce/핵심3번/04┃Use the Hyperloop to teleport to the next area.
+Tutorial/Announce/핵심3번/05┃Teleport to Factory by clicking the area on the map.
+Tutorial/Announce/핵심3번/06┃Open the Map(M) and <color=#93c9e7>travel to the next area</color> marked in your Saved Plan.
+Tutorial/Announce/핵심3번/07┃Air Supplies have arrived. Open the supply box and see what's inside.
+Tutorial/Announce/핵심3번/08┃You can see where Air Supplies are on the Minimap.
+Tutorial/Announce/핵심3번/09┃Your inventory is full. Craft some target items to make room.
+Tutorial/Announce/핵심3번/10┃Your inventory is full. <color=#93c9e7>Drop items without the yellow triangle.</color>\n(Drag item with mouse or [Ctrl] + Right-click to drop.)
+Tutorial/Announce/핵심3번/11┃Items without the yellow triangle are not your target items. Craft your target items first!
+Tutorial/Announce/핵심공통/00┃You will be revived during the training process. However, you will die in a real experiment. Be careful.
+Tutorial/Announce/핵심공통/01┃Recover HP and SP by eating, drinking, and resting.
+Tutorial/Announce/핵심공통/02┃Become the last survivor remaining to win. Check how many players still remain in the experiment.
+Tutorial/Announce/핵심공통/03┃You will be revived during the training process.\nYou will die when the Restricted Area counter reaches 0, so get out of there as quickly as you can.
+Tutorial/Announce/초급1번/00┃Successfully crafted a weapon!\nYou can check crafted equipment here.
+Tutorial/Announce/초급1번/01┃The wolves just keep coming...\nLooks like I need to prepare and take them out all at once.
+Tutorial/Announce/초급1번/02┃I'll use what you left. Thanks.
+Tutorial/Announce/초급1번/03┃All right, I think that's enough prep.\nTime to get out of here.
+Tutorial/Announce/초급1번/04┃Items with a <color=#93c9e7>yellow mark on the upper left</color> should be acquired first.
+Tutorial/Announce/초급1번/05┃You can <color=#93c9e7>acquire your Ultimate (R)</color> at Level 6.\nClick a displayed skill on the bottom to enhance it.
+Tutorial/Announce/초급1번/06┃With Yuki's E skill, you can charge at the wolves and attack first.
+Tutorial/Announce/초급1번/07┃Now's your chance!\nUse the R skill to wipe out the wolves.
+Tutorial/Announce/초급1번/08┃Use your skills to attack. Skills can be used by clicking on the icon or pressing the Hotkey.
+Tutorial/Announce/초급1번/09┃Right-click animals to loot them after you slay them.
+Tutorial/Announce/초급1/이벤트1/01┃Am I... the only one who made it?
+Tutorial/Announce/초급1/이벤트1/02┃How...
+Tutorial/Announce/초급1/이벤트1/03┃I need something to protect me, as soon as possible...
+Tutorial/Announce/초급1/이벤트2/01┃This is why the wolves went wild. They could feel the threat.
+Tutorial/Announce/초급1/이벤트2/02┃It hasn't been dead long. These wounds... they look familiar...
+Tutorial/Announce/초급1/이벤트2/03┃Jackie... I'm sure that axe-wielding woman is around here somewhere.
+Tutorial/Announce/초급1/이벤트2/04┃...I need to finish this.
+Tutorial/Announce/초급1/이벤트3/버니스01┃"Survivors"?\nI thought those "two women" wiped out everyone around here.
+Tutorial/Announce/초급1/이벤트3/유키02┃"Those two women"?\nWas one of them holding an axe?
+Tutorial/Announce/초급1/이벤트3/버니스03┃Well, since you're alone, they must have beaten you too.
+Tutorial/Announce/초급1/이벤트3/버니스04┃I'll kill them for you, but in exchange I want some supplies.
+Tutorial/Announce/초급1/이벤트3/유키05┃...do you really believe I can't do it alone?
+Tutorial/Announce/초급1/이벤트3/버니스06┃Prove yourself if you're so confident. \nI won't stop you.
+Tutorial/Announce/초급1/이벤트4/라우라01┃You really tried to hit me from behind.\nToo afraid to fight face-to-face?
+Tutorial/Announce/초급1/이벤트4/재키03┃Nah, you're just getting on my nerves.\nLiving off me like a parasite.
+Tutorial/Announce/초급1/이벤트4/라우라05┃So you're trying to kill me? So overconfident.\nYou know I'm the one who knows you best on this island.
+Tutorial/Announce/초급1/이벤트4/재키06┃I don't care. \nYou're still a parasite I need to get rid off.
+Tutorial/Announce/초급1/이벤트5/재키01_1┃Hey, I know you!
+Tutorial/Announce/초급1/이벤트5/재키01_2┃I knew you'd surprise me...
+Tutorial/Announce/초급1/이벤트5/재키02┃But..tell me...\nDid you have as much fun as I did?
+Tutorial/Announce/초급1/이벤트5/유키03┃I have no reason to answer you.
+Tutorial/Announce/초급1/큰목표1┃Survival Basics
+Tutorial/Announce/초급1/큰목표2┃Battle Basics
+Tutorial/Announce/초급1/큰목표3┃Battle with Test Subjects
+Tutorial/Announce/초급1/큰목표4┃Jackie and Laura
+Tutorial/Announce/초급1/작은목표1-1┃Open a box
+Tutorial/Announce/초급1/작은목표1-2┃Obtain an item
+Tutorial/Announce/초급1/작은목표1-3┃Craft a Katana
+Tutorial/Announce/초급1/작은목표1-4┃Craft Heelys
+Tutorial/Announce/초급1/작은목표2-1┃Slay wolves
+Tutorial/Announce/초급1/작은목표2-2┃Acquire Ultimate (R Skill)
+Tutorial/Announce/초급1/작은목표2-3┃Use the R Skill to slay the wolves
+Tutorial/Announce/초급1/작은목표2-4┃Craft an Arondight
+Tutorial/Announce/초급1/작은목표3-1┃Eliminate Bernice
+Tutorial/Announce/초급1/작은목표3-2┃Eliminate Jackie and Laura
+Tutorial/Announce/초급2번/00┃Nice, I got everything I needed here.\nLet's go to the next area.
+Tutorial/Announce/초급2번/01┃A surprise attack... I need to be prepared for anything.
+Tutorial/Announce/초급2번/02┃I'm sorry, there was no other way.
+Tutorial/Announce/초급2번/03┃I think I've become used to it now.
+Tutorial/Announce/초급2번/04┃I won't lose. Not anymore.
+Tutorial/Announce/초급2번/05┃Bears are the strongest wild animals. We recommend waiting until you have <color=#93c9e7>Blue Rarity Weapons or higher</color> before fighting them, or you're sure to lose.
+Tutorial/Announce/초급2번/06┃Items marked in yellow are necessary materials needed to make the target items.
+Tutorial/Announce/초급2번/07┃I hope the fight was worth it.
+Tutorial/Announce/초급2/이벤트1/혜진01┃You did nothing wrong. It was just bad luck...
+Tutorial/Announce/초급2/이벤트1/혜진02┃You can rest in peace now.
+Tutorial/Announce/초급2/이벤트1/혜진03┃I need to supplement my equipment first.
+Tutorial/Announce/초급2/이벤트2/혜진01┃This machine is great for long distance travel.
+Tutorial/Announce/초급2/이벤트2/혜진02┃I feel a little light-headed, but I don't have the time to rest.
+Tutorial/Announce/초급2/이벤트2/혜진03┃I should be able to find materials around here.
+Tutorial/Announce/초급2/이벤트3/혜진01┃Did... I win? I think I did.
+Tutorial/Announce/초급2/이벤트3/혜진02┃I'm tired. Let me rest for a bit.
+Tutorial/Announce/초급2/이미지가이드1/제목┃Air Supply Box
+Tutorial/Announce/초급2/이미지가이드1/내용┃Air Supply Boxes sometimes fall around Lumia Island.\nAir Supply Boxes contain <color=#93c9e7>equipment or consumables</color> that are the same rarity as the box.\n\nThe place where Air Supply Boxes drop is <color=#93c9e7>displayed with a Box Mark for a short amount of time before it falls</color>, so consult your map and go get it!
+Tutorial/Announce/초급2/이미지가이드2/제목┃Security Console Monitor
+Tutorial/Announce/초급2/이미지가이드2/내용┃Security Consoles can be found all around Lumia Island. If you hack into them, <color=#93c9e7>you can find out what's going on around the island through the CCTV.</color>\nYou can also check the amount of materials remaining in that area.
+Tutorial/Announce/초급2/큰목표1┃Farming is First
+Tutorial/Announce/초급2/큰목표2┃Hyperloop
+Tutorial/Announce/초급2/큰목표3┃Search the Factory
+Tutorial/Announce/초급2/큰목표4┃A Gift from Heaven
+Tutorial/Announce/초급2/큰목표5┃Search the Dock and Warehouse
+Tutorial/Announce/초급2/큰목표6┃Complete the Target Item
+Tutorial/Announce/초급2/큰목표7┃Last Man Standing
+Tutorial/Announce/초급2/작은목표1-1┃Craft an Oilcloth
+Tutorial/Announce/초급2/작은목표1-2┃Obtain a target item (in Uptown)
+Tutorial/Announce/초급2/작은목표2-1┃Move to Factory using the Hyperloop
+Tutorial/Announce/초급2/작은목표3-1┃Craft White Rhinos
+Tutorial/Announce/초급2/작은목표3-2┃Obtain all target items in Factory
+Tutorial/Announce/초급2/작은목표3-3┃Slay Wolves or Wild Dogs to obtain leather
+Tutorial/Announce/초급2/작은목표3-4┃Move to Dock
+Tutorial/Announce/초급2/작은목표4-1┃Open a supply box
+Tutorial/Announce/초급2/작은목표4-2┃Craft a Failnaught
+Tutorial/Announce/초급2/작은목표5-1┃Craft an Optical Camouflage Suit
+Tutorial/Announce/초급2/작은목표5-2┃Obtain all target items in Dock and Warehouse
+Tutorial/Announce/초급2/작은목표5-3┃Eliminate enemies
+Tutorial/Announce/초급2/작은목표5-4┃Hack the Security Console to gain CCTV vision
+Tutorial/Announce/초급2/작은목표5-5┃Move to Chapel
+Tutorial/Announce/초급2/작은목표6-1┃Eliminate Luke in front of Chapel
+Tutorial/Announce/초급2/작은목표6-2┃Complete crafting all target items.
+Tutorial/Announce/초급2/작은목표7-1┃Eliminate the last enemy inside Chapel
+Tutorial/Announce/초급3번/00┃If you come across an enemy, the very first thing you should do is check to see <color=#93c9e7>if they are weaker or stronger than you.</color>
+Tutorial/Announce/초급3번/01┃When you left-click on an enemy test subject, you can check the display that appears in the top left corner of the screen to see <color=#93c9e7> enemy's level, equipment, etc.</color>, then compare it to your current levels.
+Tutorial/Announce/초급3번/02┃I think you can fight this opponent. \nBut don't let your guard down! You won't always have this kind of luck.\nIf you meet someone stronger than you, don't hesitate to run away.
+Tutorial/Announce/초급3번/04┃With that...\nI can make something to help me survive.
+Tutorial/Announce/초급3번/05┃I'm sorry, it couldn't be helped.\nI owe my friend my life.
+Tutorial/Announce/초급3번/07┃If you have a Fountain Pen, you can craft the Legendary weapon, Dyadic Prism.\nYou can't find it here, but you can get it by <color=#93c9e7>collecting Credits and using a Remote Drone.</color>
+Tutorial/Announce/초급3번/08┃You get Credits for slaying Mutant Wild Animals.\nNow that you have enough credits, <color=#93c9e7>right-click the Fountain Pen in the target item window</color> in the upper right corner and call a Remote Drone.
+Tutorial/Announce/초급3번/08-2┃Click on the Fountain Pen.
+Tutorial/Announce/초급3번/09┃There's nothing left to do but fight.\nI can't let Nicky's sacrifice be in vain.
+Tutorial/Announce/초급3번/10┃All test subjects grow stronger by building their Mastery.\nClick the V Key or the Guide button to check your Mastery.
+Tutorial/Announce/초급3번/11┃Eva has telekinesis abilities, so she can control items at a distance.
+Tutorial/Announce/초급3번/12┃This warning...\nIt means I need to get out of here quickly!
+Tutorial/Announce/초급3번/13┃Consult your minimap and move to the final safe zone.
+Tutorial/Announce/초급3번/14┃Added Dyadic Prism as the target item.
+Tutorial/Announce/초급3번/15┃Stones are items that can easily be found in various places.\nFind and gather Stones nearby.
+Tutorial/Announce/초급3/이벤트1/이바1┃Nicky...
+Tutorial/Announce/초급3/이벤트1/이바2┃No, I don't have time to grieve. I need to keep going...
+Tutorial/Announce/초급3/이벤트2/아이솔01┃Rozzi, I found a meteorite. \nI'll get what we need and come back.
+Tutorial/Announce/초급3/이벤트2/아이솔02┃Wait. I'm not alone. I'll deal with it and get back to you.
+Tutorial/Announce/초급3/이벤트3/이바1┃This should be enough...
+Tutorial/Announce/초급3/이벤트3/로지2┃Hold up. \nYou smell familiar.
+Tutorial/Announce/초급3/이벤트3/로지3┃ It's Gunpowder...You were the one fighting here, weren't you?
+Tutorial/Announce/초급3/이벤트3/로지4┃I had an appointment here.
+Tutorial/Announce/초급3/이벤트3/이바5┃Was that... your friend?\nI'm sorry, I didn't...
+Tutorial/Announce/초급3/이벤트3/로지6┃He was not "my friend". He was just my business partner.
+Tutorial/Announce/초급3/이벤트3/로지7┃Blood can only be repaid with blood. \nYour life for his.
+Tutorial/Announce/초급3/이벤트4/로지1┃I admit it. You're tenacious. \nWhat are you fighting so hard for?
+Tutorial/Announce/초급3/이벤트4/이바2┃I made my partner a promise, too. \nThat her sacrifice wouldn't be in vain.
+Tutorial/Announce/초급3/이벤트4/로지3┃Then make sure you keep that promise \nand her death won't be in vain.
+Tutorial/Announce/초급3/이벤트4/이바4┃Nicky... I kept my promise...
+Tutorial/Announce/초급3/이벤트4/이바5┃I'm so tired. A short break should be okay... right?
+Tutorial/Announce/초급3/이미지가이드1/제목┃Mastery
+Tutorial/Announce/초급3/이미지가이드1/내용1┃Everything a test subject does increases their Mastery.\nFor example, combining items increases Crafting Mastery, and opening item boxes increases Search Mastery.\n\nBy raising Mastery, test subject levels will increase and their skills will grow stronger.
+Tutorial/Announce/초급3/이미지가이드1/내용2┃Out of all the available Masteries, the most important is <color=#93c9e7>Weapon Mastery.</color> By raising Weapon Mastery, <color=#93c9e7>Attack Power and Attack Speed also increase.</color> At Weapon Mastery levels <color=#93c9e7>5, 10 and 15, you can increase Weapon Skills by 1 Level each</color>.\nYou can raise Weapon Mastery by crafting Weapons, <color=#93c9e7>attacking other test subjects, or hunting Wild Animals.</color>
+Tutorial/Announce/초급3/VPAD가이드1/제목┃Mastery
+Tutorial/Announce/초급3/VPAD가이드1/내용┃· Everything a test subject does increases their Mastery.\n· By raising Mastery, test subject levels will increase and their skills will grow stronger.\n·  At Weapon Mastery levels <color=#93c9e7>5, 10 and 15, you can increase Weapon Skills by 1 level each</color>.\n· You can raise Weapon Mastery by <color=#8FDBF8>crafting Weapons</color>, <color=#8FDBF8>attacking other test subjects</color>, or <color=#8FDBF8>hunting Wild Animals</color>.
+Tutorial/Announce/초급3/VPAD가이드2/제목┃Tactical Skills
+Tutorial/Announce/초급3/VPAD가이드2/내용┃· You can enhance Tactical Skills by <color=#8FDBF8>spending Credits</color>.\n· <color=#8FDBF8>Level 3 upgrade</color> requires a <color=#8FDBF8>Tac. Skil Module</color>.\n· You can purchase a <color=#8FDBF8>Tac. Skill Module</color> with <color=#8FDBF8>Credits at Kiosks</color>.
+Tutorial/Announce/초급3/VPAD가이드3/제목┃Target Items
+Tutorial/Announce/초급3/VPAD가이드3/내용┃· You can see a <color=#8FDBF8>list of the material items</color> registered in the Saved Plan.\n· When you <color=#8FDBF8>Left-click the target item</color>, you'll see the <color=#8FDBF8>Item crafting tree</color>.\n· You can <color=#8FDBF8>right-click on the sub-material item</color> to <color=#8FDBF8>to spend Credits and instantly acquire it</color> in the Item crafting tree.
+Tutorial/Announce/초급3/이미지가이드2/제목┃Meteorite and Tree of Life
+Tutorial/Announce/초급3/이미지가이드2/내용┃Meteorites and Tree of Life are very rare materials used to craft <color=#93c9e7>Legendary Items</color>.\n\nBoth items spawn and can be found in certain locations at specific times.\n\n<color=#93c9e7>You can check when and where both items will spawn by pressing the Tab key and checking the window to the left.</color>\n\n(You can check even if the Map (M key) is open.)
+Tutorial/Announce/초급3/이미지가이드3/제목┃Credits
+Tutorial/Announce/초급3/이미지가이드3/내용1┃You can easily purchase needed ingredients by using Credits.\n\n<color=#93c9e7>Right-click the materials you want in the Target Item Window on the top right of the screen</color>, then use your credits to get the item you need.
+Tutorial/Announce/초급3/이미지가이드3/내용2┃Items that can be obtained with Credits are displayed in yellow in the upper righthand corner of the screen.
+Tutorial/Announce/초급3/이미지가이드3/내용3┃You get Credits by slaying Wild Animals. <color=#93c9e7>Slaying Mutant Wild Animals will make you especially rich!</color>\n\nYou can check how many Credits you have in the bottom center of the screen.
+Tutorial/Announce/초급3/큰목표1┃Restricted Zone
+Tutorial/Announce/초급3/큰목표2┃The Power to Become Stronger
+Tutorial/Announce/초급3/큰목표3┃Something in the Sky
+Tutorial/Announce/초급3/큰목표4┃Craft a Legendary Item
+Tutorial/Announce/초급3/큰목표5┃To the Last Area
+Tutorial/Announce/초급3/큰목표6┃The Final Battle
+Tutorial/Announce/초급3/작은목표1-1┃Move to Stream
+Tutorial/Announce/초급3/작은목표2-1┃Eliminate Chloe
+Tutorial/Announce/초급3/작은목표2-2┃Make a weapon with Level 6 Mastery
+Tutorial/Announce/초급3/작은목표2-3┃Equip all the target items
+Tutorial/Announce/초급3/작은목표3-1┃Obtain Meteorite
+Tutorial/Announce/초급3/작은목표3-2┃Eliminate Isol
+Tutorial/Announce/초급3/작은목표3-3┃Pick up the target item from Isol's body
+Tutorial/Announce/초급3/작은목표4-1┃Slay the mutant wild animals to obtain credits
+Tutorial/Announce/초급3/작은목표4-2┃Use Credits to obtain a Fountain Pen
+Tutorial/Announce/초급3/작은목표4-3┃Craft Dyadic Prism
+Tutorial/Announce/초급3/작은목표5-1┃Move to the final safe zone
+Tutorial/Announce/초급3/작은목표5-2┃Eliminate the different test subjects
+Tutorial/Announce/초급3/작은목표6-1┃Eliminate Rozzi

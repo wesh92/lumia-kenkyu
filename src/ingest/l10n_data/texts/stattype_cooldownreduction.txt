@@ -1,0 +1,2 @@
+StatType/CooldownReduction┃Cooldown Reduction
+StatType/CooldownReduction/Desc┃Allows you to use your skills more often.\nReduction is capped at {0}%.

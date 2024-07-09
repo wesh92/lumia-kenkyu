@@ -1,0 +1,9 @@
+Ping/Tactical/Warning┃Enemy Traces
+Ping/Tactical/Escape┃Danger!
+Ping/Tactical/Help┃Help!
+Ping/Tactical/Run┃On my way
+Ping/Tactical/LetsJoin┃Join up!
+Ping/Tactical/EnemyVision┃Enemy Spotted
+Ping/Tactical/NeedVision┃Ally Vision
+Ping/Tactical/AllIn┃Attack
+Ping/Tactical/Select┃Signal

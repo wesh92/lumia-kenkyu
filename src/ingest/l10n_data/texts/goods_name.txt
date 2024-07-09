@@ -1,0 +1,426 @@
+Goods/Name/1304001┃ER Point
+Goods/Name/1601001┃None
+Goods/Name/1604001┃Snowman but mad
+Goods/Name/1604002┃Candy Cane
+Goods/Name/1604003┃Gingerbread Man
+Goods/Name/1604004┃Flowery Vase
+Goods/Name/1604005┃Floral Grave
+Goods/Name/1604006┃Snow Bunnies
+Goods/Name/1604007┃Snowman
+Goods/Name/1604008┃Christmas Tree
+Goods/Name/1604009┃Shadow Beast
+Goods/Name/1604010┃Totem Pole
+Goods/Name/1604011┃Librarian
+Goods/Name/1604012┃R.I.P :(
+Goods/Name/1604013┃Gargoyle
+Goods/Name/1604014┃Isol's Shovel
+Goods/Name/1604015┃Beach Ball
+Goods/Name/1604016┃Sand Castle
+Goods/Name/1604017┃No Touching
+Goods/Name/1604018┃Cocktail
+Goods/Name/1604019┃Palm Tree
+Goods/Name/1604020┃Parasol
+Goods/Name/1604021┃Neon Signs
+Goods/Name/1604022┃Holographic Spirit
+Goods/Name/1604023┃GAME OVER
+Goods/Name/1604024┃Retro Slot
+Goods/Name/1604025┃Dead End Ahead
+Goods/Name/1604026┃Patient Monitor
+Goods/Name/1604027┃Li Dailin's Lunch Bag
+Goods/Name/1604028┃Sweet Beast Hyunwoo's Meat
+Goods/Name/1604029┃Retro Robot
+Goods/Name/1604030┃Building Blocks
+Goods/Name/1604031┃Sleeping Bear
+Goods/Name/1604032┃Safety Precautions
+Goods/Name/1604033┃Baggage Tag
+Goods/Name/1604034┃Lifebuoy Ring
+Goods/Name/1604035┃Cooler Box
+Goods/Name/1604036┃Flamingo Tube
+Goods/Name/1604037┃Pineapple
+Goods/Name/1604038┃Surfboard
+Goods/Name/1604039┃Tea Cart
+Goods/Name/1604040┃Laundry Basket
+Goods/Name/1604041┃Dessert Tray
+Goods/Name/1604042┃Vacuum Cleaner
+Goods/Name/1604043┃Rose Pot
+Goods/Name/1604044┃Cleaning Rack
+Goods/Name/1604045┃Irex Walkie-Talkie
+Goods/Name/1604046┃Wardrobe Rack
+Goods/Name/1604047┃Signpost
+Goods/Name/1604048┃Boar Kiddie Ride
+Goods/Name/1604049┃Hyunwoo's Photo Stand-in
+Goods/Name/1604050┃Nicky Punch Machine
+Goods/Name/1604051┃A Whale's Blow
+Goods/Name/1604052┃KO Crab
+Goods/Name/1604053┃Pile of Sand
+Goods/Name/1612001┃Plague Doc
+Goods/Name/1612002┃Curiosity Killed the Cat
+Goods/Name/1612003┃Overvolt
+Goods/Name/1612004┃Magic Crush Adela
+Goods/Name/1612005┃Summer Party Magician
+Goods/Name/1612006┃Fiora's Omelette
+Goods/Name/1612007┃Wickeline's Syringe
+Goods/Name/1612008┃Sunset Coconut
+Goods/Name/1501001┃None
+Goods/Name/1502001┃Magical Girl Rio
+Goods/Name/1503001┃Christmas Tree
+Goods/Name/1503002┃Snowman but mad
+Goods/Name/1503003┃Gingerbread Man
+Goods/Name/1503004┃Candy Cane
+Goods/Name/1503005┃Tasty Carp Bread
+Goods/Name/1503006┃Yule Log
+Goods/Name/1503007┃Winner Winner
+Goods/Name/1503008┃Smiling Tiger
+Goods/Name/1503009┃TigerNation
+Goods/Name/1503010┃GEN.G
+Goods/Name/1503011┃Corn Pops
+Goods/Name/1503012┃Gen.G ERCC
+Goods/Name/1503013┃Naver Game Lounge Spray
+Goods/Name/1503014┃Lotus Wilson
+Goods/Name/1503015┃Lumialand Felix Flower
+Goods/Name/1503016┃I love Boogi
+Goods/Name/1503017┃Cheer up Boogi
+Goods/Name/1503018┃Big Snacc Wilson
+Goods/Name/1503019┃Floaty Wilson
+Goods/Name/1503020┃Tropical Party Wilson
+Goods/Name/1503021┃Popo rolling out!
+Goods/Name/1503022┃Meow you doin'?
+Goods/Name/1503023┃Sparky_smirky
+Goods/Name/1503024┃Sparky_chill
+Goods/Name/1503025┃Sparky_wonder
+Goods/Name/1503026┃Sparky_angry
+Goods/Name/1503027┃It's EleVen!
+Goods/Name/1503028┃Valentine's Gift Box
+Goods/Name/1503029┃Sweet Valentine Eva Gift
+Goods/Name/1503030┃Dizzy Sua
+Goods/Name/1503031┃Ghostly Grin Ly Anh
+Goods/Name/1503032┃Dream World Vanya
+Goods/Name/1503033┃Magnus SUCKER PUNCH!
+Goods/Name/1503034┃Jan-stoppable!
+Goods/Name/1503035┃Blood Queen
+Goods/Name/1503036┃Hold up, Elena!
+Goods/Name/1503037┃Eleven's Dream Burger!
+Goods/Name/1503038┃Eleven Nom Nom~
+Goods/Name/1503039┃Eleven SLUUURP!
+Goods/Name/1503040┃Johann on the Hunt
+Goods/Name/1503041┃Camilo's Love Confession
+Goods/Name/1503042┃Trapped in the Nightmare
+Goods/Name/1503043┃I Won't Be Meow-ciful!
+Goods/Name/1503044┃Cheesin' Nicky
+Goods/Name/1503045┃Ragin' Nicky
+Goods/Name/1504001┃Taunty Holiday Heart
+Goods/Name/1504002┃BIG Match
+Goods/Name/1504003┃Wreath of... Victory?
+Goods/Name/1504004┃Mistletoe of Life
+Goods/Name/1504005┃Santa Meiji
+Goods/Name/1504006┃Nadja Clause
+Goods/Name/1504007┃Christmas Present
+Goods/Name/1504008┃Snowman Wilson
+Goods/Name/1504009┃Meteorite Yoink!
+Goods/Name/1504010┃I'm.. afraid of ghosts!
+Goods/Name/1504011┃Exorcism
+Goods/Name/1504012┃Happy Lil' Ghost
+Goods/Name/1504013┃Devil Wilson
+Goods/Name/1504014┃DEATH
+Goods/Name/1504015┃Tree secured!
+Goods/Name/1504016┃Surprise!
+Goods/Name/1504017┃The Big Sip
+Goods/Name/1504018┃Weeping Watermelon
+Goods/Name/1504019┃Rio's Ice Cream
+Goods/Name/1504020┃Traffic Light
+Goods/Name/1504021┃RIP Alpha
+Goods/Name/1504022┃RIP Omega
+Goods/Name/1504023┃Ready to sing?
+Goods/Name/1504024┃Neon Taunty
+Goods/Name/1504025┃Disco Nights
+Goods/Name/1504026┃Futuristic Surgery
+Goods/Name/1504027┃Borgir
+Goods/Name/1504028┃Sleeping Bear
+Goods/Name/1504029┃Give Li Dailin a rice cake!
+Goods/Name/1504030┃Sleep Mask
+Goods/Name/1504031┃Tia's Squirrel in PJs
+Goods/Name/1504032┃WARNING
+Goods/Name/1504033┃No swimming
+Goods/Name/1504034┃Treasure Map
+Goods/Name/1504035┃Wickeline Slays
+Goods/Name/1504036┃Flippers
+Goods/Name/1504037┃Furricane Heat
+Goods/Name/1504038┃Cruise Tour
+Goods/Name/1504039┃Aya, that's a no-no!
+Goods/Name/1504040┃Mansion Security Guard
+Goods/Name/1504041┃Aya's Weapon Basket
+Goods/Name/1504042┃Cleaning Lumia
+Goods/Name/1504043┃We've got enemies up ahead.
+Goods/Name/1504044┃Storm Lantern
+Goods/Name/1504045┃Widriana Molotov Cocktail
+Goods/Name/1504046┃Fish Necktie
+Goods/Name/1504047┃Camilo Rose
+Goods/Name/1504048┃Tomato Juice
+Goods/Name/1504049┃Widriana Snap!
+Goods/Name/1504050┃Bianca Snooze...
+Goods/Name/1504051┃Eva's Coconut Water
+Goods/Name/1504052┃Li Dailin's Panda
+Goods/Name/1504053┃Vanya's Star
+Goods/Name/1503046┃Aiden Solved It
+Goods/Name/1503047┃Nathapunbelievable!!
+Goods/Name/1503048┃Bring Lenox the Booty!
+Goods/Name/1503049┃Priya's Serenade
+Goods/Name/1503050┃Under Attack
+Goods/Name/1503051┃Want a bite?
+Goods/Name/1503052┃Say cheese!
+Goods/Name/1503053┃Adiós... Alonso
+Goods/Name/1503054┃Delicioso!
+Goods/Name/1503055┃Time's Ticking!
+Goods/Name/1503056┃A Sweet Present
+Goods/Name/1503057┃An Unbreakable Heart
+Goods/Name/1401051┃Default (Korean)
+Goods/Name/1401052┃Default (English)
+Goods/Name/1401053┃Default (Japanese)
+Goods/Name/1401021┃Echoes of Survival (Korean)
+Goods/Name/1404011┃Esports Caster (Japanese)
+Goods/Name/1404012┃Esports Caster (Korean)
+Goods/Name/1404013┃Aesop Announcer (English)
+Goods/Name/1404021┃Rio Announcer (Korean)
+Goods/Name/1404022┃Rio Announcer (English)
+Goods/Name/1404023┃Rio Announcer (Japanese)
+Goods/Name/1404031┃Felix Announcer (Korean)
+Goods/Name/1404032┃Felix Announcer (English)
+Goods/Name/1404033┃Felix Announcer (Japanese)
+Goods/Name/1404041┃Adina Announcer (Korean)
+Goods/Name/1404042┃Adina Announcer (English)
+Goods/Name/1404043┃Adina Announcer (Japanese)
+Goods/Name/1404051┃Luke Announcer (Korean)
+Goods/Name/1404052┃Luke Announcer (English)
+Goods/Name/1404053┃Luke Announcer (Japanese)
+Goods/Name/1404061┃Barbara Announcer (Korean)
+Goods/Name/1404062┃Barbara Announcer (English)
+Goods/Name/1404063┃Barbara Announcer (Japanese)
+Goods/Name/1404071┃Piolo Announcer (Korean)
+Goods/Name/1404072┃Piolo Announcer (English)
+Goods/Name/1404073┃Piolo Announcer (Japanese)
+Goods/Name/1404081┃Isaac Announcer (Korean)
+Goods/Name/1404082┃Isaac Announcer (English)
+Goods/Name/1404083┃Isaac Announcer (Japanese)
+Goods/Name/1404091┃Li Dailin Announcer (Korean)
+Goods/Name/1404092┃Li Dailin Announcer (English)
+Goods/Name/1404093┃Li Dailin Announcer (Japanese)
+Goods/Name/1404101┃Debi & Marlene (Korean)
+Goods/Name/1404102┃Debi & Marlene (English)
+Goods/Name/1404103┃Debi & Marlene (Japanese)
+Goods/Name/1404111┃Shoichi Announcer(Korean)
+Goods/Name/1404112┃Shoichi Announcer (English)
+Goods/Name/1404113┃Shoichi Announcer (Japanese)
+Goods/Name/1404121┃Daniel Announcer (Korean)
+Goods/Name/1404122┃Daniel Announcer (English)
+Goods/Name/1404123┃Daniel Announcer (Japanese)
+Goods/Name/1404131┃Nicky Announcer (Korean)
+Goods/Name/1404132┃Nicky Announcer (English)
+Goods/Name/1404133┃Nicky Announcer (Japanese)
+Goods/Name/1404141┃Irem Announcer (Korean)
+Goods/Name/1404142┃Irem Announcer (English)
+Goods/Name/1404143┃Irem Announcer (Japanese)
+Goods/Name/1404151┃Camilo Announcer (Korean)
+Goods/Name/1404152┃Camilo Announcer (English)
+Goods/Name/1404153┃Camilo Announcer (Japanese)
+Goods/Name/1406001┃Caster Sia Announcer (Korean)
+Goods/Name/1406011┃Caster Shin Il Announcer (Korean)
+Goods/Name/1406021┃Evis & Gold Blin Announcer (Korean)
+Goods/Name/1406031┃Kim In Yeong & NongRoute (Korean)
+Goods/Name/1404161┃Johann Announcer (Korean)
+Goods/Name/1404162┃Johann Announcer (English)
+Goods/Name/1404163┃Johann Announcer (Japanese)
+Goods/Name/1404171┃Bianca Announcer (Korean)
+Goods/Name/1404172┃Bianca Announcer (English)
+Goods/Name/1404173┃Bianca Announcer (Japanese)
+Goods/Name/1701001┃Default
+Goods/Name/1701002┃Eternal World (Korean)
+Goods/Name/1701003┃Eternal World (Instrumental)
+Goods/Name/1703001┃Intro BGM
+Goods/Name/1704001┃Introducing Emma, The Magnificent!
+Goods/Name/1704002┃Introducing Emma, The Magnificent! (Inst.)
+Goods/Name/1799999┃None
+Goods/Name/2501001┃Default Drone
+Goods/Name/2504001┃Raven
+Goods/Name/2504002┃Will O' Wisp
+Goods/Name/2504003┃Fireworks
+Goods/Name/2504004┃Parachute
+Goods/Name/2504005┃Levitating Drone
+Goods/Name/2504006┃Mechanical Butterfly
+Goods/Name/2504007┃UFO
+Goods/Name/2504008┃Helicopter
+Goods/Name/2504009┃Dark Clouds
+Goods/Name/2504010┃Octopus Balloon
+Goods/Name/2504011┃Chandelier
+Goods/Name/2504012┃Today's Dish
+Goods/Name/2504013┃Gamma Drone
+Goods/Name/2504014┃Widriana Drone
+Goods/Name/2504015┃Shell Pearl Drone
+Goods/Name/2504016┃Electric Jellyfish Drone
+Goods/Name/2601001┃Default Camera
+Goods/Name/2604001┃Village Ward
+Goods/Name/2604002┃All Seeing Eye
+Goods/Name/2604003┃Beach Totem
+Goods/Name/2604004┃Lighthouse
+Goods/Name/2604005┃360° Camera
+Goods/Name/2604006┃Big Brother
+Goods/Name/2604007┃Sleeping Light
+Goods/Name/2604008┃Penguin
+Goods/Name/2604009┃Submarine Periscope
+Goods/Name/2604010┃Electric Fan
+Goods/Name/2604011┃Watching Cat
+Goods/Name/2604012┃Surveillance Vase
+Goods/Name/2604013┃Crystal Ball of Fate
+Goods/Name/2604014┃Music Box Camilo
+Goods/Name/2604015┃Seagull on Duty
+Goods/Name/2604016┃Octopus Lantern
+Goods/Name/2701000┃Random
+Goods/Name/2701001┃Eternal World
+Goods/Name/2701004┃The Experiment Begins
+Goods/Name/2702001┃Emma's Magic Show
+Goods/Name/2703001┃Alley
+Goods/Name/2703002┃Factory
+Goods/Name/2703003┃Forest
+Goods/Name/2703004┃Temple
+Goods/Name/2703005┃Dock
+Goods/Name/2703006┃Hotel
+Goods/Name/2703007┃Urge to Kill
+Goods/Name/2703008┃Ghost Island
+Goods/Name/2703009┃The Wildcard
+Goods/Name/2703010┃Doppelgänger
+Goods/Name/2703011┃Wolf in Sheep's Clothing
+Goods/Name/2703012┃Variable
+Goods/Name/2703013┃Hunter's Night
+Goods/Name/2704005┃Ghostly Presence
+Goods/Name/2704006┃Beachside Splash
+Goods/Name/2704007┃Neon Aftershock
+Goods/Name/2704008┃Slumber Party
+Goods/Name/2704009┃Class of '23
+Goods/Name/2704010┃VACANCE
+Goods/Name/2704011┃Battle Maids
+Goods/Name/2704012┃Change
+Goods/Name/2704013┃Sunset
+Goods/Name/2801001┃Unwavering
+Goods/Name/2804001┃Legend
+Goods/Name/2804002┃Last Isol Standing
+Goods/Name/2804003┃Mark of Fate
+Goods/Name/2804004┃Mark of the Fallen
+Goods/Name/2804005┃Obsessive Gaze
+Goods/Name/2804006┃Cactus
+Goods/Name/2804007┃Sole Survivor Hyunwoo
+Goods/Name/2804008┃Last Zahir Standing
+Goods/Name/2804009┃Lone Lenox
+Goods/Name/2804010┃Lone Cathy
+Goods/Name/2804011┃Cube
+Goods/Name/2804012┃Healing
+Goods/Name/2804013┃Boar
+Goods/Name/2804014┃Shiba Inu
+Goods/Name/2804015┃Tiger
+Goods/Name/2804016┃Unicorn
+Goods/Name/2804017┃Trident
+Goods/Name/2804018┃Shark
+Goods/Name/2804019┃Palm Tree
+Goods/Name/2804020┃Anchor
+Goods/Name/2804021┃Aristocrat
+Goods/Name/2804022┃Housekeepers
+Goods/Name/2804023┃White Rose
+Goods/Name/2804024┃Target
+Goods/Name/2804025┃Irex Cat
+Goods/Name/2804026┃Widriana Logo
+Goods/Name/2804027┃Bestelle Shield
+Goods/Name/2804028┃Sewing Tools
+Goods/Name/2804029┃Eva's Flower
+Goods/Name/2804030┃Li Dailin's Booze
+Goods/Name/2804031┃Vanya's Butterfly
+Goods/Name/3401001┃Default Team Slot BG
+Goods/Name/3402001┃Holiday Teddy Bear
+Goods/Name/3403001┃Mechanical Circuit
+Goods/Name/3403002┃Starry Night
+Goods/Name/3403003┃Autumn Leaves
+Goods/Name/3403004┃Happy Holidays
+Goods/Name/3403005┃A Bright Start To The New Year
+Goods/Name/3403006┃2024 Blue Dragon's Blessings
+Goods/Name/3403007┃Golden New Year
+Goods/Name/3403008┃Spirit Hunter Yuki
+Goods/Name/3403009┃Wanted!
+Goods/Name/3419001┃Snowflake
+Goods/Name/3503001┃[N] Collection Item
+Goods/Name/3503002┃[E] Collection Item
+Goods/Name/3503003┃[W] Collection Item
+Goods/Name/3503004┃[2] Collection Item
+Goods/Name/3503005┃[0] Collection Item
+Goods/Name/3503006┃[2] Collection Item
+Goods/Name/3503007┃[4] Collection Item
+Goods/Name/3503008┃White Flower
+Goods/Name/3503009┃Green Flower
+Goods/Name/3503010┃Blue Flower
+Goods/Name/3503011┃Purple Flower
+Goods/Name/3503012┃Yellow Flower
+Goods/Name/3503013┃Debi's Card
+Goods/Name/3503014┃Marlene's Card
+Goods/Name/3503015┃Debi & Marlene's Card
+Goods/Name/3102001┃Skin Data Box
+Goods/Name/3102002┃Research Center Data Box
+Goods/Name/3102003┃Daily Box
+Goods/Name/3102004┃Daily Mission Random Box
+Goods/Name/3102005┃Random Uncommon/Rare Skin Voucher
+Goods/Name/3102006┃Beachside & Ghostly Box
+Goods/Name/3102007┃Epic Skin Design Box
+Goods/Name/3102008┃Daily Attendance Reward
+Goods/Name/3102009┃Holiday Data Box
+Goods/Name/3102010┃2024 A-Coin Bundle
+Goods/Name/3102011┃Rare Skin Data Box
+Goods/Name/3103002┃Golden Lucky Pouch
+Goods/Name/3103003┃Lucky Pouch
+Goods/Name/3104009┃Season 9 Data Box
+Goods/Name/3190001┃Holiday Skin Voucher
+Goods/Name/3190002┃Epic Skin Design Voucher
+Goods/Name/3190003┃Character Voucher (Beginner)
+Goods/Name/3190004┃Rare Skin Voucher
+Goods/Name/3190005┃Uncommon/Rare Skin Voucher
+Goods/Name/3190006┃Uncommon Skin Voucher
+Goods/Name/3190007┃Character Voucher
+Goods/Name/3190008┃Epic Skin Voucher
+Goods/Name/3190009┃Special Uncommon/Rare Skin Voucher
+Goods/Name/3202000┃Data Key
+Goods/Name/3303000┃Vacance Tokens
+Goods/Name/3303001┃Battle Maids Tokens
+Goods/Name/3303002┃Change Tokens
+Goods/Name/3303003┃Sunset Tokens
+Goods/Name/3303301┃Holiday Tokens
+Goods/Name/3303302┃Joy Tokens
+Goods/Name/3303303┃Bake Shop Tokens
+Goods/Name/3303999┃Mileage
+Goods/Name/3102015┃Sunset Tokens X 10
+Goods/Name/2005┃Skin Data Chip
+Goods/Name/4000000┃[더미] 영웅 등급 스킨 선택권
+Goods/Name/3102012┃Lunar New Year Data Box
+Goods/Name/3102013┃Grab Bag Data Box
+Goods/Name/3102014┃Season Tokens Random Box
+Goods/Name/3102081┃Season 4 Bonus Skin Box
+Goods/Name/3103004┃White Flower
+Goods/Name/3103005┃Green Flower
+Goods/Name/3103006┃Blue Flower
+Goods/Name/3103007┃Purple Flower
+Goods/Name/3103008┃Yellow Flower
+Goods/Name/3103009┃Lucky Clover #1
+Goods/Name/3103010┃Lucky Clover #2
+Goods/Name/3103011┃Lucky Clover #3
+Goods/Name/3103012┃Lucky Clover #4
+Goods/Name/3103013┃Lucky Clover #5
+Goods/Name/3103014┃Lucky Clover #6
+Goods/Name/3103015┃Lucky Clover #7
+Goods/Name/3103016┃Lucky Clover #8
+Goods/Name/3103017┃Shoichi's Donut Box
+Goods/Name/3103018┃Emma's Bread Basket
+Goods/Name/3103019┃Wilson Bakery's Bag
+Goods/Name/3103020┃Golden Cloche
+Goods/Name/3103021┃Summer Skin Data Box
+Goods/Name/3103022┃Summer Research Center Data Box
+Goods/Name/3103023┃Debi & Marlene's Card Box
+Goods/Name/1┃Grab Bag Drops
+Goods/Name/3┃Random Character Box
+Goods/Name/9999999┃Unclaimed Skin Voucher <#00ffee>No.01</color>
+Goods/Name/9999998┃Unclaimed Skin Voucher <#00ffee>No.02</color>
+Goods/Name/3119001┃Unclaimed Skin Voucher <#00ffee>No.01</color>
+Goods/Name/3119002┃Unclaimed Skin Voucher <#00ffee>No.02</color>
+Goods/Name/3119003┃Unclaimed Skin Voucher <#00ffee>No.03</color>

@@ -1,0 +1,1 @@
+ServerError/9205┃An error has occured while joining the team. (9205)

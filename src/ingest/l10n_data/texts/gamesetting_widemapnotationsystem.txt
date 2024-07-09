@@ -1,0 +1,1 @@
+GameSetting/WidemapNotationSystem┃You can choose between "Standard Map" / "Satellite Map" to display the extended map in-game.

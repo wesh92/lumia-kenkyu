@@ -1,0 +1,11 @@
+TutorialQuest/FinalSurvival/Main/Title/1┃Achieve victory
+TutorialQuest/FinalSurvival/Main/Comment/1┃Kill all of your enemies and survive on Lumia Island.
+TutorialQuest/FinalSurvival/Sub/Title/1┃Check the Mastery screen by pressing [V]
+TutorialQuest/FinalSurvival/Sub/Title/2┃Get your Assault Rifle weapon Mastery to Level 7
+TutorialQuest/FinalSurvival/Sub/Title/3┃Learn a Weapon Skill
+TutorialQuest/FinalSurvival/Sub/Title/4┃Press [M] to open the map and see your route.
+TutorialQuest/FinalSurvival/Main/Comment/2┃Get a weapon by collecting all materials required to craft Agni.
+TutorialQuest/FinalSurvival/Sub/Title/5┃Find Gunpowder
+TutorialQuest/FinalSurvival/Sub/Title/6┃Find Piano Wire
+TutorialQuest/FinalSurvival/Sub/Title/7┃Find Battery, Scrap Metal, Oil, and Lighter
+TutorialQuest/FinalSurvival/Sub/Title/8┃Craft Agni

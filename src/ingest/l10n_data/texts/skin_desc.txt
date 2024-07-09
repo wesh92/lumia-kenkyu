@@ -1,0 +1,215 @@
+Skin/Desc/1001001┃If you hear her humming, maybe run the other direction.
+Skin/Desc/1001002┃A rose by any other name would also have thorns.
+Skin/Desc/1001003┃There are people who make rules... and people who break them.
+Skin/Desc/1002001┃She's been on patrol for five hours.\nI think shes... lost?
+Skin/Desc/1003001┃Her eyes sparkled like the glint of her blade.\nOne must always fight to preserve their honor.
+Skin/Desc/1003002┃All for one, and one for all.
+Skin/Desc/1004001┃Kiss the ring to show your respect.
+Skin/Desc/1004002┃How do I look? It takes a real man to rock flowers.
+Skin/Desc/1005001┃The glint will be the last thing you see before the darkness.
+Skin/Desc/1005002┃It's time for my experiment.
+Skin/Desc/1006001┃Focus and aim. Don't make them suffer.
+Skin/Desc/1006002┃My my, what big teeth you have!
+Skin/Desc/1006003┃Only the strongest wolf can lead its pack.
+Skin/Desc/1007001┃Sometimes, the only way to end an argument is to use your fists.
+Skin/Desc/1007002┃It's hot down here. Must be in the right place.
+Skin/Desc/1007003┃You want to fight? Heh, I guess I can spare a couple minutes.
+Skin/Desc/1007004┃I can do even better than this.
+Skin/Desc/1008001┃Today's performance is gonna be incredible! Heh, it might even change the world.
+Skin/Desc/1008002┃Let's.. let's start the show.
+Skin/Desc/1009001┃It's the end of the world. Better be prepared.
+Skin/Desc/1009002┃Demons are demons. Their pasts are... irrelevant.
+Skin/Desc/1010001┃The nomad life ain't so bad. I have nowhere to go and nobody looking for me.
+Skin/Desc/1010002┃This? It's.. uh... just water.
+Skin/Desc/1010003┃Don't worry, Dragon Dailin is here to ward off all those pesky evil spirits following you around!
+Skin/Desc/1011001┃A model student who treats every training exercise as if it were the real thing.
+Skin/Desc/1011002┃As gentle as a breeze or as strong as a raging tempest.
+Skin/Desc/1011003┃It seems like a whole new world awaits us.
+Skin/Desc/1012001┃Their destinies are just like magnolias - blooming white but slowly and surely fading darker.
+Skin/Desc/1012002┃I've always been destined for greatness.
+Skin/Desc/1012003┃It is my destiny to bring the wandering souls to peace.
+Skin/Desc/1013001┃Sushi isn't easy to make, but the time it takes to cook a fish is nothing compared to the time that fish spent living and... dreaming?
+Skin/Desc/1013002┃If you can dodge a wrench, you can dodge a flaming volleyball with a drawing of a dumpling on it.
+Skin/Desc/1014001┃Sinners, prepare to face your judgement.
+Skin/Desc/1014002┃Guidance to the lost. Salvation to the damned.
+Skin/Desc/1015001┃Holding onto life like a clover holding onto the ground in the frost.
+Skin/Desc/1015002┃I...tried something a little different today. Wilson too.
+Skin/Desc/1015003┃Do you like snow? I.. I guess I don't hate it...
+Skin/Desc/1016001┃How'd you like to feel the midnight breeze flow through your hair?
+Skin/Desc/1016002┃Your Games. Your Devices. Play Anywhere.
+Skin/Desc/1017001┃Where should I start the first fire?\nEh, doesn't matter. It'll all just burn anyway!
+Skin/Desc/1017002┃Kill it with fire!
+Skin/Desc/1018001┃I really don't care who you're trying to silence.\nI only care that the check clears.
+Skin/Desc/1018002┃I love a good carnival. Nobody expects any danger during a celebration.
+Skin/Desc/1019001┃Today's entree will be delicious, sir!
+Skin/Desc/1019002┃Trick or Treat! I worked super hard on my costume this year!
+Skin/Desc/1020001┃Settle down now, little ones. I wouldn't want to raise my voice.
+Skin/Desc/1020002┃I hope they don't mind if I crash their party, but I'm in the mood for some fun.
+Skin/Desc/1020004┃Don't get too close - or you'll never escape.
+Skin/Desc/1021001┃Target confirmed. Proceeding with mission.
+Skin/Desc/1021002┃Looks may deceive... but bullets won't.
+Skin/Desc/1022001┃Order something shaken, not stirred.
+Skin/Desc/1022002┃My bad! I just gotta clean up ALL the garbage...
+Skin/Desc/1023001┃After the war is over, can you really call one side victorious?
+Skin/Desc/1023002┃C'mon, it won't hurt. I just need to tweak you a little more.
+Skin/Desc/1024001┃Always make the first move towards victory.
+Skin/Desc/1025001┃Don't overthink. Keep your head down. Survive.
+Skin/Desc/1026001┃I can get more horsepower out of anything. Even a toaster!!
+Skin/Desc/1027001┃Mission complete. On to the next one.
+Skin/Desc/1028001┃I hope class ends soon. I gotta go to the library.
+Skin/Desc/1028002┃Remember, every new year is the first page of your new story.
+Skin/Desc/1029001┃Time to put all that swimming to good use.
+Skin/Desc/1030001┃Today's stream will be particularly sweet!
+Skin/Desc/1031001┃My arrow will cleanse the unholy.
+Skin/Desc/1031002┃May justice guide my arrow!
+Skin/Desc/1031003┃My arrow will expel the darkness!
+Skin/Desc/1032001┃It's been a while since I've been this cold. Well, happy holidays I suppose.
+Skin/Desc/1033001┃You really came here without a plan? Heh, bold.
+Skin/Desc/1034001┃I'll try my best to capture all of this perfect scenery through the lens of my camera.
+Skin/Desc/1035001┃A good fight always starts with the right mindset. Remember that.
+Skin/Desc/1036001┃The stars once acted as a celestial compass to guide those who were lost.\nI hope I can be someone like that to you.
+Skin/Desc/1037001┃What a mess. Time to patch things up.
+Skin/Desc/1038001┃You didn't see anything. It'd be wise for you to remember that.
+Skin/Desc/1039001┃Much like the impossible blue rose, I took a white orchid and turned it blue.
+Skin/Desc/1040001┃We'll take good care of you.
+Skin/Desc/1044001┃Don't bother begging. Your life's already over.
+Skin/Desc/1041001┃The holy flame brings light to darkness.
+Skin/Desc/1042001┃Who dares wake me up from my slumber?
+Skin/Desc/1043001┃There's no bomb I can't defuse.
+Skin/Desc/1045001┃So, where's my seat?
+Skin/Desc/1046001┃I feel bad, but... Your story ends here.
+Skin/Desc/1047001┃Time to leave. Ta ta for now~
+Skin/Desc/1036002┃If this will let someone else have a normal life, then it's worth it.
+Skin/Desc/1028003┃I wonder what kind of story the ocean will tell me today.
+Skin/Desc/1029002┃I feel fully in my element here.
+Skin/Desc/1031004┃You're blocking the sun. Could you move?
+Skin/Desc/1033002┃Just go all out? C'mon, at least give me a script!
+Skin/Desc/1048001┃With my brush in hand, the world is my canvas!
+Skin/Desc/1049001┃Ticket looks good! Have a wonderful time at Lumialand!
+Skin/Desc/1051001┃May this melody never wither.
+Skin/Desc/1052001┃I can show you the way, but only you can choose your path.
+Skin/Desc/1050001┃I only dance for myself.
+Skin/Desc/1054001┃Listen up, stupid: don't you dare underestimate the ocean.
+Skin/Desc/1053001┃The weak die off. The strong live on.
+Skin/Desc/1055001┃This is my turf. I'm going in!
+Skin/Desc/1056001┃The only things you can never have too much of are practice... and money.
+Skin/Desc/1002002┃Can we do this again next year? Together?
+Skin/Desc/1022003┃We have to clean ALL of this? Well, we better get started.
+Skin/Desc/1016003┃Thanks for waiting, here's your order!
+Skin/Desc/1018003┃Call me for the best service in town.
+Skin/Desc/1030002┃You better not be late! Or you won't get dessert.
+Skin/Desc/1057001┃Let's keep our eyes on the compass.
+Skin/Desc/1026002┃There's nowhere I can't reach. I have no limits.
+Skin/Desc/1025002┃There are things that can't be fixed with prayers..
+Skin/Desc/1043002┃Which do you prefer: a tangy flavor, or the kind that bursts in your mouth?
+Skin/Desc/1058001┃Even the worst enemies can become potential partners.
+Skin/Desc/1019003┃Are you ready for the show?
+Skin/Desc/1003003┃A sword is just like wine: cold and smooth.
+Skin/Desc/1008003┃All I need are my guitar and my amp, and it's showtime!
+Skin/Desc/1012004┃Effort is more important than fate.
+Skin/Desc/1037002┃I'll show you who I really am behind this mask.
+Skin/Desc/1038002┃An actor's strength isn't their good looks, but their unyielding confidence.
+Skin/Desc/1060001┃Art is finding beauty where there's only destruction.
+Skin/Desc/1059001┃I'll have your back! ...If you have mine.
+Skin/Desc/1045002┃Clothes can be like wings. Now's the perfect time to prove it!
+Skin/Desc/1024002┃I am the owner of my dreams, the master of my fate.
+Skin/Desc/1050002┃Make sure to come on time. I will wait for no one.
+Skin/Desc/1061001┃I know I'm cute but don't underestimate me!
+Skin/Desc/1010004┃Give me some snacks or I'll eat you!
+Skin/Desc/1011004┃You can tell who's evil by how much they smell.
+Skin/Desc/1007005┃If you don't want to get hit, stay the hell outta my way.
+Skin/Desc/1009003┃It's a good night for a fresh start.
+Skin/Desc/1040002┃Thanks for sticking with me for another year.\n<color=#10adff>That's what Nina should say!</color>
+Skin/Desc/1036003┃Are you ready for your present?
+Skin/Desc/1013003┃I'm ready for my mascot debut!
+Skin/Desc/1047002┃The more things you have, the more you have to lose.
+Skin/Desc/1027002┃Puzzles and cases have one thing in common: they both want to be solved.
+Skin/Desc/1015004┃Please don't touch my display items... Wilson's watching.
+Skin/Desc/1062001┃It's up to us to finish the job.
+Skin/Desc/1049002┃Play smart. Win more. OP.GG
+Skin/Desc/1032002┃Let me teach you how to survive in this place.
+Skin/Desc/1063001┃Is that the best plan you've got?
+Skin/Desc/1033003┃Beat it! I don't have time to waste on you!
+Skin/Desc/1041002┃The flame of purification will wash you away.
+Skin/Desc/1050003┃Let me remind you what your duty as a student is.
+Skin/Desc/1048002┃I wonder what power the colors of my magic hold.
+Skin/Desc/1004003┃You call yourself a rebel? Pathetic!
+Skin/Desc/1044002┃Show me what you're made of.
+Skin/Desc/1042002┃Fortunately, you're on time. I guess you deserve a compliment.
+Skin/Desc/1039002┃Being loved is the most beautiful thing in the world!
+Skin/Desc/1064001┃Not all dreams are happy.
+Skin/Desc/1035002┃Determination isn't enough. You need to be ready for anything.
+Skin/Desc/1055002┃Ready to stop, drop, and roll?
+Skin/Desc/1031005┃My arrow will illuminate the way.
+Skin/Desc/1034002┃How am I supposed to choose one photo to showcase my travels...
+Skin/Desc/1017003┃Master, if you're cold, I can turn up the heat... hehe...
+Skin/Desc/1046002┃If you're in hot water, I'm your guy.
+Skin/Desc/1020003┃Let's see what is hiding in those treasure chests!
+Skin/Desc/1051002┃I just thought of the perfect lyrics! I need to write them down!
+Skin/Desc/1019004┃I'll show you a magic trick to beat the heat!
+Skin/Desc/1029004┃Our voyage begins now.
+Skin/Desc/1001004┃Are you ready to have some fun?
+Skin/Desc/1058002┃Hard work pays off.
+Skin/Desc/1045003┃Can you play a little further away so I don't get splashed?
+Skin/Desc/1022004┃Double L never closes. Even in summer!
+Skin/Desc/1052002┃Will you accept my fate?
+Skin/Desc/1049003┃Hey, you look suspicious! Let's do a quick inspection.
+Skin/Desc/1014003┃I don't want to go to a coven of witches...
+Skin/Desc/1028004┃Want to hear a story with your cup of coffee?
+Skin/Desc/1053002┃Mercy? Do you know who I am?
+Skin/Desc/1054002┃Survival of the fittest!
+Skin/Desc/1030003┃Summer getaway with Eleven! Live now!
+Skin/Desc/1065001┃<color=#cb2849>Headquarters, all clear now.</color> \n<color=#10adff>Oh! A very suspicious guy is coming this way!</color>
+Skin/Desc/1047003┃The bitter end makes the chocolate taste sweeter.
+Skin/Desc/1018004┃It's going to be a long night.
+Skin/Desc/1023003┃Failing students need extra classes.
+Skin/Desc/1003004┃Entering the field. The first priority is to ensure the safety of the client!
+Skin/Desc/1066001┃History is about to be rewritten once again.
+Skin/Desc/1042003┃Were you really looking forward to meet me? Hehe, what a compliment!
+Skin/Desc/1021003┃I've prepared a full course meal for you. Hope you like the main dish.
+Skin/Desc/1002003┃I will not let you get in the way of our business!
+Skin/Desc/1025003┃All members of the unit, prepare a welcome party for our uninvited guests.
+Skin/Desc/1056002┃It looks like you need to clear your mind a bit.
+Skin/Desc/1016004┃So, where do we go next?
+Skin/Desc/1067001┃A bad deed always brings a punishment.
+Skin/Desc/1048003┃Don't you love seeing pixel art transitions?
+Skin/Desc/1068001┃There's no such thing as being too old for romance.
+Skin/Desc/1012005┃I'm not used to this, but... do I match the vibe?
+Skin/Desc/1022005┃Ready for your gifts?
+Skin/Desc/1062002┃Fight and protect. Simple as that.
+Skin/Desc/1043003┃To a faraway place, where no one will ever find me.
+Skin/Desc/1059002┃Nothing personal. Just here for that reward on your head.
+Skin/Desc/1069001┃Alright everyone, focus! The Leni's Marching Band performance is about to begin!
+Skin/Desc/1060002┃The anticipation for the day to come is as full of joy as the day itself.
+Skin/Desc/1009004┃It wasn't an easy road, but that's why I'm here.
+Skin/Desc/1017004┃Ready for some fun and fiery combustion experiments?
+Skin/Desc/1055003┃Someone got hurt over there! I hope there's blood...
+Skin/Desc/1061002┃Mysterious Agent Irex! I accept payment in fish!
+Skin/Desc/1039003┃Wish us luck on our journey together!
+Skin/Desc/1046003┃Did you order coffee?
+Skin/Desc/1063002┃I always pray that this nightmare will end...
+Skin/Desc/1037003┃Your hair looks perfect today.
+Skin/Desc/1070001┃Like a plum blossom blooming in the dark.
+Skin/Desc/1011005┃Peace to the living, and rest to the dead.
+Skin/Desc/1008004┃The march won't stop until we save the world with music!
+Skin/Desc/1005003┃Money enriches the heart.
+Skin/Desc/1033004┃Please reach out to me if you find this person!
+Skin/Desc/1058003┃Want to know what a pro's coffee tastes like?
+Skin/Desc/1024003┃Master, today's schedule after breakfast is to practice chess with me.
+Skin/Desc/1006004┃It's time to hunt evil!
+Skin/Desc/1044003┃Bring it on! I'm not here to dawdle.
+Skin/Desc/1071001┃I'll burn them all down, sins included
+Skin/Desc/1050004┃Practice as if it's the real deal and stick to the basics.
+Skin/Desc/1010005┃You're...hic...asking me to stay out of the water 'cause I'm drunk? Haha, don't worry!
+Skin/Desc/1036004┃Good friends, good times...How I wish this lasted forever.
+Skin/Desc/1049004┃Let's enjoy the festival of summer! Careful with the heat though...
+Skin/Desc/1064002┃Should we dive in a dream?
+Skin/Desc/1014004┃I hate summer.
+Skin/Desc/1065002┃<color=#00FFFF>Are you ready to play? </color> \n<color=#F78181>Just don't get on our way.</color>
+Skin/Desc/1072001┃Shhh. Everyone's sleeping.
+Skin/Desc/1028005┃Thank you for being part of this chapter!
+Skin/Desc/1028006┃Let's keep writing our story together!
+Skin/Desc/1058004┃Care to join me for a drink? It's a special day, after all.
+Skin/Desc/1058005┃Here's to the days to come—cheers!
+Skin/Desc/1007006┃Whatcha lookin' at? Want me to throw you into the ocean?
+Skin/Desc/1073001┃Does this uniform look good on me? Hehe.

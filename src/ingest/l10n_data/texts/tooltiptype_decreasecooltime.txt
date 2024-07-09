@@ -1,0 +1,1 @@
+ToolTipType/DecreaseCoolTime┃Cooldown Reduction

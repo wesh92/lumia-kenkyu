@@ -1,0 +1,2 @@
+ShortCut/ModeNotAble┃You cannot start a match with your current team formation.
+ShortCut/ModeNotAble┃You cannot start a match with your current team formation.

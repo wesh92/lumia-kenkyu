@@ -1,0 +1,1 @@
+ServerError/99999┃A connection has been made with an incompatible version.

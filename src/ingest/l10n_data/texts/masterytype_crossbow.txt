@@ -1,0 +1,3 @@
+MasteryType/CrossBow┃Crossbow
+MasteryType/CrossBow/Desc┃Crossbows users rely on their capacity to stun enemies and deal constant damage to them..
+MasteryType/CrossBow/Stats┃Equipping Crossbow increases {0} by {1}\n{2} by {3}\n{4} by {5}

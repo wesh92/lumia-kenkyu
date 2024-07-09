@@ -1,0 +1,2 @@
+ArmorType/Chest┃Chest
+ArmorType/Chest/Desc┃Chest Armor

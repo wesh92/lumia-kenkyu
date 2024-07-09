@@ -1,0 +1,1 @@
+ToolTipType/KeepInnerDamage┃Inner Damage Over Time

@@ -1,0 +1,36 @@
+Option/ColorWeaknessMode/ColorCustom┃Color Customization
+Option/ColorWeaknessMode/HPbarCustom┃HP Bar Color Customization
+Option/ColorWeaknessMode/SimpleCustom┃Colorblind Quick Settings
+Option/ColorWeaknessMode/MyColor┃Your Color
+Option/ColorWeaknessMode/MyTeamColor┃Ally Color
+Option/ColorWeaknessMode/MonsterColor┃Monster Color
+Option/ColorWeaknessMode/MonsterColorGuide┃Changing this color will also update installed items such as surveillance cameras and traps to match it.
+Option/ColorWeaknessMode/Team1Color┃Team 1 Color
+Option/ColorWeaknessMode/Team1ColorGuide┃Changing this color will also update enemy colors in Cobalt Mode to the same one.\nSpectating: Surveillance Camera, Traps and similar items will also be marked with the color of the corresponding team that installed it.
+Option/ColorWeaknessMode/Team2Color┃Team 2 Color
+Option/ColorWeaknessMode/Team3Color┃Team 3 Color
+Option/ColorWeaknessMode/Team4Color┃Team 4 Color
+Option/ColorWeaknessMode/Team5Color┃Team 5 Color
+Option/ColorWeaknessMode/Team6Color┃Team 6 Color
+Option/ColorWeaknessMode/Team7Color┃Team 7 Color
+Option/ColorWeaknessMode/Team8Color┃Team 8 Color
+Option/ColorWeaknessMode/ColorCode┃Color Code
+Option/ColorWeaknessMode/BasicValue┃Default
+Option/ColorWeaknessMode/RedWeakness┃Red Colorblind Mode
+Option/ColorWeaknessMode/GreenWeaknses┃Green Colorblind Mode
+Option/ColorWeaknessMode/BlueWeaknses┃Blue Colorblind Mode
+Option/ColorWeaknessMode/CustomOption┃Custom Settings
+Option/ColorWeaknessMode/MapCustom┃Map Color Customization
+Option/ColorWeaknessMode/SimpleCustom┃Colorblind Quick Settings
+Option/ColorWeaknessMode/RestrictedAreaColor┃Restricted Area Color
+Option/ColorWeaknessMode/ExpectedRestrictedAreaColor┃Expected Restricted Area Color
+Option/ColorWeaknessMode/TemporarySafeZoneColor┃Temporary Safe Zone Color
+Option/ColorWeaknessMode/MyTeam1Color┃Ally 1 Color
+Option/ColorWeaknessMode/MyTeam2Color┃Ally 2 Color
+Option/ColorWeaknessMode/MyTeam3Color┃Ally 3 Color
+Option/ColorWeaknessMode/EnemyColor┃Enemy Color
+Option/ColorWeaknessMode/MyTeam1Noise┃Ally 1 Noise Color
+Option/ColorWeaknessMode/MyTeam2Noise┃Ally 2 Noise Color
+Option/ColorWeaknessMode/MyTeam3Noise┃Ally 3 Noise Color
+Option/ColorWeaknessMode/EnemyNoise┃Enemy Noise Color
+Option/ColorWeaknessMode/InstallationObjectColor┃Eco Objectives Color

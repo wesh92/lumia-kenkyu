@@ -1,0 +1,1 @@
+ToolTipType/BleedAdditionalDamage┃Additional Damage to Bleeding Targets

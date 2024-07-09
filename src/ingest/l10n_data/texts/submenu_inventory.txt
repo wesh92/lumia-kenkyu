@@ -1,0 +1,4 @@
+subMenu/Inventory/Character┃Character
+subMenu/Inventory/Skin┃Skin
+subMenu/Inventory/Emote┃Emote
+subMenu/Inventory/Miscellaneous┃Miscellaneous

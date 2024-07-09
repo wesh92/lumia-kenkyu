@@ -1,0 +1,2 @@
+StatType/SkillAmpRatio┃Skill Amplification
+StatType/SkillAmpRatio/Desc┃Skill damage is increased by Skill Amplification.

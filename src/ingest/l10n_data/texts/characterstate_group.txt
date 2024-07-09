@@ -1,0 +1,2273 @@
+CharacterState/Group/Name/7900100┃Vigor
+CharacterState/Group/Desc/7900100┃Attack Power increased.
+CharacterState/Group/Name/7900200┃Fortitude
+CharacterState/Group/Desc/7900200┃Defense increased.
+CharacterState/Group/Name/7900300┃Celerity
+CharacterState/Group/Desc/7900300┃Attack Speed increased.
+CharacterState/Group/Name/7900400┃Haste
+CharacterState/Group/Desc/7900400┃Movement Speed increased.
+CharacterState/Group/Name/7900500┃Cooldown Reduction
+CharacterState/Group/Desc/7900500┃Cooldown Reduction increased.
+CharacterState/Group/Name/7900600┃Omnivamp
+CharacterState/Group/Desc/7900600┃Omnisyphon increased.
+CharacterState/Group/Name/7900700┃Tenacity
+CharacterState/Group/Desc/7900700┃Tenacity increased.
+CharacterState/Group/Name/7900800┃Spot Weakness
+CharacterState/Group/Desc/7900800┃Ciritcal Strike Chance increased.
+CharacterState/Group/Name/7920110┃Barricade
+CharacterState/Group/Desc/7920110┃Gain additional Defense and Omnisyphon when low on HP.
+CharacterState/Group/Name/7920100┃Barricade
+CharacterState/Group/Name/7920210┃Rabid
+CharacterState/Group/Desc/7920210┃When your current HP falls below a certain amount of your max HP, your movement speed and HP Regen increase.
+CharacterState/Group/Name/7920200┃Rabid
+CharacterState/Group/Desc/7920200┃Movement speed and HP Regen increased.
+CharacterState/Group/Name/7920310┃Sadistic Nature
+CharacterState/Group/Desc/7920310┃Whenever you deal damage to an enemy test subject with a skill, deal true damage and drain some of their HP.\n
+CharacterState/Group/Name/7920300┃Sadistic Nature
+CharacterState/Group/Desc/7920300┃Currently on cooldown!
+CharacterState/Group/Name/7920400┃Martyr
+CharacterState/Group/Desc/7920400┃Upon death, creates a blast that deals true damage and knocks enemies airborne.
+CharacterState/Group/Name/7920410┃Martyr
+CharacterState/Group/Desc/7920410┃Knocked airborne
+CharacterState/Group/Name/7920510┃Introversion
+CharacterState/Group/Desc/7920510┃Recover HP and SP every second if you haven't taken damage in a while.
+CharacterState/Group/Name/7920500┃Introversion
+CharacterState/Group/Desc/7920500┃Recovering HP and SP
+CharacterState/Group/Name/7920600┃Rise from the Ashes
+CharacterState/Group/Desc/7920600┃Upon death, automatically revive with fully recovered HP and SP after a few seconds.
+CharacterState/Group/Name/7920700┃Omnipotence
+CharacterState/Group/Desc/7920700┃Skill Amplification increased.\nGain additional Skill Amplification for each Infusion attached.
+CharacterState/Group/Name/7920710┃Omnipotence
+CharacterState/Group/Desc/7920710┃Receiving additional Skill Amplification.
+CharacterState/Group/Name/7920800┃Miasma Fog
+CharacterState/Group/Desc/7920800┃Upon death, create a swamp that slows enemies and lowers their defense.
+CharacterState/Group/Name/7920810┃Miasma Fog
+CharacterState/Group/Desc/7920810┃Movement Speed and Defense lowered!
+CharacterState/Group/Name/7920820┃Miasma Fog
+CharacterState/Group/Desc/7920820┃Grounded!
+CharacterState/Group/Name/7920610┃Rise from the Ashes
+CharacterState/Group/Desc/7920610┃Currently on cooldown! You gain Attack Power and Skill Amplification.
+CharacterState/Group/Name/7920900┃Gag Order
+CharacterState/Group/Desc/7920900┃Silences nearby enemies after you cast your weapon skill.
+CharacterState/Group/Name/7920920┃Gag Order
+CharacterState/Group/Desc/7920920┃Silenced!
+CharacterState/Group/Name/7920930┃Gag Order
+CharacterState/Group/Desc/7920930┃Currently on cooldown!
+CharacterState/Group/Name/7921000┃Plasma Nova
+CharacterState/Group/Desc/7921000┃Deals true damage to nearby enemies after casting your weapon skill.
+CharacterState/Group/Name/7921010┃Plasma Nova
+CharacterState/Group/Desc/7921010┃Deals true damage to nearby enemies.
+CharacterState/Group/Name/7921020┃Plasma Nova
+CharacterState/Group/Desc/7921020┃Currently on cooldown!
+CharacterState/Group/Name/7921100┃Time Efficiency
+CharacterState/Group/Desc/7921100┃Casting your Ultimate reduces the cooldown of your normal skills.\nThis effect's cooldown is reduced every time you cast a normal skill.
+CharacterState/Group/Name/7921110┃Time Efficiency
+CharacterState/Group/Desc/7921110┃Currently on cooldown!
+CharacterState/Group/Name/7921200┃Overwhelming Strength
+CharacterState/Group/Desc/7921200┃Become Unstoppable with increased Movement Speed whenever you cast your Ultimate.
+CharacterState/Group/Name/7921220┃Overwhelming Strength
+CharacterState/Group/Desc/7921220┃Unstoppable with increased Movement Speed!
+CharacterState/Group/Name/7921210┃Overwhelming Strength
+CharacterState/Group/Desc/7921210┃Currently on cooldown!
+CharacterState/Group/Name/7921300┃Overcharge
+CharacterState/Group/Desc/7921300┃Armor Penetration and HP increase {4} and {5} respectively.
+CharacterState/Group/Name/7921400┃Money = Power
+CharacterState/Group/Desc/7921400┃Deal increased damage to enemy test subjects and their summons based on how Credit-rich you are.
+CharacterState/Group/Name/7921410┃Money = Power
+CharacterState/Group/Desc/7921410┃Dealing increased damage to enemy test subjects and their summons.
+CharacterState/Group/Name/7921500┃Party Rocker
+CharacterState/Group/Desc/7921500┃Hit an enemy test subject with a skill to make them dance!
+CharacterState/Group/Name/7921520┃Party Rocker
+CharacterState/Group/Desc/7921520┃Currently party rocking in the house.
+CharacterState/Group/Name/7921510┃Party Rocker
+CharacterState/Group/Desc/7921510┃Currently on cooldown!
+CharacterState/Group/Name/7921600┃Health Insurance
+CharacterState/Group/Desc/7921600┃Recover additional HP/SP and gain a shield when collecting a Heal Pack. While you have a shield from Health Insurance, your movement speed increases.
+CharacterState/Group/Name/7921610┃Health Insurance
+CharacterState/Group/Desc/7921610┃Covered by Health Insurance. Received shield and increased movement speed.
+CharacterState/Group/Name/7921700┃Strike Force
+CharacterState/Group/Desc/7921700┃Basic attack is enhanced for a period of time after passing through the Acceleration Influx Perimeter.
+CharacterState/Group/Name/7921710┃Strike Force
+CharacterState/Group/Desc/7921710┃Basic Attack enhanced.
+CharacterState/Group/Name/7921720┃Strike Force
+CharacterState/Group/Desc/7921720┃Movement Speed decreased.
+CharacterState/Group/Name/7921900┃Valkyrie Drive
+CharacterState/Group/Desc/7921900┃While below a certain amount of HP, taking damage from an enemy test subject activates [Valkyrie Drive: Protection].\n\n[Valkyrie Drive: Protection]\nImmediately teleport to a random location away from combat. Then, gain a shield that lasts for 3 seconds and increased Movement Speed.
+CharacterState/Group/Name/7921930┃Valkyrie Drive
+CharacterState/Group/Desc/7921930┃Shielded by Valkyrie Drive.
+CharacterState/Group/Name/7921910┃Valkyrie Drive
+CharacterState/Group/Desc/7921910┃Currently on cooldown!
+CharacterState/Group/Name/7921920┃Valkyrie Drive
+CharacterState/Group/Desc/7921920┃Movement speed increased.
+CharacterState/Group/Name/7922000┃A.M.D.S
+CharacterState/Group/Desc/7922000┃Activates the A.M.D.S Barrier, making you immune to all skill effects and damage dealt by enemies for a short period of time.\nWhen the Barrier is broken by an enemy test subject, launch a homing missile.
+CharacterState/Group/Name/7922020┃A.M.D.S
+CharacterState/Group/Desc/7922020┃Targeted by the A.M.D.S homing missile.
+CharacterState/Group/Name/7922030┃A.M.D.S
+CharacterState/Group/Desc/7922030┃Immobilized and slowed by A.M.D.S!
+CharacterState/Group/Name/7922010┃A.M.D.S
+CharacterState/Group/Desc/7922010┃Currently on cooldown!
+CharacterState/Group/Name/7922100┃Fissure
+CharacterState/Group/Desc/7922100┃Basic attacks on enemy test subjects sends a shockwave to enemies in range, dealing true damage to enemies behind the target.\nAttack Speed is fixed at a low level.
+CharacterState/Group/Name/7922200┃Scar Ripper
+CharacterState/Group/Desc/7922200┃Basic attacks on enemy test subjects leave a scar. Scarred enemies take additional true damage per scar stack.
+CharacterState/Group/Name/7922210┃Scar Ripper
+CharacterState/Group/Desc/7922210┃Scarred: receiving additional true damage from basic attacks.
+CharacterState/Group/Name/7922300┃7N39
+CharacterState/Group/Desc/7922300┃Armor penetration increased.
+CharacterState/Group/Name/7922400┃Spirit Culling Mk2
+CharacterState/Group/Desc/7922400┃You or your summons recover a percentage of damage dealt as SP and HP.
+CharacterState/Group/Name/7922520┃Dulled Blades
+CharacterState/Group/Desc/7922520┃Take reduced Critical Damage after receiving a Critical Strike.
+CharacterState/Group/Name/7922500┃Dulled Blades
+CharacterState/Group/Desc/7922500┃Receiving reduced Critical Damage.
+CharacterState/Group/Name/7922510┃Dulled Blades
+CharacterState/Group/Desc/7922510┃Currently on cooldown!
+CharacterState/Group/Name/7922610┃Steadfast
+CharacterState/Group/Desc/7922610┃Take reduced damage when immobilized.
+CharacterState/Group/Name/7922600┃Steadfast
+CharacterState/Group/Desc/7922600┃Receiving reduced damage.
+CharacterState/Group/Name/7922720┃Thorn Shackles
+CharacterState/Group/Desc/7922720┃Immobilizing an enemy also causes them to receive increased damage.
+CharacterState/Group/Name/7922700┃Thorn Shackles
+CharacterState/Group/Desc/7922700┃Receiving increased damage from Thorn Shackles!
+CharacterState/Group/Name/7922710┃Thorn Shackles
+CharacterState/Group/Desc/7922710┃Currently on cooldown!
+CharacterState/Group/Name/7922800┃Melter
+CharacterState/Group/Desc/7922800┃Your next skill or basic attack will deal a burst of true damage.
+CharacterState/Group/Name/7922810┃Melter
+CharacterState/Group/Desc/7922810┃Currently on cooldown.
+CharacterState/Group/Name/7922820┃Melter
+CharacterState/Group/Desc/7922820┃Taking true damage from being melted!
+CharacterState/Group/Name/7922900┃Noxious Aftermath
+CharacterState/Group/Desc/7922900┃Your footsteps leave a Noxious Aftermath.
+CharacterState/Group/Name/7922910┃Noxious Aftermath
+CharacterState/Group/Desc/7922910┃Taking true damage from poison!
+CharacterState/Group/Name/7923100┃Double Trouble
+CharacterState/Group/Desc/7923100┃Your next basic attack will deal damage twice.
+CharacterState/Group/Name/7923110┃Double Trouble
+CharacterState/Group/Desc/7923110┃Attack Power reduced.
+CharacterState/Group/Name/7923120┃Double Trouble
+CharacterState/Group/Desc/7923120┃Doublestrike currently on cooldown.
+CharacterState/Group/Name/7923000┃Immobilizing Presence
+CharacterState/Group/Desc/7923000┃When you revive, all other test subjects and summons are put into stasis.
+CharacterState/Group/Name/7923010┃Immobilizing Presence
+CharacterState/Group/Desc/7923010┃In statis!
+CharacterState/Group/Name/7923020┃Immobilizing Presence
+CharacterState/Group/Desc/7923020┃Currently on cooldown!
+CharacterState/Group/Name/7923200┃Hyperfocus
+CharacterState/Group/Desc/7923200┃Critical Strike activates when you inflict skill damage
+CharacterState/Group/Name/10021┃Combat Epinephrine
+CharacterState/Group/Desc/10021┃You feel the plasma energy going berzerk! \n\n- Increased Movement Speed\n- Increased Omnisyphon
+CharacterState/Group/Name/10020┃Surveillance Drone
+CharacterState/Group/Desc/10020┃Detects stealthed enemy test subjects and their summons within a certain range.
+CharacterState/Group/Name/6504300┃Solar System Miniature: Gravitational Field
+CharacterState/Group/Desc/6504300┃Pulls all enemy test subjects within 1m towards you, stunning them and dealing true damage.
+CharacterState/Group/Name/6505000┃Cobalt Blue: Rolling Thunder
+CharacterState/Group/Desc/6505000┃Rolling Thunder is beginning to surround your allies!
+CharacterState/Group/Name/6505100┃Cobalt Blue: Rolling Thunder
+CharacterState/Group/Desc/6505100┃Gradually increasing Movement Speed for a period of time.\nThe first enemy you come into contact with is knocked back and dealt skill damage.
+CharacterState/Group/Name/6508010┃Prayer: Strong
+CharacterState/Group/Desc/6508010┃Defense increased from Prayer.
+CharacterState/Group/Name/6506010┃Truth Explosion: Stunned
+CharacterState/Group/Desc/6506010┃Stunned by Truth Explosion.
+CharacterState/Group/Name/6506020┃Truth Explosion: Burst
+CharacterState/Group/Desc/6506020┃Stats increased by Truth Explosion.
+CharacterState/Group/Name/6506030┃Truth Explosion: Burst
+CharacterState/Group/Desc/6506030┃The following stats have been increased from Truth Explosion. \n- Attack Speed\n- Movement Speed
+CharacterState/Group/Name/6506040┃Truth Explosion: Burst - 2 stacks
+CharacterState/Group/Desc/6506040┃Defense and Movement speed have additionally increased based on the number of enemies hit by Truth Explosion
+CharacterState/Group/Name/6506050┃Truth Explosion: Burnout: Slow
+CharacterState/Group/Desc/6506050┃Slowed by Truth Explosion.
+CharacterState/Group/Name/6506070┃Truth Explosion: Stack
+CharacterState/Group/Desc/6506070┃Damage taken and dealt are both decreased.
+CharacterState/Group/Name/6510010┃Fissure: Stunned
+CharacterState/Group/Desc/6510010┃Stunned by Fissure
+CharacterState/Group/Name/6511010┃Mind Reader: Reactivated
+CharacterState/Group/Desc/6511010┃Blocks the next damage and stuns the enemy.
+CharacterState/Group/Name/6510020┃Fissure: Slowed
+CharacterState/Group/Desc/6510020┃Slowed by Fissure
+CharacterState/Group/Name/6511030┃Mind Reader: Stunned
+CharacterState/Group/Desc/6511030┃Stunned by Mind Reader
+CharacterState/Group/Name/6509010┃Impulse: Stopped
+CharacterState/Group/Desc/6509010┃Effects are not applicable.
+CharacterState/Group/Name/6507010┃Tether: Activated
+CharacterState/Group/Desc/6507010┃Tether has granted you a shield and increased your movement speed.
+CharacterState/Group/Name/6507020┃Tether: User
+CharacterState/Group/Desc/6507020┃You share some of your ally's taken damage.
+CharacterState/Group/Name/6507030┃Tether: Connected
+CharacterState/Group/Desc/6507030┃Your ally partially shares damage taken.
+CharacterState/Group/Name/6510000┃Fissure
+CharacterState/Group/Name/11003┃Cobalt Balancing
+CharacterState/Group/Name/9002000┃Power Beacon L: Phase 1 Attack Power Increase
+CharacterState/Group/Desc/9002000┃Grants 5 Attack Power.
+CharacterState/Group/Name/9002010┃Power Beacon L: Phase 2 Attack Power Increase
+CharacterState/Group/Desc/9002010┃Grants 5 Attack Power.
+CharacterState/Group/Name/9002020┃Power Beacon L: Phase 3 Attack Power Increase
+CharacterState/Group/Desc/9002020┃Grants 5 Attack Power.
+CharacterState/Group/Name/9003000┃Power Beacon R: Skill Amplification Increase Phase 1
+CharacterState/Group/Desc/9003000┃Grants 5 Skill Amplification.
+CharacterState/Group/Name/9003010┃Power Beacon R: Skill Amplification Increase Phase 2
+CharacterState/Group/Desc/9003010┃Grants 5 Skill Amplification.
+CharacterState/Group/Name/9003020┃Power Beacon R: Skill Amplification Increase Phase 3
+CharacterState/Group/Desc/9003020┃Grants 5 Skill Amplification.
+CharacterState/Group/Name/9004000┃Power Beacon C: Defense Increase Phase 1
+CharacterState/Group/Desc/9004000┃Grants 5 Defense.
+CharacterState/Group/Name/9004010┃Power Beacon C: Defense Increase Phase 2
+CharacterState/Group/Desc/9004010┃Grants 5 Defense.
+CharacterState/Group/Name/9004020┃Power Beacon C: Defense Increase Phase 3
+CharacterState/Group/Desc/9004020┃Grants 5 Defense.
+CharacterState/Group/Name/4009100┃Debuff
+CharacterState/Group/Desc/4009100┃Take bigger damage from Defense Turrets.
+CharacterState/Group/Name/4009200┃Defense Turret: Special Backup
+CharacterState/Group/Desc/4009200┃Recover HP and SP when an ally Defense Turret is nearby.
+CharacterState/Group/Name/4009300┃Defense Turret: Shield Beam
+CharacterState/Group/Desc/4009300┃Shielded by Defense Turret.
+CharacterState/Group/Name/9005000┃Heal Pack
+CharacterState/Group/Desc/9005000┃Recover HP and SP over time.
+CharacterState/Group/Name/9005110┃Enhanced Heal Pack
+CharacterState/Group/Desc/9005110┃Recover HP and SP over time.
+CharacterState/Group/Name/9006000┃Shield Pack
+CharacterState/Group/Desc/9006000┃Shielded for a period of time.
+CharacterState/Group/Name/9006110┃Enhanced Shield Pack
+CharacterState/Group/Desc/9006110┃Shielded for a period of time.
+CharacterState/Group/Name/9006200┃Shield Pack
+CharacterState/Group/Desc/9006200┃Shielded for a period of time.
+CharacterState/Group/Name/2200000┃Shield Pack
+CharacterState/Group/Desc/2200000┃Shielded for a period of time.
+CharacterState/Group/Name/1001100┃Lunatic Bloodfest
+CharacterState/Group/Desc/1001100┃Jackie's killer instinct greatly boosts her Attack Power.
+CharacterState/Group/Name/1001110┃Bloodfest
+CharacterState/Group/Desc/1001110┃Jackie's killer instinct boosts her Attack Power.
+CharacterState/Group/Name/1001130┃Bleeding
+CharacterState/Group/Desc/1001130┃Taking continuous damage for a period of time
+CharacterState/Group/Name/1001300┃Adrenaline Burst
+CharacterState/Group/Desc/1001300┃The adrenaline rushing through Jackie's body boosts her attack speed.
+CharacterState/Group/Name/1001400┃Slowed
+CharacterState/Group/Desc/1001400┃Decreased movement speed for a period of time
+CharacterState/Group/Name/1001410┃Slowed
+CharacterState/Group/Desc/1001410┃Decreased movement speed for a period of time
+CharacterState/Group/Name/1001500┃Chainsaw Murderer
+CharacterState/Group/Desc/1001500┃Jackie is using her deadly chainsaw. Basic attacks deal additional skill damage.
+CharacterState/Group/Name/1001510┃Chainsaw Laceration
+CharacterState/Group/Desc/1001510┃Continuous damage from Chainsaw Laceration bleed.
+CharacterState/Group/Name/1002100┃Aya's Justice
+CharacterState/Group/Desc/1002100┃Shield some damage.
+CharacterState/Group/Name/1002200┃Double Shot - Attack Speed Increased
+CharacterState/Group/Desc/1002200┃Attack speed increased thanks to Double Shot.
+CharacterState/Group/Name/1002300┃Steady Shot
+CharacterState/Group/Desc/1002300┃Damage reduced from continuous Steady Shot bullets.
+CharacterState/Group/Name/1002500┃Blank Cartridge
+CharacterState/Group/Desc/1002500┃Blank Cartridge - Feared
+CharacterState/Group/Name/1004100┃Tough Body
+CharacterState/Group/Desc/1004100┃Every fight makes Magnus stronger. Defense increases with each Stack. At max stacks, HP recovery increases.
+CharacterState/Group/Name/1004110┃Tough Body - HP Recovery
+CharacterState/Group/Desc/1004110┃Reached Max Stacks of Tough Body. HP Regen increased.
+CharacterState/Group/Name/1004200┃Slowed
+CharacterState/Group/Desc/1004200┃Slowed from Broken Bullet.
+CharacterState/Group/Name/1004300┃17 vs 1
+CharacterState/Group/Desc/1004300┃Magnus spins violently and gains tenacity.
+CharacterState/Group/Name/1004400┃Heavy Strike
+CharacterState/Group/Desc/1004400┃Knocked back and stunned from Heavy Strike.
+CharacterState/Group/Name/1004500┃Bike From Hell
+CharacterState/Group/Desc/1004500┃No one can stop Magnus!
+CharacterState/Group/Name/1007100┃Dogfight
+CharacterState/Group/Desc/1007100┃Deal additional damage and recover HP by attacking enemies.
+CharacterState/Group/Name/1007200┃Stomping Foot
+CharacterState/Group/Desc/1007200┃Movement speed has been decreased.
+CharacterState/Group/Name/1007210┃Stomping Foot - Movement Speed Increase
+CharacterState/Group/Desc/1007210┃Movement speed increases by stepping on the opponent's foot.
+CharacterState/Group/Name/1007300┃Bluff - Immune to movement impairing effects.
+CharacterState/Group/Desc/1007300┃Unaffected by movement impairing effects.
+CharacterState/Group/Name/1007310┃Bluff - Bonus Defense
+CharacterState/Group/Desc/1007310┃Defense increased.
+CharacterState/Group/Name/1007500┃Defense Reduction
+CharacterState/Group/Desc/1007500┃Hyunwoo landed the Haymaker, lowering your defense.
+CharacterState/Group/Name/1007410┃Stun
+CharacterState/Group/Desc/1007410┃Stunned
+CharacterState/Group/Name/1003100┃Touché
+CharacterState/Group/Desc/1003100┃Hitting a target with a skill applies a stack of Touché.
+CharacterState/Group/Name/1003110┃Touché
+CharacterState/Group/Desc/1003110┃Activating Touché stacks increases movement speed.
+CharacterState/Group/Name/1003200┃Fente
+CharacterState/Group/Desc/1003200┃Slowed
+CharacterState/Group/Name/1003210┃Fente
+CharacterState/Group/Desc/1003210┃Slowed
+CharacterState/Group/Name/1003300┃Attaque Composée
+CharacterState/Group/Desc/1003300┃Fiora receives reduced damage when hit.
+CharacterState/Group/Name/1003310┃Attaque Composée - Disarm
+CharacterState/Group/Desc/1003310┃Can not perform basic attacks due to being disarmed.
+CharacterState/Group/Name/1003400┃Marche & Rompre
+CharacterState/Group/Desc/1003400┃Slowed
+CharacterState/Group/Name/1003510┃Flèche
+CharacterState/Group/Desc/1003510┃Enemies are slowed.
+CharacterState/Group/Name/1003520┃Flèche
+CharacterState/Group/Desc/1003520┃Slowed
+CharacterState/Group/Name/1003530┃Flèche
+CharacterState/Group/Desc/1003530┃Stunned by Flèche
+CharacterState/Group/Name/1006100┃Wild - Stack
+CharacterState/Group/Desc/1006100┃Nadine gains a stack of Wild for every wild animal hunted and enemy character kill assist.
+CharacterState/Group/Name/1006110┃Wild - Active
+CharacterState/Group/Desc/1006110┃While Wild marks are active, either Nadine or her allies gain a Stack of Wild upon kills.
+CharacterState/Group/Name/1006200┃Bullseye
+CharacterState/Group/Desc/1006200┃Slowed.
+CharacterState/Group/Name/1006300┃Squirrel Trap
+CharacterState/Group/Desc/1006300┃Movement and attack speed reduced.
+CharacterState/Group/Name/1006400┃Monkey Wire
+CharacterState/Group/Desc/1006400┃Attack speed increased.
+CharacterState/Group/Name/1006410┃Monkey Wire
+CharacterState/Group/Desc/1006410┃Attack speed increased.
+CharacterState/Group/Name/1006500┃Wolf Assault
+CharacterState/Group/Desc/1006500┃A wolf appears when performing a basic attack.
+CharacterState/Group/Name/1006510┃Wolf Assault
+CharacterState/Group/Desc/1006510┃The wolf bites every 3 basic attacks.
+CharacterState/Group/Name/1006520┃Wolf Assault
+CharacterState/Group/Desc/1006520┃Movement and attack speed reduced.
+CharacterState/Group/Name/1005100┃Eye of Azrael - Movement speed increased
+CharacterState/Group/Desc/1005100┃Eye of Azrael - Movement speed increased - When Eye of Azrael is applied to an enemy, your movement speed is increased and decreases again after 3 seconds.
+CharacterState/Group/Name/1005110┃Eye of Azrael - Additional effects
+CharacterState/Group/Desc/1005110┃Eye of Azrael - Hitting an enemy with a skill applies additional effects.
+CharacterState/Group/Name/1005120┃Eye of Azrael - Defense Reduction
+CharacterState/Group/Desc/1005120┃Defense decreased for 2 seconds.
+CharacterState/Group/Name/1005300┃Chakram
+CharacterState/Group/Desc/1005300┃Chakrams remain for 20 seconds. The timer is refreshed every time you earn a new Chakram.
+CharacterState/Group/Name/1005310┃Chakram - Eye of Azrael
+CharacterState/Group/Desc/1005310┃Chakram - Slowed from Eye of Azreal
+CharacterState/Group/Name/1005400┃Vayvayastra
+CharacterState/Group/Desc/1005400┃Vayvayastra - Knocked Airborne
+CharacterState/Group/Name/1008200┃Delay - Waiting to Reuse
+CharacterState/Group/Desc/1008200┃Delay can be reused. Standing by for release.
+CharacterState/Group/Name/1008210┃Delay - Slowed
+CharacterState/Group/Desc/1008210┃Movement Speed reduced.
+CharacterState/Group/Name/1008300┃Overdrive - Attack Power and Basic Attack Range Increase
+CharacterState/Group/Desc/1008300┃Attack Power and Basic Attack Range increased.
+CharacterState/Group/Name/1008310┃Overdrive - Evolution
+CharacterState/Group/Desc/1008310┃Attack Power and Basic Attack Range increased.
+CharacterState/Group/Name/1008400┃Skill Amp Increase
+CharacterState/Group/Desc/1008400┃Skill Amp increased.
+CharacterState/Group/Name/1008410┃Skill Amp Increase
+CharacterState/Group/Desc/1008410┃Skill Amp increased.
+CharacterState/Group/Name/1008500┃Peacemaker - Time to Dance!
+CharacterState/Group/Desc/1008500┃Dancing to the rhythm of Hart's solo. ♪
+CharacterState/Group/Name/1008510┃Peacemaker - Time to Dance!
+CharacterState/Group/Desc/1008510┃Dancing to the rhythm of Hart's solo. ♪
+CharacterState/Group/Name/1009100┃Guerilla Warfare
+CharacterState/Group/Desc/1009100┃His attack power and skill amplification increases.
+CharacterState/Group/Name/1009110┃Guerilla Warfare - Defense Reduction
+CharacterState/Group/Desc/1009110┃Defense reduced.
+CharacterState/Group/Name/1009200┃Rooted
+CharacterState/Group/Desc/1009200┃Rooted.
+CharacterState/Group/Name/1009210┃Semtex Bomb
+CharacterState/Group/Desc/1009210┃Stuck by a Semtex Bomb.
+CharacterState/Group/Name/1009300┃Rebel Assault
+CharacterState/Group/Desc/1009300┃Defense reduced.
+CharacterState/Group/Name/1009400┃Invisible
+CharacterState/Group/Desc/1009400┃Can't be seen.
+CharacterState/Group/Name/1009410┃Camouflage - Enhanced Basic Attack
+CharacterState/Group/Desc/1009410┃Performing a basic attack deals an additional skill damage.
+CharacterState/Group/Name/1009500┃MOK Operational Mine
+CharacterState/Group/Desc/1009500┃Slowed.
+CharacterState/Group/Name/1010100┃BAC - Tipsy
+CharacterState/Group/Desc/1010100┃Next skill is enhanced.
+CharacterState/Group/Name/1010110┃BAC - Inebriated
+CharacterState/Group/Desc/1010110┃Silenced.
+CharacterState/Group/Name/1010120┃BAC - Dialed In
+CharacterState/Group/Desc/1010120┃Li Dailin attacks with two consecutive basic attacks, and her Attack Speed is increased.
+CharacterState/Group/Name/1010130┃Inebriated
+CharacterState/Group/Desc/1010130┃Still Dialed In. Cannot use skills.
+CharacterState/Group/Name/1010140┃BAC - Strong Stomach
+CharacterState/Group/Desc/1010140┃Attack Power increased due to drunkenness.
+CharacterState/Group/Name/1010300┃Drink Up - Liquid Strength
+CharacterState/Group/Desc/1010300┃Damage dealt from the next basic attack increased.
+CharacterState/Group/Name/1010310┃Drink Up - Liquid Strength
+CharacterState/Group/Desc/1010310┃Damage taken reduced.
+CharacterState/Group/Name/1010410┃Bottom Shelf
+CharacterState/Group/Desc/1010410┃Slowed from Bottom Shelf.
+CharacterState/Group/Name/1010420┃Bottom Shelf - Tipsy
+CharacterState/Group/Desc/1010420┃Slowed from Bottom Shelf.
+CharacterState/Group/Name/1010500┃Striking Tiger
+CharacterState/Group/Desc/1010500┃Suppressed.
+CharacterState/Group/Name/1011200┃From Head to Toe
+CharacterState/Group/Desc/1011200┃Next basic attack deals additional damage and slows enemies.
+CharacterState/Group/Name/1011210┃Slowed
+CharacterState/Group/Desc/1011210┃Movement speed reduced.
+CharacterState/Group/Name/1011310┃Damage Taken Reduction
+CharacterState/Group/Desc/1011310┃Damage taken has been reduced.
+CharacterState/Group/Name/1011400┃Disarmed
+CharacterState/Group/Desc/1011400┃Cannot perform basic attacks.
+CharacterState/Group/Name/1011500┃Mark
+CharacterState/Group/Desc/1011500┃Deals damage when Yuki sheaths his sword.
+CharacterState/Group/Name/1011510┃Mark
+CharacterState/Group/Desc/1011510┃Deals damage when Yuki sheaths his sword.
+CharacterState/Group/Name/1012100┃Three Calamities
+CharacterState/Group/Desc/1012100┃Received Three Calamities.
+CharacterState/Group/Name/1012110┃Three Calamities - Feared
+CharacterState/Group/Desc/1012110┃Running away in fear
+CharacterState/Group/Name/1012120┃Calamities Dispelled
+CharacterState/Group/Desc/1012120┃Cannot receive Three Calamities.
+CharacterState/Group/Name/1012300┃Charm of the Prophecy - Slowed
+CharacterState/Group/Desc/1012300┃Your movement speed has been reduced due to being in range of Charm of the Prophecy.
+CharacterState/Group/Name/1012500┃Five Omens - Slowed
+CharacterState/Group/Desc/1012500┃Slowed.
+CharacterState/Group/Name/1012510┃Five Omens
+CharacterState/Group/Desc/1012510┃Summoned Five Omens.
+CharacterState/Group/Name/1013100┃Juggernaut Chef
+CharacterState/Group/Desc/1013100┃Xiukai earns a stack of Juggernaut Chef when crafting food. Food and beverages made by Xiukai grant more HP/SP recovery.
+CharacterState/Group/Name/1013200┃Lost in the Sauce
+CharacterState/Group/Desc/1013200┃Slowed from a hefty cask of sauce.
+CharacterState/Group/Name/1013410┃Heavy Meal
+CharacterState/Group/Desc/1013410┃Slowed from a heavy meal.
+CharacterState/Group/Name/1013300┃Eat Up! - Defense Increased
+CharacterState/Group/Desc/1013300┃Defense has been increased.
+CharacterState/Group/Name/1013400┃Wok It Off
+CharacterState/Group/Desc/1013400┃Pushed and knocked airborne by Wok it Off.
+CharacterState/Group/Name/1013500┃Burnt to a Crisp
+CharacterState/Group/Desc/1013500┃Slowed from the SPICE.
+CharacterState/Group/Name/1013510┃Burnt to a Crisp
+CharacterState/Group/Desc/1013510┃Dishing out flames, dealing damage, and reducing enemy Defense.
+CharacterState/Group/Name/1014100┃Stigma
+CharacterState/Group/Desc/1014100┃Healing reduced.
+CharacterState/Group/Name/1014130┃Stigma
+CharacterState/Group/Desc/1014130┃Movement Speed increased.
+CharacterState/Group/Name/1014210┃Hand of Corruption
+CharacterState/Group/Desc/1014210┃Slowly regaining HP.
+CharacterState/Group/Name/1014300┃Mania - Rooted
+CharacterState/Group/Desc/1014300┃Rooted due to Mania.
+CharacterState/Group/Name/1014400┃Depraved Prayer
+CharacterState/Group/Desc/1014400┃Shielded.
+CharacterState/Group/Name/1014500┃Plague
+CharacterState/Group/Desc/1014500┃Chiara can cast judgement upon enemies during the Plague.
+CharacterState/Group/Name/1015120┃Agony
+CharacterState/Group/Desc/1015120┃As Sissela's HP decreases, she gains HP Regeneration and Skill Amp.
+CharacterState/Group/Name/1015130┃Agony
+CharacterState/Group/Desc/1015130┃Next basic attack enhanced.
+CharacterState/Group/Name/1015140┃Agony
+CharacterState/Group/Desc/1015140┃Slowed from casting Agony
+CharacterState/Group/Name/1015300┃Girl in a Bubble
+CharacterState/Group/Desc/1015300┃Blocks attacks and avoids collisions with the target. Movement speed increases.
+CharacterState/Group/Name/1015400┃Play With Us!
+CharacterState/Group/Desc/1015400┃Pulled back by Wilson.
+CharacterState/Group/Name/1015420┃Play With Us!
+CharacterState/Group/Desc/1015420┃Shielded by Wilson.
+CharacterState/Group/Name/1015430┃Play With Us!
+CharacterState/Group/Desc/1015430┃Stunned by Wilson.
+CharacterState/Group/Name/1015500┃Free at Last
+CharacterState/Group/Desc/1015500┃Passive effect amplified.
+CharacterState/Group/Name/1016000┃Shift Gears
+CharacterState/Group/Desc/1016000┃Next basic attack enhanced.
+CharacterState/Group/Name/1016050┃Shift Gears
+CharacterState/Group/Desc/1016050┃Movement Speed and Defense increased.
+CharacterState/Group/Name/1016100┃Lumia Grand Prix
+CharacterState/Group/Desc/1016100┃Attack Speed and Max Fuel increased.
+CharacterState/Group/Name/1016110┃Lumia Grand Prix
+CharacterState/Group/Desc/1016110┃Attack Speed and Skill Amp increased.
+CharacterState/Group/Name/1016130┃Lumia Grand Prix
+CharacterState/Group/Desc/1016130┃Able to refuel.
+CharacterState/Group/Name/1016300┃Finish Line
+CharacterState/Group/Desc/1016300┃Slowed from crossing the finish line.
+CharacterState/Group/Name/1016500┃Shift Gears
+CharacterState/Group/Desc/1016500┃Movement Speed increased.
+CharacterState/Group/Name/1016800┃Wheelie
+CharacterState/Group/Desc/1016800┃Movement Speed increased.
+CharacterState/Group/Name/1016810┃Wheelie
+CharacterState/Group/Desc/1016810┃Movement Speed increased. Sick Wheelie.
+CharacterState/Group/Name/1017110┃Burned
+CharacterState/Group/Desc/1017110┃Defense reduced and taking damage over time.
+CharacterState/Group/Name/1017400┃Fire Escape - Slowed
+CharacterState/Group/Desc/1017400┃Movement speed reduced.
+CharacterState/Group/Name/1017130┃Immune from Burned
+CharacterState/Group/Desc/1017130┃You cannot catch on fire again.
+CharacterState/Group/Name/1017310┃Oil Slick
+CharacterState/Group/Desc/1017310┃Slowed due to Oil Slick.
+CharacterState/Group/Name/1018100┃Phony Deal
+CharacterState/Group/Desc/1018100┃At max stacks, Shoichi's next basic attack deals additional skill damage and creates a dagger behind the enemy.
+CharacterState/Group/Name/1018110┃Phony Deal - Enhanced
+CharacterState/Group/Desc/1018110┃The next basic attack deals additional skill damage and creates a dagger behind the enemy.
+CharacterState/Group/Name/1018200┃Bad Faith
+CharacterState/Group/Desc/1018200┃Wider range and will leave behind a dagger.
+CharacterState/Group/Name/1018400┃Risky Business - Slowed
+CharacterState/Group/Desc/1018400┃Movement speed reduced.
+CharacterState/Group/Name/1018410┃Risky Business
+CharacterState/Group/Desc/1018410┃The dagger is thrown first at Risky Business's targets.
+CharacterState/Group/Name/1018500┃Ruthless
+CharacterState/Group/Desc/1018500┃Slowed from a Ruthless businessman
+CharacterState/Group/Name/1019100┃CheerUP♥
+CharacterState/Group/Desc/1019100┃Absorbing damage.
+CharacterState/Group/Name/1019110┃CheerUP♥
+CharacterState/Group/Desc/1019110┃Next Basic attack enhanced.
+CharacterState/Group/Name/1019230┃Dove Dealer - Slowed
+CharacterState/Group/Desc/1019230┃Movement speed reduced.
+CharacterState/Group/Name/1019400┃Bunnymorph
+CharacterState/Group/Desc/1019400┃Bunnymorphed!
+CharacterState/Group/Name/1019410┃Bunnymorph
+CharacterState/Group/Desc/1019410┃Rooted as a... bunny!
+CharacterState/Group/Name/1019500┃Change★
+CharacterState/Group/Desc/1019500┃Magically rooted.
+CharacterState/Group/Name/1020110┃Bait and Tackle
+CharacterState/Group/Name/1020200┃Recoil
+CharacterState/Group/Name/1020300┃Snakebite - Slowed
+CharacterState/Group/Name/1020310┃Snakebite
+CharacterState/Group/Name/1020320┃Snakebite
+CharacterState/Group/Name/1020400┃Whiplash
+CharacterState/Group/Name/1020410┃Whiplash
+CharacterState/Group/Name/1020500┃Blue Viper
+CharacterState/Group/Name/1020510┃Blue Viper
+CharacterState/Group/Desc/1020110┃Shielded.
+CharacterState/Group/Desc/1020200┃Recoil - cooldown decreased.
+CharacterState/Group/Desc/1020300┃Slowed from being bit by a snake!
+CharacterState/Group/Desc/1020320┃Movement Speed Increased
+CharacterState/Group/Desc/1020400┃Knocked back.
+CharacterState/Group/Desc/1020410┃Movement Speed Decreased
+CharacterState/Group/Desc/1020500┃Taking damage when moving.
+CharacterState/Group/Desc/1020510┃Taking damage when moving.
+CharacterState/Group/Name/1021100┃Dual Wield
+CharacterState/Group/Name/1021110┃Delicious Chocolate drink
+CharacterState/Group/Name/1021120┃Delicious Chocolate snack
+CharacterState/Group/Name/1021200┃Easy Shot
+CharacterState/Group/Name/1021300┃Flutter
+CharacterState/Group/Name/1021310┃Flutter
+CharacterState/Group/Name/1021400┃Gun Vault
+CharacterState/Group/Name/1021420┃Gun Vault
+CharacterState/Group/Name/1021510┃Semtex Bomb Mk-II
+CharacterState/Group/Name/1021520┃Semtex Bomb Mk-II
+CharacterState/Group/Name/1021530┃Semtex Bomb Mk-II
+CharacterState/Group/Desc/1021100┃Next Basic attack enhanced.
+CharacterState/Group/Desc/1021110┃Recovering HP from Chocolate drink.
+CharacterState/Group/Desc/1021120┃Recoving SP from Chocolate food. Tasty.
+CharacterState/Group/Desc/1021200┃Next movement command is a dash
+CharacterState/Group/Desc/1021300┃Movement Speed Increased
+CharacterState/Group/Desc/1021310┃Flutter - Defense and Healing Reduced
+CharacterState/Group/Desc/1021400┃Untargetable
+CharacterState/Group/Desc/1021420┃Stunned by Gun Vault.
+CharacterState/Group/Desc/1021510┃Slowed from an impressive Semtex Bomb Mk-II
+CharacterState/Group/Desc/1021520┃Movement Speed Increased.
+CharacterState/Group/Desc/1021530┃Semtex Bomb Mk-II exploded - slowed.
+CharacterState/Group/Name/1022100┃Neat 'n Tidy
+CharacterState/Group/Name/1022220┃Clean Sweep
+CharacterState/Group/Name/1022230┃Luke's Customer
+CharacterState/Group/Name/1022300┃Elbow Grease
+CharacterState/Group/Name/1022310┃Elbow Grease
+CharacterState/Group/Name/1022320┃Elbow Grease
+CharacterState/Group/Name/1022400┃Dirty Work
+CharacterState/Group/Name/1022410┃Dirty Work - Slowed
+CharacterState/Group/Name/1022500┃Pressure Washer - Slowed
+CharacterState/Group/Desc/1022100┃Gain stacks by "cleaning" Lumia Island
+CharacterState/Group/Desc/1022220┃Reactivate Clean Sweep.
+CharacterState/Group/Desc/1022230┃You are Luke's next customer!
+CharacterState/Group/Desc/1022300┃Slow duration reduced.
+CharacterState/Group/Desc/1022310┃Basic attack enhanced.
+CharacterState/Group/Desc/1022320┃Attack speed increased.
+CharacterState/Group/Desc/1022400┃Suppressed pings from attacking.
+CharacterState/Group/Desc/1022410┃Slowed. It's a dirty job, but someone's gotta do it.
+CharacterState/Group/Desc/1022500┃Movement speed decreased from Pressure Washer
+CharacterState/Group/Name/1023100┃Wounded
+CharacterState/Group/Name/1023110┃Severely Wounded
+CharacterState/Group/Name/1023150┃Movement speed increased
+CharacterState/Group/Name/1023130┃Post-op
+CharacterState/Group/Name/1023140┃Post-op - Ready
+CharacterState/Group/Name/1023210┃Double Bypass - Enhanced Basic Attack
+CharacterState/Group/Name/1023300┃Amputation - Slowed
+CharacterState/Group/Name/1023310┃Amputation - Grounded
+CharacterState/Group/Name/1023400┃Suture - Rooted
+CharacterState/Group/Name/1023410┃Suture - Knocked back
+CharacterState/Group/Name/1023420┃Suture - Stunned
+CharacterState/Group/Name/1023510┃Emergency Surgery - Operating!
+CharacterState/Group/Desc/1023100┃Wounded - bleeding from wound
+CharacterState/Group/Desc/1023110┃Wounded - bleeding from wound. Applies healing reduction.
+CharacterState/Group/Desc/1023130┃Absorbs damage and increases movement speed when approaching wounded enemies.
+CharacterState/Group/Desc/1023150┃Post OP - Movement speed increased towards wounded enemies
+CharacterState/Group/Desc/1023140┃Skill damage activates Post-op.
+CharacterState/Group/Desc/1023210┃Cathy's next basic attack deals skill damage and Wounds enemies.
+CharacterState/Group/Desc/1023300┃Amputation - Slowed
+CharacterState/Group/Desc/1023310┃Amputation - Unable to use movement skills
+CharacterState/Group/Desc/1023400┃Suture - Cannot move
+CharacterState/Group/Desc/1023410┃Suture - Pulled by suture thread
+CharacterState/Group/Desc/1023420┃Suture - Stunned while you're in Cathy's care.
+CharacterState/Group/Desc/1023510┃Emergency Surgery - Recovering HP
+CharacterState/Group/Name/1024100┃Control the Center
+CharacterState/Group/Name/1024120┃Control the Center - movement speed increased
+CharacterState/Group/Name/1024200┃Promotion
+CharacterState/Group/Name/1024300┃Knight Fork
+CharacterState/Group/Name/1024510┃Checkmate
+CharacterState/Group/Name/1024270┃Promotion - movement speed increased.
+CharacterState/Group/Desc/1024100┃Adela gains Skill Amplification instead of attack speed.
+CharacterState/Group/Desc/1024120┃Critical Strike - movement speed increased
+CharacterState/Group/Desc/1024200┃Activating Promotion
+CharacterState/Group/Desc/1024300┃Attacked by knight - slowed
+CharacterState/Group/Desc/1024510┃Invulnerable
+CharacterState/Group/Desc/1024270┃Movement speed increased.
+CharacterState/Group/Name/1025100┃Buckshot - Sniper Rifle
+CharacterState/Group/Name/1025200┃Leg Shot - Slowed
+CharacterState/Group/Name/1025210┃Leg Shot - Enhanced Slow
+CharacterState/Group/Name/1025300┃Foothold Trap - Bleeding
+CharacterState/Group/Name/1025310┃Foothold Trap - Rooted
+CharacterState/Group/Name/1025400┃Hunting
+CharacterState/Group/Name/1025420┃Falconry - movement speed increased
+CharacterState/Group/Name/1025430┃Falconry
+CharacterState/Group/Name/1025500┃Explosive Bola
+CharacterState/Group/Name/1025510┃Explosive Bola - Rooted
+CharacterState/Group/Name/1025520┃Explosive Bola - Slowed
+CharacterState/Group/Desc/1025100┃Sniper Rifle basic attacks fire Buckshot.
+CharacterState/Group/Desc/1025200┃Slowed from the passive effect of Leg Shot
+CharacterState/Group/Desc/1025210┃Slowed from the enhanced effect of Leg Shot
+CharacterState/Group/Desc/1025300┃Bleeding from a Foothold Trap
+CharacterState/Group/Desc/1025310┃Rooted from a Foothold Trap
+CharacterState/Group/Desc/1025400┃Bernice is tracking you.
+CharacterState/Group/Desc/1025420┃Movement speed increased when moving towards a marked target.
+CharacterState/Group/Desc/1025430┃Vision increased from falcon.
+CharacterState/Group/Desc/1025500┃Explosive Bola can spread to nearby test subjects.
+CharacterState/Group/Desc/1025510┃Rooted from an Explosive Bola
+CharacterState/Group/Desc/1025520┃Slowed from an Explosive Bola
+CharacterState/Group/Name/1026110┃Retrofit
+CharacterState/Group/Desc/1026110┃Sentry Gun Attack Power and Defense increased.
+CharacterState/Group/Name/1026120┃Mastermind Engineer
+CharacterState/Group/Desc/1026120┃Sentry Gun Attack Speed increased.
+CharacterState/Group/Name/1026200┃Sentry Gun active.
+CharacterState/Group/Desc/1026200┃Sentry Gun automatically attacks enemies in range.
+CharacterState/Group/Name/1026220┃Short Circuit
+CharacterState/Group/Desc/1026220┃Sentry Gun Attack Speed increased.
+CharacterState/Group/Name/1026300┃Slowed.
+CharacterState/Group/Desc/1026300┃Slowed from Free-Electron Laser.
+CharacterState/Group/Name/1026310┃Sentry Gun overcharged.
+CharacterState/Group/Desc/1026310┃Next attack is enhanced.
+CharacterState/Group/Name/1026320┃Sentry Gun - Target
+CharacterState/Group/Desc/1026320┃Targeted by a Sentry Gun.
+CharacterState/Group/Name/1026400┃Magnetic Cyclone
+CharacterState/Group/Desc/1026400┃Movement Speed increased. A percent of Barbara's total damage dealt is accumulated.
+CharacterState/Group/Name/1026410┃Particle Storm
+CharacterState/Group/Desc/1026410┃Movement Speed increased. Damage taken is reduced and shields accumulated are higher than Magnetic Cyclone!
+CharacterState/Group/Name/1026420┃Slowed.
+CharacterState/Group/Desc/1026420┃Slowed from Magnetic Cyclone.
+CharacterState/Group/Name/1026430┃Shield activated from Magnetic Cyclone.
+CharacterState/Group/Desc/1026430┃Potential shield consumed.
+CharacterState/Group/Name/1026440┃Slowed.
+CharacterState/Group/Desc/1026440┃Slowed from a raging Particle Storm.
+CharacterState/Group/Name/1026500┃Overclock
+CharacterState/Group/Desc/1026500┃You can use enhanced skill.
+CharacterState/Group/Name/1026510┃Photon Resonance
+CharacterState/Group/Desc/1026510┃Next attack is enhanced.
+CharacterState/Group/Name/1027110┃Infiltration
+CharacterState/Group/Name/1027120┃Infiltration - Movement speed increased
+CharacterState/Group/Name/1027150┃Weapon change
+CharacterState/Group/Name/1027200┃Gauss Pistol  - Attack power increased
+CharacterState/Group/Name/1027210┃Incursion - Attack power increased
+CharacterState/Group/Name/1027220┃Gauss Pistol and Incursion
+CharacterState/Group/Name/1027300┃Recognition Signal - Vision
+CharacterState/Group/Name/1027310┃Recognition Signal - Range increased
+CharacterState/Group/Name/1027400┃Blowback - Slowed
+CharacterState/Group/Name/1027410┃Blowback - HP recovered
+CharacterState/Group/Name/1027420┃Blowback - Silenced
+CharacterState/Group/Name/1027430┃Blowback - Attack speed increased
+CharacterState/Group/Name/1027500┃EMP Barrage - Slowed
+CharacterState/Group/Name/1027810┃Double Agent - Attack speed increased
+CharacterState/Group/Desc/1027110┃Infiltration
+CharacterState/Group/Desc/1027120┃Your movement speed is increased.
+CharacterState/Group/Desc/1027150┃Able to swap weapons.
+CharacterState/Group/Desc/1027200┃Attack Power increased.
+CharacterState/Group/Desc/1027210┃Attack Power increased.
+CharacterState/Group/Desc/1027220┃Attack speed increased.
+CharacterState/Group/Desc/1027300┃Vision granted from Recognitional Signal
+CharacterState/Group/Desc/1027310┃Range increased.
+CharacterState/Group/Desc/1027400┃Slowed from Blowback.
+CharacterState/Group/Desc/1027410┃Recovering HP.
+CharacterState/Group/Desc/1027420┃Silenced from Blowback.
+CharacterState/Group/Desc/1027430┃Attack speed increased.
+CharacterState/Group/Desc/1027500┃Slowed from EMP Barrage.
+CharacterState/Group/Desc/1027810┃Attack speed increased.
+CharacterState/Group/Name/1028100┃Bookworm
+CharacterState/Group/Name/1028200┃Odyssey - Stunned
+CharacterState/Group/Name/1028210┃Odyssey - Bookmark
+CharacterState/Group/Name/1028220┃Odyssey - Bookmark (Memory)
+CharacterState/Group/Name/1028300┃Curious Case - Shielded
+CharacterState/Group/Name/1028310┃Curious Case - Shielded (Memory)
+CharacterState/Group/Name/1028340┃Curious Case - Blinded
+CharacterState/Group/Name/1028350┃Curious Case - Blinded (Memory)
+CharacterState/Group/Name/1028400┃Don Quixote - Knocked Airborne
+CharacterState/Group/Name/1028420┃Don Quixote - Slowed
+CharacterState/Group/Desc/1028100┃Bookworm - Next basic attack enhanced.
+CharacterState/Group/Desc/1028200┃Stunned from Odyssey. Great novel.
+CharacterState/Group/Desc/1028210┃Sua has left a bookmark.
+CharacterState/Group/Desc/1028220┃Sua has left a bookmark. (Memory)
+CharacterState/Group/Desc/1028300┃Curious Case - Immune to Crowd Control Effects and Shielded
+CharacterState/Group/Desc/1028310┃Curious Case - Immune to Crowd Control Effects and Shielded
+CharacterState/Group/Desc/1028340┃Blinded from Curious Case
+CharacterState/Group/Desc/1028350┃Blinded from Curious Case
+CharacterState/Group/Desc/1028400┃Knocked Airborne from Don Quixote
+CharacterState/Group/Desc/1028420┃Slowed from Don Quixote
+CharacterState/Group/Name/1029110┃Human Torpedo
+CharacterState/Group/Desc/1029110┃Movement and attack speed increased from Human Torpedo
+CharacterState/Group/Name/1029120┃Pool Shark
+CharacterState/Group/Desc/1029120┃Basic attacks deal additional skill damage when standing on a pool.
+CharacterState/Group/Name/1029150┃Human Torpedo - Pool
+CharacterState/Group/Desc/1029150┃Basic attacks create a pool.
+CharacterState/Group/Name/1029200┃Cannonball
+CharacterState/Group/Desc/1029200┃Shield gained from Cannonball.
+CharacterState/Group/Name/1029210┃Cannonball - Extra damage
+CharacterState/Group/Desc/1029210┃Basic attacks deal extra damage
+CharacterState/Group/Name/1029400┃Duck Dive
+CharacterState/Group/Desc/1029400┃Knocked Airborne from Duck Dive.
+CharacterState/Group/Name/1029520┃Surf's Up
+CharacterState/Group/Name/1029510┃Surf's Up
+CharacterState/Group/Desc/1029510┃Swept away from a monster wave, dude.
+CharacterState/Group/Desc/1029520┃Swept away from a monster wave, dude.
+CharacterState/Group/Name/1029530┃Surf's Up - Airborne
+CharacterState/Group/Desc/1029530┃Airborne from being hit into a wall with Surf's Up.
+CharacterState/Group/Name/1030100┃Ground Beef - Attack Speed reduced
+CharacterState/Group/Desc/1030100┃Basic attack speed reduced.
+CharacterState/Group/Name/1030110┃Ground Beef - Basic attack enhanced
+CharacterState/Group/Desc/1030110┃Your fork is slow to swing, but it deals extra damage.
+CharacterState/Group/Name/1030120┃Ground Beef
+CharacterState/Group/Desc/1030120┃4 basic attacks produce a slider.
+CharacterState/Group/Name/1030130┃Ground Beef - Eleven's Slider
+CharacterState/Group/Desc/1030130┃HP recovered from Eleven's slider.
+CharacterState/Group/Name/1030200┃Burger Queen - Slowed
+CharacterState/Group/Desc/1030200┃Slowed from being hit with a massive burger.
+CharacterState/Group/Name/1030210┃Burger Queen - Slowed
+CharacterState/Group/Desc/1030210┃Slowed from being hit with a massive burger.
+CharacterState/Group/Name/1030220┃Food For Thought - Reduced damage taken
+CharacterState/Group/Desc/1030220┃Eleven takes reduced damage.
+CharacterState/Group/Name/1030300┃Food For Thought - Taunt
+CharacterState/Group/Desc/1030300┃Taunted to attack Eleven
+CharacterState/Group/Name/1030310┃Food For Thought - Taunt
+CharacterState/Group/Desc/1030310┃Taunted to attack Eleven
+CharacterState/Group/Name/1030400┃On Air! - Slowed
+CharacterState/Group/Desc/1030400┃Movement speed reduced from On Air!
+CharacterState/Group/Name/1030500┃Calorie Cyclone - Fast Food
+CharacterState/Group/Desc/1030500┃Eleven recovers HP continuously.
+CharacterState/Group/Name/1030510┃Enhanced Skill
+CharacterState/Group/Desc/1030510┃Next skill enhanced from Calorie Cyclone.
+CharacterState/Group/Name/1031200┃Hassetsu - Flow
+CharacterState/Group/Name/1031210┃Next attack is enhanced.
+CharacterState/Group/Name/1031220┃Hassetsu - Hankyu Effect
+CharacterState/Group/Name/1031230┃Slowed from Flow (Daikyu)
+CharacterState/Group/Name/1031300┃Slowed from Hanare (Hankyu)
+CharacterState/Group/Name/1031310┃Slowed from Flow (Daikyu)
+CharacterState/Group/Name/1031500┃Slowed from Spirit Arrow.
+CharacterState/Group/Desc/1031200┃Flawlessly landed basic attacks and skills.
+CharacterState/Group/Desc/1031210┃Flow applied to next basic attack.
+CharacterState/Group/Desc/1031220┃Movement and attack speed increased.
+CharacterState/Group/Desc/1031230┃Slowed from Flow (Daikyu)
+CharacterState/Group/Desc/1031300┃Slowed from Hanare (Hankyu)
+CharacterState/Group/Desc/1031310┃Slowed from Flow (Daikyu)
+CharacterState/Group/Desc/1031500┃Slowed from Spirit Arrow.
+CharacterState/Group/Name/1032110┃No Hitter - Movement Speed Increased
+CharacterState/Group/Name/1032120┃No Hitter
+CharacterState/Group/Name/1032200┃Fastball
+CharacterState/Group/Name/1032300┃Windup - Slowed
+CharacterState/Group/Name/1032310┃Windup - Stunned
+CharacterState/Group/Name/1032410┃Sliding Catch - Defense Increased
+CharacterState/Group/Name/1032500┃Signature Fireball - Slowed
+CharacterState/Group/Name/1032510┃Signature Fireball - Slowed
+CharacterState/Group/Desc/1032110┃Movement Speed Increased.
+CharacterState/Group/Desc/1032120┃Maintaining No-Hitter stacks.
+CharacterState/Group/Desc/1032200┃Pitching fastballs.
+CharacterState/Group/Desc/1032300┃Slowed from Windup.
+CharacterState/Group/Desc/1032310┃Stunned from Windup.
+CharacterState/Group/Desc/1032410┃Defense Increased
+CharacterState/Group/Desc/1032500┃Slowed from being hit by the pitch.
+CharacterState/Group/Desc/1032510┃Slowed from being hit by the pitch.
+CharacterState/Group/Name/1033100┃Short Tempered
+CharacterState/Group/Name/1033110┃Calm
+CharacterState/Group/Name/1033200┃Slugfest - Slowed
+CharacterState/Group/Name/1033300┃Guard
+CharacterState/Group/Name/1033330┃Reverse - Movement Speed Reduction
+CharacterState/Group/Name/1033400┃Knockout Punch - Slowed
+CharacterState/Group/Name/1033410┃Fury Jab!! - Slowed
+CharacterState/Group/Name/1033430┃Fury Jab!! - Stunned
+CharacterState/Group/Name/1033440┃Knockout Punch - Prepping
+CharacterState/Group/Name/1033500┃Pure Rage Uppercut!!
+CharacterState/Group/Name/1033520┃Pure Rage Uppercut!! - Airborne
+CharacterState/Group/Desc/1033100┃Enraged -Basic attacks deal extra damage, deal skill damage to nearby enemies.
+CharacterState/Group/Desc/1033110┃Cannot convert Rage.
+CharacterState/Group/Desc/1033200┃Movement Speed Reduced
+CharacterState/Group/Desc/1033300┃Nicky is guarding! Damage taken is reduced and Nicky becomes immune to Debuffs and Crowd Control.
+CharacterState/Group/Desc/1033330┃Movement Speed Reduced
+CharacterState/Group/Desc/1033400┃Movement Speed Reduced
+CharacterState/Group/Desc/1033410┃Movement Speed Reduced
+CharacterState/Group/Desc/1033430┃Stunned from feeling the full fury of a Pure Rage Uppercut!!
+CharacterState/Group/Desc/1033440┃Nicky is prepping Pure Rage Uppercut!!
+CharacterState/Group/Desc/1033500┃Unstoppable
+CharacterState/Group/Desc/1033520┃Airborne.
+CharacterState/Group/Name/1034100┃Slow Shutter
+CharacterState/Group/Name/1034200┃Picturesque
+CharacterState/Group/Name/1034210┃Snapshot - Slowed
+CharacterState/Group/Name/1034230┃Snapshot - Attack speed reduced
+CharacterState/Group/Name/1034300┃Timelapse - Slowed
+CharacterState/Group/Name/1034310┃Timelapse - Rooted
+CharacterState/Group/Name/1034400┃Panorama
+CharacterState/Group/Name/1034410┃Panorama - Slowed
+CharacterState/Group/Name/1034420┃Panorama - Range Increased
+CharacterState/Group/Name/1034430┃F-stop - Stasis
+CharacterState/Group/Desc/1034100┃Nathapon Camera's attack speed is fixed but his Basic attacks deal extra Skill Damage.
+CharacterState/Group/Desc/1034200┃Increased damage taken from Nathapon
+CharacterState/Group/Desc/1034210┃Slowed from the Snapshot.
+CharacterState/Group/Desc/1034230┃Nathapon got you on camera and is slowing your attack speed.
+CharacterState/Group/Desc/1034300┃Slowed from being in a Timelapse
+CharacterState/Group/Desc/1034310┃Rooted from the Timelapse. Don't ruin his photo!
+CharacterState/Group/Desc/1034400┃Nathapon wants you to be in his Panorama
+CharacterState/Group/Desc/1034410┃Slowed while Nathapon takes a panorama.
+CharacterState/Group/Desc/1034420┃Nathapon's Attack Range is increased to the enemy hit by the frame.
+CharacterState/Group/Desc/1034430┃Neither move nor take damage due to Nathapon's F-stop.
+CharacterState/Group/Name/1035100┃Unyielding
+CharacterState/Group/Name/1035230┃Knee Strike
+CharacterState/Group/Name/1035260┃Enhanced Knee Strike
+CharacterState/Group/Name/1035240┃Flying Knee
+CharacterState/Group/Name/1035320┃Tomahawk Roundhouse
+CharacterState/Group/Name/1035320┃Tomahawk Roundhouse - Stun
+CharacterState/Group/Name/1035330┃Enhanced Tomahawk Roundhouse
+CharacterState/Group/Name/1035330┃Enhanced Tomahawk Roundhouse - Stun
+CharacterState/Group/Name/1035400┃Bob and Weave
+CharacterState/Group/Name/1035420┃Bob and Weave - HP Regeneration
+CharacterState/Group/Name/1035500┃The Tetragon
+CharacterState/Group/Name/1035510┃The Tetragon - Knockback
+CharacterState/Group/Name/1035520┃The Tetragon - Slowed
+CharacterState/Group/Desc/1035100┃Gaining at least 5 stacks of Unyielding enhances your next skill.
+CharacterState/Group/Name/1035540┃Tomahawk Roundhouse - Stun
+CharacterState/Group/Name/1035530┃The Tetragon - Victorious
+CharacterState/Group/Desc/1035200┃Slowed from taking a knee to the face
+CharacterState/Group/Desc/1035260┃Defense decreased from taking a knee to the face.
+CharacterState/Group/Desc/1035230┃Knocked airborne from the knee
+CharacterState/Group/Desc/1035300┃Knocked back from an impressive Tomahawk Roundhouse
+CharacterState/Group/Desc/1035320┃Stunned from an impressive Tomahawk Roundhouse
+CharacterState/Group/Desc/1035400┃Your next basic attack deals extra damage.
+CharacterState/Group/Desc/1035420┃Hitting an enemy with Tomahawk Roundhouse or Knee Strike will heal you.
+CharacterState/Group/Desc/1035500┃Gains a stack of Unyielding every second through The Tetragon
+CharacterState/Group/Desc/1035510┃The Tetragon - Knocked Back
+CharacterState/Group/Desc/1035520┃The Tetragon - Slowed
+CharacterState/Group/Desc/1035540┃Stunned from an impressive Tomahawk Roundhouse
+CharacterState/Group/Desc/1035530┃The Tetragon - Movement Speed increased! The champ is here!
+CharacterState/Group/Name/1036110┃Telekinesis
+CharacterState/Group/Name/1036120┃Telekinesis - Slowed
+CharacterState/Group/Name/1036330┃Phase Vortex
+CharacterState/Group/Name/1036320┃Phase Vortex - Airborne
+CharacterState/Group/Name/1036410┃Amethyst Flow
+CharacterState/Group/Name/1036420┃Amethyst Flow
+CharacterState/Group/Name/1036430┃Amethyst Flow
+CharacterState/Group/Name/1036440┃Amethyst Flow - Silenced
+CharacterState/Group/Name/1036510┃VF Eruption
+CharacterState/Group/Desc/1036110┃Telekinesis is ready for activation.
+CharacterState/Group/Desc/1036120┃Slowed by Amethyst Flow.
+CharacterState/Group/Desc/1036330┃Inside the Phase Vortex. You've been slowed!
+CharacterState/Group/Desc/1036320┃Launched airborne from a collapsing Phase Vortex.
+CharacterState/Group/Desc/1036410┃Movement Speed is increased and Collisions are avoided.
+CharacterState/Group/Desc/1036420┃Eva is manipulating your VF, damaging you and and granting Eva vision of you.
+CharacterState/Group/Desc/1036430┃Your next basic attack is enhanced.
+CharacterState/Group/Desc/1036440┃Silenced from the Amethyst Flow.
+CharacterState/Group/Desc/1036510┃Deal extra damage when reaching the maximum number of stacks.
+CharacterState/Group/Name/1037100┃Recluse
+CharacterState/Group/Desc/1037100┃At night, his night vision and movement speed increase.
+CharacterState/Group/Name/1037110┃Antipathy
+CharacterState/Group/Desc/1037110┃Attack Power increased at low HP.
+CharacterState/Group/Name/1037200┃Dusk Shears - Slowed
+CharacterState/Group/Desc/1037200┃Slowed by Dusk Shears
+CharacterState/Group/Name/1037210┃Dusk Shears - Attack Speed Increase
+CharacterState/Group/Desc/1037210┃Attack Speed is increased.
+CharacterState/Group/Name/1037220┃Dusk Shears - Attack Speed Increase
+CharacterState/Group/Desc/1037220┃Attack Speed is increased.
+CharacterState/Group/Name/1037300┃Growing Inspiration
+CharacterState/Group/Desc/1037300┃You've inspired Daniel to make his next masterpiece.
+CharacterState/Group/Name/1037310┃Inspired
+CharacterState/Group/Desc/1037310┃Receive extra damage from Daniel.
+CharacterState/Group/Name/1037330┃Growing Inspiration
+CharacterState/Group/Desc/1037330┃Daniel has fallen into admiration for his artwork. Movement Speed reduced.
+CharacterState/Group/Name/1037340┃Growing Inspiration
+CharacterState/Group/Desc/1037340┃Vision Reduced by Growing Inspiration. The reduction is removed immediately upon taking damage from Daniel.
+CharacterState/Group/Name/1037320┃Inspiration - Movement Speed Reduction
+CharacterState/Group/Desc/1037320┃Movement Speed reduced due to Daniel's admiration for his artwork.
+CharacterState/Group/Name/1037400┃Shadow Glide
+CharacterState/Group/Desc/1037400┃Can blink to an enemy with your next basic attack.
+CharacterState/Group/Name/1037510┃Masterpiece
+CharacterState/Group/Desc/1037510┃You can depart from your target and deal damage.
+CharacterState/Group/Name/1037500┃Masterpiece
+CharacterState/Group/Desc/1037500┃Daniel has become your shadow.
+CharacterState/Group/Name/1038110┃Play Dead
+CharacterState/Group/Desc/1038110┃Jenny is playing dead. Superb acting.
+CharacterState/Group/Name/1038140┃Play Dead
+CharacterState/Group/Desc/1038140┃Jenny can Play Dead when she's low on HP.
+CharacterState/Group/Name/1038150┃Persona (Black Tea)
+CharacterState/Group/Desc/1038150┃Movement speed is increased.
+CharacterState/Group/Name/1038160┃Persona (Red Wine)
+CharacterState/Group/Desc/1038160┃Attack speed is increased.
+CharacterState/Group/Name/1038200┃Spotlight - Movement Speed increased
+CharacterState/Group/Desc/1038200┃Jenny feels light on her feet in the spotlight.
+CharacterState/Group/Name/1038300┃Red Carpet - Slowed
+CharacterState/Group/Desc/1038300┃The red carpet slows you down.
+CharacterState/Group/Name/1038400┃Persona - Basic Attack Enhanced
+CharacterState/Group/Desc/1038400┃Jenny's next basic attack is enhanced.
+CharacterState/Group/Name/1038500┃Acceptance Speech - Slowed
+CharacterState/Group/Desc/1038500┃Slowed while you watch the award ceremony.
+CharacterState/Group/Name/1038510┃Acceptance Speech - Charmed
+CharacterState/Group/Desc/1038510┃Charmed by Jenny's Acceptance Speech.
+CharacterState/Group/Name/1038600┃Spotlight - Attack Speed Increased
+CharacterState/Group/Desc/1038600┃The Spotlight lets you attack quicker!
+CharacterState/Group/Name/1039100┃Olé!
+CharacterState/Group/Desc/1039100┃Cooldown reduced if your next attack is different from your previous.
+CharacterState/Group/Name/1039110┃Olé! - Active
+CharacterState/Group/Desc/1039110┃Dealing damage will activate Olé!
+CharacterState/Group/Name/1039130┃Olé! - Attack Speed Increase
+CharacterState/Group/Desc/1039130┃Attack Speed is increased due to Olé!
+CharacterState/Group/Name/1039120┃Olé! - Shield
+CharacterState/Group/Desc/1039120┃Currently shielded by Olé!
+CharacterState/Group/Name/1039200┃Paso
+CharacterState/Group/Desc/1039200┃Hitting an enemy with the edge of Vuelta grants a stack of Paso
+CharacterState/Group/Name/1039210┃Vuelta - Enhanced
+CharacterState/Group/Desc/1039210┃Your next Vuelta is enhanced to be a majestic spin attack.
+CharacterState/Group/Name/1039250┃Vuelta - Movement Speed Increase
+CharacterState/Group/Desc/1039250┃Movement Speed is increased due to hitting an enemy with the edge.
+CharacterState/Group/Name/1039400┃Al Compás - One Step
+CharacterState/Group/Desc/1039400┃Al Compás can be used on this target.
+CharacterState/Group/Name/1039410┃Al Compás - Two Step
+CharacterState/Group/Desc/1039410┃Al Compás can not be used on this target.
+CharacterState/Group/Name/1039500┃Duende
+CharacterState/Group/Desc/1039500┃Camilo is ready to show off his moves!
+CharacterState/Group/Name/1039510┃Duende - Embeleso
+CharacterState/Group/Desc/1039510┃You are captivated by Camilo's dazzling moves.
+CharacterState/Group/Name/1039520┃Duende - Stunned
+CharacterState/Group/Desc/1039520┃Absolutely stunned by Camilo's movement.
+CharacterState/Group/Name/1039530┃Duende - Movement Speed Increase
+CharacterState/Group/Desc/1039530┃Duende is really making you nimble!
+CharacterState/Group/Name/1040110┃Living Marionette - Basic Attack
+CharacterState/Group/Desc/1040110┃Hitting an enemy with 2 or more of Chloe’s basic attacks causes Nina's next attack to deal extra skill damage to the target.
+CharacterState/Group/Name/1040250┃Nina on Command - Slow
+CharacterState/Group/Desc/1040250┃Slowed by a marionette.
+CharacterState/Group/Name/1040310┃Puppet Theatre - Threads
+CharacterState/Group/Desc/1040310┃Slowed by Puppet Theatre - Threads
+CharacterState/Group/Name/1040320┃Puppet Theatre - Slowed
+CharacterState/Group/Desc/1040320┃Slowed due to Puppet Theatre.
+CharacterState/Group/Name/1040330┃Puppet Theatre - Movement Speed Increase
+CharacterState/Group/Desc/1040330┃Chloe's movement speed is increased.
+CharacterState/Group/Name/1040360┃Puppet Theatre - Airborne
+CharacterState/Group/Desc/1040360┃Nina has knocked her target airborne.
+CharacterState/Group/Name/1040500┃Soul Link
+CharacterState/Group/Desc/1040500┃Chloe & Nina are sharing their HP
+CharacterState/Group/Name/1040510┃Soul Link - Nina Speed Up
+CharacterState/Group/Desc/1040510┃Nina's Attack Speed and Movement Speed are increased.
+CharacterState/Group/Name/1040520┃Soul Link - Thread Damage
+CharacterState/Group/Desc/1040520┃Continuously touching the Soul Link chain deals more damage!
+CharacterState/Group/Name/1041100┃Light's Blessing - Tenacity
+CharacterState/Group/Desc/1041100┃Johann's Tenacity is increased thanks to his Light's Blessing.
+CharacterState/Group/Name/1041110┃Light's Blessing - Tenacity
+CharacterState/Group/Desc/1041110┃You have gained tenacity thanks to Johann's Light's Blessing.
+CharacterState/Group/Name/1041210┃Radiant Brilliance (Enhanced) - Rooted
+CharacterState/Group/Desc/1041210┃Rooted by a brilliant burst of light.
+CharacterState/Group/Name/1041300┃Transcendent Censer - Attack Speed Increase
+CharacterState/Group/Desc/1041300┃Attack speed is increased.
+CharacterState/Group/Name/1041310┃Transcendent Censer - Slow
+CharacterState/Group/Desc/1041310┃Slowed by the thick smoke of a censer.
+CharacterState/Group/Name/1041410┃Divine Scripture - Movement Speed Increase
+CharacterState/Group/Desc/1041410┃Johann has blessed your movement speed.
+CharacterState/Group/Name/1041450┃Divine Scripture - Movement Speed Increase towards target
+CharacterState/Group/Desc/1041450┃Johann is compelled to move toward the light.
+CharacterState/Group/Name/1041460┃Divine Scripture - Shield
+CharacterState/Group/Desc/1041460┃Transcendent Censer's been enhanced granting you a shield.
+CharacterState/Group/Name/1041510┃Faith Unwavering - Defense Increase - Healing
+CharacterState/Group/Desc/1041510┃Allies in Johann's consecration gain increased defense and are healed over time.
+CharacterState/Group/Name/1042120┃Bloodletting - Hemostasis
+CharacterState/Group/Name/1042140┃Bloodletting - Blood Bank
+CharacterState/Group/Name/1042150┃Bloodletting - Enhanced Basic Attack
+CharacterState/Group/Name/1042210┃Sanguine Javelin - Root
+CharacterState/Group/Name/1042310┃Sanctuary - Healing and taking reduced damage.
+CharacterState/Group/Name/1042320┃Sanctuary - Enhanced healing and taking reduced damage.
+CharacterState/Group/Name/1042410┃Circulation - Charging
+CharacterState/Group/Name/1042510┃Reign of the Vampire Queen - Omnisyphon Increase
+CharacterState/Group/Name/1042520┃Reign of the Vampire Queen - Slowed
+CharacterState/Group/Desc/1042120┃Slowed by witnessing the strength of the Vampire Queen.
+CharacterState/Group/Desc/1042140┃Bianca heals herself by dipping into her Blood Bank.
+CharacterState/Group/Desc/1042150┃Your next basic attack deals extra skill damage.
+CharacterState/Group/Desc/1042210┃Rooted by being pierced with a Sanguine Javelin.
+CharacterState/Group/Desc/1042310┃Bianca has confined herself to her coffin, healing and taking less damage.
+CharacterState/Group/Desc/1042320┃Bianca has confined herself in her coffin, healing and reducing incoming damage.
+CharacterState/Group/Desc/1042410┃Bianca is charging her circulation. Damage, radius, and dash range are increased based on charge time.
+CharacterState/Group/Desc/1042510┃Bianca's skill vamp is increased.
+CharacterState/Group/Desc/1042520┃Bianca's vampiric reign has a grip on you, slowing you and rendering your movement skills useless.
+CharacterState/Group/Name/1043100┃Explosives Engineer
+CharacterState/Group/Desc/1043100┃Your next basic attack deals additional damage.
+CharacterState/Group/Name/1043400┃Blast Wave
+CharacterState/Group/Desc/1043400┃The shockwave has stunned you.
+CharacterState/Group/Name/1043410┃Blast Wave
+CharacterState/Group/Desc/1043410┃The shockwave has knocked you backward.
+CharacterState/Group/Name/1043500┃Magnetic Compulsion - Slow
+CharacterState/Group/Desc/1043500┃Slowed by a magnetic compulsion explosive.
+CharacterState/Group/Name/1043510┃Magnetic Compulsion - Stun
+CharacterState/Group/Desc/1043510┃Stunned by a magnetic compulsion explosive.
+CharacterState/Group/Name/1044110┃Death Adder - War Master
+CharacterState/Group/Name/1044200┃Crescent Viper - Slowed
+CharacterState/Group/Name/1044300┃Keeled Scales - Shield
+CharacterState/Group/Name/1044400┃Dry Bite - Marked
+CharacterState/Group/Name/1044410┃Dry Bite - Marked
+CharacterState/Group/Name/1044420┃Dry Bite - Marked
+CharacterState/Group/Name/1044430┃Dry Bite - Marked
+CharacterState/Group/Name/1044500┃VF Overflow
+CharacterState/Group/Name/1044510┃Exuviation
+CharacterState/Group/Name/1044640┃Envenomization - Slowed
+CharacterState/Group/Desc/1044110┃Attack speed increases based on stacks of War Master.
+CharacterState/Group/Desc/1044200┃Slowed by Crescent Viper
+CharacterState/Group/Desc/1044300┃Currently Shielded
+CharacterState/Group/Desc/1044400┃This target will not reset the cooldown of Dry Bite.
+CharacterState/Group/Desc/1044410┃This target will not reset the cooldown of Dry Bite.
+CharacterState/Group/Desc/1044420┃This target will not reset the cooldown of Dry Bite.
+CharacterState/Group/Desc/1044430┃This target will not reset the cooldown of Dry Bite.
+CharacterState/Group/Desc/1044500┃Your overflowing VF can't be contained!
+CharacterState/Group/Desc/1044510┃Stabilization in progress. You are currently weaker.
+CharacterState/Group/Desc/1044640┃Slowed by Envenomization.
+CharacterState/Group/Name/6002010┃Biotic Infusion - Ready [Death Adder]
+CharacterState/Group/Desc/6002010┃Next basic attack deals extra damage.
+CharacterState/Group/Name/6007030┃Swift Strides [Sidewinder]
+CharacterState/Group/Desc/6007030┃Movement speed increased, next basic attack deals extra damage. If fully stacked, your next basic attack will cause enemies to Plummet.
+CharacterState/Group/Name/6021000┃Defense Reduction [Death Adder-MT]
+CharacterState/Group/Desc/6021000┃The target's defense is reduced.
+CharacterState/Group/Name/1044600┃Envenomization [Black Mamba] - Airborne
+CharacterState/Group/Desc/1044600┃Knocked airborne by Envenomization [Black Mamba].
+CharacterState/Group/Name/1045200┃Drape - Pin
+CharacterState/Group/Desc/1045200┃Pin gained.
+CharacterState/Group/Name/1045210┃Drape
+CharacterState/Group/Desc/1045210┃You've been slowed due to Drape
+CharacterState/Group/Name/1045300┃Shawl Veil
+CharacterState/Group/Desc/1045300┃Incoming basic attack damage is significantly reduced, and movement speed is increased.
+CharacterState/Group/Name/1045400┃Catwalk - Shield
+CharacterState/Group/Desc/1045400┃Shielded.
+CharacterState/Group/Name/1045410┃Catwalk - Shield
+CharacterState/Group/Desc/1045410┃Shielded.
+CharacterState/Group/Name/1045430┃Strut - Taunt
+CharacterState/Group/Desc/1045430┃Taunted by Mai's elegant strut
+CharacterState/Group/Name/1045570┃Exclusive
+CharacterState/Group/Desc/1045570┃Suppressed for being Mai's next exclusive.
+CharacterState/Group/Name/1045520┃Exclusive
+CharacterState/Group/Desc/1045520┃Suppressed for being Mai's next exclusive.
+CharacterState/Group/Name/1045580┃Shawl Veil
+CharacterState/Group/Desc/1045580┃Incoming basic attack damage is significantly reduced, and movement speed is increased.
+CharacterState/Group/Name/1046100┃Overcharge
+CharacterState/Group/Desc/1046100┃Aiden can attack from range with his remaining bullets.
+CharacterState/Group/Name/1046110┃Ampere
+CharacterState/Group/Desc/1046110┃Aiden is gaining amps by hitting his skills.
+CharacterState/Group/Name/1046130┃Discharged - Movement Speed Increase
+CharacterState/Group/Desc/1046130┃Aiden's electricty is spent. His movement speed is increased.
+CharacterState/Group/Name/1046150┃Ampere - Fully Charged
+CharacterState/Group/Desc/1046150┃Aiden's got maximum amps!
+CharacterState/Group/Name/1046200┃Volt Cannon - Slow
+CharacterState/Group/Desc/1046200┃Slowed from a shocking electric bullet!
+CharacterState/Group/Name/1046330┃Charging Dissipation
+CharacterState/Group/Desc/1046330┃Aiden is slowed while charging high voltage.
+CharacterState/Group/Name/1046340┃Dissipation - Slow
+CharacterState/Group/Desc/1046340┃Slowed from a wave of high voltage.
+CharacterState/Group/Name/1046350┃Sparkring - Root
+CharacterState/Group/Desc/1046350┃Rooted from coming into contact with Sparkring
+CharacterState/Group/Name/1046400┃Backstep - Marked
+CharacterState/Group/Desc/1046400┃Aiden can dash to the marked enemy.
+CharacterState/Group/Name/1046410┃Bolt Rush - Ready
+CharacterState/Group/Desc/1046410┃Aiden can dash to the marked enemy.
+CharacterState/Group/Name/1046420┃Backstep - Movement Speed Increase
+CharacterState/Group/Desc/1046420┃Aiden's movement speed is increased.
+CharacterState/Group/Name/1046500┃Electrostatic Surge - Slow
+CharacterState/Group/Desc/1046500┃Slowed from being struck by lightning.
+CharacterState/Group/Name/1046510┃Electrostatic Surge - Stun
+CharacterState/Group/Desc/1046510┃Stunned because you've been... thunderstruck.
+CharacterState/Group/Name/1046520┃Electrostatic Surge - Slow
+CharacterState/Group/Desc/1046520┃Slowed from being struck by lightning.
+CharacterState/Group/Name/1047100┃Teachings of Nerea
+CharacterState/Group/Name/1047200┃Thorn Lilac - Enhanced
+CharacterState/Group/Name/1047300┃Calling Card - Mark
+CharacterState/Group/Name/1047310┃Calling Card - Defense Increase
+CharacterState/Group/Name/1047320┃Calling Card - Defense Reduction
+CharacterState/Group/Name/1047330┃Calling Card - Slowed
+CharacterState/Group/Name/1047340┃Calling Card - Slowed in Range
+CharacterState/Group/Name/1047350┃Calling Card - Targeting
+CharacterState/Group/Desc/1047100┃Deal extra damage after moving a certain distance.
+CharacterState/Group/Desc/1047200┃Skill is enhanced based on uses.
+CharacterState/Group/Desc/1047300┃Received a calling card from Laura. 2 seconds after activation, you will become Laura's victim.
+CharacterState/Group/Desc/1047310┃Defense increased.
+CharacterState/Group/Desc/1047320┃Defense reduced.
+CharacterState/Group/Desc/1047330┃Slowed.
+CharacterState/Group/Desc/1047340┃You have been slowed due to being in range of Calling Card.
+CharacterState/Group/Desc/1047350┃You are currently Laura's target.
+CharacterState/Group/Name/1048300┃Mad Chipmunk
+CharacterState/Group/Name/1048310┃Blessed Chipmunk
+CharacterState/Group/Name/1048320┃Magic Chipmunk
+CharacterState/Group/Name/1048430┃Yellow Paint
+CharacterState/Group/Name/1048440┃Red Paint
+CharacterState/Group/Name/1048450┃Blue Paint
+CharacterState/Group/Name/1048460┃Blue Paint
+CharacterState/Group/Name/1048530┃Yellow Paint
+CharacterState/Group/Name/1048540┃Red Paint
+CharacterState/Group/Name/1048550┃Blue Paint
+CharacterState/Group/Name/1048700┃Full Rainbow - Stun
+CharacterState/Group/Desc/1048300┃Mad Chipmunks are attacking you! Receiving skill damage and being silenced.
+CharacterState/Group/Desc/1048310┃Damaging the painted enemy, healing Tia, and granting her movement speed. #Blessed
+CharacterState/Group/Desc/1048320┃Rooted.
+CharacterState/Group/Desc/1048430┃Yellow Paint - Slowed
+CharacterState/Group/Desc/1048440┃Red Paint - Slowed
+CharacterState/Group/Desc/1048450┃Blue Paint - Slowed
+CharacterState/Group/Desc/1048460┃Blue Paint - Slowed
+CharacterState/Group/Desc/1048470┃Blue Paint - Slowed
+CharacterState/Group/Desc/1048530┃Slowed.
+CharacterState/Group/Desc/1048540┃Vision Reduced.
+CharacterState/Group/Desc/1048550┃Knocked Airborne.
+CharacterState/Group/Desc/1048700┃Stunned by tasting the rainbow.
+CharacterState/Group/Name/1049150┃Spearweaving
+CharacterState/Group/Name/1049160┃Wind Scar! - Airborne
+CharacterState/Group/Name/1049170┃Spearweaving - Shield
+CharacterState/Group/Name/1049180┃Crescent Wave! - Omnisyphon
+CharacterState/Group/Name/1049300┃Thunder Strike! - Movement Speed Increase
+CharacterState/Group/Name/1049310┃Thunder Strike! - Root
+CharacterState/Group/Name/1049410┃Crescent Wave! - Dodging Basic Attacks
+CharacterState/Group/Name/1049500┃Tempest Hydra - Unstoppable
+CharacterState/Group/Name/1049510┃Tempest Hydra - Stun
+CharacterState/Group/Desc/1049150┃Felix's final cast grants him additional effects and reduces the cooldown of his basic skills based on his Spearweaving stacks.
+CharacterState/Group/Desc/1049160┃Knocked airborne by Wind Scar.
+CharacterState/Group/Desc/1049170┃Gained shield due to Spearweaving.
+CharacterState/Group/Desc/1049180┃Omnisyphon has increased due to Crescent Wave! Final Cast.
+CharacterState/Group/Desc/1049300┃Thunder Strike! - Movement Speed Increase
+CharacterState/Group/Desc/1049310┃Rooted by Thunder Strike!
+CharacterState/Group/Desc/1049410┃Crescent Wave - Dodging Basic Attacks
+CharacterState/Group/Desc/1049500┃Immune to Crowd Control!
+CharacterState/Group/Desc/1049510┃Stunned by Tempest Hydra
+CharacterState/Group/Name/1050110┃Chill
+CharacterState/Group/Desc/1050110┃Enemies are frozen upon fully filling their Chill gauge.
+CharacterState/Group/Name/1050120┃Frozen
+CharacterState/Group/Desc/1050120┃You feel yourself freezing and entering a Frozen state.
+CharacterState/Group/Name/1050130┃Thawing
+CharacterState/Group/Desc/1050130┃Currently thawing off and is not affected by Chill.
+CharacterState/Group/Name/1050150┃Stunned
+CharacterState/Group/Desc/1050150┃You are stunned. You can't take any action.
+CharacterState/Group/Name/1050160┃Winter Queen's Dominion
+CharacterState/Group/Desc/1050160┃Your next attack constructs a Glacial Field under the damaged enemy.
+CharacterState/Group/Name/1050180┃Frozen
+CharacterState/Group/Desc/1050180┃You feel yourself freezing and entering a Frozen state.
+CharacterState/Group/Name/1050190┃Frozen
+CharacterState/Group/Desc/1050190┃You take additional skill damage when attacked by Elena or her allies.
+CharacterState/Group/Name/1050100┃Thaw - Attack Speed Reduced
+CharacterState/Group/Desc/1050100┃Attack Speed reduced from Thaw.
+CharacterState/Group/Name/1050300┃Double Axel
+CharacterState/Group/Desc/1050300┃Defense is increased due to performing a perfect Double Axel.
+CharacterState/Group/Name/1050410┃Spiral
+CharacterState/Group/Desc/1050410┃Movement Speed is increased by gliding on ice.
+CharacterState/Group/Name/1051200┃Portamento
+CharacterState/Group/Desc/1051200┃Slowed by Portamento.
+CharacterState/Group/Name/1051300┃Portamento
+CharacterState/Group/Desc/1051300┃Movement speed increased by Flower of Saraswati.
+CharacterState/Group/Name/1051310┃Portamento
+CharacterState/Group/Desc/1051310┃Movement speed increased by Flower of Saraswati.
+CharacterState/Group/Name/1051340┃Portamento
+CharacterState/Group/Desc/1051340┃Shielded by Flower of Saraswati.
+CharacterState/Group/Name/1051350┃Portamento
+CharacterState/Group/Desc/1051350┃The next basic attack grows a Flower under the target.
+CharacterState/Group/Name/1051420┃Harmony of Parvati
+CharacterState/Group/Desc/1051420┃Slowed due to Harmony of Parvati.
+CharacterState/Group/Name/1051430┃Harmony of Parvati
+CharacterState/Group/Desc/1051430┃Rooted by Harmony of Parvati.
+CharacterState/Group/Name/1051440┃Harmony of Parvati
+CharacterState/Group/Desc/1051440┃Movement speed increased by Harmony of Parvati.
+CharacterState/Group/Name/1051500┃Echoes of the Earth
+CharacterState/Group/Desc/1051500┃Taken damage is decreased. Becoming unstoppable but unable to perform basic attacks or cast skills.
+CharacterState/Group/Name/1051510┃Echoes of the Earth
+CharacterState/Group/Desc/1051510┃Dancing to an earthly melody.
+CharacterState/Group/Name/1051520┃Echoes of the Earth
+CharacterState/Group/Desc/1051520┃Dancing to an earthly melody.
+CharacterState/Group/Name/1052100┃Stargazing
+CharacterState/Group/Desc/1052100┃Adina reads the stars, charting her fated path.
+CharacterState/Group/Name/1052130┃Continous Damage from the Sun
+CharacterState/Group/Desc/1052130┃Burned up by the Sun and taking damage over time!
+CharacterState/Group/Name/1052140┃Conjunct Skill Ready
+CharacterState/Group/Desc/1052140┃Consume two signs to cast an enhanced version of a skill.
+CharacterState/Group/Name/1052200┃Moon: Stunned
+CharacterState/Group/Desc/1052200┃Stunned by the beauty of the Moon.
+CharacterState/Group/Name/1052210┃Luminary Star: Movement Speed Increased
+CharacterState/Group/Desc/1052210┃Inspired by the comet's tail.
+CharacterState/Group/Name/1052310┃Astral Trine: Slowed
+CharacterState/Group/Desc/1052310┃Slowed by Astral Trine.
+CharacterState/Group/Name/1052320┃Moon: Stunned
+CharacterState/Group/Desc/1052320┃Stunned by the beauty of the Moon.
+CharacterState/Group/Name/1052330┃Astral Trine: Shield
+CharacterState/Group/Desc/1052330┃Created a shield with the power of the astral triangle.
+CharacterState/Group/Name/1052340┃Astral Trine: Enhanced Slow
+CharacterState/Group/Desc/1052340┃Slowed by Moon Conjunct.
+CharacterState/Group/Name/1052410┃Fated Horizon: The Sun is about to fall.
+CharacterState/Group/Desc/1052410┃Impact imminent!
+CharacterState/Group/Name/1052420┃Fated Horizon: The Moon is about to fall.
+CharacterState/Group/Desc/1052420┃Impact imminent!
+CharacterState/Group/Name/1052430┃Fated Horizon: The Star is about to fall.
+CharacterState/Group/Desc/1052430┃Impact imminent!
+CharacterState/Group/Name/1052440┃Fated Horizon: Conjunction of the Stars
+CharacterState/Group/Desc/1052440┃Nebula appearance imminent!
+CharacterState/Group/Name/1052450┃Moon: Stunned
+CharacterState/Group/Desc/1052450┃Stunned by the beauty of the Moon.
+CharacterState/Group/Name/1052460┃Fated Horizon: The Sun is about to fall.
+CharacterState/Group/Desc/1052460┃Impact imminent!
+CharacterState/Group/Name/1052470┃Fated Horizon: The Moon is about to fall.
+CharacterState/Group/Desc/1052470┃Impact imminent!
+CharacterState/Group/Name/1052480┃Fated Horizon: The Star is about to fall.
+CharacterState/Group/Desc/1052480┃Impact imminent!
+CharacterState/Group/Name/1052490┃Fated Horizon: Conjunction of the Stars
+CharacterState/Group/Desc/1052490┃Nebula appearance imminent!
+CharacterState/Group/Name/1053120┃Rattled: Slowed
+CharacterState/Group/Desc/1053120┃Slowed by Markus's immense power.
+CharacterState/Group/Name/1053130┃Rattled
+CharacterState/Group/Desc/1053130┃Rattled by Markus's immense power.
+CharacterState/Group/Name/1053200┃Art of War
+CharacterState/Group/Desc/1053200┃For his next 3 basic attacks, Markus's attack speed is increased.
+CharacterState/Group/Name/1053230┃Art of War: Movement Speed Increased
+CharacterState/Group/Desc/1053230┃Increased movement speed!
+CharacterState/Group/Name/1053320┃Violent Swing: Airborne
+CharacterState/Group/Desc/1053320┃Swung into the air by Markus!
+CharacterState/Group/Name/1053330┃Violent Swing: Knocked Back
+CharacterState/Group/Desc/1053330┃Hurled behind Markus!
+CharacterState/Group/Name/1053400┃Fearless Assault: Knocked Back
+CharacterState/Group/Desc/1053400┃Knocked back by Markus's brutal impact.
+CharacterState/Group/Name/1053410┃Fearless Assault: Stunned
+CharacterState/Group/Desc/1053410┃Stunned by Markus's brutal impact.
+CharacterState/Group/Name/1053500┃Smash to Smithereens: Rattled Immunity
+CharacterState/Group/Desc/1053500┃Can only become Rattled once per Tectonic Rift.
+CharacterState/Group/Name/1053510┃Smash to Smithereens: Slowed
+CharacterState/Group/Desc/1053510┃Slowed by the Tectonic Rift.
+CharacterState/Group/Name/1053520┃Smash to Smithereens
+CharacterState/Group/Desc/1053520┃Targets knocked back or airborne within the Tectonic Rift become Rattled.
+CharacterState/Group/Name/1054120┃Harpoon Loaded
+CharacterState/Group/Name/1054130┃Deckhand's Draw - Slowed
+CharacterState/Group/Name/1054300┃Salvage - Slowed
+CharacterState/Group/Name/1054500┃Shackling Anchor
+CharacterState/Group/Name/1054510┃Shackling Anchor - Slowed
+CharacterState/Group/Name/1054520┃Shackling Anchor - Knocked Back & Stunned
+CharacterState/Group/Desc/1054120┃Karla has drawn her next harpoon.
+CharacterState/Group/Desc/1054130┃Slowed by Karla's Deckhand's Draw
+CharacterState/Group/Desc/1054300┃Slowed by Karla's Salvage
+CharacterState/Group/Desc/1054500┃Currently shackled by chains.
+CharacterState/Group/Desc/1054510┃Shackled by Karla's ominous anchor
+CharacterState/Group/Desc/1054520┃Knocked back and stunned by Karla's anchor.
+CharacterState/Group/Name/1055100┃Duty Calls!
+CharacterState/Group/Name/1055110┃Duty Calls!
+CharacterState/Group/Name/1055210┃SuppressionⅠ
+CharacterState/Group/Name/1055230┃Suppression
+CharacterState/Group/Name/1055250┃SuppressionⅡ - Stun
+CharacterState/Group/Name/1055280┃SuppressionⅡ - Duration
+CharacterState/Group/Name/1055300┃First Response - Slow
+CharacterState/Group/Name/1055310┃Emergency Extinguish - Slow
+CharacterState/Group/Name/1055400┃Hazard Shield - Unstoppable
+CharacterState/Group/Name/1055410┃Hazard Shield - Ally Damage Reduction
+CharacterState/Group/Name/1055460┃Forcible Entry - Stun
+CharacterState/Group/Name/1055500┃Helitack Stat! - Shield
+CharacterState/Group/Name/1055510┃Helitack Stat! - Shield
+CharacterState/Group/Name/1055530┃Helitack Stat! - Airborne
+CharacterState/Group/Name/1055550┃Helitack Stat! - Slow
+CharacterState/Group/Desc/1055100┃Estelle and her nearby allies receive increased healing.
+CharacterState/Group/Desc/1055110┃Increased healing from Estelle.
+CharacterState/Group/Desc/1055210┃Your next basic attack is enhanced, and has increased attack range.
+CharacterState/Group/Desc/1055230┃Your next Basic Attack is enhanced. Hit enemies are stunned.
+CharacterState/Group/Desc/1055250┃Stunned.
+CharacterState/Group/Desc/1055280┃Skill enhanced.
+CharacterState/Group/Desc/1055300┃Slowed.
+CharacterState/Group/Desc/1055310┃Slowed.
+CharacterState/Group/Desc/1055400┃Estelle is blocking enemy attacks and are slightly slowed because of it.
+CharacterState/Group/Desc/1055410┃Being near Estelle reduces damage taken.
+CharacterState/Group/Desc/1055460┃Stunned.
+CharacterState/Group/Desc/1055500┃Shielded.
+CharacterState/Group/Desc/1055510┃Shielded.
+CharacterState/Group/Desc/1055530┃Knocked Airborne.
+CharacterState/Group/Desc/1055550┃Slowed.
+CharacterState/Group/Name/1056100┃Training
+CharacterState/Group/Name/1056110┃Well-Trained
+CharacterState/Group/Name/1056200┃Helicopter Spin
+CharacterState/Group/Name/1056210┃Chokeslam
+CharacterState/Group/Name/1056230┃Chokeslam - Center Area
+CharacterState/Group/Name/1056300┃Figure Eight - Slowed
+CharacterState/Group/Name/1056320┃Figure Eight
+CharacterState/Group/Name/1056330┃Figure Eight - Shielded
+CharacterState/Group/Name/1056420┃Stalled Throw - Slowed
+CharacterState/Group/Name/1056430┃Stalled Throw - Knocked Back
+CharacterState/Group/Name/1056410┃Skyward Pummel
+CharacterState/Group/Name/1056440┃Skyward Pummel
+CharacterState/Group/Name/1056130┃The Punisher - Cooldown Reduction
+CharacterState/Group/Name/1056140┃Well-Trained - Critical Strike Ready
+CharacterState/Group/Name/1056510┃The Punisher - Shielded
+CharacterState/Group/Desc/1056100┃Piolo never stops training!
+CharacterState/Group/Desc/1056110┃[The Punisher] Upon cast, Piolo's next Basic Attack will deal additional damage based on his skill amp.
+CharacterState/Group/Desc/1056140┃[The Punisher] Upon cast, Piolo's next Basic Attack will deal additional damage based on his skill amp.
+CharacterState/Group/Desc/1056200┃The 1st, 5th, and 10th hit will deal enhanced damage.
+CharacterState/Group/Desc/1056230┃Slowed by Piolo's Chokeslam.
+CharacterState/Group/Desc/1056300┃Piolo's movement speed is reduced.
+CharacterState/Group/Desc/1056320┃Piolo is unstoppable while spinning his nunchakus.
+CharacterState/Group/Desc/1056330┃[Figure Eight] Deflected damage is converted into a shield.
+CharacterState/Group/Desc/1056420┃Slowed by Piolo's Stalled Throw.
+CharacterState/Group/Desc/1056430┃Knocked Back by Piolo's Stalled Throw.
+CharacterState/Group/Desc/1056410┃Knocked Up by Piolo's Skyward Pummel.
+CharacterState/Group/Desc/1056440┃Knocked Up by Piolo's Skyward Pummel.
+CharacterState/Group/Desc/1056130┃Piolo's next Basic Attack reduces all skill cooldowns by 1 second, except for weapons skills and The Punisher.
+CharacterState/Group/Desc/1056510┃Shielded.
+CharacterState/Group/Name/1057030┃Play
+CharacterState/Group/Name/1057040┃Play
+CharacterState/Group/Name/1057080┃Play - Attack Power Increased
+CharacterState/Group/Name/1057200┃Fast Forward - Movement Speed Increased
+CharacterState/Group/Name/1057210┃Fast Forward - Movement Speed Increased
+CharacterState/Group/Name/1057220┃Fast Forward - Attack Speed Increased
+CharacterState/Group/Name/1057320┃Miniature Camera Snapshot
+CharacterState/Group/Name/1057330┃Miniature Camera Snapshot
+CharacterState/Group/Name/1057400┃Rewind
+CharacterState/Group/Name/1057420┃Rewind - Damage Received
+CharacterState/Group/Name/1057430┃Rewind - Slow
+CharacterState/Group/Name/1057440┃Rewind - Stun
+CharacterState/Group/Name/1057510┃Record - Record Stacks
+CharacterState/Group/Name/1057530┃Record - Defense Reduction
+CharacterState/Group/Name/1057540┃Record - Stun
+CharacterState/Group/Name/1057560┃Record - Times Caught on Camera
+CharacterState/Group/Name/1057570┃Record - Movement Speed Increased
+CharacterState/Group/Name/1057500┃Record - Movement Speed Increased
+CharacterState/Group/Desc/1057030┃Martina is fliming her next big scoop...
+CharacterState/Group/Desc/1057040┃Marked by Martina's basic attacks.
+CharacterState/Group/Desc/1057080┃Extra Attack Power based on Martina's Attack Speed
+CharacterState/Group/Desc/1057200┃Fast Fowarding Martina's Movement Speed
+CharacterState/Group/Desc/1057210┃Fast Fowarding Martina's Movement Speed
+CharacterState/Group/Desc/1057220┃Fast Fowarding Martina's Attack Speed
+CharacterState/Group/Desc/1057320┃Slowed by a Hidden Snapshot.
+CharacterState/Group/Desc/1057330┃Rooted by a Hidden Snapshot.
+CharacterState/Group/Desc/1057400┃In Rewind State
+CharacterState/Group/Desc/1057420┃Recording damage received during Rewind.
+CharacterState/Group/Desc/1057430┃Recording damage received during Rewind.
+CharacterState/Group/Desc/1057440┃Stunned by Martina's Rewind.
+CharacterState/Group/Desc/1057510┃Record Stacks gained from filming Lumia Island.\nStandard Footage: {0} Record Stacks\nCorpse Footage: {1} Record Stacks
+CharacterState/Group/Desc/1057530┃Defense reduced by Martina's shot.
+CharacterState/Group/Desc/1057540┃Stunned by Martina's shot.
+CharacterState/Group/Desc/1057560┃Times caught on film by Martina
+CharacterState/Group/Desc/1057570┃Movement Speed Increased for getting good footage!
+CharacterState/Group/Desc/1057500┃Movement Speed Increased for getting good footage!
+CharacterState/Group/Name/1057580┃Record - Recording Complete
+CharacterState/Group/Desc/1057580┃Martina has finished recording this target and cannot continue recording them.
+CharacterState/Group/Name/1058100┃Weapon Case - Swaping weapons
+CharacterState/Group/Desc/1058100┃Taking out a new weapon.
+CharacterState/Group/Name/1058110┃Weapon Case - Basic Attacks enhanced
+CharacterState/Group/Desc/1058110┃Weapon swapped. Your next Basic Attack deals extra skill damage.
+CharacterState/Group/Name/1058120┃Weapon Case - Movement Speed Increased
+CharacterState/Group/Desc/1058120┃Target hit by Basic Attack, your Movement Speed is increased.
+CharacterState/Group/Name/1058300┃Shotgun - Stunned
+CharacterState/Group/Desc/1058300┃You've been hit by Shotgun. You're now stunned!
+CharacterState/Group/Name/1058400┃SMG Form
+CharacterState/Group/Desc/1058400┃Haze is armed with a SMG. She can attack while moving.
+CharacterState/Group/Name/1058520┃Rocket Launcher - Slowed
+CharacterState/Group/Desc/1058520┃You've been slowed.
+CharacterState/Group/Name/1058530┃Rocket Launcher Form
+CharacterState/Group/Desc/1058530┃Haze is armed with a Rocket Launcher. Her damage and range are increased.
+CharacterState/Group/Name/1058540┃Rocket Acceleration - Slowed
+CharacterState/Group/Desc/1058540┃You've been hit by Rocket Acceleration, you've been slowed.
+CharacterState/Group/Name/1059120┃Exploit
+CharacterState/Group/Name/1059140┃Exploit - Increased Movement Speed
+CharacterState/Group/Name/1059300┃Reinforce
+CharacterState/Group/Name/1059530┃The Heavy Hand of the Law - Immune to Crowd Control
+CharacterState/Group/Name/1059420┃Isaac E - Stun
+CharacterState/Group/Name/1059430┃Isaac E - Defense Reduction
+CharacterState/Group/Name/1059510┃Isaac R - Slowed
+CharacterState/Group/Name/1059520┃Isaac R - Immune to Crowd Control
+CharacterState/Group/Desc/1059120┃Isaac is exploiting you.
+CharacterState/Group/Desc/1059140┃Increases Isaac's movement speed.
+CharacterState/Group/Desc/1059300┃Strength of Isaac's weapon has increased.
+CharacterState/Group/Desc/1059420┃Stunned by Isaac's Arrest
+CharacterState/Group/Desc/1059430┃You're under arrest. Your defense has been reduced .
+CharacterState/Group/Desc/1059510┃Slowed by Isaac's The Heavy Hand of the Law
+CharacterState/Group/Desc/1059530┃Immune to Crowd Control while casting The Heavy Hand of the Law
+CharacterState/Group/Name/1060100┃Shard Collection
+CharacterState/Group/Name/1060110┃Difettoso - Basic Attack enhanced
+CharacterState/Group/Name/1060210┃Spada - Knockback Immunity
+CharacterState/Group/Name/1060300┃Fiasco - Stun
+CharacterState/Group/Name/1060400┃Pulizia - Shield
+CharacterState/Group/Name/1060410┃Pulizia - Slow
+CharacterState/Group/Name/1060500┃Paradiso - Slow from dispersion
+CharacterState/Group/Name/1060510┃Paradiso - Slow from greatsword
+CharacterState/Group/Desc/1060100┃Tazia is collecting her glass shards to make a glass sword.
+CharacterState/Group/Desc/1060110┃The next basic attack deals extra skill damage and creates glass shards at the location of attack.
+CharacterState/Group/Desc/1060210┃Won't be knocked back by Spada.
+CharacterState/Group/Desc/1060300┃Stunned by Fiasco.
+CharacterState/Group/Desc/1060400┃Received shield from Pulizia.
+CharacterState/Group/Desc/1060410┃Slowed by Pulizia.
+CharacterState/Group/Desc/1060500┃Slowed after being directly hit with Pulizia.
+CharacterState/Group/Desc/1060510┃Within range of Paradiso, slowing you.
+CharacterState/Group/Name/1061000┃Changed to Irem
+CharacterState/Group/Name/1061010┃Changed to Cat
+CharacterState/Group/Name/1061020┃Unfamiliar Territory
+CharacterState/Group/Name/1061030┃Peaceful Territory - Irem
+CharacterState/Group/Name/1061040┃Peaceful Territory - Cat
+CharacterState/Group/Name/1061050┃Cat - Obtain shield
+CharacterState/Group/Name/1061100┃Cat Pawnch - Enhanced Basic Attack
+CharacterState/Group/Name/1061300┃Let's Be Friends! - Charmed
+CharacterState/Group/Name/1061310┃Let's Be Friends! - Slowed
+CharacterState/Group/Name/1061320┃Hissy Fit - Airborne
+CharacterState/Group/Name/1061500┃Fish Mark - Basic Attack Enchanced
+CharacterState/Group/Name/1061510┃Irem - Cat Bell
+CharacterState/Group/Name/1061520┃Cat Pawnch - Rooted
+CharacterState/Group/Desc/1061000┃Currently Irem.
+CharacterState/Group/Desc/1061010┃Currently Cat.
+CharacterState/Group/Desc/1061020┃Entered unfamiliar territory. Vision increased due to caution.
+CharacterState/Group/Desc/1061030┃Adapted to the territory. Attack speed increased.
+CharacterState/Group/Desc/1061040┃Adapted to the territory. Defense increased.
+CharacterState/Group/Desc/1061050┃Obtained Shield.
+CharacterState/Group/Desc/1061100┃Next Basic Attack is Enhanced.
+CharacterState/Group/Desc/1061300┃Charmed by Irem's Let's Be Friends! skill.
+CharacterState/Group/Desc/1061310┃Slowed by Irem's Let's Be Friends! skill.
+CharacterState/Group/Desc/1061320┃Airborne by Irem's Hissy Fit skill.
+CharacterState/Group/Desc/1061500┃Next Basic Attack is Enhanced.
+CharacterState/Group/Desc/1061510┃Hit by Irem's enhanced basic attack. Sharing vision.
+CharacterState/Group/Desc/1061520┃Rooted by Irem's Cat Pawnch.
+CharacterState/Group/Name/1062000┃Sapphire Protocol - Shield
+CharacterState/Group/Name/1062010┃Sapphire Protocol - Invisible
+CharacterState/Group/Name/1062040┃Basic Attack Range Increase
+CharacterState/Group/Name/1062110┃Energy Cannon - HP Recovery
+CharacterState/Group/Name/1062120┃Power Screen Energy Cannon - HP Recovery
+CharacterState/Group/Name/1062400┃Sparknade - Target Locked On
+CharacterState/Group/Name/1062410┃Sparknade - Rooted
+CharacterState/Group/Name/1062420┃Sparknade - Slowed
+CharacterState/Group/Name/1062500┃Blast Energy Field - Overcharged
+CharacterState/Group/Name/1062510┃Blast Energy Field - Movement Speed Increase
+CharacterState/Group/Desc/1062000┃Gained shield. Blocking damage.
+CharacterState/Group/Desc/1062010┃Theodore is Invisible. Movement Speed increased
+CharacterState/Group/Desc/1062040┃Range of next basic attack increased.
+CharacterState/Group/Desc/1062110┃Recovering HP due to Energy Cannon.
+CharacterState/Group/Desc/1062120┃Recovering HP due to Energy Cannon fired through the Power Screen.
+CharacterState/Group/Desc/1062400┃Target locked on due to Sparknade.
+CharacterState/Group/Desc/1062410┃Rooted due to Sparknade.
+CharacterState/Group/Desc/1062420┃Movement Speed reduced due to Sparknade.
+CharacterState/Group/Desc/1062500┃Overcharged. Attack Speed is now increased. Maximum charging time for Energy Cannon has been reduced.
+CharacterState/Group/Desc/1062510┃Movement Speed increased due to Blast Energy Field.
+CharacterState/Group/Name/1063000┃Human
+CharacterState/Group/Desc/1063000┃Be careful. I don't know when the Ghost will come out, so it's better that you step back...
+CharacterState/Group/Name/1063010┃Possessed
+CharacterState/Group/Desc/1063010┃Don't you want to play with me?
+CharacterState/Group/Name/1063020┃Ghost
+CharacterState/Group/Desc/1063020┃DieDieDieDieDieDieDieDieDieDieDieDieDieDieDieDieDieDieDieDieDieDieDieDieDieDieDieDieDieDieDieDieDieDieDieDieDieDieDieDieDieDieDieDieDieDieDieDieDieDieDieDieDieDie\n<color=red>Decimate</color>
+CharacterState/Group/Name/1063030┃Changing States (Possessed)
+CharacterState/Group/Desc/1063030┃Ly Anh is becoming possessed.
+CharacterState/Group/Name/1063040┃Changing States (Human)
+CharacterState/Group/Desc/1063040┃Ly Anh is returning to her Human state.
+CharacterState/Group/Name/1063050┃Changing States (Ghost)
+CharacterState/Group/Desc/1063050┃Ghost is fully taking control.
+CharacterState/Group/Name/1063060┃Changing States (Human)
+CharacterState/Group/Desc/1063060┃Ly Anh is returning to her Human state.
+CharacterState/Group/Name/1063070┃Death (Killed in Ghost State)
+CharacterState/Group/Desc/1063070┃You died in Ghost state.
+CharacterState/Group/Name/1063090┃Changing States - Movement Speed Reduced
+CharacterState/Group/Desc/1063090┃Movement Speed has been reduced because you are changing states.
+CharacterState/Group/Name/1063110┃I'm So Sorry... - Movement Speed Reduced
+CharacterState/Group/Desc/1063110┃Movement Speed has been reduced due to I'm So Sorry...
+CharacterState/Group/Name/1063200┃Ghastly Grip - Rooted
+CharacterState/Group/Desc/1063200┃Rooted due to Ghastly Grip.
+CharacterState/Group/Name/1063300┃Thrash
+CharacterState/Group/Desc/1063300┃The Possessed Ly Anh has started thrashing.
+CharacterState/Group/Name/1063310┃Phantom Ripper - Movement Speed Increased
+CharacterState/Group/Desc/1063310┃Movement Speed has been increased for a very short time due to hit from Phantom Ripper.
+CharacterState/Group/Name/1063400┃Razor Claws - Knockback
+CharacterState/Group/Desc/1063400┃Knocked back due to Razor Claws.
+CharacterState/Group/Name/1063510┃Ghost - Movement Speed Increased
+CharacterState/Group/Desc/1063510┃Movement Speed has been increased due to becoming a Ghost.
+CharacterState/Group/Name/1063520┃Ghost - Collision Avoidance
+CharacterState/Group/Desc/1063520┃Cannot collide with targets due to becoming a Ghost.
+CharacterState/Group/Name/1063540┃Ghost - Immune to Death
+CharacterState/Group/Name/1063550┃Ghost -  Eerie
+CharacterState/Group/Desc/1063550┃Gained a Stack of Eerie due to Ghost's attack. 5th Stack of Eerie will fear targets.
+CharacterState/Group/Name/1063560┃Ghost - Eerie (Fear)
+CharacterState/Group/Desc/1063560┃You have been feared due to Ghost's attack.
+CharacterState/Group/Name/1063580┃Ghost - Killing Instinct
+CharacterState/Group/Desc/1063580┃Ghost's Attack Speed has increased from overlapping Basic Attacks.
+CharacterState/Group/Name/1063590┃Ghost - Immune to Eerie
+CharacterState/Group/Desc/1063590┃Immune from [Eerie] for Ghost's Basic Attacks.
+CharacterState/Group/Name/1064100┃Dream of a Butterfly - Stack
+CharacterState/Group/Desc/1064100┃Vanya is gathering butterflies in her fantasy.
+CharacterState/Group/Name/1064110┃Dream of a Butterfly - Damage Over Time
+CharacterState/Group/Desc/1064110┃The butterflies in Vanya's fantasy are helping her attack her enemies.
+CharacterState/Group/Name/1064120┃Dream of a Butterfly - Shield
+CharacterState/Group/Desc/1064120┃The butterflies are protecting Vanya!
+CharacterState/Group/Name/1064130┃Fantasy - Basic Attack Enhanced
+CharacterState/Group/Desc/1064130┃Your next Basic Attack stacks Dream of a Butterfly.
+CharacterState/Group/Name/1064310┃Butterfly Embrace
+CharacterState/Group/Desc/1064310┃Vanya's movement speed increases, dealing periodic damage to enemies around her.
+CharacterState/Group/Name/1064320┃Soar
+CharacterState/Group/Desc/1064320┃Vanya is untargetable.
+CharacterState/Group/Name/1064400┃Yearning - Unstoppable
+CharacterState/Group/Desc/1064400┃Spreading your wings has made you unstoppable.
+CharacterState/Group/Name/1064410┃Yearning - Slowed
+CharacterState/Group/Desc/1064410┃You've been slowed by Vanya's wings.
+CharacterState/Group/Name/1064500┃Sand Dust - Drowsy
+CharacterState/Group/Desc/1064500┃Your drowsiness is slowing you down, get ready to sleep!
+CharacterState/Group/Name/1064510┃Sand Dust - Sleeping
+CharacterState/Group/Desc/1064510┃You are now asleep. Getting hit will wake you up.
+CharacterState/Group/Name/1065000┃Blue & Red - Debi (Blue)
+CharacterState/Group/Desc/1065000┃Debi's Defense increased.
+CharacterState/Group/Name/1065010┃Blue & Red - Marlene (Red)
+CharacterState/Group/Desc/1065010┃Marlene's Basic Attack Range increased.
+CharacterState/Group/Name/1065030┃Blue & Red - Increased Movement Speed
+CharacterState/Group/Desc/1065030┃Movement Speed increased due to Blue & Red.
+CharacterState/Group/Name/1065200┃Increased Attack Speed
+CharacterState/Group/Desc/1065200┃The twins' Attack Speed increased.
+CharacterState/Group/Name/1065210┃Crescent Slash - Increased Attack Speed
+CharacterState/Group/Desc/1065210┃Marlene's Attack Speed increased due to Crescent Slash.
+CharacterState/Group/Name/1065300┃Whirl Dance - Defense
+CharacterState/Group/Desc/1065300┃Blocks enemy projectiles and basic attacks in range.
+CharacterState/Group/Name/1065310┃Whirl Dance - Slowed
+CharacterState/Group/Desc/1065310┃Debi is slowed while casting Spin Slash.
+CharacterState/Group/Name/1065400┃Now, Debi! - Increased Movement Speed
+CharacterState/Group/Desc/1065400┃Debi's Movement Speed increased due to Now, Debi!
+CharacterState/Group/Name/1065410┃Cover Me, Marlene! - Increased Movement Speed
+CharacterState/Group/Desc/1065410┃Marlene's Movement Speed increased due to Cover Me, Marlene!
+CharacterState/Group/Name/1065420┃Now, Debi! - Airborne
+CharacterState/Group/Desc/1065420┃Knocked airborne due to Now, Debi!
+CharacterState/Group/Name/1065430┃Cover Me, Marlene! - Slowed
+CharacterState/Group/Desc/1065430┃Slowed due to Cover Me, Marlene!
+CharacterState/Group/Name/1065440┃Cover Me, Marlene! - Effect Area
+CharacterState/Group/Desc/1065440┃Targets in range are slowed when the Effect Area granted by Cover Me, Marlene! ends.
+CharacterState/Group/Name/1065500┃Twins Rush - Stunned
+CharacterState/Group/Desc/1065500┃Stunned due to Twins Rush.
+CharacterState/Group/Name/1065510┃Twins Rush - Hit
+CharacterState/Group/Desc/1065510┃You've been hit by Twins Rush and can't move.
+CharacterState/Group/Name/1065520┃Twins Rush - Knockback
+CharacterState/Group/Desc/1065520┃Knocked back due to Twins Rush.
+CharacterState/Group/Name/1066100┃Excavation Control - Silence
+CharacterState/Group/Name/1066110┃Artifact Analysis
+CharacterState/Group/Name/1066300┃Babylon's Cube - Slow
+CharacterState/Group/Name/1066310┃Babylon's Cube - Stunned
+CharacterState/Group/Name/1066320┃Babylon's Dice - Root Immunity
+CharacterState/Group/Name/1066330┃Babylon's Dice - Root
+CharacterState/Group/Name/1066500┃Unleashed Power - Skill Enhancement
+CharacterState/Group/Desc/1066100┃You've entered the Excavation Control area and are silenced.
+CharacterState/Group/Desc/1066110┃Arda is collecting the essence of a mysterious artifact. When a certain number are collected, he releases a power that heals his allies.
+CharacterState/Group/Desc/1066300┃Slowed due to Babylon's Cube.
+CharacterState/Group/Desc/1066310┃Stunned due to Babylon's Cube.
+CharacterState/Group/Desc/1066320┃Not rooted due to Babylon's Dice.
+CharacterState/Group/Desc/1066330┃Rooted due to Babylon's Dice.
+CharacterState/Group/Desc/1066500┃Arda has deciphered the relic's hidden origins. Boosts the next basic skill you use.
+CharacterState/Group/Name/1067110┃Tearing Blade - Enhanced Basic Attack
+CharacterState/Group/Desc/1067110┃Abigail's next basic attack deals additional skill damage.
+CharacterState/Group/Name/1067120┃Tearing Blade - Defense Reduction
+CharacterState/Group/Desc/1067120┃Defense has been reduced.
+CharacterState/Group/Name/1067200┃Binary Spin - Increased Movement Speed
+CharacterState/Group/Desc/1067200┃Increases movement speed and ignores collisions.
+CharacterState/Group/Name/1067300┃Coordinate Markers
+CharacterState/Group/Desc/1067300┃The location remains in coordinates.
+CharacterState/Group/Name/1067310┃Dimensional Cleave - Shield
+CharacterState/Group/Desc/1067310┃Gain a shield to block damage.
+CharacterState/Group/Name/1067500┃Dimensional Strike - Untargetable
+CharacterState/Group/Desc/1067500┃Abigail hides in a different dimension and can't be targeted.
+CharacterState/Group/Name/1067510┃Dimensional Strike - Slowed
+CharacterState/Group/Desc/1067510┃Slowed
+CharacterState/Group/Name/1068100┃Plasma Barrier - Immune to Immobilization
+CharacterState/Group/Desc/1068100┃Alonso becomes immune to immobilization for a very short time.
+CharacterState/Group/Name/1068110┃Plasma Barrier - Cooldown
+CharacterState/Group/Desc/1068110┃If Alonso does not take damage for a certain period of time, the Plasma Barrier is reactivated.
+CharacterState/Group/Name/1068200┃Energy Punch - Movement Speed Increase
+CharacterState/Group/Desc/1068200┃Alonso's movement speed increases when he is facing a target. The closer he is, the faster he gets!
+CharacterState/Group/Name/1068210┃Energy Punch - Target Hit
+CharacterState/Group/Desc/1068210┃Alonso is connected to this target, allowing him to reach it faster.
+CharacterState/Group/Name/1068220┃Energy Punch - Stun
+CharacterState/Group/Desc/1068220┃You're stunned!
+CharacterState/Group/Name/1068300┃Bouncing Shield
+CharacterState/Group/Desc/1068300┃Alonso's shield protects himself and fires out waves continuously.
+CharacterState/Group/Name/1068400┃Al Ataque! - Metal Mark
+CharacterState/Group/Desc/1068400┃Alonso has pointed at his target.
+CharacterState/Group/Name/1068410┃Al Ataque! - Rooted
+CharacterState/Group/Desc/1068410┃Alonso's target has been rooted!
+CharacterState/Group/Name/1068500┃Magnetic Field - Slowed
+CharacterState/Group/Desc/1068500┃You've been slowed by a magnetic field.
+CharacterState/Group/Name/1068510┃Magnetic Field
+CharacterState/Group/Desc/1068510┃Enemies are slowed by the strong magnetic field, while Alonso continues to recover HP.
+CharacterState/Group/Name/1069100┃Teddy Bear Attack!
+CharacterState/Group/Desc/1069100┃Upon attacking, the teddy bear flies to the target, dealing additional skill damage.\n<i>"Hi! This is Goltbear!"</i>
+CharacterState/Group/Name/1069300┃Whack-a-mole! - Slowed
+CharacterState/Group/Desc/1069300┃Slowed by Leni's mallet!
+CharacterState/Group/Name/1069310┃Whack-a-mole! - Slowed
+CharacterState/Group/Desc/1069310┃Slowed by Leni's mallet!
+CharacterState/Group/Name/1069320┃Whack-a-mole! - Slowed
+CharacterState/Group/Desc/1069320┃Slowed by Leni's mallet!
+CharacterState/Group/Name/1069330┃Whack-a-mole! - Slowed
+CharacterState/Group/Desc/1069330┃Leni has increased your movement speed as an apology for her prank.
+CharacterState/Group/Name/1069400┃Air Horn Gun! - Stunned
+CharacterState/Group/Desc/1069400┃Stunned by Air Horn Gun!
+CharacterState/Group/Name/1069410┃Air Horn Gun! - Shield
+CharacterState/Group/Desc/1069410┃Shielded by Air Horn Gun!
+CharacterState/Group/Name/1069500┃Spring Launch! - Knocked Back
+CharacterState/Group/Desc/1069500┃Knocked back by Spring Launch!
+CharacterState/Group/Name/1069520┃Spring Launch! - Slowed
+CharacterState/Group/Desc/1069520┃Slowed from being hit into a wall.
+CharacterState/Group/Name/1070110┃Life and Death Seal
+CharacterState/Group/Desc/1070110┃You've taken Life and Death Seal stacks from Tsubame.
+CharacterState/Group/Name/1070200┃Shuriken Deployment - Slow
+CharacterState/Group/Desc/1070200┃Slowed due to Shuriken Deployment.
+CharacterState/Group/Name/1070300┃Whirlwind - Movement Speed Increase
+CharacterState/Group/Desc/1070300┃Your movement speed increases, decaying over time.
+CharacterState/Group/Name/1070310┃Whirlwind - Attack Speed Increase
+CharacterState/Group/Desc/1070310┃Your attack speed has been increased thanks to Whirlwind.
+CharacterState/Group/Name/1070400┃The Art Of Camouflage - Invisible
+CharacterState/Group/Desc/1070400┃You're now invisible thanks to The Art Of Camouflage.
+CharacterState/Group/Name/1070410┃The Art Of Camouflage - Switching Technique
+CharacterState/Group/Desc/1070410┃You can swap positions with your <color=white>Wooden Log</color>.
+CharacterState/Group/Name/1071100┃Suppressed Rage
+CharacterState/Group/Name/1071110┃Suppressed Rage - Max Stacks
+CharacterState/Group/Name/1071220┃Fury Strike - Knocked Airborne
+CharacterState/Group/Name/1071300┃Inferno
+CharacterState/Group/Name/1071310┃Inferno - Shield
+CharacterState/Group/Name/1071400┃Fierce Attack - Enhanced Basic Attack
+CharacterState/Group/Name/1071410┃Fierce Attack
+CharacterState/Group/Name/1071500┃Flame Crush - Stunned
+CharacterState/Group/Name/1071550┃Flame Crush - Knocked Airborne
+CharacterState/Group/Desc/1071100┃The axe catches fire when fully stacked, dealing additional damage each time a basic attack or skill hits.
+CharacterState/Group/Desc/1071110┃Kenneth's axe catches fire, dealing additional damage each time a basic attack or skill hits.
+CharacterState/Group/Desc/1071220┃Knocked airborne by Kenneth's Fury Strike.
+CharacterState/Group/Desc/1071300┃Kenneth burns everything around him, reducing the damage he takes from enemy attacks.
+CharacterState/Group/Desc/1071310┃Kenneth's Inferno shield absorbs enemy damage.
+CharacterState/Group/Desc/1071400┃Kenneth's basic attack is enhanced, dealing additional skill damage on the first hit and recovering some of the skill cooldown.
+CharacterState/Group/Desc/1071410┃Kenneth is enhanced, increasing his attack speed and converting some of the <color=white>Supressed Rage</color> damage he deals with his basic attack into true damage.
+CharacterState/Group/Desc/1071500┃Stunned by Kenneth's Flame Crush.
+CharacterState/Group/Desc/1071550┃Knocked airborne by Kenneth's Flame Crush.
+CharacterState/Group/Name/1072110┃Ashen Reaper
+CharacterState/Group/Desc/1072110┃Katja's next basic attack deals additional skill damage.
+CharacterState/Group/Name/1072210┃Sharpshooter
+CharacterState/Group/Desc/1072210┃Your attack speed has been increased by Sharpshooter.
+CharacterState/Group/Name/1072300┃Dart of Revelation
+CharacterState/Group/Desc/1072300┃You gain vision from Dart of Revelation.
+CharacterState/Group/Name/1072400┃Off-Limits - Slowed
+CharacterState/Group/Desc/1072400┃Slowed by Off-Limits.
+CharacterState/Group/Name/1072410┃Off-Limits - Movement Speed Increase
+CharacterState/Group/Desc/1072410┃Movement Speed Increase by Off-Limits.
+CharacterState/Group/Name/1073100┃A Pure Heart: Recovery and Shield Increase
+CharacterState/Group/Desc/1073100┃Your recovery and shield gain has increased thanks to A Pure Heart.
+CharacterState/Group/Name/1073200┃Light Bearer
+CharacterState/Group/Desc/1073200┃You've been hit by the Light Bearer.
+CharacterState/Group/Name/1073210┃Light Bearer: Slowed
+CharacterState/Group/Desc/1073210┃You've been slowed by the Light Bearer.
+CharacterState/Group/Name/1073400┃A Dash of Hope: Shield
+CharacterState/Group/Desc/1073400┃You've received a shield thanks to A Dash of Hope.
+CharacterState/Group/Name/1073500┃Divine Intervention: Invincible
+CharacterState/Group/Desc/1073500┃You're invincible thanks to a Divine Intervention!
+CharacterState/Group/Name/1074100┃Sly Thief
+CharacterState/Group/Desc/1074100┃Next basic attack steals the target's defense.
+CharacterState/Group/Name/1074110┃Sly Thief - Defense Increase
+CharacterState/Group/Desc/1074110┃Your defense has increased.
+CharacterState/Group/Name/1074120┃Sly Thief - Defense Reduction
+CharacterState/Group/Desc/1074120┃Your defense has been stolen!
+CharacterState/Group/Name/1074200┃Loan Shark
+CharacterState/Group/Desc/1074200┃Your next basic attack is enhanced!
+CharacterState/Group/Name/1074210┃Loan Shark - Mark
+CharacterState/Group/Desc/1074210┃You've been marked by the Loan Shark.
+CharacterState/Group/Name/1074220┃Loan Shark - Movement Speed Increase
+CharacterState/Group/Desc/1074220┃Your movement speed increases when you're moving towards an enemy test subject.
+CharacterState/Group/Name/1074300┃Got My Money? - Shield
+CharacterState/Group/Desc/1074300┃Shielded.
+CharacterState/Group/Name/1074310┃Got My Money? - Attack Power Reduction
+CharacterState/Group/Desc/1074310┃Your attack power has been stolen!
+CharacterState/Group/Name/1074320┃Got My Money? - Attack Power Increase
+CharacterState/Group/Desc/1074320┃Your attack power has been increased.
+CharacterState/Group/Name/1074330┃Got My Money? - Slow
+CharacterState/Group/Desc/1074330┃Slowed.
+CharacterState/Group/Name/1074400┃Pay Time!
+CharacterState/Group/Desc/1074400┃You've been knocked airborne.
+CharacterState/Group/Name/1074500┃Intimidation Tactic
+CharacterState/Group/Desc/1074500┃You've been intimidated by Darko.
+CharacterState/Group/Name/1074520┃Intimidation Tactic - Slow
+CharacterState/Group/Desc/1074520┃Slowed.
+CharacterState/Group/Name/3016000┃Parry
+CharacterState/Group/Desc/3016000┃Deflects enemy attacks
+CharacterState/Group/Name/3006000┃Caltrops
+CharacterState/Group/Desc/3006000┃Slowed from stepping on the Caltrops
+CharacterState/Group/Name/3001000┃Uppercut
+CharacterState/Group/Desc/3001000┃The range and damage of your next basic attack is increased.
+CharacterState/Group/Name/3009000┃Moving Reload
+CharacterState/Group/Desc/3009000┃Reload faster and your movement speed increases. Basic attack speed increases once reload is complete.
+CharacterState/Group/Name/3009010┃Moving Reload - Attack Speed Increase
+CharacterState/Group/Desc/3009010┃The next basic attack increases attack speed.
+CharacterState/Group/Name/3010000┃Attack speed limit ignored
+CharacterState/Group/Desc/3010000┃Attack speed limit ignored.
+CharacterState/Group/Name/3010100┃Overheat
+CharacterState/Group/Desc/3010100┃Overheat stacks accumulate each time you attack. You can activate the skill to reload ammo instantly and increase your attack speed.
+CharacterState/Group/Name/3011000┃Ballistic Advantage
+CharacterState/Group/Desc/3011000┃Activate Ballistic Advantage. Movement and Crowd Control will end Ballistic Advantage.
+CharacterState/Group/Name/3011020┃Crippling Shot
+CharacterState/Group/Desc/3011020┃Movement skills cannot be used.
+CharacterState/Group/Name/3013000┃Armor Piercing
+CharacterState/Group/Desc/3013000┃Defense decreased
+CharacterState/Group/Name/3014000┃Berserk
+CharacterState/Group/Desc/3014000┃Berserk stacks gained
+CharacterState/Group/Name/3014020┃Maleficent Helix
+CharacterState/Group/Desc/3014020┃Gained stacks of Helix
+CharacterState/Group/Name/3015000┃Cloak
+CharacterState/Group/Desc/3015000┃Hidden and cannot be seen by enemies.
+CharacterState/Group/Name/3015100┃Dagger
+CharacterState/Group/Desc/3015100┃Your next basic attack will teleport you behind the enemy and deal more damage.
+CharacterState/Group/Name/3015200┃Dagger
+CharacterState/Group/Desc/3015200┃Slowed by a stab from the shadows.
+CharacterState/Group/Name/3005000┃Smokescreen
+CharacterState/Group/Desc/3005000┃Restricted vision.
+CharacterState/Group/Name/3017000┃Shadow stab
+CharacterState/Group/Desc/3017000┃Slowed by a stab from the shadows.
+CharacterState/Group/Name/3018000┃Rain of Arrows
+CharacterState/Group/Desc/3018000┃Movement Speed reduced.
+CharacterState/Group/Name/3019000┃Flash
+CharacterState/Group/Desc/3019000┃Blinded by Flash
+CharacterState/Group/Name/3011010┃Crippling Shot
+CharacterState/Group/Desc/3011010┃Grounded by Crippling Shot
+CharacterState/Group/Name/3020000┃VF Dispersions
+CharacterState/Group/Desc/3020000┃Channeling dispersions of VF.
+CharacterState/Group/Name/3020100┃Hit by a VF Dispersion.
+CharacterState/Group/Desc/3020100┃Hit by a VF Dispersion. Multiple dispersions slow you.
+CharacterState/Group/Name/3020110┃Arcana - Slow
+CharacterState/Group/Desc/3020110┃Slowed from multiple VF Dispersions.
+CharacterState/Group/Name/3020120┃Arcana - Stun
+CharacterState/Group/Desc/3020120┃Stunned due to being hit by 3 VF Dispersions.
+CharacterState/Group/Name/3020200┃Immune to Arcana
+CharacterState/Group/Desc/3020200┃Currently immune to VF Dispersion stacks
+CharacterState/Group/Name/3021000┃VF Stabilization - Movement Speed Increase
+CharacterState/Group/Desc/3021000┃Succeeded in VF Stabilization resulting in increase of movement speed.
+CharacterState/Group/Name/3021010┃VF Stabilization - Movement Speed Increase
+CharacterState/Group/Desc/3021010┃Succeeded in VF Stabilization resulting in increase of movement speed.
+CharacterState/Group/Name/3004000┃Wind Cutter - Movement Speed Reduced
+CharacterState/Group/Desc/3004000┃Your movement speed has been reduced due to being whipped.
+CharacterState/Group/Name/3023000┃Love&... -  Slowed
+CharacterState/Group/Desc/3023000┃You've been slowed in the name of Love&...
+CharacterState/Group/Name/2000001┃Airborne
+CharacterState/Group/Desc/2000001┃Lifted in the air.
+CharacterState/Group/Name/2000004┃Taunted
+CharacterState/Group/Desc/2000004┃Forced to attack the target.
+CharacterState/Group/Name/2000005┃Charmed
+CharacterState/Group/Desc/2000005┃Moving toward the source of the charm.
+CharacterState/Group/Name/2000008┃Rooted
+CharacterState/Group/Desc/2000008┃Cannot move while rooted.
+CharacterState/Group/Name/2000009┃Stunned
+CharacterState/Group/Desc/2000009┃Cannot do anything while stunned.
+CharacterState/Group/Name/2000020┃Stasis
+CharacterState/Group/Desc/2000020┃Invulnerable and untargetable, but unable to move, attack, or use skills or items.
+CharacterState/Group/Name/2001009┃Slowed
+CharacterState/Group/Desc/2001009┃Movement speed reduced.
+CharacterState/Group/Name/2000024┃Frozen
+CharacterState/Group/Desc/2000024┃You are frozen!
+CharacterState/Group/Name/1000┃Movement Speed Decreased
+CharacterState/Group/Desc/1000┃Movement speed has been decreased.
+CharacterState/Group/Name/10000┃Homing Instinct
+CharacterState/Group/Desc/10000┃Every wild animal has innate instinct to return to where they belong if they feel they are too far from their territory.
+CharacterState/Group/Name/10001┃Resting
+CharacterState/Group/Desc/10001┃Recovering HP and SP by resting.
+CharacterState/Group/Name/10002┃Eat Up
+CharacterState/Group/Desc/10002┃Recovering HP from eating food.\nFood recovery is reduced by 25% during combat.
+CharacterState/Group/Name/10003┃Hydrate
+CharacterState/Group/Desc/10003┃Recovering SP from drinking a beverage.
+CharacterState/Group/Name/10004┃Night
+CharacterState/Group/Desc/10004┃Your vision is restricted at night.
+CharacterState/Group/Name/10011┃Eat Up - Effect
+CharacterState/Group/Desc/10011┃A stat or ability is enhanced from eating food.
+CharacterState/Group/Name/10012┃Hydrate - Effect
+CharacterState/Group/Desc/10012┃A stats or ability is enhanced from drinking beverages.
+CharacterState/Group/Name/10023┃Snowflake - Effect
+CharacterState/Group/Desc/10023┃Ate 5 Snowflakes.
+CharacterState/Group/Name/11300┃Hyperloop After-Use Effects
+CharacterState/Group/Desc/11300┃Unable to use skills or items excluding Food, Beverages, Cameras or Drones.
+CharacterState/Group/Name/11330┃Deflowing Loop After-Use Effects
+CharacterState/Group/Desc/11330┃Unable to use skills or items.
+CharacterState/Group/Name/11360┃Defense effects while using Hyperloop
+CharacterState/Group/Desc/11360┃You become immune to crowd control effects while using the Hyperloop.\nThe effect is triggered only on Day 1.
+CharacterState/Group/Name/11370┃Defense effects while using Hyperloop
+CharacterState/Group/Desc/11370┃The next Hyperloop will trigger Crowd Control Shield.\nThe effect is triggered even if you are interrupted while using the Hyperloop.
+CharacterState/Group/Name/11400┃Rapid Reconstruction Sickness
+CharacterState/Group/Desc/11400┃Unable to use skills or items except for Food, Beverages, Cameras or Drones. Movement speed is temporarily increased.
+CharacterState/Group/Name/11600┃Campfire - Heat
+CharacterState/Group/Desc/11600┃It's really hot.
+CharacterState/Group/Name/11000┃Solo Mode Adjustment
+CharacterState/Group/Name/11001┃Duo Mode Adjustment
+CharacterState/Group/Name/11002┃Squad Mode Adjustment
+CharacterState/Group/Name/11100┃Start Dash
+CharacterState/Group/Desc/11100┃Move faster for 7 seconds. Doing anything other than moving ends the effect.
+CharacterState/Group/Name/11200┃Acceleration Influx Perimeter
+CharacterState/Group/Desc/11200┃Movement speed increased for 2 seconds. Doing anything other than moving ends the effect.
+CharacterState/Group/Name/1002┃Slowed
+CharacterState/Group/Desc/1002┃Movement speed reduced.
+CharacterState/Group/Name/1003┃Slowed
+CharacterState/Group/Desc/1003┃Movement speed reduced.
+CharacterState/Group/Name/1004┃Slowed
+CharacterState/Group/Desc/1004┃Movement speed reduced.
+CharacterState/Group/Name/1005┃Slowed
+CharacterState/Group/Desc/1005┃Movement speed reduced.
+CharacterState/Group/Name/1006┃Slowed
+CharacterState/Group/Desc/1006┃Movement speed reduced.
+CharacterState/Group/Name/1011┃Rooted
+CharacterState/Group/Desc/1011┃Cannot move.
+CharacterState/Group/Name/1012┃Rooted
+CharacterState/Group/Desc/1012┃Cannot move.
+CharacterState/Group/Name/1013┃Rooted
+CharacterState/Group/Desc/1013┃Cannot move.
+CharacterState/Group/Name/1014┃Rooted
+CharacterState/Group/Desc/1014┃Cannot move.
+CharacterState/Group/Name/1015┃Rooted
+CharacterState/Group/Desc/1015┃Cannot move.
+CharacterState/Group/Name/1021┃Stunned
+CharacterState/Group/Desc/1021┃Cannot take any action.
+CharacterState/Group/Name/4000000┃Acceleration
+CharacterState/Group/Desc/4000000┃Collisions avoided. Movement Speed increased.
+CharacterState/Group/Name/4001010┃Quake
+CharacterState/Group/Desc/4001010┃Slowed due to a quake.
+CharacterState/Group/Name/4001000┃Giant Quake
+CharacterState/Group/Desc/4001000┃Continuously shaking the ground, dealing damage to enemies.
+CharacterState/Group/Name/4101000┃FRIEND
+CharacterState/Group/Desc/4101000┃Max HP increased.
+CharacterState/Group/Name/4101010┃FOE
+CharacterState/Group/Desc/4101010┃Damage taken increased.
+CharacterState/Group/Name/4102000┃Electric
+CharacterState/Group/Desc/4102000┃Basic Attack Range increased.
+CharacterState/Group/Name/4103000┃Force Field - Shielded from Damage
+CharacterState/Group/Desc/4103000┃Gained a shield based on amount of additional HP.
+CharacterState/Group/Name/4103010┃Force Field - Quick Steps
+CharacterState/Group/Desc/4103010┃Movement Speed increased based on amount of Shield.
+CharacterState/Group/Name/4104000┃Stasis
+CharacterState/Group/Desc/4104000┃Entered Stasis due to Totem.
+CharacterState/Group/Name/4105000┃Crowd Control Immunity
+CharacterState/Group/Desc/4105000┃You are immune from Crowd Control effects.
+CharacterState/Group/Name/4105010┃Nullification - Movement Speed Increase
+CharacterState/Group/Desc/4105010┃Movement speed is increased by Nullification.
+CharacterState/Group/Name/4107000┃Soul Stealer - Rage
+CharacterState/Group/Desc/4107000┃Energy charges whenever you or a test subject within a certain range take damage from another test subject.
+CharacterState/Group/Name/4107010┃Soul Stealer - Guard
+CharacterState/Group/Desc/4107010┃Omnisyphon and Movement Speed increased.
+CharacterState/Group/Name/4107020┃Soul Stealer - Not possible
+CharacterState/Group/Desc/4107020┃When affected by Soul Stealer, the effect is not applied for a period of time.
+CharacterState/Group/Name/4110000┃Blasting Bullet
+CharacterState/Group/Desc/4110000┃Ready!
+CharacterState/Group/Name/4114000┃The Strijder
+CharacterState/Group/Desc/4114000┃Movement Speed Increased
+CharacterState/Group/Name/4114020┃The Strijder (Strike)
+CharacterState/Group/Desc/4114020┃Slowed
+CharacterState/Group/Name/4112000┃Blade of Truth - Reflection
+CharacterState/Group/Desc/4112000┃Your Movement Speed has increased due to hitting an enemy with the Truth.
+CharacterState/Group/Name/4112010┃Blade of Truth - Recognition
+CharacterState/Group/Desc/4112010┃Taken damage increased from being carved with the Truth.
+CharacterState/Group/Name/4113000┃False Oath - Pledged
+CharacterState/Group/Desc/4113000┃Took damage due to False Oath. HP Regen and damage have been increased.
+CharacterState/Group/Name/4108000┃Healing Wind - Shielded
+CharacterState/Group/Desc/4108000┃Defense increased due to Healing Wind.
+CharacterState/Group/Name/4108010┃Healing Wind - Interference
+CharacterState/Group/Desc/4108010┃Healing effects reduced due to a different wind.
+CharacterState/Group/Name/2100201┃Battle Zone - Acceleration
+CharacterState/Group/Desc/2100201┃This Battle Zone increases movement speed of test subjects by {0}%, and reduces cooldown by {1}%. Does not exceed maximum cooldown value.\n
+CharacterState/Group/Name/2100202┃Battle Zone - Berserk
+CharacterState/Group/Desc/2100202┃This Battle Zone increases damage dealt by {0}% and Omnisyphon by {1}%.
+CharacterState/Group/Name/2100203┃Battle Zone - Defense
+CharacterState/Group/Desc/2100203┃This Battle Zone gives {1} Shield after {0} seconds out of combat. Cannot be re-applied while shield is still in effect.
+CharacterState/Group/Name/2120000┃Battle Zone Mastery Limit
+CharacterState/Group/Desc/2120000┃Limits the maximum obtainable mastery of weapons/armor/HP while in the Battle Zone.
+CharacterState/Group/Name/2110002┃Battle Zone Rapid Reconstruction
+CharacterState/Group/Desc/2110002┃Battle Zone Rapid Reconstruction is activated when a player that has a Battle Zone Kit enters the Battle Zone and it can provide rapid reconstruction upon annihilation.
+CharacterState/Group/Name/2101001┃Remove Battle Zone Kit
+CharacterState/Group/Desc/2101001┃When a Battle Zone Kit is removed, you cannot receive "Battle Zone Rapid Reconstruction" and "Battle Zone Mark".
+CharacterState/Group/Name/2140000┃Heal Pack
+CharacterState/Group/Desc/2140000┃Recover HP and SP over time.
+CharacterState/Group/Name/2160000┃Shield Pack
+CharacterState/Group/Desc/2160000┃Shielded for a period of time.
+CharacterState/Group/Name/2180200┃Frozen Corrosion Gauge
+CharacterState/Group/Desc/2180200┃Corrosion Gauge does not increase for a certain period of time.\nThe effect ends when you recover Corrosion Gauge or after a certain period of time.
+CharacterState/Group/Name/2190000┃Corrosion
+CharacterState/Group/Desc/2190000┃If your Corrosion is continuously at the limit, you will die.\nRecover your Corrosion Gauge by eliminating test subjects or being in range of a Battle Zone Shuttle.
+CharacterState/Group/Desc/┃Find enemies while moving around at night.
+CharacterState/Group/Name/4004100┃Healing Reduction
+CharacterState/Group/Desc/4004100┃Healing reduced from basic attacks.
+CharacterState/Group/Name/4003200┃Boar: Stunned
+CharacterState/Group/Desc/4003200┃Boar is stunned and takes more damage.
+CharacterState/Group/Name/4004300┃Bite: Enhanced
+CharacterState/Group/Desc/4004300┃The next basic attack deals additional damage and the target receives Healing Reduction effects. Movement Speed is greatly increased until the next basic attack.
+CharacterState/Group/Name/4005110┃Howl
+CharacterState/Group/Desc/4005110┃Stats greatly increased due to Howl.
+CharacterState/Group/Name/4005100┃Wolfpack
+CharacterState/Group/Desc/4005100┃Gathered to the sound of the wolf's howling.
+CharacterState/Group/Name/4007100┃Poisoned
+CharacterState/Group/Desc/4007100┃Continuously taking damage.
+CharacterState/Group/Name/4007150┃Toxic: Will Soon Explode
+CharacterState/Group/Desc/4007150┃You have become Toxic. Soon you will explode and deal damage to those in the vicinity, spreading the contagion.
+CharacterState/Group/Name/4007160┃Toxic: Slowed
+CharacterState/Group/Desc/4007160┃Slowed due to Toxic Explosion.
+CharacterState/Group/Name/4008050┃Knocked Back
+CharacterState/Group/Desc/4008050┃A strong wind knocked you back!
+CharacterState/Group/Name/4008060┃System Collapse: Stunned
+CharacterState/Group/Desc/4008060┃Stunned from System Collapse. Defense has been greatly reduced.
+CharacterState/Group/Name/5000000┃Enhanced by Vital Force
+CharacterState/Group/Desc/5000000┃Deal additional damage over time for {0} seconds.
+CharacterState/Group/Name/5000050┃Vital Force Disturbance
+CharacterState/Group/Desc/5000050┃The effect will be activated again in 3 seconds.
+CharacterState/Group/Name/5000100┃Vital Force Disturbance
+CharacterState/Group/Desc/5000100┃Taking damage over time from Wickeline's Vital Force.
+CharacterState/Group/Name/5000200┃Mode adjustment
+CharacterState/Group/Desc/5000200┃Wickeline HP and defense increased
+CharacterState/Group/Name/4008000┃Mode Adjustment
+CharacterState/Group/Desc/4008000┃HP and Defense increased.
+CharacterState/Group/Name/4008010┃System Overload
+CharacterState/Group/Desc/4008010┃If Omega takes skill damage every few seconds, System Overload causes an additional 250 true damage.
+CharacterState/Group/Name/4008030┃System Overload
+CharacterState/Group/Desc/4008030┃If Drone takes damage every few seconds, System Overload causes an additional 1000 true damage.
+CharacterState/Group/Name/4008100┃Knockback
+CharacterState/Group/Desc/4008100┃Knocked back from the VF energy of the Ark Blades.
+CharacterState/Group/Name/4008110┃Stunned
+CharacterState/Group/Desc/4008110┃Stunned from colliding with terrain.
+CharacterState/Group/Name/4008200┃Airborne
+CharacterState/Group/Desc/4008200┃Launched airborne from the VF Pulse.
+CharacterState/Group/Name/4008210┃Attack Power Reduction
+CharacterState/Group/Desc/4008210┃Attack Power reduced from the VF Pulse.
+CharacterState/Group/Name/503501┃Holy Water
+CharacterState/Group/Desc/503501┃Permanently gain 3 Defense. (Max Stack 3)
+CharacterState/Group/Name/503502┃Tear of Selene
+CharacterState/Group/Desc/503502┃Permanently gain 2 Adaptability. (Max Stack 3)
+CharacterState/Group/Name/503503┃Zen Vitality
+CharacterState/Group/Desc/503503┃Permanently add 30 to Max HP. (Max Stack 3)
+CharacterState/Group/Name/5001000┃Healing Reduction
+CharacterState/Group/Desc/5001000┃All healing on you is less effective.
+CharacterState/Group/Name/5001100┃Healing Reduction
+CharacterState/Group/Desc/5001100┃All healing on you is less effective.
+CharacterState/Group/Name/5001200┃Healing Reduction
+CharacterState/Group/Desc/5001200┃All healing on you is less effective.
+CharacterState/Group/Name/5001300┃Healing Reduction
+CharacterState/Group/Desc/5001300┃All healing on you is much less effective.
+CharacterState/Group/Name/5001400┃Healing Reduction
+CharacterState/Group/Desc/5001400┃All healing on you is much less effective.
+CharacterState/Group/Name/6001000┃Flame Barrier
+CharacterState/Group/Desc/6001000┃Deal damage to nearby enemies.
+CharacterState/Group/Name/6002000┃Biotic Infusion
+CharacterState/Group/Desc/6002000┃Next basic attack deals extra damage.
+CharacterState/Group/Name/6003000┃Tenacity
+CharacterState/Group/Desc/6003000┃Reduced crowd control effects (excluding Suppressed, Airborne, Knockback, Grabbed)
+CharacterState/Group/Name/6004000┃Smoldering
+CharacterState/Group/Desc/6004000┃Taking damage every second
+CharacterState/Group/Name/6005000┃Focused
+CharacterState/Group/Desc/6005000┃Your next basic attack has bonus critical strike chance.
+CharacterState/Group/Name/6005010┃- Not Used For Now -
+CharacterState/Group/Desc/6005010┃- Not Used -
+CharacterState/Group/Name/6007000┃Swift Strides
+CharacterState/Group/Desc/6007000┃Movement speed increased, next basic attack deals extra damage. If fully stacked, your next basic attack will cause enemies to [Plummet].
+CharacterState/Group/Name/6007010┃Plummet
+CharacterState/Group/Desc/6007010┃Slowed
+CharacterState/Group/Name/6006000┃Reflection
+CharacterState/Group/Desc/6006000┃Basic attacks are reflected, dealing damage to the attacker.
+CharacterState/Group/Name/6006010┃Healing Reduction
+CharacterState/Group/Desc/6006010┃All healing on you is less effective.
+CharacterState/Group/Name/6012000┃Conclusion: Ready
+CharacterState/Group/Desc/6012000┃The last bullet of your ammo gains additional effects.
+CharacterState/Group/Name/6012010┃Conclusion - Rooted
+CharacterState/Group/Desc/6012010┃Rooted from being hit by the Conclusion.
+CharacterState/Group/Name/6013000┃Loaded
+CharacterState/Group/Desc/6013000┃Your next basic attack slows your target.
+CharacterState/Group/Name/6013010┃Loaded - Slowed
+CharacterState/Group/Desc/6013010┃Slowed from being dealt a heavy blow.
+CharacterState/Group/Name/10016┃Executioner: Ready
+CharacterState/Group/Desc/10016┃Executioner buff ready to be granted on next test subject kill!
+CharacterState/Group/Name/10017┃Executioner: Activated
+CharacterState/Group/Desc/10017┃Executioner buff active!
+CharacterState/Group/Name/10018┃Executioner: Disabled
+CharacterState/Group/Desc/10018┃Currently cannot receive Executioner buff.
+CharacterState/Group/Name/6014000┃Hexed
+CharacterState/Group/Desc/6014000┃You will take damage when the hex is lifted.
+CharacterState/Group/Name/6014010┃Immune to Primordial Hex.
+CharacterState/Group/Desc/6014010┃Cannot be hexed again.
+CharacterState/Group/Name/6015010┃Streamlined
+CharacterState/Group/Desc/6015010┃Movement Speed increased and additional effects granted.
+CharacterState/Group/Name/6015020┃Streamlined - Shield
+CharacterState/Group/Desc/6015020┃You are shielded.
+CharacterState/Group/Name/6016000┃Second Wind - Shield
+CharacterState/Group/Desc/6016000┃Shielded and Tenacious
+CharacterState/Group/Name/6016010┃Second Wind
+CharacterState/Group/Desc/6016010┃Adaptability and Recovery increased
+CharacterState/Group/Name/6016020┃Second Wind - Charging
+CharacterState/Group/Desc/6016020┃Currently preparing for the second wind!
+CharacterState/Group/Name/6016060┃Second Wind - Shield
+CharacterState/Group/Desc/6016060┃Shielded and Tenacious
+CharacterState/Group/Name/6017000┃Vigor
+CharacterState/Group/Desc/6017000┃Increased Attack Speed
+CharacterState/Group/Name/6017010┃Vigor - Max Stacks
+CharacterState/Group/Desc/6017010┃Gained extra stats from max stacks.
+CharacterState/Group/Name/6018000┃Temporal Refraction
+CharacterState/Group/Desc/6018000┃Protected by temporal refraction, negating the damage and effects of the next hostile skill or trap.
+CharacterState/Group/Name/6018010┃Temporal Refraction - On Cooldown
+CharacterState/Group/Desc/6018010┃The Temporal Refraction is reappearing.
+CharacterState/Group/Name/6019000┃Lich's Grasp
+CharacterState/Group/Desc/6019000┃The Lich has tightened his grip on you, slowing you.
+CharacterState/Group/Name/6020000┃Tranquility - On Cooldown
+CharacterState/Group/Desc/6020000┃Finding inner peace with deep breaths.
+CharacterState/Group/Name/6020100┃Tranquility
+CharacterState/Group/Desc/6020100┃Your deep breaths have formed a shield around you.
+CharacterState/Group/Name/6023000┃Smooth Walker Mode
+CharacterState/Group/Desc/6023000┃Increased basic attack range.
+CharacterState/Group/Name/6023010┃Smooth Walker
+CharacterState/Group/Desc/6023010┃Gain [Smooth Walker] by casting movement skills.
+CharacterState/Group/Name/6024000┃Gathering Electric Shock
+CharacterState/Group/Desc/6024000┃Gathering Electric Shock every time you deal basic attack.
+CharacterState/Group/Name/6025000┃Corrosive Compound
+CharacterState/Group/Desc/6025000┃Loses shield every second.
+CharacterState/Group/Name/6026000┃Blossoming Flower
+CharacterState/Group/Desc/6026000┃The flower is blooming.
+CharacterState/Group/Name/6026010┃In Full Bloom - Charging
+CharacterState/Group/Desc/6026010┃In Full Bloom effect is not activated.
+CharacterState/Group/Name/6034000┃Extended Fury
+CharacterState/Group/Desc/6034000┃Your next basic attack range is increased and you deal additional damage.
+CharacterState/Group/Name/6034010┃Extended Fury
+CharacterState/Group/Desc/6034010┃Your next basic attack range is increased and you deal additional damage.
+CharacterState/Group/Name/6500000┃Nullification
+CharacterState/Group/Desc/6500000┃Debuffs and crowd control effects are removed.
+CharacterState/Group/Name/6501000┃Sprint
+CharacterState/Group/Desc/6501000┃Movement speed is increased and collision with units is ignored.
+CharacterState/Group/Name/6502000┃Respite
+CharacterState/Group/Desc/6502000┃Curently frozen in time.
+CharacterState/Group/Name/6503000┃Blessing: Calm Mind
+CharacterState/Group/Desc/6503000┃Healed continuously.
+CharacterState/Group/Name/6503100┃Blessing: Cosmic Efflux
+CharacterState/Group/Desc/6503100┃Strength is blessed by the cosmos!
+CharacterState/Group/Name/6512000┃False Oath
+CharacterState/Group/Desc/6512000┃Stats increased thanks to False Oath. Recovering HP.
+CharacterState/Group/Name/6513010┃Conviction
+CharacterState/Group/Desc/6513010┃Movement speed has been increased.
+CharacterState/Group/Name/6513020┃Conviction
+CharacterState/Group/Desc/6513020┃Movement speed has been increased.
+CharacterState/Group/Name/6513030┃Vertigo
+CharacterState/Group/Desc/6513030┃Slowed.
+CharacterState/Group/Name/6513040┃Vertigo
+CharacterState/Group/Desc/6513040┃Slowed.
+CharacterState/Group/Name/6514010┃Get away!
+CharacterState/Group/Desc/6514010┃Slowed
+CharacterState/Group/Name/6514020┃Good luck!
+CharacterState/Group/Desc/6514020┃Recovering HP.
+CharacterState/Group/Name/6514110┃E.M.O.T.E - Get away!
+CharacterState/Group/Desc/6514110┃E.M.O.T.E is staring down the enemy.
+CharacterState/Group/Name/6514120┃E.M.O.T.E - Good luck!
+CharacterState/Group/Desc/6514120┃E.M.O.T.E is supporting you.
+CharacterState/Group/Name/4509000┃Meteor Strike
+CharacterState/Group/Desc/4509000┃You've been struck by a meteorite.
+CharacterState/Group/Name/4508000┃The Genie's Fantastical Punch
+CharacterState/Group/Desc/4508000┃Hurts, doesn't it?
+CharacterState/Group/Name/6516010┃The Genie's Fantastical Punch 2
+CharacterState/Group/Desc/6516010┃Really hurts, doesn't it?
+CharacterState/Group/Name/4510000┃The Dragon's Blessing
+CharacterState/Group/Desc/4510000┃Protected by a divine shield.
+CharacterState/Group/Name/6517010┃Lightning Shield's Revenge
+CharacterState/Group/Desc/6517010┃The lightning shield dealt damage.
+CharacterState/Group/Name/4502200┃Gravitational Field Absorption
+CharacterState/Group/Desc/4502200┃Sucked into the Gravitational Field.
+CharacterState/Group/Name/4503000┃Rolling Thunder is beginning to surround your allies!
+CharacterState/Group/Desc/4503000┃Rolling Thunder is beginning to surround your allies!
+CharacterState/Group/Name/4503100┃Cobalt Blue: Rolling Thunder
+CharacterState/Group/Desc/4503100┃Gradually increases Movement Speed for a period of time.\nThe first enemy you come into contact with is knocked back and dealt skill damage.
+CharacterState/Group/Name/4504020┃Truth Explosion: Burst
+CharacterState/Group/Desc/4504020┃Stats increased by Truth Explosion.
+CharacterState/Group/Name/4504050┃Truth Explosion: Burnout: Slow
+CharacterState/Group/Desc/4504050┃Slowed by Truth Explosion.
+CharacterState/Group/Name/4504070┃Truth Explosion: Stack
+CharacterState/Group/Desc/4504070┃Damage taken and dealt are both decreased.
+CharacterState/Group/Name/6027130┃Enlightenment - Vanguard
+CharacterState/Group/Desc/6027130┃Stat requirements are met and Vanguard has been activated.
+CharacterState/Group/Name/6022100┃Enlightenment - Verdict
+CharacterState/Group/Desc/6022100┃Stat requirements are met and the Verdict has been taken.
+CharacterState/Group/Name/6027000┃Vanguard
+CharacterState/Group/Desc/6027000┃You've taken enough damage to trigger Vanguard.
+CharacterState/Group/Name/6027010┃Vanguard - Buffing Effects
+CharacterState/Group/Desc/6027010┃Damage taken from enemies reduced.
+CharacterState/Group/Name/6027020┃Vanguard - Debuff Effects
+CharacterState/Group/Desc/6027020┃Your attack speed has been reduced by your enemy's Vanguard.
+CharacterState/Group/Name/6030000┃Debilitation
+CharacterState/Group/Desc/6030000┃You take damage based on your HP each second.
+CharacterState/Group/Name/6028000┃Pulverization
+CharacterState/Group/Desc/6028000┃Defense reduced by the amount of stacks.
+CharacterState/Group/Name/6028010┃Pulverization - Movement Speed
+CharacterState/Group/Desc/6028010┃Movement speed is briefly increased.
+CharacterState/Group/Name/6008000┃Healing Reduction
+CharacterState/Group/Desc/6008000┃All healing on you is less effective.
+CharacterState/Group/Name/6008010┃Healing Reduction
+CharacterState/Group/Desc/6008010┃All healing on you is much less effective.
+CharacterState/Group/Name/6033000┃Photon Launcher - Stack
+CharacterState/Group/Desc/6033000┃Gained a Photon Launcher stack by hitting with a basic attack.
+CharacterState/Group/Name/6032000┃Empowerment
+CharacterState/Group/Desc/6032000┃Your ally has empowered you, increasing your Adaptability and Attack Speed.
+CharacterState/Group/Name/6035000┃Quickstep
+CharacterState/Group/Desc/6035000┃Individual damage dealt. You've gained a stack that increases your movement speed.
+CharacterState/Group/Name/6036000┃Whirlwind
+CharacterState/Group/Desc/6036000┃You've met the conditions to trigger a whirlwind.
+CharacterState/Group/Name/6037010┃Targeting Pod - On Cooldown
+CharacterState/Group/Desc/6037010┃The targeting pod is not activated.
+CharacterState/Group/Name/6037000┃Targeting Pod - Mark
+CharacterState/Group/Desc/6037000┃Marked enemy test subjects take additional damage when hit by basic attacks.
+CharacterState/Group/Name/6038000┃Crushing Blow - Ready
+CharacterState/Group/Desc/6038000┃Your next basic attack will deal a Crushing Blow.
+CharacterState/Group/Name/6038010┃Crushing Blow - Charging
+CharacterState/Group/Desc/6038010┃Crushing Blow is charging.
+CharacterState/Group/Name/6040000┃Taser Gun
+CharacterState/Group/Desc/6040000┃Activate Taser Gun by hitting a target that has consumed the mark with a basic attack.
+CharacterState/Group/Name/6040030┃Taser Gun - Charging
+CharacterState/Group/Desc/6040030┃The taser gun is charging.
+CharacterState/Group/Name/6040020┃Taser Gun - Debuff
+CharacterState/Group/Desc/6040020┃You've been hit by a Taser Gun. Skill damage taken increased.
+CharacterState/Group/Name/6043000┃Debilitating Fog
+CharacterState/Group/Desc/6043000┃You've been hit by a debilitating fog. You take skill damage and your defense is reduced.
+CharacterState/Group/Name/6042000┃Echoing Strike
+CharacterState/Group/Desc/6042000┃Your next basic attack triggers an Echoing Strike.
+CharacterState/Group/Name/6044000┃Spirit Harvest - Target
+CharacterState/Group/Desc/6044000┃You're a target of Spirit Harvest. You'll take additional great damage upon being hit by the caster's next skill.
+CharacterState/Group/Name/6044010┃Spirit Harvest - Target
+CharacterState/Group/Desc/6044010┃You're a target of Spirit Harvest. You'll take additional great damage upon being hit by the caster's next skill.
+CharacterState/Group/Name/2310100┃Comradeship in Crisis
+CharacterState/Group/Desc/2310100┃Once out of combat, the grieving pair, united by the loss of their teammate, experience increased recovery and movement speed.
+CharacterState/Group/Name/2310200┃Lone Wolf
+CharacterState/Group/Desc/2310200┃You've lost your teammates and are now on your own. Though alone, your strength rivals that of a beast. Once out of combat, your recovery and movement speed increase, your damage taken decreases, and you gain additional stats.
+CharacterState/Group/Name/2400000┃Terminate - Recovery
+CharacterState/Group/Desc/2400000┃Your movement speed increases and after a certain amount of time you're healed.
+CharacterState/Group/Name/2410000┃Clutch - Recovery
+CharacterState/Group/Desc/2410000┃After a certain amount of time you're healed twice.
+CharacterState/Group/Name/2410100┃Clutch - Movement Speed Increase
+CharacterState/Group/Desc/2410100┃Your movement speed is increased.
+CharacterState/Group/Name/7000210┃Frailty Infliction
+CharacterState/Group/Desc/7000210┃Landing multiple basic attacks or skills against the same enemy deals true damage and reduces their defense.
+CharacterState/Group/Name/7000220┃Frailty Infliction
+CharacterState/Group/Desc/7000220┃On cooldown.
+CharacterState/Group/Name/7000200┃Frailty Infliction
+CharacterState/Group/Desc/7000200┃Defense reduced
+CharacterState/Group/Name/7000400┃Vampiric Bloodline
+CharacterState/Group/Desc/7000400┃Stats increased.
+CharacterState/Group/Name/7000410┃Vampiric Bloodline - Max Stacks
+CharacterState/Group/Desc/7000410┃Stats additionaly increased by Vampriric Bloodline.
+CharacterState/Group/Name/7000500┃Red Sprite
+CharacterState/Group/Desc/7000500┃Damaging an enemy with a skill spawns a sprite that can chain to multiple enemy test subjects, starting with the one closest to them, dealing additional skill damage to each chained test subject. \nThe further the enemy, the stronger the damage dealt. \nDamaging an enemy test subject with an individual skill reduces the cooldown of Red Sprite.
+CharacterState/Group/Name/7000510┃Red Sprite
+CharacterState/Group/Desc/7000510┃On cooldown
+CharacterState/Group/Name/7000600┃Adrenaline
+CharacterState/Group/Desc/7000600┃Attack Speed Increased
+CharacterState/Group/Name/7000610┃Adrenaline - Max Stacks
+CharacterState/Group/Desc/7000610┃Attack and Movement Speed Increased.
+CharacterState/Group/Name/7010100┃Stopping Power
+CharacterState/Group/Desc/7010100┃Armor Penetration increased
+CharacterState/Group/Name/7010200┃Vengeance
+CharacterState/Group/Desc/7010200┃Deal more damage in safe zones after final restricted areas are activated.
+CharacterState/Group/Name/7010600┃Anima Reaper
+CharacterState/Group/Desc/7010600┃Anima Reaper: Stats increased by {0}.
+CharacterState/Group/Name/7100100┃Diamond Shard
+CharacterState/Group/Desc/7100100┃Immobilizing an enemy player increases your Defense.\nDeal damage around you after the duration.\nEnemies hit are slowed.
+CharacterState/Group/Name/7100110┃Diamond Shard
+CharacterState/Group/Desc/7100110┃Defense increased
+CharacterState/Group/Name/7100120┃Diamond Shard
+CharacterState/Group/Desc/7100120┃Slowed
+CharacterState/Group/Name/7100130┃Diamond Shard
+CharacterState/Group/Desc/7100130┃On cooldown
+CharacterState/Group/Name/7100200┃Ironclad
+CharacterState/Group/Desc/7100200┃Using a Weapon Skill makes you Ironclad, reducing your damage taken and granting you Tenacity.
+CharacterState/Group/Name/7100220┃Ironclad
+CharacterState/Group/Desc/7100220┃Damage taken reduced.\nTenacity increased.
+CharacterState/Group/Name/7100210┃Ironclad
+CharacterState/Group/Desc/7100210┃On cooldown
+CharacterState/Group/Name/7100300┃Oblivion Can Wait
+CharacterState/Group/Desc/7100300┃Damage taken reduced
+CharacterState/Group/Name/7100310┃Oblivion Can Wait
+CharacterState/Group/Desc/7100310┃Reflect portion of damage.
+CharacterState/Group/Name/7100400┃Heavy Kneepads
+CharacterState/Group/Desc/7100400┃On cooldown
+CharacterState/Group/Name/7100410┃Heavy Kneepads
+CharacterState/Group/Desc/7100410┃Shielded.
+CharacterState/Group/Name/7100420┃Heavy Kneepads
+CharacterState/Group/Desc/7100420┃Movement speed increased.
+CharacterState/Group/Name/7100500┃Bitter Retribution
+CharacterState/Group/Desc/7100500┃On cooldown
+CharacterState/Group/Name/7100510┃Bitter Retribution
+CharacterState/Group/Desc/7100510┃Slowed
+CharacterState/Group/Name/7100520┃Bitter Retribution
+CharacterState/Group/Desc/7100520┃Bitter Retribution stack granted! Damage taken is reduced based on the stacks you have. Basic attacks deal additional damage at max stacks.
+CharacterState/Group/Name/7100530┃Calm
+CharacterState/Group/Desc/7100530┃Healed for a certain amount.
+CharacterState/Group/Name/7100540┃Bitter Retribution
+CharacterState/Group/Desc/7100540┃Taking damage from enemy test subjects grants you a stack of Bitter Distribution. Damage taken is reduced based on the stacks you have. Basic attacks deal additional damage at max stacks.
+CharacterState/Group/Name/7110100┃Embolden
+CharacterState/Group/Desc/7110100┃Defense increased.
+CharacterState/Group/Name/7110110┃Embolden
+CharacterState/Group/Desc/7110110┃On cooldown
+CharacterState/Group/Name/7110200┃Cavalcade
+CharacterState/Group/Desc/7110200┃Damage taken is reduced.
+CharacterState/Group/Name/7110400┃Steadfast
+CharacterState/Group/Desc/7110400┃Damage taken reduced.
+CharacterState/Group/Name/7110300┃Dulled Blades
+CharacterState/Group/Desc/7110300┃Critical Strike Damage taken reduced.
+CharacterState/Group/Name/7110310┃Dulled Blades
+CharacterState/Group/Desc/7110310┃On cooldown
+CharacterState/Group/Name/7110601┃Eat Up
+CharacterState/Group/Desc/7110601┃Recovering HP from eating food.\nFood recovery is reduced by 25% during combat.
+CharacterState/Group/Name/7110611┃Hydrate
+CharacterState/Group/Desc/7110611┃Recovering SP from drinking a beverage.
+CharacterState/Group/Name/7200100┃Healing Factor
+CharacterState/Group/Desc/7200100┃Increased healing and shields from your skills or augments. Targets shielded or healed by you gain Stats.\n(Excludes recovery from Food, Drinks, Life Steal, HP Regeneration, and Resting.)
+CharacterState/Group/Name/7200120┃Healing Factor
+CharacterState/Group/Desc/7200120┃Stats increased by Healing Factor.
+CharacterState/Group/Name/7200110┃Healing Factor
+CharacterState/Group/Desc/7200110┃On cooldown
+CharacterState/Group/Name/7200300┃Healing Drone
+CharacterState/Group/Desc/7200300┃If you and your allies take damage while below a certain amount of HP, a Healing Drone will follow you.\nThe drone heals you and your allies every second based on your missing health.\nWhen receiving healing from multiple Healing Drones, healing from all drones is reduced.
+CharacterState/Group/Name/7200310┃Healing Drone
+CharacterState/Group/Desc/7200310┃On cooldown
+CharacterState/Group/Name/7200320┃Healing Drone
+CharacterState/Group/Desc/7200320┃Currently healing.
+CharacterState/Group/Name/7200200┃Amplification Drone
+CharacterState/Group/Desc/7200200┃Using your ultimate summons an Amplification Drone that follows you around, increasing the Movement Speed and Skill Damage of all allies in range.\n\nMultiple Amplification Drones do not stack.
+CharacterState/Group/Name/7200220┃Amplification Drone
+CharacterState/Group/Desc/7200220┃Being boosted by an Amplification Drone!
+CharacterState/Group/Name/7200230┃Amplification Drone
+CharacterState/Group/Desc/7200230┃Movement Speed and Skill Damage increased
+CharacterState/Group/Name/7200210┃Amplification Drone
+CharacterState/Group/Desc/7200210┃On cooldown
+CharacterState/Group/Name/7200400┃Run It Back
+CharacterState/Group/Desc/7200400┃Movement Speed increased.
+CharacterState/Group/Name/7200410┃Run It Back
+CharacterState/Group/Desc/7200410┃Movement Speed increased, Damage Taken decreased.
+CharacterState/Group/Name/7200450┃Run It Back
+CharacterState/Group/Desc/7200450┃On cooldown
+CharacterState/Group/Name/7200460┃Run It Back
+CharacterState/Group/Desc/7200460┃Movement speed towards enemy test subjects is increased. Based on the type of kill, either HP is restored or taken damage is reduced.
+CharacterState/Group/Name/7200500┃Sentinel
+CharacterState/Group/Desc/7200500┃Shield Gained.
+CharacterState/Group/Name/7200510┃Sentinel
+CharacterState/Group/Desc/7200510┃On cooldown
+CharacterState/Group/Name/7200520┃Sentinel
+CharacterState/Group/Desc/7200520┃Hitting an enemy with a skill grants a shield.
+CharacterState/Group/Name/7210120┃Thorn Shackles
+CharacterState/Group/Desc/7210120┃Immobilizing a target causes them to take increased damage from all sources.
+CharacterState/Group/Name/7210100┃Thorn Shackles
+CharacterState/Group/Desc/7210100┃Receive increased damage when immobilized.
+CharacterState/Group/Name/7210110┃Thorn Shackles
+CharacterState/Group/Desc/7210110┃On cooldown
+CharacterState/Group/Name/7210220┃Assembly
+CharacterState/Group/Desc/7210220┃Using your ultimate grants you and your allies a shield.
+CharacterState/Group/Name/7210200┃Assembly
+CharacterState/Group/Desc/7210200┃Shielded.
+CharacterState/Group/Name/7210210┃Assembly
+CharacterState/Group/Desc/7210210┃On cooldown
+CharacterState/Group/Name/7210230┃Assembly
+CharacterState/Group/Desc/7210230┃Shields from Assembly are decreased for a short duration.
+CharacterState/Group/Name/7210600┃Head Starter: Out of Combat Movement Speed increased
+CharacterState/Group/Desc/7210600┃Out of Combat Movement Speed increase while equipped with a Epic or Legendary leg item.
+CharacterState/Group/Name/7922420┃Endorphin
+CharacterState/Group/Desc/7922420┃SP Recovery increased by 100%.
+CharacterState/Group/Name/7010700┃Open Wounds
+CharacterState/Group/Desc/7010700┃When dealing damage to an enemy, damage continues for a certain period of time.
+CharacterState/Group/Name/7010710┃Open Wounds
+CharacterState/Group/Desc/7010710┃Damage is dealt continuously over a period of time.
+CharacterState/Group/Name/7010720┃Open Wounds
+CharacterState/Group/Desc/7010720┃On cooldown
+CharacterState/Group/Name/7110810┃Camping Guide
+CharacterState/Group/Desc/7110810┃Out of Combat Movement Speed Increases.
+CharacterState/Group/Name/7211000┃Thrill of the Hunt
+CharacterState/Group/Desc/7211000┃Movement speed increases, then decreases gradually.
+CharacterState/Group/Name/7211010┃Thrill of the Hunt
+CharacterState/Group/Desc/7211010┃On cooldown
+CharacterState/Group/Name/7211020┃Thrill of the Hunt
+CharacterState/Group/Desc/7211020┃Slaying wild animals restores HP and increases movement speed, then decreases it gradually.
+CharacterState/Group/Name/7110700┃Unwavering Mentality
+CharacterState/Group/Desc/7110700┃Shielded.
+CharacterState/Group/Name/7110710┃Unwavering Mentality
+CharacterState/Group/Desc/7110710┃On cooldown
+CharacterState/Group/Name/7110720┃Unwavering Mentality
+CharacterState/Group/Desc/7110720┃Gain a shield when using your ultimate.
+CharacterState/Group/Name/7310400┃Stopping Power
+CharacterState/Group/Desc/7310400┃Dealing damage to an enemy increases your Armor Penetration for a short period of time.
+CharacterState/Group/Name/7310410┃Stopping Power
+CharacterState/Group/Desc/7310410┃On cooldown
+CharacterState/Group/Name/7310420┃Stopping Power
+CharacterState/Group/Name/7300200┃Ghost Light
+CharacterState/Group/Desc/7300200┃Dealing great damage within a short period of time releases a ghost light that attacks the enemy, dealing more damage.
+CharacterState/Group/Name/7300210┃Ghost Light
+CharacterState/Group/Desc/7300210┃On cooldown
+CharacterState/Group/Name/7300230┃Ghost Light
+CharacterState/Group/Desc/7300230┃Ghost Light deals damage over time and the target takes a great healing reduction debuff.
+CharacterState/Group/Name/7300110┃Stellar Charge
+CharacterState/Group/Desc/7300110┃You've stacked Stellar Charge.
+CharacterState/Group/Name/7300120┃Stellar Charge
+CharacterState/Group/Desc/7300120┃Your basic attacks deal additional damage and the cooldown of your basic skill is reduced.
+CharacterState/Group/Name/7300130┃Stellar Charge
+CharacterState/Group/Desc/7300130┃On cooldown
+CharacterState/Group/Name/7000700┃Accelerator
+CharacterState/Group/Desc/7000700┃Your first 3 basic attacks are much faster, and the 3rd one deals additional damage.
+CharacterState/Group/Name/7000710┃Accelerator
+CharacterState/Group/Desc/7000710┃Attack Speed increased.
+CharacterState/Group/Name/7000730┃Accelerator
+CharacterState/Group/Desc/7000730┃On cooldown

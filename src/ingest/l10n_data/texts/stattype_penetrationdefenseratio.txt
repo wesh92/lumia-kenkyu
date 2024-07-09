@@ -1,0 +1,2 @@
+StatType/PenetrationDefenseRatio┃Armor penetration
+StatType/PenetrationDefenseRatio/Desc┃Damage dealt to a target ignores a percent of their Defense.

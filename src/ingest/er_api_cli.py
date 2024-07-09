@@ -4,8 +4,10 @@ from rich.console import Console
 from rich.table import Table
 from rich.progress import Progress
 import json
-from supabase import create_client, Client, ClientOptions
+from supabase import create_client, Client
+from supabase.lib.client_options import ClientOptions
 import tomli
+from pydantic import BaseModel
 
 
 from er_api_interface import ERApiDirector
@@ -86,7 +88,7 @@ def display_data(data: dict):
     console.print(table)
 
 
-def push_to_supabase(data: dict, models: Optional[List[str]] = None):
+def push_to_supabase(data: dict[str, list[BaseModel]], models: Optional[List[str]] = None):
     """
     Push fetched data to Supabase.
     """
@@ -122,7 +124,7 @@ def push_to_supabase(data: dict, models: Optional[List[str]] = None):
             for item in model_data:
                 try:
                     # Upsert data to Supabase
-                    supabase.table(table_name).upsert(item).execute()
+                    supabase.table(table_name).upsert(item.model_dump()).execute()
                     progress.update(model_task, advance=1)
                 except Exception as e:
                     console.print(

@@ -1,0 +1,1 @@
+ToolTipType/VoltGunDamage┃Volt Cannon Damage

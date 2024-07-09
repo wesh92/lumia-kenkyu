@@ -1,0 +1,1 @@
+ToastMessage/Escape1002┃An ally has been eliminated during their escape attempt. Hyperloop canceled.

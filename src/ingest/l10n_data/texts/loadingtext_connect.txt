@@ -1,0 +1,1 @@
+LoadingText/Connect┃The list of items you can craft is located at the top of the inventory.

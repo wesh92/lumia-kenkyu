@@ -1,0 +1,1 @@
+StreamingModeSetting/NormalMatchingSquad┃Begin searching for a Normal match with queue time hidden.\n*You need to enable the [Use queue shortcuts] option in Settings ＞ Broadcast Mode.

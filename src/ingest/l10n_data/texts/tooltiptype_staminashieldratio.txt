@@ -1,0 +1,1 @@
+ToolTipType/StaminaShieldRatio┃Maximum Percentage of SP Shield (%)

@@ -1,0 +1,1 @@
+ToolTipType/FirstOutDamage┃Initial External Damage

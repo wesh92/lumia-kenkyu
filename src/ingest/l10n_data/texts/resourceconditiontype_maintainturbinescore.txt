@@ -1,0 +1,1 @@
+ResourceConditionType/MaintainTurbineScore┃Capture Beacon (45 sec)

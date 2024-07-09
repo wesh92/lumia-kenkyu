@@ -1,0 +1,2 @@
+StatType/Tenacity┃Tenacity
+StatType/Tenacity/Desc┃Reduced crowd control effects (excluding Suppressed, Airborne, Knocked back, Grabbed, Stasis)

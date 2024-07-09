@@ -1,0 +1,1 @@
+MasteryConditionType/UndefendedDamagedFromMonster┃Take 100 damage from wild animal
