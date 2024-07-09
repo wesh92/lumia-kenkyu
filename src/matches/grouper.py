@@ -1,12 +1,11 @@
 from collections import defaultdict
 import json
 from pydantic import BaseModel
-from typing import List, Dict
 import os
 from models.game import UserGame
 from getter import _fetch_multiple_games
 
-def group_by_team(user_games: List[UserGame]) -> Dict[int, List[UserGame]]:
+def group_by_team(user_games: list[UserGame]) -> dict[int, list[UserGame]]:
     """
     Group UserGame objects by team_id.
 
@@ -18,7 +17,7 @@ def group_by_team(user_games: List[UserGame]) -> Dict[int, List[UserGame]]:
         teams[game.team_id].append(game)
     return dict(teams)
 
-def write_teams_to_json(grouped_teams: Dict[int, List[UserGame]], output_dir: str):
+def write_teams_to_json(grouped_teams: dict[int, list[UserGame]], output_dir: str):
     """
     Write grouped team data to JSON files.
 
