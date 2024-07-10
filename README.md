@@ -1,4 +1,4 @@
-# Lumia Kenkyu
+# Lumia Kenkyu 【研究】
 
 <!--toc:start-->
 - [Lumia Kenkyu](#lumia-kenkyu)
