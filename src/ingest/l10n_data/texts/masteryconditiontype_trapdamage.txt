@@ -1,0 +1,1 @@
+MasteryConditionType/TrapDamage┃Trap Damage

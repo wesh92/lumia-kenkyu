@@ -1,0 +1,5 @@
+Phase/Desc/0┃Draft equipment and purchase Infusions at the Synthesizer.
+Phase/Desc/1┃Defeat enemies and capture Power Beacons within the designated area.
+Phase/Desc/2┃Defeat enemies and capture Power Beacons.
+Phase/Desc/3┃Defeat enemies and capture Power Beacons.\nDefeat Gamma.
+Phase/Desc/4┃The experiment will end soon!

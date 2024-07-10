@@ -1,0 +1,12 @@
+GameResult/Tag/MatchingMode/Normal┃Normal Match
+GameResult/Tag/MatchingMode/Cobalt┃Cobalt Protocol
+GameResult/Tag/MatchingMode/Rank┃Ranked Match
+GameResult/Tag/MatchingMode/Practice┃Practice Mode
+GameResult/Tag/MatchingMode/Test┃vs AI
+GameResult/Tag/MatchingMode/Custom┃Custom Game
+GameResult/Tag/MatchingMode/CobaltCustom┃Cobalt Protocol
+GameResult/Tag/MatchingMode/Tutorial1_Re┃Training
+GameResult/Tag/MatchingMode/Tutorial2_Re┃Training
+GameResult/Tag/MatchingMode/Tutorial3_Re┃Training
+GameResult/Tag/MatchingTeamMode/Squad┃Squad
+GameResult/Tag/MatchingTeamMode/Cobalt┃Cobalt Protocol

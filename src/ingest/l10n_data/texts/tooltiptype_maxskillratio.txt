@@ -1,0 +1,1 @@
+ToolTipType/MaxSkillRatio┃Damage increase per Skill Amplification

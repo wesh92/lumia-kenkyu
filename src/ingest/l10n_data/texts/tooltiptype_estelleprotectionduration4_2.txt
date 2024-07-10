@@ -1,0 +1,1 @@
+ToolTipType/EstelleProtectionDuration4_2┃[Global] Shield Duration

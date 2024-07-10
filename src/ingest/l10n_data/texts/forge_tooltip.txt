@@ -1,0 +1,10 @@
+Forge/ToolTip/RareMatter┃This Rare Data Fragment can be obtained with a certain probability by disassembling Epic or Rare skins. \nIt can be only used to craft Epic skins.
+Forge/ToolTip/NormalMatter┃This Data Fragment can be obtained in certain quantities by disassembling Uncommon skins or other items and designs. \nIt can be used to craft designs into items.
+Forge/ToolTip/disintegrateTicket┃Items that can be disassembled without consuming additional goods. Disassembling 1 item uses 1 Disassembly Voucher.
+Forge/ToolTip/DisintegrateMode┃Select the items to be disassembled.
+Forge/ToolTip/DisintegrateMode/Btn_Filter┃Change item disassemble filters.
+Forge/ToolTip/DisintegrateMode/Btn_Select┃Reselect items with the current filters.
+Forge/ToolTip/DisintegrateMode/Btn_Reset┃Reset all selected items.
+Forge/ToolTip/HighGradeItemAlert┃<color=red>A high rarity item is included in the disassemble list.</color>
+Forge/ToolTip/RightClickToRemove┃Right-click to remove the item from the list.
+Forge/ToolTip/SelectToAdd┃Select the items to be disassembled.

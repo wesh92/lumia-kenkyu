@@ -1,0 +1,1 @@
+GameSetting/MouseReverse┃Toggle the mouse inversion setting.

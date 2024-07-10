@@ -1,0 +1,1 @@
+ToolTipType/MaxAdditionalDamage┃Maximum Extra Damage

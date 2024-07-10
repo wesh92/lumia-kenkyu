@@ -1,0 +1,16 @@
+PurchaseWithdrawalType/Link/Asset7Days┃https://support.playeternalreturn.com/hc/en-us/articles/32696171159705
+PurchaseWithdrawalType/Link/Asset7Days_KAKAO┃ https://t1.kakaocdn.net/gamepub/policy/service.html#contSec29
+PurchaseWithdrawalType/Link/Acoin7Days┃https://support.playeternalreturn.com/hc/en-us/articles/32696171159705
+PurchaseWithdrawalType/Link/Acoin7Days_KAKAO┃https://er.game.daum.net/policy/service
+PurchaseWithdrawalType/Link/Item7Days┃https://support.playeternalreturn.com/hc/en-us/articles/32696171159705
+PurchaseWithdrawalType/Link/Item7Days_KAKAO┃https://er.game.daum.net/policy/service
+PurchaseWithdrawalType/Link/BoxKey7Days┃https://support.playeternalreturn.com/hc/en-us/articles/32696171159705
+PurchaseWithdrawalType/Link/BoxKey7Days_KAKAO┃https://er.game.daum.net/policy/service
+PurchaseWithdrawalType/Link/Within7Days┃https://support.playeternalreturn.com/hc/en-us/articles/32696171159705
+PurchaseWithdrawalType/Link/Within7Days_KAKAO┃https://er.game.daum.net/policy/service
+PurchaseWithdrawalType/Link/TokenNoWithdrawal┃https://support.playeternalreturn.com/hc/en-us/articles/32696171159705
+PurchaseWithdrawalType/Link/TokenNoWithdrawal_KAKAO┃https://er.game.daum.net/policy/service
+PurchaseWithdrawalType/Link/PackageNoWithdrawal┃https://support.playeternalreturn.com/hc/en-us/articles/32696171159705
+PurchaseWithdrawalType/Link/PackageNoWithdrawal_KAKAO┃https://er.game.daum.net/policy/service
+PurchaseWithdrawalType/Link/ImmediateUseNoWithdrawal┃https://support.playeternalreturn.com/hc/en-us/articles/32696171159705
+PurchaseWithdrawalType/Link/ImmediateUseNoWithdrawal_KAKAO┃https://er.game.daum.net/policy/service

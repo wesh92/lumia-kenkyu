@@ -1,0 +1,2 @@
+TutorialMessageBox/Trace/Step1/Title┃Finding enemies
+TutorialMessageBox/Trace/Step1/Comment┃\n\nWhen you <color=orange>click the security console</color>, you'll gain some vision range thanks to the CCTV cameras.\n\nThere's a security console in each area, and you can see where they are on the <color=orange>minimap</color>.

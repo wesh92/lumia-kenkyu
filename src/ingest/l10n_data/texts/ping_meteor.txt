@@ -1,0 +1,3 @@
+Ping/Meteor/Unknown┃{0}({1}) : <color=#C2FFA0>{2}</color> until <color=#D05EFF>Meteorite</color> impact.
+Ping/Meteor/Wait┃{0}({1}) : <color=#C2FFA0>{2}</color> until <color=#D05EFF>Meteorite</color> impact. (<color=#C2FFA0>{3}</color>)
+Ping/Meteor/None┃{0}({1}) : No more Meteors will impact.

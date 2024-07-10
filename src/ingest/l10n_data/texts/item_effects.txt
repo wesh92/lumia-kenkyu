@@ -1,0 +1,175 @@
+Item/Effects/502101┃Click to install a <color=lightblue>Surveillance Camera</color>\nthat reveals your surroundings.\nIt reveals hidden traps and players near you.\nCamera Placement Limit: 2
+Item/Effects/502102┃Click to install a <color=lightblue>Snare</color> trap.
+Item/Effects/502103┃Click to install a <color=lightblue>Mouse trap</color>.
+Item/Effects/502105┃Click to install a <color=lightblue>Campfire Kit</color>.\nA Campfire will be created in the targeted location and will remain there for 15 seconds.
+Item/Effects/502202┃Click to install a <color=lightblue>Enhanced Mouse trap</color>.
+Item/Effects/502203┃Click to install <color=lightblue>Dynamite</color>.\n<color=yellow>Trap effects:</color> explodes in a large range after {1} seconds.
+Item/Effects/502204┃Click to install a <color=lightblue>Bamboo Trap</color>.\n<color=yellow>Trap effects:</color> enemies are rooted for {0} second.
+Item/Effects/502205┃Click to install a <color=lightblue>Booby Trap</color>.\n<color=yellow>Trap effects:</color> enemies are rooted for {0} seconds.
+Item/Effects/502206┃Click to install a <color=lightblue>Clang Clatter</color>. Generates noise within a 25m range upon installation and expiration.
+Item/Effects/502207┃Click to install a <color=lightblue>Telephoto Camera</color> that reveals your surroundings\nin a large range. Reveals hidden traps and players near you.\nCamera Placement Limit: 2
+Item/Effects/502208┃Click to launch <color=lightblue>Recon Drone</color> in the targeted location.\nGrants vision in the targeted location for {2} seconds.
+Item/Effects/502209┃Click to install a <color=lightblue>Trail Camera</color> that reveals your surroundings.\nReveals hidden traps and players near you.\nAfter {1} seconds,\nit will enter Infiltration mode.\nCamera Placement Limit: 2
+Item/Effects/502211┃Click to install a <color=lightblue>Magnifying Camera</color> that gives you long vision in a specific direction.\nReveals nearby traps and survivors.\nCan install up to 3 cameras.
+Item/Effects/502212┃Click to install a <color=lightblue>Telephoto Camera</color>that reveals your surroundings\nin a large range. Reveals hidden traps and players near you.\nCamera Placement Limit: 3
+Item/Effects/502301┃Click to install a <color=lightblue>Thorny Bead</color>.
+Item/Effects/502302┃Click to install <color=lightblue>Meiji's Roulette</color>.
+Item/Effects/502303┃Click to install a <color=lightblue>Jungle Guillotine</color>.\n<color=yellow>Trap effects:</color> enemies are rooted\nfor {0} seconds.
+Item/Effects/502304┃Click to install a <color=lightblue>Mine</color>.\n<color=yellow>Trap effects:</color> explodes in a narrow area,\nstunning enemies for {0} seconds.
+Item/Effects/502305┃Click to install a <color=lightblue>Pendulum Axe</color>.\n<color=yellow>Trap effects:</color> enemies are rooted for {0} seconds.
+Item/Effects/502306┃Click to install an <color=lightblue>Explosive Trap</color>.\n<color=yellow>Trap effects:</color> explodes in a large range after {1} seconds.
+Item/Effects/502307┃Click to install an <color=lightblue>RDX</color>.\n<color=yellow>Trap effects:</color> explodes in a large range after {1} seconds.
+Item/Effects/502308┃Click to launch <color=lightblue>EMP Drone</color> at the targeted location.\nDisables traps and cameras and grants vision at the targeted location for {2} seconds.
+Item/Effects/502401┃Click to install a <color=lightblue>Mythril String</color> trap.
+Item/Effects/502402┃Click to install a <color=lightblue>Stingburst</color>.\n<color=yellow>Trap effects:</color> enemies have their movement speed reduced by 50%\nfor {0} seconds.
+Item/Effects/502403┃Click to install a <color=lightblue>Fire Trap</color>.\n<color=yellow>Trap effects:</color> explodes in a large range after {1} seconds.
+Item/Effects/502404┃Click to install <color=lightblue>C4</color>.\n<color=yellow>Trap effects:</color> explodes in a large range after {1} seconds.
+Item/Effects/502405┃Click to install a <color=lightblue>Double Guillotine</color>.\n<color=yellow>Trap effects:</color> enemies are rooted for {0} second.
+Item/Effects/502406┃Click to install a <color=lightblue>Claymore</color>.\n<color=yellow>Trap effects:</color> explodes in a narrow area, targets are slowed by 99% for {0} seconds.
+Item/Effects/502407┃Click to install a <color=lightblue>Hidden Maiden</color>.\n<color=yellow>Trap effects:</color> enemies have their movement speed reduced by 40%\nfor {0} seconds.
+Item/Effects/502501┃Click to install a <color=lightblue>Remote Mine</color>.\n<color=yellow>Trap effects:</color> explodes in a large range after {1} seconds.
+Item/Effects/502502┃Click to install a <color=lightblue>Smart Bomb</color>.\n<color=yellow>Trap effects:</color> explodes in a large range after {1} seconds.
+Item/Effects/502310┃Click to install a <color=lightblue>Acupressure Mat</color>.\n<color=yellow>Trap effects:</color> targets are slowed by 50% for {0} seconds.
+Item/Effects/503101┃Click to call a <color=lightblue>Mythic Air Supply Box</color>.\nArrives in {0} seconds.
+Item/Effects/503102┃Click to call a <color=lightblue>Mobile Kiosk</color>.\nArrives in {0} seconds.
+Item/Effects/302101┃Recover SP over 15 seconds.
+Item/Effects/302102┃Recover SP over 15 seconds.
+Item/Effects/302103┃Recover SP over 15 seconds.
+Item/Effects/302104┃Recover SP over 15 seconds.
+Item/Effects/302106┃Recover SP over 15 seconds.
+Item/Effects/302107┃Recover SP over 15 seconds.
+Item/Effects/302108┃Recover SP over 15 seconds.
+Item/Effects/302201┃Recover SP over 15 seconds.
+Item/Effects/302202┃Recover SP over 15 seconds.
+Item/Effects/302203┃Recover SP over 15 seconds.
+Item/Effects/302204┃Recover SP over 15 seconds.
+Item/Effects/302205┃Recover SP over 15 seconds.
+Item/Effects/302206┃Recover SP over 15 seconds.
+Item/Effects/302207┃Recover SP over 15 seconds.
+Item/Effects/302208┃Recover SP over 15 seconds.
+Item/Effects/302209┃Recover SP over 15 seconds.
+Item/Effects/302210┃Recover SP over 15 seconds.
+Item/Effects/302211┃Recover SP over 15 seconds.
+Item/Effects/302213┃Recover SP over 15 seconds.
+Item/Effects/302214┃Recover SP over 15 seconds.
+Item/Effects/302215┃Recover SP over 15 seconds.
+Item/Effects/302216┃Recover SP over 15 seconds.
+Item/Effects/302217┃Recover SP over 15 seconds.
+Item/Effects/302218┃Recover SP over 15 seconds.
+Item/Effects/302215┃Recover SP over 15 seconds.
+Item/Effects/302219┃Recover SP over 15 seconds.
+Item/Effects/302220┃Recover SP over 15 seconds.
+Item/Effects/302221┃Recover SP over 15 seconds.
+Item/Effects/302222┃Recover SP over 15 seconds.
+Item/Effects/302223┃Recover SP over 15 seconds.
+Item/Effects/302301┃Recover SP over 15 seconds.
+Item/Effects/302302┃Recover SP over 15 seconds.
+Item/Effects/302303┃Recover SP over 15 seconds.
+Item/Effects/302304┃Recover SP over 15 seconds.
+Item/Effects/302305┃Recover SP over 15 seconds.
+Item/Effects/302307┃Recover SP over 15 seconds.
+Item/Effects/302308┃Recover SP over 15 seconds.
+Item/Effects/302309┃Recover SP over 15 seconds.
+Item/Effects/302310┃Recover SP over 15 seconds.
+Item/Effects/302311┃Recover SP over 15 seconds.
+Item/Effects/302312┃Permanently gain 2 Adaptability.\nStacks up to 3 times.
+Item/Effects/302313┃Recover SP over 15 seconds.
+Item/Effects/302314┃Recover SP over 15 seconds.
+Item/Effects/302315┃Recover SP over 15 seconds.
+Item/Effects/302316┃Recover SP over 15 seconds.
+Item/Effects/301102┃Recover HP over 15 seconds.
+Item/Effects/301104┃Recover HP over 15 seconds.
+Item/Effects/301105┃Recover HP over 15 seconds.
+Item/Effects/301106┃Recover HP over 15 seconds.
+Item/Effects/301107┃Recover HP over 15 seconds.
+Item/Effects/301109┃Recover HP over 15 seconds.
+Item/Effects/301110┃Recover HP over 15 seconds.
+Item/Effects/301111┃Recover HP over 15 seconds.
+Item/Effects/301112┃Recover HP over 15 seconds.
+Item/Effects/301113┃Recover HP over 15 seconds.
+Item/Effects/301116┃Recover HP over 15 seconds.
+Item/Effects/301119┃Recover HP over 15 seconds.
+Item/Effects/301120┃Recover HP over 15 seconds.
+Item/Effects/301201┃Recover HP over 15 seconds.
+Item/Effects/301204┃Recover HP over 15 seconds.
+Item/Effects/301205┃Recover HP over 15 seconds.
+Item/Effects/301206┃Recover HP over 15 seconds.
+Item/Effects/301207┃Recover HP over 15 seconds.
+Item/Effects/301209┃Recover HP over 15 seconds.
+Item/Effects/301305┃Permanently gain 3 Defense.\nCan stack up to 3 times.
+Item/Effects/301213┃Recover HP over 15 seconds.
+Item/Effects/301216┃Recover HP over 15 seconds.
+Item/Effects/301217┃Recover HP over 15 seconds.
+Item/Effects/301218┃Recover HP over 15 seconds.
+Item/Effects/301215┃Recover HP over 15 seconds.
+Item/Effects/301222┃Recover HP over 15 seconds.
+Item/Effects/301224┃Recover HP over 15 seconds.
+Item/Effects/301225┃Recover HP over 15 seconds.
+Item/Effects/301226┃Recover HP over 15 seconds.
+Item/Effects/301227┃Recover HP over 15 seconds.
+Item/Effects/301228┃Recover HP over 15 seconds.
+Item/Effects/301229┃Recover HP over 15 seconds.
+Item/Effects/301230┃Recover HP over 15 seconds.
+Item/Effects/301231┃Recover HP over 15 seconds.
+Item/Effects/301232┃Recover HP over 15 seconds.
+Item/Effects/301233┃Recover HP over 15 seconds.
+Item/Effects/301234┃Recover HP over 15 seconds.
+Item/Effects/301235┃Recover HP over 15 seconds.
+Item/Effects/301236┃Recover HP over 15 seconds.
+Item/Effects/301237┃Recover HP over 15 seconds.
+Item/Effects/301238┃Recover HP over 15 seconds.
+Item/Effects/301239┃Recover HP and SP over 15 seconds.
+Item/Effects/301240┃Recover HP over 15 seconds.
+Item/Effects/301241┃Recover HP over 15 seconds.
+Item/Effects/301242┃Recover HP over 15 seconds.
+Item/Effects/301243┃Recover HP over 15 seconds.
+Item/Effects/301244┃Recover HP over 15 seconds.
+Item/Effects/301245┃Recover HP over 15 seconds.
+Item/Effects/301301┃Recover HP over 15 seconds.
+Item/Effects/301302┃Recover HP over 15 seconds.
+Item/Effects/301303┃Recover HP over 15 seconds.
+Item/Effects/301304┃Recover HP over 15 seconds.
+Item/Effects/301306┃Recover HP over 15 seconds.
+Item/Effects/301307┃Recover HP over 15 seconds.
+Item/Effects/301308┃Recover HP over 15 seconds.
+Item/Effects/301309┃Recover HP over 15 seconds.
+Item/Effects/301311┃Recover HP over 15 seconds.
+Item/Effects/301312┃Recover HP over 15 seconds.
+Item/Effects/301313┃Recover HP over 15 seconds.
+Item/Effects/301314┃Recover HP over 15 seconds.
+Item/Effects/301315┃Recover HP over 15 seconds.
+Item/Effects/301316┃Recover HP over 15 seconds.
+Item/Effects/301317┃Recover HP over 15 seconds.
+Item/Effects/301315┃Recover HP over 15 seconds.
+Item/Effects/301319┃Recover HP over 15 seconds.
+Item/Effects/301322┃Recover HP over 15 seconds.
+Item/Effects/301323┃Recover HP over 15 seconds.
+Item/Effects/301324┃Recover HP over 15 seconds.
+Item/Effects/301325┃Recover HP over 15 seconds.
+Item/Effects/301326┃Recover HP over 15 seconds.
+Item/Effects/301327┃Recover HP over 15 seconds.
+Item/Effects/301328┃Recover HP over 15 seconds.
+Item/Effects/301329┃Permanently add 30 to Max HP.\nCan stack up to 3 times.
+Item/Effects/301330┃Recover HP over 15 seconds.
+Item/Effects/301401┃Recover HP over 15 seconds.
+Item/Effects/301331┃Recover HP over 15 seconds.
+Item/Effects/301333┃Recover SP over 15 seconds.
+Item/Effects/301334┃Recover HP over 15 seconds.
+Item/Effects/301335┃Recover HP over 15 seconds.
+Item/Effects/301336┃Recover HP over 15 seconds.
+Item/Effects/301337┃Recover HP over 15 seconds.
+Item/Effects/301338┃Recover HP over 15 seconds.
+Item/Effects/301339┃Recover HP over 15 seconds.
+Item/Effects/301340┃Recover HP over 15 seconds.
+Item/Effects/301346┃Recover HP over 15 seconds.
+Item/Effects/301348┃Recover HP over 15 seconds.
+Item/Effects/301403┃Recover HP and SP over 15 seconds.
+Item/Effects/301405┃Recover HP over 15 seconds.
+Item/Effects/301406┃Recover HP over 15 seconds.
+Item/Effects/301407┃Recover HP over 15 seconds.
+Item/Effects/301408┃Recover HP over 15 seconds.
+Item/Effects/301501┃Recover HP over 15 seconds.
+Item/Effects/301502┃Recover HP over 15 seconds.
+Item/Effects/301503┃Recover HP over 15 seconds.
+Item/Effects/303501┃Obtains {0} credit(s).
+Item/Effects/802601┃Gain the following effects for 600 seconds.\n\n- Movement Speed +0.2\n- Omnisyphon +15%

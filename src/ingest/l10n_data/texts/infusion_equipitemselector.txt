@@ -1,0 +1,2 @@
+Infusion/EquipItemSelector/Title/0┃Extra Equipment Draft
+Infusion/EquipItemSelector/Desc/0┃Randomly draft an extra equipment.

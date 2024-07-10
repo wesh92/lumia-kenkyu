@@ -1,0 +1,1 @@
+ToolTipType/CounterAttackDamage┃Counter Damage

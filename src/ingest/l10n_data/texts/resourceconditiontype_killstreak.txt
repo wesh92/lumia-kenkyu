@@ -1,0 +1,1 @@
+ResourceConditionType/KillStreak┃Achieve a {0}-Kill Streak

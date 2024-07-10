@@ -1,0 +1,1 @@
+Ping/KioskResurrectionChatting┃{0}({1}) has requested to revive <color=#FFBB00>{2}({3})</color> at Kiosk.

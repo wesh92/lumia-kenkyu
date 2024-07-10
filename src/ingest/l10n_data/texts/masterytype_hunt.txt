@@ -1,0 +1,2 @@
+MasteryType/Hunt┃Hunt
+MasteryType/Hunt/Stats┃{0} {1} Increase

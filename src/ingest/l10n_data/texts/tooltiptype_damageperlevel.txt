@@ -1,0 +1,1 @@
+ToolTipType/DamagePerLevel┃Damage per level

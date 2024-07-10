@@ -1,0 +1,2 @@
+ItemType/KILLANNOUNCE_ICONPACK/Name┃Kill Announcement Icon
+ItemType/KILLANNOUNCE_ICONPACK/Desc┃Customize kill announcement UI in-game.

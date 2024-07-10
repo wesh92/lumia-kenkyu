@@ -1,0 +1,4 @@
+Announce/2ndSafeArea/Pre&Cancel┃The temporary safe zone has disappeared. The final safe zone will be designated in 30 seconds.
+Announce/2ndSafeArea/Pre┃The final safe zone will be designated near the security console in 30 seconds.
+Announce/2ndSafeArea/Now┃The final safe zone will disappear in 1 minute.
+Announce/2ndSafeArea/End┃The final safe zone has disappeared. There are no more safe zones.

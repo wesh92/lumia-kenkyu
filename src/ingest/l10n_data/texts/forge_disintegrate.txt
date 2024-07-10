@@ -1,0 +1,6 @@
+Forge/Disintegrate/InfoLink┃Disassemble Probability
+Forge/Disintegrate/MaxAmount┃You can add up to 20 items to the list.
+Forge/Disintegrate/NotEnoughMaterial┃You do not have enough A-Coin to disassemble these items.
+Forge/Disintegrate/NotEnoughDisintegrateTicket┃You do not have enough Disassembly Vouchers to disassemble.
+Forge/Disintegrate/IsLocked┃Locked items cannot be disassembled.
+Forge/Disintegrate/CountLimit┃You can only disassemble 50 items at the same time.

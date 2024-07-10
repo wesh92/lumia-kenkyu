@@ -1,0 +1,3 @@
+MasteryType/Whip┃Whip
+MasteryType/Whip/Desc┃Whips have a short attack range, but allow you to pull your foes closer to you with the relatively long ranged weapon skill.
+MasteryType/Whip/Stats┃Equipping Whip increases {0} by {1}\n{2} by {3}\n{4} by {5}

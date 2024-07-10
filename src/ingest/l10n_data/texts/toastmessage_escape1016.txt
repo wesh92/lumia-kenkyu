@@ -1,0 +1,1 @@
+ToastMessage/Escape1016┃You must have a <color=#C4C4C4>Regeneration Cuff</color> to use the terminal!

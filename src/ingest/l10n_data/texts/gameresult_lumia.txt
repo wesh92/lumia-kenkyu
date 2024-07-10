@@ -1,0 +1,4 @@
+GameResult/Lumia/Win┃VICTORY
+GameResult/Lumia/Lose┃TERMINATED
+GameResult/Lumia/EscapeSuccess┃ESCAPED
+GameResult/Lumia/EscapeFail┃ELIMINATED

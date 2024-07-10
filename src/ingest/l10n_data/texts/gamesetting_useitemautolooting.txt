@@ -1,0 +1,1 @@
+GameSetting/UseItemAutoLooting┃Items are automatically looted to your inventory.

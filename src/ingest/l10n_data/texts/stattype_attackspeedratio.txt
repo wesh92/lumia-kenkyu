@@ -1,0 +1,2 @@
+StatType/AttackSpeedRatio/Desc┃Amount of attacks per second.
+StatType/AttackSpeedRatio┃Attack Speed

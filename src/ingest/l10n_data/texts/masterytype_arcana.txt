@@ -1,0 +1,3 @@
+MasteryType/Arcana┃Arcana
+MasteryType/Arcana/Desc┃Arcana are ranged weapons capable of manipulating pure VF energy. Arcana users take down their enemies with endless skillcasting.
+MasteryType/Arcana/Stats┃Equipping Arcana increases {0} by {1}\n{2} by {3}\n{4} by {5}

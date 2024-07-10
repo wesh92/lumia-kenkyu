@@ -1,0 +1,1 @@
+ToolTipType/MaxHpUp┃Max HP Increase Ratio

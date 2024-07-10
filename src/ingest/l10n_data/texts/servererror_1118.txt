@@ -1,0 +1,1 @@
+ServerError/1118┃Nickname already exists.

@@ -1,0 +1,20 @@
+Tutorial/Cutscene/초급1/유키1┃Rio!
+Tutorial/Cutscene/초급1/라우라2┃Oho, was I too rough?
+Tutorial/Cutscene/초급1/재키3┃A bit too late, don't you think? Now you're on your own.
+Tutorial/Cutscene/초급1/라우라4┃Just watching is so boring. At least try to make it fun.
+Tutorial/Cutscene/초급1/재키5┃Not bad, not bad at all. Then take this!
+Tutorial/Cutscene/초급1/재키6┃Guess I overestimated you. I thought you'd last a little longer.
+Tutorial/Cutscene/초급1/재키7┃Don't worry. We'll have plenty of chances to meet again.
+Tutorial/Cutscene/초급1/재키8┃See ya!
+Tutorial/Cutscene/초급2/매그1┃Let's finish this already!
+Tutorial/Cutscene/초급2/매그2┃I told you it's futile!
+Tutorial/Cutscene/초급2/매그3┃Goddamnit... where'd you go?!
+Tutorial/Cutscene/초급2/매그4┃Quit hiding like a damn rat.
+Tutorial/Cutscene/초급2/매그5┃Come out and meet your maker!\nStop acting like a coward and fight til you die!
+Tutorial/Cutscene/초급2/쇼이치6┃See, you should've hid better.
+Tutorial/Cutscene/초급2/혜진7┃What's going on?
+Tutorial/Cutscene/초급2/쇼이치8┃No more emotions.
+Tutorial/Cutscene/초급3/니키1┃Eva!
+Tutorial/Cutscene/초급3/니키2┃No!
+Tutorial/Cutscene/초급3/이바3┃Nicky!!
+Tutorial/Cutscene/초급3/안내방송4┃A new Restricted Area has been designated.

@@ -1,0 +1,1 @@
+ToolTip/ALTGuide┃[Press Alt] and expand the tooltip for more specific information.

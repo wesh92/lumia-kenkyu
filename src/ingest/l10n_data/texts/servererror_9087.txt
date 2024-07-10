@@ -1,0 +1,1 @@
+ServerError/9087┃Cannot purchase this emote

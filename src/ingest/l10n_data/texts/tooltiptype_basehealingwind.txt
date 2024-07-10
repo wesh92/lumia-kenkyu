@@ -1,0 +1,1 @@
+ToolTipType/BaseHealingWind┃Min HP Recovery

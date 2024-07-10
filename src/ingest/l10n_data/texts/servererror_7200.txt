@@ -1,0 +1,1 @@
+ServerError/7200┃Coupon already redeemed.

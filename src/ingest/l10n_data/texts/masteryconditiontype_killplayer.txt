@@ -1,0 +1,1 @@
+MasteryConditionType/KillPlayer┃Kill Player

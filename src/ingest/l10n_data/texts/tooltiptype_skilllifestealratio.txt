@@ -1,0 +1,1 @@
+ToolTipType/SkillLifeStealRatio┃Skill Damage Life Steal (%)

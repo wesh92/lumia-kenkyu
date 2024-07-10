@@ -1,0 +1,1 @@
+GameSetting/ResourceItem┃Displays info for resources such as Stones, Branches, Tree of Life etc.

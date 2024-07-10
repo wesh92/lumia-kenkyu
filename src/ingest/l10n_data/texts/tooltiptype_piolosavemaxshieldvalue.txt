@@ -1,0 +1,1 @@
+ToolTipType/PioloSaveMaxShieldValue┃[Figure Eight] Maximum Shield HP

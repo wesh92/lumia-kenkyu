@@ -1,0 +1,8 @@
+TutorialMessageBox/BasicGuide/Step1/Title┃Item Symbols
+TutorialMessageBox/BasicGuide/Step1/Comment┃\n\nWhen finding materials, just remember two easy things.\n\nThe things we have to find have a <color=yellow>yellow triangle</color> on them,\n\nand the things that we already have a <color=lime>green check mark</color>.
+TutorialMessageBox/BasicGuide/Step2/Title┃Search Box
+TutorialMessageBox/BasicGuide/Step2/Comment┃\n\nTry picking up materials from nearby containers like boxes, vending machines, or cars.\n\nWhen <color=orange>hovering over objects with your cursor</color>, boxes that you can search will be highlighted.
+TutorialMessageBox/BasicGuide/Step3/Title┃Harvesting Materials
+TutorialMessageBox/BasicGuide/Step3/Comment┃\n\nLet's collect some <color=silver>Branches</color>.\n\nYou can collect these from the same places every game, so it'll be easy.\n\nBut! If someone gets to it first, you'll miss out and have to find them somewhere else!
+TutorialMessageBox/BasicGuide/Step4/Title┃Welcome to Lumia Island.
+TutorialMessageBox/BasicGuide/Step4/Comment┃\n\nJackie will teach you the basics of item searching in order to survive on the island.\n\nShe's actually pretty scary, but she knows how to fight, so it'll benefit you to listen well.

@@ -1,0 +1,2 @@
+StatType/MaxHp┃Max HP
+StatType/MaxHp/Desc┃Increases Max HP

@@ -1,0 +1,1 @@
+ServerError/7204┃Same coupon type already redeemed.

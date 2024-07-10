@@ -1,0 +1,28 @@
+GoodsGroup/Name/1401051┃Default
+GoodsGroup/Name/1401021┃Echoes of Survival
+GoodsGroup/Name/1404011┃Esports Caster
+GoodsGroup/Name/1404021┃Rio
+GoodsGroup/Name/1404031┃Felix
+GoodsGroup/Name/1404041┃Adina
+GoodsGroup/Name/1404051┃Luke
+GoodsGroup/Name/1404061┃Barbara
+GoodsGroup/Name/1404071┃Piolo
+GoodsGroup/Name/1404081┃Isaac
+GoodsGroup/Name/1404091┃Li Dailin
+GoodsGroup/Name/1404101┃Debi & Marlene
+GoodsGroup/Name/1404111┃Shoichi
+GoodsGroup/Name/1404121┃Daniel
+GoodsGroup/Name/1404131┃Nicky
+GoodsGroup/Name/1404141┃Irem
+GoodsGroup/Name/1404151┃Camilo
+GoodsGroup/Name/1404161┃Johann
+GoodsGroup/Name/1404171┃Bianca
+GoodsGroup/Name/1406001┃Chun Sia
+GoodsGroup/Name/1406011┃Shin Il
+GoodsGroup/Name/1406021┃Evis & Gold Blin
+GoodsGroup/Name/1406031┃Kim In Yeong & NongRoute
+GoodsGroup/Name/1701001┃Default
+GoodsGroup/Name/1701002┃Eternal World
+GoodsGroup/Name/1703001┃Intro BGM
+GoodsGroup/Name/1704001┃Introducing Emma, The Magnificent!
+GoodsGroup/Name/1799999┃None

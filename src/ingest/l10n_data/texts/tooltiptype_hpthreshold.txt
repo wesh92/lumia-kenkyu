@@ -1,0 +1,1 @@
+ToolTipType/HpThreshold┃HP Consumption Limit

@@ -1,0 +1,3 @@
+CharacterGuide/7┃Hyunwoo is a character with strong defense power. After increasing his defense with Bluff (W), you can reduce your enemy's defense by stunning them with First Attack (E), while gaining defense at the same time. If you succeeded in hitting the target with his ultimate skill, he deals the most damage in a short amount of time.
+CharacterGuide/7/Glove┃<color=orange>Gloves</color> have fast attack speed, which is good when combined with Stomping Foot (Q) and the Uppercut skill, allowing him to attack continuously.
+CharacterGuide/7/Tonfa┃<color=orange>Tonfas</color> are weapons with high defense power. You can block the enemy's main attack by using Bluff (W) and the weapon skill Quick Spin.

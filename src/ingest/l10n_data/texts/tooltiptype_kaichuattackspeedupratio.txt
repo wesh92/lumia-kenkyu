@@ -1,0 +1,1 @@
+ToolTipType/KaichuAttackSpeedUpRatio┃Flow - Attack Speed Increase (%)

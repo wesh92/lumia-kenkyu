@@ -1,0 +1,2 @@
+Item/WeaponType/원거리┃Ranged
+Item/WeaponType/근거리┃Melee

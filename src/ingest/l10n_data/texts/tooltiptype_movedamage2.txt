@@ -1,0 +1,1 @@
+ToolTipType/MoveDamage2┃Movement Damage

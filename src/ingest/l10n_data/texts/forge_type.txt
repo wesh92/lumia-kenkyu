@@ -1,0 +1,6 @@
+Forge/Type/All┃All
+Forge/Type/Blueprint┃Designs
+Forge/Type/Unowned┃Unowned
+Forge/Type/Forgable┃To be crafted
+Forge/Type/Complete┃Completed Items
+Forge/Type┃Type

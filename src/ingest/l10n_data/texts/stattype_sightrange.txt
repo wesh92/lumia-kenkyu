@@ -1,0 +1,2 @@
+StatType/SightRange┃Vision Range
+StatType/SightRange/Desc┃Range that you can see. Decreases at night.

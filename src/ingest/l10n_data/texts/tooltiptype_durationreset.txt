@@ -1,0 +1,1 @@
+ToolTipType/DurationReset┃Duration Reset Effects

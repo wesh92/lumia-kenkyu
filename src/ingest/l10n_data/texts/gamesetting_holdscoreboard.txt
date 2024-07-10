@@ -1,0 +1,1 @@
+GameSetting/HoldScoreBoard┃Display scoreboard and match status only while holding the key.

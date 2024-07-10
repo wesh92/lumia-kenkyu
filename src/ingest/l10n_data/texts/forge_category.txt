@@ -1,0 +1,9 @@
+Forge/Category/Recent┃Most Recent
+Forge/Category/All┃All
+Forge/Category/CharacterSkin┃Skins
+Forge/Category/Character┃Characters
+Forge/Category/Emotion┃Emotes
+Forge/Category/Emblem┃Emblems
+Forge/Category/Goods┃Other
+Forge/Category/Token┃Tokens
+Forge/Category┃Category

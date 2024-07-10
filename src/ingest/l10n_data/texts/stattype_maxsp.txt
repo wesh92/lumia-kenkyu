@@ -1,0 +1,2 @@
+StatType/MaxSp┃Max SP
+StatType/MaxSp/Desc┃Increases Max SP

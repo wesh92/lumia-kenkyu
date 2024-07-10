@@ -1,0 +1,1 @@
+ItemTooltip/UniqueConsumeEffect┃Effect When Consumed

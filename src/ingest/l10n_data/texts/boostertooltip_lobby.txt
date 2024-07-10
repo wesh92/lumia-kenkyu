@@ -1,0 +1,5 @@
+BoosterTooltip/Lobby/Booster/Acoin┃2x A-Coin Boost
+BoosterTooltip/Lobby/Booster/XP┃2x XP Boost
+BoosterTooltip/Lobby/Booster/ERPoint┃2x ER Point Boost
+BoosterTooltip/Lobby/Left┃{0} hour(s) {1} minute(s) left
+BoosterTooltip/Lobby/InActive┃Inactive

@@ -1,0 +1,8 @@
+ShopMenu/Etc/RANDOM_BOX┃Box
+ShopMenu/Etc/EMOTION┃Emote
+ShopMenu/Etc/EP┃EP Token
+ShopMenu/Etc/Account┃Account
+ShopMenu/Etc/RANDOM_BOX┃Box
+ShopMenu/Etc/EMOTION┃Emote
+ShopMenu/Etc/EP┃EP Token
+ShopMenu/Etc/Account┃Account

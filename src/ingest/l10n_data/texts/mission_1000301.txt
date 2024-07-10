@@ -1,0 +1,2 @@
+Mission/1000301/2┃Obtain <color=#D05EFF>Tree of Life</color>
+Mission/1000301/3┃Play a Normal or Ranked Duo match.

@@ -1,0 +1,3 @@
+subMenu/Mail/Notice┃Notice
+subMenu/Mail/Mailbox┃Mailbox
+subMenu/Mail/SeasonPack┃Season Pack

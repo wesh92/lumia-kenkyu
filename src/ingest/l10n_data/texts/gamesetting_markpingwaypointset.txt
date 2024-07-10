@@ -1,0 +1,1 @@
+GameSetting/MarkPingWayPointSet┃Mark/Unmark your designated targeted route.

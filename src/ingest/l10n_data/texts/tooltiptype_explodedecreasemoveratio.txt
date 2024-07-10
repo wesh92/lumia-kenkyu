@@ -1,0 +1,1 @@
+ToolTipType/ExplodeDecreaseMoveRatio┃Slow from Explosion (%)

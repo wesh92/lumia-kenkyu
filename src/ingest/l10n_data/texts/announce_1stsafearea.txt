@@ -1,0 +1,2 @@
+Announce/1stSafeArea/Pre┃The temporary safe zone will activate in 1 minute.
+Announce/1stSafeArea/Now┃The temporary safe zone has been activated. Remove your competitors.

@@ -1,0 +1,3 @@
+Loading/MatchingTeamMode/Squad┃Lumia Island
+Loading/MatchingTeamMode/Cobalt┃Cobalt Protocol
+Loading/MatchingTeamMode/Solo┃Lumia Island

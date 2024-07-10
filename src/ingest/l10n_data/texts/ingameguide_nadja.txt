@@ -1,0 +1,72 @@
+InGameGuide/Nadja/Group/Name/10010000┃Search for Materials
+InGameGuide/Nadja/Group/Desc/10010000┃Find the materials you need in <color=yellow>{0}</color>.
+InGameGuide/Nadja/Group/Name/10011000┃Move Areas
+InGameGuide/Nadja/Group/Desc/10011000┃Your next targeted area is <color=yellow>{0}</color>.
+InGameGuide/Nadja/Group/Name/10020000┃Campfires
+InGameGuide/Nadja/Group/Desc/10020000┃Head to a Campfire and make some food.
+InGameGuide/Nadja/Group/Name/10022000┃Campfires
+InGameGuide/Nadja/Group/Desc/10022000┃Head to a Campfire and make some food.\nThe closest Campfire is here.
+InGameGuide/Nadja/Group/Name/10023000┃Campfires
+InGameGuide/Nadja/Group/Desc/10023000┃Head to a Campfire and make some food.\nThe closest Campfire is in <color=yellow>{0}</color>.
+InGameGuide/Nadja/Group/Name/10024000┃Campfires - Hunt Wild Animals
+InGameGuide/Nadja/Group/Desc/10024000┃Slay Wild Animals to get meat and bring it to a Campfire.
+InGameGuide/Nadja/Group/Name/10030000┃Find Your Allies
+InGameGuide/Nadja/Group/Desc/10030000┃Now that you have everything you need, let's meet up with your allies.
+InGameGuide/Nadja/Group/Name/10040000┃Call a Remote Drone
+InGameGuide/Nadja/Group/Desc/10040000┃You don't have all the target materials yet.\nIf you have trouble finding them, how about using a Remote Drone?
+InGameGuide/Nadja/Group/Name/10041000┃Search for Items - Move Areas
+InGameGuide/Nadja/Group/Desc/10041000┃The remaining materials are in <color=yellow>{0}</color>.
+InGameGuide/Nadja/Group/Name/10042000┃Search Area
+InGameGuide/Nadja/Group/Desc/10042000┃Find everything you still need in the current area.
+InGameGuide/Nadja/Group/Name/10060000┃Collect / Hunt Materials Required
+InGameGuide/Nadja/Group/Desc/10060000┃You can craft items with the correct materials collection.
+InGameGuide/Nadja/Group/Name/10070000┃Auto-Revival
+InGameGuide/Nadja/Group/Desc/10070000┃You can select where you want to revive after the revival waiting time is over.
+InGameGuide/Nadja/Group/Name/10080000┃Alpha is Coming
+InGameGuide/Nadja/Group/Desc/10080000┃Alpha will soon spawn in <color=yellow>{0}</color>.
+InGameGuide/Nadja/Group/Name/10083000┃Alpha Has Arrived
+InGameGuide/Nadja/Group/Desc/10083000┃Alpha has spawned in <color=yellow>{0}</color>.\nThis is the reward you can get for eliminating Alpha.
+InGameGuide/Nadja/Group/Name/10090000┃Meteorite Will Spawn
+InGameGuide/Nadja/Group/Desc/10090000┃A Meteorite will soon spawn.\nThis special material will allow you to craft strong equipment.
+InGameGuide/Nadja/Group/Name/10093000┃Meteorite Has Spawned
+InGameGuide/Nadja/Group/Desc/10093000┃A Meteorite has spawned in <color=yellow>{0}</color>.\nGo get it.
+InGameGuide/Nadja/Group/Name/10100000┃Tree of Life Will Spawn
+InGameGuide/Nadja/Group/Desc/10100000┃Tree of Life will soon spawn.\nYou can craft strong equipment with this special and powerful material.
+InGameGuide/Nadja/Group/Name/10103000┃Tree of Life Has Spawned
+InGameGuide/Nadja/Group/Desc/10103000┃Tree of Life has spawned in  <color=yellow>{0}</color>.\nLet's go get it.
+InGameGuide/Nadja/Group/Name/10110000┃Crafting High Rarity Equipment
+InGameGuide/Nadja/Group/Desc/10110000┃You've got some special materials.\nHow about making something with them?\nLeft-click to add target items.
+InGameGuide/Nadja/Group/Name/10120000┃Battle Zones
+InGameGuide/Nadja/Group/Desc/10120000┃A Battle Zone will soon be designated in <color=yellow>{0}</color>.\nYou can get a reward for being the last survivor in the Battle Zone.
+InGameGuide/Nadja/Group/Name/10130000┃Omega is Coming
+InGameGuide/Nadja/Group/Desc/10130000┃Omega will soon spawn in <color=yellow>{0}</color>.
+InGameGuide/Nadja/Group/Name/10133000┃Omega Has Arrived
+InGameGuide/Nadja/Group/Desc/10133000┃Omega has spawned in <color=yellow>{0}</color>.\nThis is the reward you can get for eliminating Omega.
+InGameGuide/Nadja/Group/Name/10140000┃Wickeline is Coming
+InGameGuide/Nadja/Group/Desc/10140000┃Wickeline will soon spawn.\nWatch out for her deadly poison.
+InGameGuide/Nadja/Group/Name/10143000┃Wickeline Has Arrived
+InGameGuide/Nadja/Group/Desc/10143000┃Wickeline has spawned in <color=yellow>{0}</color>.\nThis is the reward you can get for eliminating Wickeline.
+InGameGuide/Nadja/Group/Name/10150000┃Escape
+InGameGuide/Nadja/Group/Desc/10150000┃You'll need a <color=yellow>Rootkit</color> to escape the island.\nPurchase a Rootkit at a Kiosk and escape through the Hyperloop.
+InGameGuide/Nadja/Group/Name/10160000┃Kiosks
+InGameGuide/Nadja/Group/Desc/10160000┃You can purchase a variety of items from the Kiosks using Credits.
+InGameGuide/Nadja/Group/Name/10170000┃Tactical Skill Enhancement
+InGameGuide/Nadja/Group/Desc/10170000┃Upgrade your tactical skills to the next level on the VPad({0}).
+InGameGuide/Nadja/Group/Name/10180000┃Paid Ally Revival
+InGameGuide/Nadja/Group/Desc/10180000┃You can revive fallen allies at a Kiosk.\nOpen the map({0}) to check where Kiosks are.
+InGameGuide/Nadja/Group/Name/10190000┃Hunt Wild Animals
+InGameGuide/Nadja/Group/Desc/10190000┃Try hunting Wild Animals in different areas of the map.\nBy slaying Wild Animals, you'll gain <color=yellow>Weapon Mastery</color> and <color=yellow>Credits</color>.
+InGameGuide/Nadja/Group/Name/10200000┃The Last Two Surviving Teams
+InGameGuide/Nadja/Group/Desc/10200000┃Only two teams remain.\nCheck enemy team information on the Scoreboard({0}).
+InGameGuide/Nadja/Group/Name/10210000┃Paid Revival Targets
+InGameGuide/Nadja/Group/Desc/10210000┃Your allies can use credits at a Kiosk to bring you back to the experiment.
+InGameGuide/Nadja/Group/Name/10230000┃Target Item Changes
+InGameGuide/Nadja/Group/Desc/10230000┃Okay, here's your next target items.\nLeft-click on the target item to see the materials you need.
+InGameGuide/Nadja/Group/Name/10240000┃Downed Skills
+InGameGuide/Nadja/Group/Desc/10240000┃Use your Downed Skills to overcome the current situation.
+InGameGuide/Nadja/Group/Name/10121000┃Battle Zone Location
+InGameGuide/Nadja/Group/Desc/10121000┃A Battle Zone will soon be designated.\nThe more enemies you eliminate, the better rewards you'll get if you win.
+InGameGuide/Nadja/Group/Name/10122000┃Battle Zone Activation
+InGameGuide/Nadja/Group/Desc/10122000┃A Battle Zone has been activated.\nNo one can leave until there's a winner.
+InGameGuide/Nadja/Group/Name/10123000┃Battle Zone Rewards
+InGameGuide/Nadja/Group/Desc/10123000┃I see you're the winner of the Battle Zone.\nHere's your reward.

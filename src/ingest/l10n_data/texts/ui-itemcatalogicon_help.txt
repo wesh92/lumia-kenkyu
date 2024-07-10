@@ -1,0 +1,4 @@
+UI-ItemCatalogIcon/Help/Kiosk┃You can purchase special materials with Credits and revive teammates starting on Day 3.
+UI-ItemCatalogIcon/Help/Hyperloop┃You can travel to any part of Lumia Island, and tap a teammate's portrait to jump directly to them.
+UI-ItemCatalogIcon/Help/CampFire┃You can upgrade Common food ingredients to higher rarity food by cooking them over a Campfire.
+UI-ItemCatalogIcon/Help/???┃You can purchase a Rootkit at the Kiosk and use it to get to the Escape Area.

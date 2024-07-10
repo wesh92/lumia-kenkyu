@@ -1,0 +1,7 @@
+Chat/Whisper/Send┃<color=#de59d0>[To] {0}</color>: {1}
+Chat/Whisper/Receive┃<color=#de59d0>{0}</color>: {1}
+Chat/Whisper/Offline┃The friend that you're trying to message is offline.
+Chat/Whisper/NotFriend┃You cannot message players who are not your friends.
+Chat/Whisper/NoTarget┃Enter recipient nickname after command.
+Chat/Whisper/NothingToSend┃Enter message after message nickname.
+Chat/Whisper/NotConnectedToServer┃Disconnected. Unable to send message.

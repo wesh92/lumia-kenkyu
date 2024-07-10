@@ -1,0 +1,1 @@
+StreamingModeSetting/DisableChattingService┃Disable chat for lobby. (Whispers and Team Chats)

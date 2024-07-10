@@ -1,0 +1,25 @@
+Skill/LobbyName/1066100┃Relic Quest
+Skill/LobbyName/1066200┃Shamash's Papyrus / Shamash's Code
+Skill/LobbyName/1066300┃Babylon's Cube / Babylon's Dice
+Skill/LobbyName/1066400┃Nimrod's Gate / Nimrod's Tombstone
+Skill/LobbyName/1066500┃Unleashed Power
+Skill/LobbyName/1001100┃Bloodfest
+Skill/LobbyName/1001200┃Hack & Slash
+Skill/LobbyName/1001300┃Adrenaline Burst
+Skill/LobbyName/1001400┃Leaping Strike
+Skill/LobbyName/1001500┃Chainsaw Murderer
+Skill/LobbyName/1002100┃Aya's Justice
+Skill/LobbyName/1002200┃Double Shot
+Skill/LobbyName/1002300┃Steady Shot
+Skill/LobbyName/1002400┃Moving Turn
+Skill/LobbyName/1002500┃Blank Cartridge
+Skill/LobbyName/1004100┃Tough Body
+Skill/LobbyName/1004200┃Broken Bullet
+Skill/LobbyName/1004300┃17 vs 1
+Skill/LobbyName/1004400┃Heavy Strike
+Skill/LobbyName/1004500┃Bike From Hell
+Skill/LobbyName/1007100┃Dogfight
+Skill/LobbyName/1007200┃Stomping Foot
+Skill/LobbyName/1007300┃Bluff
+Skill/LobbyName/1007400┃First Attack
+Skill/LobbyName/1007500┃Haymaker

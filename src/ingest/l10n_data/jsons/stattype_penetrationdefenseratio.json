@@ -1,0 +1,4 @@
+{
+    "PenetrationDefenseRatio": "Armor penetration",
+    "Desc": "Damage dealt to a target ignores a percent of their Defense."
+}

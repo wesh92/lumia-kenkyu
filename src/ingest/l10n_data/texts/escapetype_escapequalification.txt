@@ -1,0 +1,1 @@
+EscapeType/EscapeQualification┃You need a <color=#D05EFF>Rootkit</color> to hyperloop to the Abandoned Dock.\nMoving to the Abandoned Dock requires an escape vote in favor from your allies. If the decision is made to the contrary, a second vote is possible by clicking after {0} seconds.

@@ -1,0 +1,300 @@
+Product/Name/Aya_ComboPack_01┃Aya Skin & Emote Bundle
+Product/Name/Hyunwoo_ComboPack_01┃Hyunwoo Skin & Emote Bundle
+Product/Name/Adriana_ComboPack_01┃Adriana Skin & Emote Bundle
+Product/Name/Luke_ComboPack_01┃Luke Skin & Emote Bundle
+Product/Name/LIDailin_NewYear2022_ComboPack_01┃Dragon Dance Li Dailin Bundle
+Product/Name/Sua_NewYear2022_ComboPack_01┃Wistful Heritage Sua Bundle
+Product/Name/Shoichi_NewYear2022_ComboPack_01┃Hitman Shoichi Bundle
+Product/Name/Adela_NewYear2022_ComboPack_01┃White Queen Adela Bundle
+Product/Name/Character_Bundle_Pack_01┃Character Expansion Pack
+Product/Name/Skin_Bundle_Pack_01┃Skin Expansion Pack
+Product/Name/Character_Skin_Bundle_Pack_01┃Character X Skin Pack
+Product/Name/Silvia_4Emote_Pack_01┃Silvia Emote Bundle
+Product/Name/Cathy_4Emote_Pack_01┃Cathy Emote Bundle
+Product/Name/Nicky_4Emote_Pack_01┃Nicky Emote Bundle
+Product/Name/Eleven_4Emote_Pack_01┃Eleven Emote Bundle
+Product/Name/Rio_Magical_ComboPack_01┃Magical Girl Rio Limited Bundle
+Product/Name/Adela_4Emote_Pack_01┃Adela Emote Bundle
+Product/Name/Camilo_4Emote_Pack_01┃Camilo Emote Bundle
+Product/Name/Bernice_4Emote_Pack_01┃Bernice Emote Bundle
+Product/Name/Hart_Summer_Bundle_2022_Pack_01┃Summer Sale - Hart Bundle
+Product/Name/Bianca_Summer_Bundle_2022_Pack_01┃Summer Sale - Bianca Bundle
+Product/Name/Adina_Summer_Bundle_2022_Pack_01┃Summer Sale - Adina Bundle
+Product/Name/Elena_Summer_Bundle_2022_Pack_01┃Summer Sale - Elena Bundle
+Product/Name/Jenny_4Emote_Pack_01┃Jenny Emote Bundle
+Product/Name/Chloe_4Emote_Pack_01┃Chloe Emote Bundle
+Product/Name/Tia_4Emote_Pack_01┃Tia Emote Bundle
+Product/Name/Sua_4Emote_Pack_01┃Sua Emote Bundle
+Product/Name/Bianca_4Emote_Pack_01┃Bianca 4 Emote Pack
+Product/Name/Adina_4Emote_Pack_01┃Adina 4 Emote Pack
+Product/Name/Elena_4Emote_Pack_01┃Elena 4 Emote Pack
+Product/Name/Markus_4Emote_Pack_01┃Markus 4 Emote Pack
+Product/Name/Halloween2022_Skin_RandomBox_01┃Mysterious Skin Data
+Product/Name/Estelle_4Emote_Pack_01┃Estelle 4 Emote Pack
+Product/Name/Mai_4Emote_Pack_01┃Mai 4 Emote Pack
+Product/Name/BlackFriday2022_Skin_RandomBox_01┃Mysterious Data
+Product/Name/Aiden_4Emote_Pack_01┃Aiden 4 Emote Pack
+Product/Name/Eva_4Emote_Pack_01┃Eva 4 Emote Pack
+Product/Name/Celine_4Emote_Pack_01┃Celine 4 Emote Pack
+Product/Name/Jan_4Emote_Pack_01┃Jan 4 Emote Pack
+Product/Name/Rio_4Emote_Pack_01┃Rio 4 Emote Pack
+Product/Name/William_4Emote_Pack_01┃William 4 Emote Pack
+Product/Name/Laura_4Emote_Pack_01┃Laura 4 Emote Pack
+Product/Name/Zahir_4Emote_Pack_01┃Zahir 4 Emote Pack
+Product/Name/Lenox_4Emote_Pack_01┃Lenox 4 Emote Pack
+Product/Name/Nathapon_4Emote_Pack_01┃Nathapon 4 Emote Pack
+Product/Name/Hyunwoo_Emblem_Pack_01┃Hyunwoo Special Bundle
+Product/Name/LiDailin_Emblem_Pack_01┃Li Dailin Special Bundle
+Product/Name/Jackie_Emblem_Pack_01┃Jackie Special Bundle
+Product/Name/Rio_Emblem_Pack_01┃Rio Special Bundle
+Product/Name/Aya_Emblem_Pack_01┃Aya Special Bundle
+Product/Name/Fiora_Emblem_Pack_01┃Fiora Special Bundle
+Product/Name/Magnus_Emblem_Pack_01┃Magnus Special Bundle
+Product/Name/Xiukai_Emblem_Pack_01┃Xiukai Special Bundle
+Product/Name/RichZahir_Pack_01┃Zahirich Bundle
+Product/Name/Sissela_Emblem_Pack_01┃Sissela Special Bundle
+Product/Name/Silvia_Emblem_Pack_01┃Silvia Special Bundle
+Product/Name/Rozzi_Emblem_Pack_01┃Rozzi Special Bundle
+Product/Name/Isol_Emblem_Pack_01┃Isol Special Bundle
+Product/Name/Hart_Emblem_Pack_01┃Hart Special Bundle
+Product/Name/Alex_Emblem_Pack_01┃Alex Special Bundle
+Product/Name/Emma_Emblem_Pack_01┃Emma Special Bundle
+Product/Name/Luke_Emblem_Pack_01┃Luke Special Bundle
+Product/Name/Nadine_Emblem_Pack_01┃Nadine Special Bundle
+Product/Name/Lenox_Emblem_Pack_01┃Lenox Special Bundle
+Product/Name/Shoichi_Emblem_Pack_01┃Shoichi Special Bundle
+Product/Name/Bernice_Emblem_Pack_01┃Bernice Special Bundle
+Product/Name/Eleven_Emblem_Pack_01┃Eleven Special Bundle
+Product/Name/William_Emblem_Pack_01┃William Special Bundle
+Product/Name/Chloe_Emblem_Pack_01┃Chloe Special Bundle
+Product/Name/Celine_Emblem_Pack_01┃Celine Special Bundle
+Product/Name/SkinDataChip_RandomBox_01┃Skin Data Chip
+Product/Name/UR_Grade_Skin_Voucher_01┃Uncommon/Rare Skin Vouchers
+Product/Name/UR_Grade_Skin_Voucher_02┃Uncommon/Rare Skin Vouchers
+Product/Name/VampireShoichi_CollectPack_01┃Scarlet Vampire Shoichi Collection Bundle
+Product/Name/GhostHunterYuki_CollectPack_01┃Spirit Hunter Yuki Collection Bundle
+Product/Name/SparklingTwinsDebiMarlene_Pack_01┃Cotton Candy Twins Collection Bundle
+Product/Name/2024_Festival_Box_02┃Emma's Bread Basket
+Product/Name/2024_Festival_Box_03┃Wilson Bakery's Bag
+Product/Name/LOOTBOX_BASIC_SINGLE_01┃Research Center Data Box
+Product/Name/LOOTBOX_SKIN_SINGLE_01┃Skin Data Box
+Product/Name/RANDOM_KEY_SINGLE_01┃Data Key
+Product/Name/LOOTBOX_BASICxKEY_SET_01┃Research Center Data Box
+Product/Name/LOOTBOX_BASICxKEY_SET_05┃5 Research Center Data Boxes
+Product/Name/LOOTBOX_BASICxKEY_SET_10┃11 Research Center Data Boxes
+Product/Name/LOOTBOX_SKINxKEY_SET_01┃Skin Data Set
+Product/Name/LOOTBOX_SKINxKEY_SET_05┃5 Skin Data Sets
+Product/Name/LOOTBOX_SKINxKEY_SET_10┃11 Skin Data Sets
+Product/Name/LOOTBOX_SKINxKEY_SET_10_S4_BONUS┃11 Skin Data Sets
+Product/Name/LOOTBOX_SKIN_05┃5 Skin Data Boxes
+Product/Name/LOOTBOX_SKIN_10┃11 Skin Data Boxes
+Product/Name/MONTHLY_PURCHASE_SET_01┃Monthly Skin Data Bundle
+Product/Name/MONTHLY_PURCHASE_SET_02┃Monthly Data Key Bundle
+Product/Name/ThanksGiving_Special_2023_Pack_01┃Mid-Autumn Special Box Bundle
+Product/Name/ThanksGiving_Special_2023_Pack_02┃Epic Design Box Bundle
+Product/Name/ThanksGiving_Special_2023_Pack_03┃Beachside & Ghostly Box Bundle
+Product/Name/BlackFriday2023_ComboPack_01┃Black Friday Bundle
+Product/Name/PixelArtTia_CollectPack_01┃Pixel Art Tia Collection Bundle
+Product/Name/Xmas2023Pack_SINGLE_01┃Holiday Data Box
+Product/Name/Xmas2023Pack_SET_01┃Holiday Data Set
+Product/Name/Xmas2023Pack_SET_05┃5 Holiday Data Sets
+Product/Name/Xmas2023Pack_SET_10┃11 Holiday Data Sets
+Product/Name/Goodbye2023_Pack_01┃Last Bundle Sale 2023 #1
+Product/Name/Goodbye2023_Pack_02┃Last Bundle Sale 2023 #2
+Product/Name/Goodbye2023_Pack_03┃Last Bundle Sale 2023 #3
+Product/Name/Goodbye2023_Pack_04┃Last Bundle Sale 2023 #4
+Product/Name/NewYear2024_Seq_Pack_01┃New Year's Bundle 2024 #1
+Product/Name/NewYear2024_Seq_Pack_02┃New Year's Bundle 2024 #2
+Product/Name/NewYear2024_Seq_Pack_03┃New Year's Bundle 2024 #3
+Product/Name/NewYear2024_A-Coin_Pack_01┃A-Coin Bundle 2024
+Product/Name/NewYearLuckyBox2024_Pack_01┃Lucky Pouch
+Product/Name/MarchingBandLeni_Pack_01┃Marching Band Leni Bundle
+Product/Name/LunarNewYear2024_Pack_01┃Lunar New Year Special Bundle
+Product/Name/LunarNewYear2024_Pack_02┃Lunar New Year Data Box Bundle
+Product/Name/TEST_SEQ_PRODUCTS┃시퀀스 패키지
+Product/Name/TEST_SEQ_PRODUCTS_01┃연구소 데이터 세트 (5개)
+Product/Name/TEST_SEQ_PRODUCTS_02┃연구소 데이터 세트 (3개)
+Product/Name/TEST_SEQ_PRODUCTS_03┃멧현우 스킨 세트
+Product/Name/GoldLuckyBox2024_Pack_01┃Golden Lucky Pouch
+Product/Name/Blooming_Pack_01┃White Flower Box
+Product/Name/Blooming_A-Coin_Pack_01┃Green Flower Box
+Product/Name/LuckyBox2024_Seq_Pack_01┃Lucky Clover #1
+Product/Name/LuckyBox2024_Seq_Pack_02┃Lucky Clover #2
+Product/Name/LuckyBox2024_Seq_Pack_03┃Lucky Clover #3
+Product/Name/LuckyBox2024_Seq_Pack_04┃Lucky Clover #4
+Product/Name/LuckyBox2024_Seq_Pack_05┃Lucky Clover #5
+Product/Name/LuckyBox2024_Seq_Pack_06┃Lucky Clover #6
+Product/Name/LuckyBox2024_Seq_Pack_07┃Lucky Clover #7
+Product/Name/LuckyBox2024_Seq_Pack_08┃Lucky Clover #8
+Product/Name/HappinessBox2024_Seq_Pack_01┃Joy Bundle #1
+Product/Name/HappinessBox2024_Seq_Pack_02┃Joy Bundle #2
+Product/Name/HappinessBox2024_Seq_Pack_03┃Joy Bundle #3
+Product/Name/2024_Festival_Seq_Pack_01┃Shoichi's Donut Box Bundle
+Product/Name/2024_Festival_Seq_Pack_02┃Golden Cloche Bundle
+Product/Name/2024_Festival_Seq_Pack_03┃Epic Skin Design Selection Voucher Bundle
+Product/Name/2024_Summer_Special_01┃Summer Special Bundle
+Product/Name/2024_Summer_Special_02┃Summer Skin Data Box Bundle
+Product/Name/Starter_Support_Pack_01┃Beginner's Support Bundle
+Product/Name/Starter_Support_Pack_01_KAKAO┃Beginner's Support Bundle
+Product/Name/Popular_Emotion_Pack_01┃By Popular Demand Emote Bundle
+Product/Name/2024_DebiMarlene_Card_Pack┃Twins Deck Bundle
+Product/Name/2024_DebiMarlene_Card_Pack_01┃Twins Deck Bundle Ⅰ
+Product/Name/2024_DebiMarlene_Card_Pack_02┃Twins Deck Bundle Ⅱ
+Product/Name/2024_DebiMarlene_Card_Pack_03┃Twins Deck Bundle Ⅲ
+Product/Name/2024_DebiMarlene_Card_Pack_04┃Twins Deck Bundle Ⅳ
+Product/Name/2024_DebiMarlene_Card_Pack_05┃Twins Deck Bundle Ⅴ
+Product/Name/2024_DebiMarlene_Card_Pack_06┃Twins Deck Bundle Ⅵ
+Product/Name/2024_DebiMarlene_Card_Pack_07┃Twins Deck Bundle Ⅶ
+Product/Name/2024_DebiMarlene_Card_Pack_08┃Twins Deck Bundle Ⅷ
+Product/Name/2024_DebiMarlene_Card_Pack_09┃Twins Deck Bundle Ⅸ
+Product/Name/2024_DebiMarlene_Card_Box_01┃Debi & Marlene Card Box
+Product/Name/2024_DebiMarlene_Card_Box_02┃Debi & Marlene Card Box
+Product/Name/Kiosk_Emotion_Pack_01┃Kiosk Emotes Bundle
+Product/Name/Tactic_Emotion_Pack_01┃Tactical Emotes Bundle
+Product/Name/SEASON_PASS_S5┃Season 5 Pack
+Product/Name/SEASON_PASS_S6┃Season 6 Pack
+Product/Name/SEASON_PASS_S7┃Season 7 Pack
+Product/Name/SEASON_PASS_S8┃Season 8 Pack
+Product/Name/SEASON_PASS_S10┃1.0 PACK : VACANCE
+Product/Name/SEASON_PASS_S11┃Season Pack: Battle Maids
+Product/Name/SEASON_PASS_S12┃Season Pack: Change
+Product/Name/SEASON_PASS_S13┃Season Pack: Sunset
+Product/Name/ACCOUNT_A-Coin_10000┃A-Coin x 10000
+Product/Name/ACCOUNT_A-Coin_5000┃A-Coin x 5000
+Product/Name/ACCOUNT_XP_boost_1┃XP Boost (1 Day)
+Product/Name/ACCOUNT_XP_boost_3┃XP Boost (3 Days)
+Product/Name/ACCOUNT_XP_boost_7┃XP Boost (7 Days)
+Product/Name/ACCOUNT_XP_boost_15┃XP Boost (15 Days)
+Product/Name/EP_TOKEN_1000┃1000 EP Tokens
+Product/Name/EP_TOKEN_200┃200 EP Tokens
+Product/Name/EP_TOKEN_RANDOM_01┃Random EP Token Box
+Product/Name/EP_EMBLEM_MARK_EVENT6┃Papa Bear
+Product/Name/EP_EMBLEM_MARK_EVENT7┃Lil' Chicken
+Product/Name/EP_EMBLEM_MARK_EVENT12┃Happy Panda
+Product/Name/EP_EMBLEM_MARK_EVENT13┃Dumplings!
+Product/Name/EP_EMBLEM_MARK_EVENT40┃Cold Case
+Product/Name/EP_EMBLEM_MARK_EVENT41┃Snow Blossom Tiara
+Product/Name/EP_EMBLEM_MARK_EVENT42┃Frosty the Snow Amp
+Product/Name/EP_Event_TriumphIcecream┃Ice Cream of Triumph
+Product/Name/EP_Event_CryingWatermelon┃Cryin' Watermelon
+Product/Name/EP_Emma_LOBBY_SCREEN_2702001┃Emma's Magic Show
+Product/Name/EP_EMBLEM_MARK_EVENT21┃Diamond Studded
+Product/Name/EP_EMBLEM_MARK_EVENT22┃Big Boss
+Product/Name/EP_EMBLEM_MARK_EVENT23┃High School Heavyweight
+Product/Name/EP_EMBLEM_MARK_EVENT24┃Arrows of the Huntress
+Product/Name/EP_EMBLEM_MARK_EVENT25┃Like an Eagle
+Product/Name/EP_EMBLEM_MARK_EVENT26┃My Whole Hart
+Product/Name/EP_Event_Neon_3027┃Neon Suspicious
+Product/Name/EP_Event_Neon_3028┃Neon Kitty
+Product/Name/EP_Event_Neon_3029┃Neon Cool
+Product/Name/EP_SPRAY_TastyCarpBread┃Tasty Carp Bread
+Product/Name/EP_SPRAY_YuleLog┃Yule Log
+Product/Name/EP_SPRAY_WinnerWinner┃Winner Winner
+Product/Name/EP_EMBLEM_MARK_EVENT_103063┃Cool Cocktail
+Product/Name/EP_EMBLEM_MARK_EVENT_103064┃Lotus Wilson
+Product/Name/EP_EMBLEM_MARK_EVENT_103065┃Lumialand Felix Flower
+Product/Name/EP_SPRAY_CobaltOpenEvent01┃Lotus Wilson
+Product/Name/EP_SPRAY_CobaltOpenEvent02┃Lumialand Felix Flower
+Product/Name/EP_SPRAY_WilsonCon01┃Big Snacc Wilson
+Product/Name/EP_SPRAY_FlamingoWilson01┃Floaty Wilson
+Product/Name/EP_SPRAY_HulaWilson01┃Tropical Party Wilson
+Product/Name/EP_Emotion_JeeNyBurger_Magnus01┃JeeNy's Taunty Magnus
+Product/Name/EP_Emotion_JeeNyBurger_Magnus02┃JeeNy's Approving Magnus
+Product/Name/EP_Emotion_JeeNyBurger_Magnus03┃JeeNy's Madnus
+Product/Name/EP_Emotion_JeeNyBurger_Magnus04┃JeeNy's Sadnus
+Product/Name/EP_S10_RareDataFragments_01┃Rare Data Fragments
+Product/Name/EP_S10_DataFragments_01┃10 Data Fragments
+Product/Name/EP_S10_Vacance Token┃10 Vacance Tokens
+Product/Name/EP_S11_BatlleMaids Token┃10 Battle Maids Tokens
+Product/Name/EP_S12_Change Token┃10 Change Tokens
+Product/Name/EP_S13_Sunset Token┃10 Sunset Tokens
+Product/Name/NP585┃585 NP
+Product/Name/NP700┃700 NP
+Product/Name/NP1200┃1200 NP
+Product/Name/NP2450┃2450 NP
+Product/Name/NP4450┃4450 NP
+Product/Name/NP6550┃6550 NP
+Product/Name/NP13500┃13500 NP
+Product/Name/er_np700┃700 NP
+Product/Name/er_np1200┃1200 NP
+Product/Name/er_np2450┃2450 NP
+Product/Name/er_np4450┃4450 NP
+Product/Name/er_np6550┃6550 NP
+Product/Name/er_np13500┃13500 NP
+Product/Name/NP800┃800 NP
+Product/Name/NP1205┃1205 NP
+Product/Name/NP2435┃2435 NP
+Product/Name/NP4335┃4335 NP
+Product/Name/NP6500┃6500 NP
+Product/Name/NP13550┃13550 NP
+Product/Name/er_np800┃800 NP
+Product/Name/er_np1205┃1205 NP
+Product/Name/er_np2435┃2435 NP
+Product/Name/er_np4335┃4335 NP
+Product/Name/er_np6500┃6500 NP
+Product/Name/er_np13550┃13550 NP
+Product/Name/MS_NP800┃800 NP
+Product/Name/MS_NP1205┃1205 NP
+Product/Name/MS_NP2435┃2435 NP
+Product/Name/MS_NP4335┃4335 NP
+Product/Name/MS_NP6500┃6500 NP
+Product/Name/MS_NP13550┃13550 NP
+Product/Name/ACCOUNT_Change_Nickname┃Name change
+Product/Name/BATTLE_PASS/4┃Season 4 ER Pass
+Product/Name/BATTLE_PASS/5┃Season 5 ER Pass
+Product/Name/BATTLE_PASS/6┃Season 6 ER Pass
+Product/Name/BATTLE_PASS/7┃Season 7 ER Pass
+Product/Name/BATTLE_PASS/8┃Season 8 ER Pass
+Product/Name/BATTLE_PASS/10┃ER Pass: VACANCE
+Product/Name/BATTLE_PASS/11┃ER Pass: Battle Maids
+Product/Name/BATTLE_PASS/12┃ER Pass: Change
+Product/Name/BATTLE_PASS/13┃ER Pass: Sunset
+Product/Name/BATTLE_PASS_POINT┃Purchase ER Points
+Product/Name/BATTLE_PASS┃Season 4 ER Pass
+Product/Name/BATTLE_PASS_BUNDLE┃Season 4 ER Plus
+Product/Name/BATTLE_PASS_UPGRADE┃Season 4 ER Pass Upgrade
+Product/Name/BATTLE_PASS_S5┃Season 5 ER Pass
+Product/Name/BATTLE_PASS_BUNDLE_S5┃Season 5 ER Plus
+Product/Name/BATTLE_PASS_UPGRADE_S5┃Season 5 ER Pass Upgrade
+Product/Name/BATTLE_PASS_S6┃Season 6 ER Pass
+Product/Name/BATTLE_PASS_BUNDLE_S6┃Season 6 ER Plus
+Product/Name/BATTLE_PASS_UPGRADE_S6┃Season 6 ER Pass Upgrade
+Product/Name/BATTLE_PASS_S7┃Season 7 ER Pass
+Product/Name/BATTLE_PASS_BUNDLE_S7┃Season 7 ER Plus
+Product/Name/BATTLE_PASS_UPGRADE_S7┃Season 7 ER Pass Upgrade
+Product/Name/BATTLE_PASS_S8┃Season 8 ER Pass
+Product/Name/BATTLE_PASS_BUNDLE_S8┃Season 8 ER Plus
+Product/Name/BATTLE_PASS_UPGRADE_S8┃Season 8 ER Pass Upgrade
+Product/Name/BATTLE_PASS_S10┃ER Pass: VACANCE
+Product/Name/BATTLE_PASS_BUNDLE_S10┃ER Plus: VACANCE
+Product/Name/BATTLE_PASS_UPGRADE_S10┃ER Pass Upgrade: VACANCE
+Product/Name/BATTLE_PASS_S11┃ER Pass: Battle Maids
+Product/Name/BATTLE_PASS_BUNDLE_S11┃ER Plus: Battle Maids
+Product/Name/BATTLE_PASS_UPGRADE_S11┃ER Pass Upgrade: Battle Maids
+Product/Name/BATTLE_PASS_S12┃ER Pass: Change
+Product/Name/BATTLE_PASS_BUNDLE_S12┃ER Plus: Change
+Product/Name/BATTLE_PASS_UPGRADE_S12┃ER Pass Upgrade: Change
+Product/Name/BATTLE_PASS_S13┃ER Pass: Sunset
+Product/Name/BATTLE_PASS_BUNDLE_S13┃ER Plus: Sunset
+Product/Name/BATTLE_PASS_UPGRADE_S13┃ER Pass Upgrade: Sunset
+Product/Name/S10_RARE_MATTER┃1 Rare Data Fragment
+Product/Name/S10_ACOIN_UNLIMITED┃150 A-Coin
+Product/Name/S10_S11TOKEN_EXCHANGE┃2 Battle Maids Tokens
+Product/Name/S11_RARE_MATTER┃1 Rare Data Fragment
+Product/Name/S11_ACOIN_UNLIMITED┃150 A-Coin
+Product/Name/S11_S10TOKEN_EXCHANGE┃2 Vacance Tokens
+Product/Name/S11_S12TOKEN_EXCHANGE┃2 Change Tokens
+Product/Name/XMAS2023_EVENT_3000021┃15 Battle Maids Tokens
+Product/Name/XMAS2023_EVENT_3000022┃500 A-Coin
+Product/Name/S12_S11TOKEN_EXCHANGE┃2 Battle Maids Tokens
+Product/Name/S12_S13TOKEN_EXCHANGE┃2 Sunset Tokens
+Product/Name/S12_RARE_MATTER┃1 Rare Data Fragment
+Product/Name/S12_ACOIN_UNLIMITED┃150 A-Coin
+Product/Name/LuckyMarble2024_ACoin_100┃A-Coin X 100
+Product/Name/Festival2024_ACoin_100┃A-Coin X 100
+Product/Name/LuckyMarble2024_Change_Token_01┃10 Change Tokens
+Product/Name/S13_S12TOKEN_EXCHANGE┃2 Change Tokens
+Product/Name/S13_RARE_MATTER┃1 Rare Data Fragment
+Product/Name/S13_ACOIN_UNLIMITED┃150 A-Coin
+Product/Name/ACCOUNT_Add_Traitslot_NP┃New Augment Slot
+Product/Name/ACCOUNT_Add_Traitslot_ACOIN┃New Augment Slot

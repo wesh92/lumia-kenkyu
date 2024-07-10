@@ -1,0 +1,1 @@
+MasteryConditionType/UndefendedDamagedFromPlayer┃Take 100 damage from player

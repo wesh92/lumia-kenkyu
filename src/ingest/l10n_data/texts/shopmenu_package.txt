@@ -1,0 +1,5 @@
+Shopmenu/Package/ALL┃All
+Shopmenu/Package/SeasonPack_box┃Season Pack & Boxes
+Shopmenu/Package/Character┃Character Special Bundles
+Shopmenu/Package/ESports┃Esports Bundles
+Shopmenu/Package/ETC┃Other

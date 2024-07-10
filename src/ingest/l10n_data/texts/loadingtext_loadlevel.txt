@@ -1,0 +1,1 @@
+LoadingText/LoadLevel┃Boxes outlined in white indicate that you haven't checked them yet.

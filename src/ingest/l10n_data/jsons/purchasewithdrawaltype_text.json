@@ -1,0 +1,18 @@
+{
+    "Asset7Days": "Refunds are available within 7 days of purchase,on the condition that all initially purchased NP and Mileage remain unused.\\nUsers who do not meet these criteria will be immediately ineligible for refunds.",
+    "Asset7Days_KAKAO": "Refunds are available within 7 days of purchase,on the condition that all initially purchased NP and Mileage remain unused. Users who do not meet these criteria will be immediately ineligible for refunds. Purchases made by minors without consent from their legal guardians are eligible for cancellation.",
+    "Acoin7Days": "Refunds are available within 7 days of purchase,on the condition that all initially purchased A-Coin remain unused.",
+    "Acoin7Days_KAKAO": "Refunds are available within 7 days of purchase,on the condition that all initially purchased A-Coin remain unused.",
+    "Item7Days": "Items become non-refundable after 7 days from the purchase date or if they have been used or opened.",
+    "Item7Days_KAKAO": "Items become non-refundable after 7 days from the purchase date or if they have been used or opened.",
+    "BoxKey7Days": "Items become non-refundable after 7 days from the purchase date or if they have been used or opened.",
+    "BoxKey7Days_KAKAO": "Items become non-refundable after 7 days from the purchase date or if they have been used or opened.",
+    "Within7Days": "Items become non-refundable after 7 days from the purchase date or if they have been claimed.",
+    "Within7Days_KAKAO": "Items become non-refundable after 7 days from the purchase date or if they have been claimed.",
+    "TokenNoWithdrawal": "Items purchased with free currency such as Tokens and Mileage are non-refundable.",
+    "TokenNoWithdrawal_KAKAO": "Items purchased with free currency such as Tokens and Mileage are non-refundable.",
+    "PackageNoWithdrawal": "Items that include boosts that are immediately applied upon purchase are non-refundable.",
+    "PackageNoWithdrawal_KAKAO": "Items that include boosts that are immediately applied upon purchase are non-refundable.",
+    "ImmediateUseNoWithdrawal": "Items that are immediately opened upon purchase are non-refundable.",
+    "ImmediateUseNoWithdrawal_KAKAO": "Items that are immediately opened upon purchase are non-refundable."
+}

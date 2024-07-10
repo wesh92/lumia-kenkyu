@@ -1,0 +1,1 @@
+ResourceConditionType/Kill┃Kill Enemy Test Subjects

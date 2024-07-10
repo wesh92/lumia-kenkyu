@@ -1,0 +1,1 @@
+GameSetting/ShowTeamColor┃Identify different teams with different colored HP bars.

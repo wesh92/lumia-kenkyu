@@ -1,0 +1,1 @@
+ToolTipType/ShortBowSecondAttackCoef┃Hankyu Second Arrow Attack Power

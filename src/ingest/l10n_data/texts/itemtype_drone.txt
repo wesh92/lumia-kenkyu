@@ -1,0 +1,2 @@
+ItemType/DRONE/Name┃Drone Skin
+ItemType/DRONE/Desc┃Customize the appearence of your Drones in-game.

@@ -1,0 +1,1 @@
+StatType/HalfDecreaseRecoveryToBasicAttackRange┃Basic Attack Healing Reduction (Ranged)

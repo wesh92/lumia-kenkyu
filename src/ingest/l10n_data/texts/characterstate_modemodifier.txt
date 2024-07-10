@@ -1,0 +1,10 @@
+CharacterState/ModeModifier/IncreaseModeDamageRatio┃Deal {0}% of base damage.
+CharacterState/ModeModifier/PreventModeDamageRatio┃Take {0}% of base damage.
+CharacterState/ModeModifier/IncreaseModeHealRatio┃Receiving healing at {0}% effectiveness.
+CharacterState/ModeModifier/IncreaseModeHealerGiveHealRatio┃Your healing effects are at {0}% effectiveness.
+CharacterState/ModeModifier/IncreaseModeShieldRatio┃Receiving shield effects at {0}% effectiveness.
+CharacterState/ModeModifier/IncreaseModeHealerGiveShieldRatio┃Your shield effects are at {0}% effectiveness.
+CharacterState/ModeModifier/UltCooldownReduction┃Ultimate skill cooldown reduced by {0}%
+CharacterState/ModeModifier/IncreaseModeDamageToMonsterRatio┃Damage dealt to monsters are at {0}% effectiveness.
+CharacterState/ModeModifier/IncreaseModeMaxSpRatio┃Max SP increased by {0}%.
+CharacterState/ModeModifier/IncreaseModeSpRegenRatio┃SP Recovery increased by {0}%.

@@ -1,0 +1,1 @@
+ToolTipType/FirstHealLostHP┃Initial Heal (Based on missing HP)

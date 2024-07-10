@@ -1,0 +1,2 @@
+ItemType/SPRAY/Name┃Spray
+ItemType/SPRAY/Desc┃Leave your mark on the ground!

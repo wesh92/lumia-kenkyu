@@ -1,0 +1,4 @@
+Product/ResetTime/Week┃{0} W
+Product/ResetTime/Day┃{0} D
+Product/ResetTime/Hour┃{0} H
+Product/ResetTime/Minute┃{0} M

@@ -1,0 +1,2 @@
+StatType/AttackPower┃Attack Power
+StatType/AttackPower/Desc┃Increases the damage of Basic Attacks and most Skills

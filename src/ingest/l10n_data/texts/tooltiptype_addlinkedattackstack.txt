@@ -1,0 +1,1 @@
+ToolTipType/AddLinkedAttackStack┃Spearweaving stack increase

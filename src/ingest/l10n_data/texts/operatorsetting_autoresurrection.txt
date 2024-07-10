@@ -1,0 +1,1 @@
+OperatorSetting/AutoResurrection┃Learn how to rejoin the experiment when you die during the possible revival time.

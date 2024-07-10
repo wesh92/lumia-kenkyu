@@ -1,0 +1,1 @@
+OperatorSetting/PaidResurrectionTarget┃Learn about possible targets for ally paid revival.

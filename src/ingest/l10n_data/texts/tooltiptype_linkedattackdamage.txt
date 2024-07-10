@@ -1,0 +1,1 @@
+ToolTipType/LinkedAttackDamage┃True Damage based on Spearweaving

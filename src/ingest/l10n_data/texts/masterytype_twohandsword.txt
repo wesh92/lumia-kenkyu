@@ -1,0 +1,3 @@
+MasteryType/TwoHandSword┃Two-handed Sword
+MasteryType/TwoHandSword/Desc┃Two-handed swords are well-balanced weapons. The more time you spend mastering them, the more you will appreciate them.
+MasteryType/TwoHandSword/Stats┃Equipping Two-handed Sword increases {0} by {1}\n{2} by {3}\n{4} by {5}

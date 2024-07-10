@@ -1,0 +1,1 @@
+ToolTipType/ReturnDamageCoef┃Returned Damage Ratio

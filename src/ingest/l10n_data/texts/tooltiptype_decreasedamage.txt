@@ -1,0 +1,1 @@
+ToolTipType/DecreaseDamage┃Damage Reduction

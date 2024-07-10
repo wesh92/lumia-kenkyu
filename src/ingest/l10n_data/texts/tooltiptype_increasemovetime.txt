@@ -1,0 +1,1 @@
+ToolTipType/IncreaseMoveTime┃Increased Movement Speed Duration

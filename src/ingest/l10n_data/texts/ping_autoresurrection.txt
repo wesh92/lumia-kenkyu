@@ -1,0 +1,2 @@
+Ping/AutoResurrection/Wait┃{0}({1}): Time Left until Auto-Revival <color=#C2FFA0>{2}</color>
+Ping/AutoResurrection/None┃{0}({1}): Disable Auto-Revival

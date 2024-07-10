@@ -1,0 +1,3 @@
+AreaAttributes/GroupName/1┃Battle Zone - Acceleration
+AreaAttributes/GroupName/2┃Battle Zone - Berserk
+AreaAttributes/GroupName/3┃Battle Zone - Defense

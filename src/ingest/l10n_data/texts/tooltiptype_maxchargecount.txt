@@ -1,0 +1,1 @@
+ToolTipType/MaxChargeCount┃Maximum trap charges

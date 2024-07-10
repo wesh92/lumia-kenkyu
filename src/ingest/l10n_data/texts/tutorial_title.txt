@@ -1,0 +1,11 @@
+Tutorial/Title/1┃Lumia Island
+Tutorial/Title/2┃Pursuit
+Tutorial/Title/3┃Hunting
+Tutorial/Title/4┃Power Up
+Tutorial/Title/5┃Mastery
+Tutorial/Title/6┃Lumia Island
+Tutorial/Title/7┃Mastery and Skill Enhancement
+Tutorial/Title/8┃Saved Plans and Targeted Items
+Tutorial/Title/11┃Welcome to Lumia Island!
+Tutorial/Title/12┃What to Do First
+Tutorial/Title/13┃The Path to Ultimate Victory

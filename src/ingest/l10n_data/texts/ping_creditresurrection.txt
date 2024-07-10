@@ -1,0 +1,2 @@
+Ping/CreditResurrection/Wait┃{0}({1}): Time Left until <color=#F4FF63>Credit Revival</color> <color=#C2FFA0>{2}</color>
+Ping/CreditResurrection/None┃{0}({1}): Disable Credit Revival

@@ -1,0 +1,1 @@
+ToolTipType/FearTime┃Fear Duration

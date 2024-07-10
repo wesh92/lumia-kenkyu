@@ -1,0 +1,1 @@
+ToolTipType/PreheatingMoveSpeed┃Speed during warm-up

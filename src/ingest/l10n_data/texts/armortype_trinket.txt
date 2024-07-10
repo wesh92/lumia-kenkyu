@@ -1,0 +1,2 @@
+ArmorType/Trinket┃Accessory
+ArmorType/Trinket/Desc┃Accessory

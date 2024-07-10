@@ -1,0 +1,4 @@
+subMenu/Infomation/Summary┃Summary
+subMenu/Infomation/MatchHistory┃Match History
+subMenu/Infomation/League┃League
+subMenu/Infomation/Profile┃Profile

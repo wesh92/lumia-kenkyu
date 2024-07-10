@@ -1,0 +1,1 @@
+MonsterDropRandom/2┃Drops either <color=white>Leather</color>(high probability), or a <color=white>Common</color> item (low probability).

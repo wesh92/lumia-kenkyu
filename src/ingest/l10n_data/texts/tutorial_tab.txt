@@ -1,0 +1,11 @@
+Tutorial/Tab/1┃Lumia Island
+Tutorial/Tab/2┃Pursuit
+Tutorial/Tab/3┃Hunting
+Tutorial/Tab/4┃Power Up
+Tutorial/Tab/5┃Mastery
+Tutorial/Tab/6┃Experiment Site
+Tutorial/Tab/7┃Body Enhancement
+Tutorial/Tab/8┃Equipment Enhancement
+Tutorial/Tab/11┃Understanding the Basics
+Tutorial/Tab/12┃Saved Plans and Target Items
+Tutorial/Tab/13┃Restricted Areas and Legendary Items

@@ -1,0 +1,1 @@
+ToolTipType/KnockoutPunchCooldown┃Knockout Punch Cooldown

@@ -1,0 +1,3 @@
+ItemType/RANDOM_BOX/Name┃Data Box
+ItemType/RANDOM_BOX/Desc┃Open it to get random items and designs.
+ItemType/RANDOM_BOX/Name┃Box

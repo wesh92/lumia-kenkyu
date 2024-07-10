@@ -1,0 +1,1 @@
+CastingActionType/TransferSupplyBoxOpen┃Opening Transfer Supply Box

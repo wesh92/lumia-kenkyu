@@ -1,0 +1,1 @@
+StatType/HalfDecreaseRecoveryToSkillMelee┃Skill Healing Reduction (Melee)

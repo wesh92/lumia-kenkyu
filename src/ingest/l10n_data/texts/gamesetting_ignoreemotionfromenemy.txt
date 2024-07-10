@@ -1,0 +1,1 @@
+GameSetting/IgnoreEmotionFromEnemy┃Hide emotes from enemies in game.

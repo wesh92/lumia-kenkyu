@@ -1,0 +1,1 @@
+MonsterDropRandom/17┃Drops an <color=#35FF94>Uncommon</color>, <color=#2AC0FF>Rare</color>, or <color=#D05EFF>Epic</color> item.

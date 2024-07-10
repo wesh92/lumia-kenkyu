@@ -1,0 +1,4 @@
+Ping/Wickeline/Wait┃{0}({1}) : <color=#C2FFA0>{2}</color> left until <color=red>Wickeline</color> appears
+Ping/Wickeline/Roam┃{0}({1}) : <color=red>Wickeline</color> is now in <color=#C2FFA0>{2}</color>.
+Ping/Wickeline/Dead┃{0}({1}) : Wickeline has been slain.
+Ping/Wickeline/Return┃{0}({1}) : Wickeline has returned to the Research Center.

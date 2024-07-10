@@ -1,0 +1,1 @@
+MonsterDropRandom/9┃Drops <color=#FFD738>Holy Water</color>, <color=#FFD738>Tear of Selene</color>, or <color=#FFD738>Zen Vitality</color>.

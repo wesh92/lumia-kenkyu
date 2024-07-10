@@ -1,0 +1,2 @@
+ItemType/CAMERA/Name┃Camera Skin
+ItemType/CAMERA/Desc┃Customize the appearence of your Cameras in-game.

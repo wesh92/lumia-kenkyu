@@ -1,0 +1,1 @@
+GameSetting/ToggleCameraZoom┃Use the mouse wheel to zoom in and out.

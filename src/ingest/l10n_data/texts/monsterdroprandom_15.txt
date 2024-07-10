@@ -1,0 +1,1 @@
+MonsterDropRandom/15┃Drops a <color=white>Common</color> item.

@@ -1,0 +1,1 @@
+LoadingText/SceneLoad┃With the expanded map open (M), you can navigate your character by holding CTRL and right-clicking on the map.

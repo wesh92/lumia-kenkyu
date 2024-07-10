@@ -1,0 +1,20 @@
+Ping/Communication/Goal┃Where to?
+Ping/Communication/Where┃Where to?
+Ping/Communication/NeedWater┃Need Drinks
+Ping/Communication/NeedFood┃Need Food
+Ping/Communication/Waiting┃Do you need something?
+Ping/Communication/WhatYouNeed┃Do you need something?
+Ping/Communication/Thankyou┃Thanks
+Ping/Communication/Ok┃Got it!
+Ping/Communication/Goodjob┃Well done!
+Ping/Communication/Sorry┃Sorry
+Ping/Communication/Cancel┃Cancel
+Ping/Communication/Where/Chatting┃{0}({1}) asks <color=#C2FFA0>where to go</color>.
+Ping/Communication/Waiting/Chatting┃{0}({1}) asks <color=#C2FFA0>what you need</color>.
+Ping/Communication/WhatYouNeed/Chatting┃{0}({1}) asks <color=#C2FFA0>what you need</color>.
+Ping/Communication/Ok/Chatting┃{0} ({1}) says <color=#C2FFA0>got it</color>!
+Ping/Communication/NeedFood/Chatting┃{0}({1}) <color=#C2FFA0>needs food</color>.
+Ping/Communication/NeedWater/Chatting┃{0}({1}) <color=#C2FFA0>needs drinks</color>.
+Ping/Communication/Thankyou/Chatting┃{0}({1}) says <color=#C2FFA0>thanks</color>.
+Ping/Communication/Sorry/Chatting┃{0}({1}) says <color=#C2FFA0>sorry</color>.
+Ping/Communication/Goodjob/Chatting┃{0}({1}) says <color=#C2FFA0>well done</color>!

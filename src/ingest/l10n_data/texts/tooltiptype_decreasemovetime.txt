@@ -1,0 +1,1 @@
+ToolTipType/DecreaseMoveTime┃Slow Duration

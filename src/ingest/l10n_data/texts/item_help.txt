@@ -1,0 +1,657 @@
+Item/Help/101101┃A basic pair of scissors. Snip snip snip.
+Item/Help/101102┃A kind of pen for writing. The ink inside the pen holder flows out through\nthe nib, allowing it to be used for a long time - though your hand will be\ncovered in ink if not used correctly. Or if you're a lefty.
+Item/Help/101104┃A knife used in the kitchen. It can be a deadly weapon in the hands of\nan expert.
+Item/Help/101201┃Very threatening yet easy to carry. It faithfully performs its duties, such\nas cutting and stabbing.
+Item/Help/101202┃The super sharpness of the scalpel minimizes skin damage during surgery.\nThe test subjects here might use it another way..
+Item/Help/101301┃A rose by any other name would cut as deep.
+Item/Help/101302┃A multi-tool knife that houses multiple tools in one body. Even a can opener!
+Item/Help/101401┃King Arthur's trusty dagger.\n\nArthurian legends say he used it to slice the daughter of the witch Orddu clean in half. \n
+Item/Help/101402┃Ain't no mountain high enough to keep the slicer from cutting it.
+Item/Help/101404┃This high-frequency vibrating blade will cleave the matter of its target\nat a molecular level. The knife vibrates at a frequency beyond human\nimagination.
+Item/Help/101405┃Known as "The Answerer" in Irish mythology.\nIt was said that with the blade at your neck, you could not tell a lie.
+Item/Help/101406┃Nothing says strength and durability quite like Damascus steel.
+Item/Help/101407┃For the great Maharaja.
+Item/Help/101408┃How long are you going to use old-fashioned weapons like claymores?\nBe practical, my friend.
+Item/Help/101501┃The blade that sliced the moon in half.\n(It's true, I swear...)
+Item/Help/101502┃A dagger that rips a person's heart to pieces.\nUse this to send someone to the shadow realm.
+Item/Help/101503┃The strangely sharp glass blade\nseemed to turn redder with delight at the touch of blood.
+Item/Help/102101┃Every swordsman must train with this common longsword.
+Item/Help/102201┃Long and sharp, this sword is perfect for cutting enemies at once.
+Item/Help/102301┃Just like the swords you see in your favorite movies!
+Item/Help/102401┃A sword made by Masamune, the greatest sword maker in the history\nof Japan. It stands as one of the strongest and sharpest swords of Japan.
+Item/Help/102402┃A sword cursing the Tokugawa family, who were the founders of\nJapan's Tokugawa shogunate. Tokugawa Ieyasu's grandfather, father, and son\nwere all killed or wounded by this sword, and Ieyasu himself also\nhad his finger cut off.
+Item/Help/102403┃In the Middle Ages, the Bastard Sword was the only weapon with the\ncharacteristics of both a double-handed sword and a single-handed\nsword, so it was named Bastard, meaning mixed breed.
+Item/Help/102404┃Valuable by its very existence. Often is the case of such swords that were\nmade with precious materials or used by a famous hero.
+Item/Help/102405┃The mythical sword of Vietnamese King Lê Lợi
+Item/Help/102406┃The sword of Sir Lancelot, who was a dragon slayer that cut down the fire\ndrake during the rescue of princess Elaine of Corbenic.
+Item/Help/102407┃A noted sword produced in Avalon, the nation of fairies. King\nArthur received this sword from the beautiful Lady of the Lake and returned it\nafter the final battle against Prince Mordred.
+Item/Help/102408┃A sword made from the combination of ion nuclei and free electrons kept\nat an ultra-high temperature, also known as plasma. Due to its\nexplosive nature, it's hard to handle, but it could be the start of an\nera of future weaponry. The plasma sword is the first of its kind.
+Item/Help/102409┃In Norse mythology, Laevateinn is a sword that was made by Loki by\ncarving runes into it. In mythology, it is used to kill the invincible\nrooster, Vidofnir.
+Item/Help/102410┃A sword with a long blade. Legend says Kojiro Sasaki cut a flying\nswallow with this sword. A technique known as "Upward Cutting"\nis commonly used after an opponent dodges the first attack.
+Item/Help/102411┃It is said that this blade, as mentioned briefly in "Prose Edda", was used\nby the Nordic mythical god Heimdallr and was made out of broken\npieces of the rainbow bridge, Bifröst. The entire blade emits a\ndark blue aura, which makes the sword difficult to approach. Some\npeople believe this blade's name means "head".
+Item/Help/102412┃This sword turns the user's resolve into weaponized light.\nIt feels as if your attack power is increased by 1,000...
+Item/Help/102413┃A sword enchanted by a wizard. \nIt is said to emit an eerily sacred sound when wielded.
+Item/Help/102501┃A legendary longsword that can inflict enormous damage with one slash and\nproduces a deafening roar that sounds like the sky and the earth\nare being ripped apart.
+Item/Help/102502┃A sword forged by a legendary blacksmith.\nThe blade is made of ice, but it is sharp enough to pierce steel.
+Item/Help/102503┃Hephaestus, God of blacksmiths, normally liked to pour his wine into a huge bowl and drink until he was plastered.\nWhile he was making a sword upon Hades's request, Hephaestus gathered cool water from the Lethe River in his bowl, mistakenly took it for his wine, and drank it instead.\nAs penance, he said he would make the same sword again. Now with two identical swords, Hades combined them to create the greatsword "Chained Nightmare".
+Item/Help/103201┃Double the sword, double the offense!
+Item/Help/103202┃It's crude, but it's pretty sharp, and if you let your guard down, you'll see blood.
+Item/Help/103302┃Two swords that look the same.\nThey all look the same out there.
+Item/Help/103401┃A swordsmanship technique created and refined by Miyamoto Musashi.\nIt involves using two swords, a shortsword in one hand and a\nlongsword in the other.
+Item/Help/103402┃A pair of swords that Liu Bei used in "Romance of the Three Kingdoms".
+Item/Help/103403┃There is no permanent good or evil. Life is an endless battle.
+Item/Help/103404┃It will never be torn apart again.
+Item/Help/103503┃Even the best swords are only as good as their wielders.
+Item/Help/103504┃It is actually nothing more than a single-edged sword, but it is called a Phantom Blade because it cuts just by touching the shadow of the white sword.
+Item/Help/104101┃Try not to hammer your finger instead of the nail...
+Item/Help/104201┃It's like a gift set of close combat weapons! Includes a hammer for\nstriking, a spear for piercing, and a sword for slashing.
+Item/Help/104301┃A blunt weapon you use with both hands. It was used by infantry against\nknights on horseback. The head of the weapon can be\nchanged according to the user's style.
+Item/Help/104302┃Brave warriors wearing deer horn helmets wield the Warhammer.
+Item/Help/104303┃No judge is more ruthless than fate.
+Item/Help/104401┃A weapon crafted with sharp, thorn-like spikes embedded in a \nhead shaped like a shield.
+Item/Help/104402┃You say it can slay nine enemies with a single strike?
+Item/Help/104403┃The hammer that Thor, the God of Thunder, used. Also called Mjolnir,\nmeaning "The Destroyer."
+Item/Help/104404┃When a hungry dog wishes for dinner, it will show its presence.
+Item/Help/104405┃The stick often carried by the main characters of Shoujo comics. The\nmoral of the Shoujo genre is that peace must be maintained through\ngreater power.
+Item/Help/104406┃You'll never be knocked back!
+Item/Help/104407┃The Vajra symbolizes indestructibility and force. It was wielded by Indra to punish sinners.
+Item/Help/104408┃Used by monks.
+Item/Help/104409┃Knowledge is power! ...Whoever made that phrase definitely didn't mean "physical" power.
+Item/Help/104501┃The cost of peace is often measured in blood...
+Item/Help/104502┃Boink!
+Item/Help/105102┃Is it considered a blade attack if you swing the pickaxe and attack\nyour opponent..?
+Item/Help/105103┃It looks heavy, so attack with it by slicing downward.
+Item/Help/105201┃A weapon of the Grim Reaper that has a sharp scythe at one end of\na steel chain.
+Item/Help/105202┃Although it started as a tool for men, it proved itself useful in\nthe battlefield. It's designed to rip flesh and cut bones, so it has a thinner and\nlighter blade than a usual axe.
+Item/Help/105301┃A lightweight axe...but heavier than you think.
+Item/Help/105302┃A weapon that the Grim Reaper carries. If the scythe claims someone,\nthat soul will vanish.
+Item/Help/105401┃A proposal that can't be refused.
+Item/Help/105402┃Widely used since the Old Stone Age, it became a masterpiece when\nfused with modern technology.
+Item/Help/105403┃Santa Muerte, the Mexican goddess of death, cuts off all negative\nenergies with her long-handled scythe.
+Item/Help/105404┃Huh? Harvesting time has been cut in half?
+Item/Help/105405┃Ramachandra, Parashurama's axe.\nIt was given to Shiva through penance.
+Item/Help/105406┃The sword given to Perseus by Hermes, the God of Thieves. He used\nthis to cut off Medusa's head and to rescue Andromeda from a\nsea monster.
+Item/Help/105407┃"The modern world is a juggernaut, that is, as an engine of enormous power which can be directed to some extent, but which also threatens to run out of control."
+Item/Help/105408┃[The Three Elements] says that Pangu split chaos with his axe and divided heaven and earth.
+Item/Help/105501┃There's no such thing as a paradise on earth.
+Item/Help/105502┃The ruby-colored blade slashed brutally, staining everything red.
+Item/Help/107101┃A spear with a short shaft - about half the size of a long spear. Learn\nhow to move freely during battle while wielding this weapon\nand attack with a fearless combat posture.
+Item/Help/107201┃A spear made out of bamboo. Yup.
+Item/Help/107301┃The weapon of Hades, the Greek god of the underworld.  It's a\ntwo-pronged spear and one of the known treasures of Hades, along\nwith his cornucopia and helmet.
+Item/Help/107303┃On one end there's an axe blade and on the other end there's a\nstabbing blade.
+Item/Help/107401┃A weapon that has evolved with mankind. The feathers on the tip of the spear are merely decorative.
+Item/Help/107402┃A spear wielded by Zhao Yun, a general of the Three Kingdoms.\nIt is said that when he holds this spear, there is no one who can stand against him.
+Item/Help/107403┃A spear used by Zhang Fei.\nIt was ordered from a local blacksmith, but their identity is still unknown.
+Item/Help/107404┃A futuristic version of the spear of Hades, the Greek god of the\nunderworld.  Snuff out the future of your enemy with this\nfuturistic technology.
+Item/Help/107405┃A powerful spear that can bring forth waves. It's said to have once been\nused by Poseidon.
+Item/Help/107406┃The length stretches freely, and flames spurt from the end of the\nspear; a treasure that appeared in "Fengshen Yanyi".
+Item/Help/107407┃Lü Bu's Spear.\nA symbol of overwhelming force.
+Item/Help/107408┃Made of 49 kg of iron during the Three Kingdoms period. It was\nthought to be used by Guan Yu.
+Item/Help/107501┃Though its origins may be unclear, this spear is said to have been\ninvolved in mythical holiness. Texts say that this spear has\nthe ability to heal its owner under certain conditions.
+Item/Help/107502┃Dream the impossible dream. Love until it hurts.\nFight the unbeatable foe. Bear with the unbearable sorrow.\nAnd reach the unreachable stars.
+Item/Help/108101┃Now's not the time to protect the environment. Now is the time to\nprotect yourself.
+Item/Help/108102┃Fine to carry and suitable for offense.
+Item/Help/108103┃It doesn't thicken as it grows, and dies after blooming. We make\nbaskets out of it because of its flexibility.
+Item/Help/108104┃A mannequin that appears as a jump scare in a lot of movies.\nIt looks humanoid, so when looking at it from afar, it is easy to mistake as real.
+Item/Help/108201┃Dust sticks to this thing like iron to a magnet.\nFeather dusters...how do they work?
+Item/Help/108202┃You can keep more distance than when using a short rod, but you still\nhave to be careful.
+Item/Help/108301┃A supernatural demon from the East that is said to be playful with\nhumans. Westerns may identify them as an "Imp."
+Item/Help/108401┃You might wonder how this became a weapon, but it is often used\nas a murder weapon in mystery stories.
+Item/Help/108402┃The torch that lights your way might help you keep your own life from\nbeing extinguished. If you see an enemy, don't hesitate to swing.
+Item/Help/108403┃Give me your tired, your poor, your huddled masses yearning to breathe\nfree, the wretched refuse of your teeming shore. Send these, the\nhomeless, tempest-tossed to me. I lift my lamp beside the\ngolden door.
+Item/Help/108404┃A must-have when begging. Perfect for chasing away stray dogs.
+Item/Help/108405┃One of the weapons of the tough guys.\nYou'll know how tough they are when you get up close and personal with them.
+Item/Help/108501┃There is a poisoned needle concealed at the tip of the umbrella.\nYou can make use of it when the timing is right. Pretend to accidentally stab\nyour target's foot with the tip while carrying it on a rainy day.
+Item/Help/108502┃A tool, made by Daode Tianzun, used for measuring the depth of the\nriver and sea. The Dragon King of the East Sea kept it in his\npalace storage, but Sun Wukong stole it and used it as a weapon.
+Item/Help/108503┃It has sharp spikes that can pierce flesh.\nThe Ghost Hand is said to drag people away!
+Item/Help/108504┃A staff with a large red jewel befitting the queen's authority.\nPerfect to wear with a Cloak.
+Item/Help/109101┃It might seem like all you have to do is randomly swing this around,\nbut to be effective, it requires a well-trained technique.
+Item/Help/109201┃A thick red rope that was originally used to tie up a criminal or thief.
+Item/Help/109202┃A portable weapon used in the latter periods of the Joseon dynasty.\nAlso known as a horse-bell steel whip.
+Item/Help/109301┃True to its name, the Wind Whip makes a menacing sound like it's cutting through the wind with each swing.
+Item/Help/109401┃A whip imbued with the power of a dragon who controls lightning.\nIt is said that thunder is struck with each swing!
+Item/Help/109402┃Made by combining an iron whip and a battery. You can think of it\nas an iron club in the form of a whip.
+Item/Help/109403┃The unbreakable string that bound the wolf "Fenrir." Made from a\nwoman's hair, a stone, the sound of a cat's claw, the breath of a fish,\nthe tendon of a bear, and bird spit.
+Item/Help/109404┃A whip made of a metal substance that seems to hurt just by looking\nat it. When switched on, plasma flows through the whip through\nspecially designed tungsten joints, which can cause severe thermal injuries.
+Item/Help/109405┃If you feel a tingling sensation when holding the handle, it may be a short circuit, so be careful!
+Item/Help/109501┃The flowers that had absorbed the blood were in full bloom, and the whole area was stained red.
+Item/Help/109502┃A sword shaped like a snake's belly, with multiple \nblades attached to a wire like a whip.
+Item/Help/110101┃These funky knuckles are actually illegal in a lot of countries.
+Item/Help/110102┃A red-palmed glove. It can be used to work, to play tug-of-war,\nor even to cheer for the home team.
+Item/Help/110201┃Its deadliness is dependent upon the fist and strength of the\nperson wearing it.
+Item/Help/110202┃Though they may look like ordinary brass knuckles, they're made with a much\nsturdier iron, so it hits much harder.
+Item/Help/110301┃Gloves that knights wore to protect their hands.
+Item/Help/110302┃Free your burdened soul with these masterfully created wings.\nSadly, there exists no sky for you to spread your wings...
+Item/Help/110401┃Armored gloves made from a turtle shell.
+Item/Help/110402┃A glove that adds explosive force behind each punch.
+Item/Help/110403┃Knuckles coated with glass fragments. They're not entirely made\nof glass!
+Item/Help/110404┃You might not reach the point of Nirvana to separate your body and\nsoul, but you can remove others' souls from their bodies with this glove.
+Item/Help/110405┃A true fighter doesn't use tools!
+Item/Help/110406┃I will pour out my fury with a mighty hand and with a strong arm, and I will surely rule over you.
+Item/Help/110407┃Knuckles that seemingly fit the Dark Angel. How can you return\nwhen your wings are covered in crimson blood..?
+Item/Help/110408┃A guardian spirit that was passed down through generations of the\nNorth Polar Sea kingdom's bloodline. Petal-shaped ice flakes form along\nits surface to protect its user from harm.
+Item/Help/110409┃Well, did you learn everything?\nThen come and show us.
+Item/Help/110410┃A combat glove used on the mystical island Brasil, which is located\nwest of Ireland. This island can only be seen once every seven years.\n(Not to be confused with the country)
+Item/Help/110411┃The hand turns white when one can master it, hence the name White Claw Punch,\nand it inflicts fatal wounds on enemies with its powerful cold air.
+Item/Help/110412┃Made from silk from the cocoons of the Emperor Moth, which\nare imbued with spiritual energy. Humans cannot cut it using their own strength.
+Item/Help/110501┃From the ashes rises the vermilion bird of flame.
+Item/Help/110502┃A glove shaped like the sharp fangs of frost.\nCan freeze even a blazing fire.
+Item/Help/110503┃A special glove used to suppress power.\nYou must continuously sacrifice blood in return for using it.
+Item/Help/111201┃A weapon that is modified and widely used in Okinawa.\nTonfa-based martial arts shares many similarities with bare-handed martial arts.
+Item/Help/111301┃Justice must be served!
+Item/Help/111401┃Tonfa made in the Ryukyu Kingdom. It is the ancestor of the Tonfa we know.\nPlease maintain basic manners from now on.
+Item/Help/111402┃Activate the Tactical Tonfa!
+Item/Help/111403┃A short-length Tonfa used in Thai martial arts.\n
+Item/Help/111404┃A tonfa-shaped weapon made out of plasma. It uses a chip that\nregisters its owner's information, so it won't harm its owner and will be safe to use.
+Item/Help/111405┃Fast as the wind!
+Item/Help/111406┃The Tonfa has been revamped to fit in a holster.\nNo more clipping it to your waistband!
+Item/Help/111501┃A non-bladed weapon wielded by security guards.\nThis particular shadowy version has 2 kagi protruding from its sides
+Item/Help/111502┃A Tonfa that has endured the cold waves for 10,000 years.\nMaybe it will become more popular if you wear it in the summer?
+Item/Help/111503┃A tonfa with a blade on its body.\nThe well-forged blade seems to be looking for another target.
+Item/Help/112101┃A stone that can be used to make something. I wish I could throw it...
+Item/Help/112104┃Put something inside it or break it into tiny pieces.\nOr not. I'm a tooltip, not a cop.
+Item/Help/112202┃Be careful! The moment you relax and forget you're carrying a\ngrenade is the moment that you become a victim. Boom.
+Item/Help/112203┃Make a mistake and drop it, you'll become your own worst enemy.
+Item/Help/112204┃A primitive weapon with a long history.\nIt was with this weapon that a stone was driven into the forehead of a giant.
+Item/Help/112205┃An autographed ball with the classic "Be happy!"\nYou can't tell whose autograph it is.
+Item/Help/112301┃By combining a flour bomb and some gunpowder, you can make a\nsmoke bomb. Let's see if there's any gunpowder around here...
+Item/Help/112302┃Inflict damage by quickly spreading fire to an area. It'll be hard to extinguish.
+Item/Help/112303┃Hitting an enemy with this is shockingly effective.
+Item/Help/112304┃It feels like the innocence of childhood. If you drop it, it'll lose its\nviscosity and become stiff, so take care of it.
+Item/Help/112401┃David's legendary stone that killed Goliath, the giant of Philistine.
+Item/Help/112402┃Inflicts immense damage by emitting a poisonous gas. It is made from\ngunpowder and a special barrel.
+Item/Help/112403┃A rubber ball with sharp fragments on the surface. It hurts. Also, don't\nunderestimate its bouncing capability!
+Item/Help/112305┃When the pin is pulled, Mr. Grenade is not your friend.
+Item/Help/112502┃In Korean folk tales, if the ancient snake-serpent Imugi tries to carry two or more pearls with him to Heaven, he is too heavy and cannot ascend.\nCast aside your greed and be content with just one pearl. Heaven awaits.
+Item/Help/112503┃Though it has a name, everyone just calls it "Little Angel".\nSwiftly flying in to bring a sweet death.
+Item/Help/112404┃Bless our enemies with this holy grenade, O Lord,\nand grant them eternal rest in Your favor!
+Item/Help/112405┃Every sorcerer (and Italian plumber) wants to wield the power of the Fireball. \n\nIt's difficult to realistically burn spherical gas, so researchers have harnessed the power of VF to make it happen.
+Item/Help/112406┃The Dyadic Prism is made by harnessing the energy of a Force Core within a special housing, balancing its volatility and energy.\n\nImpacts disrupt this balance, causing a sudden burst of energy.
+Item/Help/112407┃A lightning spear made for Zeus by the blacksmith Hephaestus.
+Item/Help/112408┃An adhesive bomb that can stick to any surface, making it a sure-fire weapon of mass destruction that won't let you run away.
+Item/Help/112501┃Made out of Ruthenium, which is the hardest element among the\nplatinum metals. It also has applications as a superconductor.
+Item/Help/113101┃Check for these in your Halloween candy before you eat it!
+Item/Help/113102┃It's exhilarating to have a lucky win streak.
+Item/Help/113103┃It's a CD, obviously. Wonder what's on it...
+Item/Help/113104┃A reliable weapon when you need to focus.\n\nForeheads are often sacrificed.
+Item/Help/113201┃It's cute, but it can be deadly if it hits the right spot. Bullseye.
+Item/Help/113202┃Aren't you supposed to carry this on your body, not throw it?
+Item/Help/113203┃A shabby looking deck of cards. Probably used to gamble in a\nsketchy alley.
+Item/Help/113204┃A throwing weapon. A short and thin handle with a small axe head.\nNative Americans popularized fighting with them.
+Item/Help/113205┃It's convenient, but be careful when using it. It doesn't come back\nto you like a boomerang.
+Item/Help/113206┃Made out of a throwing dagger and a cross. It practically jumps\nfrom the tips of your fingers to fly into the heart of your enemy.
+Item/Help/113207┃Did you know a plum blossom blooms where it hits you? Well, of course it's up to you to believe it or not.
+Item/Help/113301┃The chakram is basically a throwing weapon, but in some cases, it\nalso can be used to slash enemies like a melee weapon. Its circular\nshape has sharp blades around it, making it even more deadly.
+Item/Help/113302┃The blade shape resembles the leaves of a willow tree, which is why it is called the Willow Leaf Spike.
+Item/Help/113401┃My body is glass, a vessel of saintly grace!\nYou shall worship my portrait on a card!
+Item/Help/113402┃This deadly poison can kill an elephant within 3 seconds. Use it carefully.
+Item/Help/113403┃A legendary weapon Buddha used to exorcise a demon. It causes\ndamage with the sharp blades that rotate around its perimeter.
+Item/Help/113404┃Wrap a dart in steel and throw it!
+Item/Help/113406┃A ninja star originally used by Humma, a band of ninja that were\nactive during the Sengoku period.
+Item/Help/113407┃Its name may sound primitive, but it is a product of\nadvanced engineering. This weapon can't be scientifically analyzed;\nevery impact emits waves that break down the minerals, especially\ncalcium, of surrounding lifeforms. Avoid direct hits or blocking attacks from\nthis weapon.
+Item/Help/113408┃An extremely poisonous needle. It is said to be poisonous to the touch.
+Item/Help/113409┃Blue weapons aren't always associated with ice or water...
+Item/Help/113410┃A rifle bullet shaped like an arrowhead. This means it's a small arrow.
+Item/Help/113411┃A one-handed knife with a blade that resembles a crescent moon on the inside.
+Item/Help/113412┃Let's see, your lifespan is...\n\n10..9..8..
+Item/Help/113501┃A weapon of Vishnu, one of the three main Hindu Gods. It was used to\ndestroy air fortresses.
+Item/Help/113502┃One minute you're watching a rain of flowers fill the sky, the next you're...
+Item/Help/113503┃The black lotus is a symbol of revenge and long-standing hatred.\nIf you see it, you'd better repent quickly.
+Item/Help/114101┃Try not to cry if the bowstring hits your face.
+Item/Help/114201┃A wooden bow. As plain as it seems, you need choice timber to\nmake a usable wooden bow. Plywood is a no go.
+Item/Help/114202┃A unique bow incorporating a horn in its designs. Anyone can\nuse the bow, as it will adapt to the user.
+Item/Help/114203┃A high quality composite bow that was used in the East. There\nis a record of a man shooting over 440 meters during the\nEngland Archery Competition of 1795.
+Item/Help/114301┃A bow with strong elasticity, the bow string is made of 240 strands\nof three-ply thread.
+Item/Help/114302┃A traditional Korean bow that can kill a tiger with a single arrow.
+Item/Help/114303┃A bow that can be made by combining a bow and gunpowder. While\nhiding in darkness, you must draw the bow quietly, but quickly.
+Item/Help/114304┃Can fire bullets instead of arrows. It'd be a good idea to check to\nsee if there are more bullets around.
+Item/Help/114402┃A fiery arrow will burn your enemy.
+Item/Help/114403┃A composite bow and arrow designed according to the golden ratio.\nIt boasts extraordinary precision.
+Item/Help/114404┃Those hit by the arrow fired from this bow will be overcome by\nan insatiable love.
+Item/Help/114405┃A bow modified to fire arrows with more power by crossing\nthe bowstrings.
+Item/Help/114406┃This belonged to one of Genghis Khan's most trusted generals, known as Jebe.\nDespite starting a member of the opposing army, Jebe joined Genghis Khan and was a key member of his empire's expansion.
+Item/Help/114501┃A bow with the elemental powers of nature, such as fire or\nelectricity. Similar to the four elements of Aristotle.
+Item/Help/114502┃The arrows of Tristan, one of the Knights of the Round Table. Known\nas the arrows that never miss, so it will fail you not.
+Item/Help/114503┃Literally "Bearer of the Silver Bow".\nAn epithet of Apollo, the god of light and the sun.\nThe bow itself has turned golden from Apollo's blessing
+Item/Help/114504┃A bow used by Ye, the archer god in Chinese mythology.\n\nWhen ten suns rose and their heat caused a drought, Ye shot at them with a red bow and ten white arrows, and nine suns fell.
+Item/Help/114407┃Seeing by dim moonlight on a dark night, pulling a bowstring.
+Item/Help/115101┃This is a mechanical bow, so take aim and shoot at will.
+Item/Help/115201┃A long range weapon that can shoot further than a standard bow.\nThere are history records of shots landing from as far\nas 600 steps away.
+Item/Help/115202┃A mechanical bow that requires little human strength, but reloading\ntakes a little longer than an ordinary bow.
+Item/Help/115301┃A good weapon, but it's paramount that you keep good track\nof your arrows.
+Item/Help/115302┃A bow specialized for sniping. As always, aim is important.
+Item/Help/115303┃Heavier than a standard crossbow, but also that much stronger. It\nwas a popular weapon in Medieval Europe as it was easy to learn\nand use.
+Item/Help/115401┃A bow made out of steel. It might be heavy to some.
+Item/Help/115403┃A smaller bow originally designed for siege warfare. It boasts\nincredible power.
+Item/Help/115404┃A new type of bow with remarkably high accuracy. It's equipped with a\nlaser sight, similar to modern sniper rifles.
+Item/Help/115501┃The bow used by the Indian mythological god Vishnu in his confrontation with Shiva.
+Item/Help/115502┃The strong smell of blood on the half-moon crossbow hints at its power.
+Item/Help/116101┃A true luxury pistol made in Germany.\nFamously used by famous spies.
+Item/Help/116201┃If you research revolvers that use Magnum cartridges, you'll find that\nsome of them use scientific names for snakes. This one is the\nPythonidae, also known as Python.
+Item/Help/116301┃Automatic pistol made in Belgium.\nIt is known for using a specialized caliber of bullets.
+Item/Help/116401┃This isn't two revolvers -- it's one double revolver.
+Item/Help/116402┃Named after the Anaconda, which is larger than a Python,\nit uses a larger caliber Magnum cartridge.
+Item/Help/116408┃A double-barreled firearm that fires magnum rounds.\nthe simplicity of its construction is too good.
+Item/Help/116403┃You can perfect your marksmanship by selling your soul to the\ndevil. What could possibly go wrong?
+Item/Help/116404┃Though it looks like an old gun, it is actually a smaller version\nof the railgun pistol. Up to 8 bullets are loaded from a clip. At first glance,\nit looks like a decoration, but it is just as effective as the real thing.
+Item/Help/116405┃It's not as strong as the laser guns used on the other side of the\ncosmos, but it's still pretty powerful.
+Item/Help/116406┃A revolver made of gold everywhere but the pistol grip.\nGold and wood is an age-old fundamental combination.
+Item/Help/116407┃A staple in the handgun world. \nExcellent reliability and scalability.
+Item/Help/116409┃A gun that works the same way as a derringer.\nBeware of fake derringers that are plated to look like derringers.
+Item/Help/116410┃The Fourth Matter, a state-of-the-art firearm that fires plasma beams.\nFeel the pinnacle of future technology!
+Item/Help/116501┃The gun of Manas, a hero of Kyrgyzstan. The gun’s barrel was formed\nfrom Damascus steel and fires death in bullet form.
+Item/Help/116502┃A pistol that is able to hunt as fast and deft as an eagle.
+Item/Help/116503┃Remember that peaceful societies are built at the expense of others.
+Item/Help/117101┃An old-fashioned automatic rifle that stands out for its age.\nFor better, versatile; for worse, neither here nor there.
+Item/Help/117201┃The world's first assault rifle.\nA beloved weapon in many FPS games.
+Item/Help/117301┃The mascot of the Eastern Bloc assault rifle.\nI could say more, but I won't.
+Item/Help/117401┃An assault rifle with many improvements.\nA prototype of the M16, the assault rifle that inspired many modern firearms.
+Item/Help/117402┃The world's first machine gun, it fires through several barrels\njoined together. Can cause catastrophic damage to the enemy in a short\nperiod of time.
+Item/Help/117403┃A bullpup-style automatic rifle with the magazine and chamber set back.
+Item/Help/117404┃A masterpiece created out of the failure of the AK-200.\nFailure is the mother of success.
+Item/Help/117406┃Let's give the final judgment with this bullet!
+Item/Help/117407┃Bullets are golden coins?
+Item/Help/117501┃Agni the fire god controls the infernos of the world.\nProbably very contentious with the deity that controls the blizzards.
+Item/Help/117502┃When the bullet turns into a seed and lands on your body, it will bloom into a red flower all over you.
+Item/Help/117503┃You who believe yourself to be innocent,\n I will condemn you with this bullet.
+Item/Help/118101┃An old type of gun that isn't frequently used these days.\nUsed to require lighting a fuse to shoot.
+Item/Help/118301┃A powerful gun that fires harpoons. Thar she blows!
+Item/Help/118401┃A rifle accented with gold. High in accuracy, destructive power, and flashiness.
+Item/Help/118402┃Uses electromagnets to rapidly accelerate and launch a metal projectile.
+Item/Help/118403┃Objective Sniper Rifle.\nThis rifle is said to have been used to break the record for the longest distance sniper shot.
+Item/Help/118404┃A cool sniper rifle that inspires virtue.\nUnlike your average objective sniper rifle, this weapon has increased anti-personnel damage.
+Item/Help/118405┃A sniper rifle manufactured in South Africa.\nIt is so heavy that it is often transported by vehicle.
+Item/Help/118406┃When a person dies, their soul will head to the afterlife.\nHowever, dying from this weapon appears to banish their soul even\nfurther. Perhaps to the North Star?
+Item/Help/118407┃Finally, something to look forward to.
+Item/Help/118501┃Shoot at a starlight.
+Item/Help/118502┃It was also used on turtle ships.
+Item/Help/118503┃A sniper rifle with such precision that you can see the Andromeda Galaxy just by aiming. Able to penetrate enemies in a flash.\nWait... did you just see a light?
+Item/Help/118504┃A gun so lethal that it turned the spouses of enemy soldiers into widows, hence the name Widow Maker.\nIn this hopeless battlefield, the last step is never home.
+Item/Help/119101┃A chain rope made by connecting steel rings. Widely used as a\nweapon in the past and by ghosts to rattle the unsuspecting.
+Item/Help/119201┃This weapon is not a good choice for beginners to choose for\nself-defense. Only those who have trained for many hours have\nmastered this weapon and will exert its true potential and not hit themselves in the face.
+Item/Help/119401┃Invented by the one and only Emperor Taizu,\nfounder and first emperor of China's Song Dynasty, and most skilled martial artist of every emperor.
+Item/Help/119402┃You can't stop this!
+Item/Help/119403┃The three-headed hellhound that protects the gates of Hades.
+Item/Help/119404┃Blue three... Blue tree... Bruce Lee...
+Item/Help/119501┃When you wield it, your courage will rise as if you were immortal.
+Item/Help/119502┃If we meet in the sky, may we be fellow travelers, and if we meet on the ground, may we be friends.
+Item/Help/120101┃An item with multiple uses; limited only by your imagination.
+Item/Help/120201┃A one-handed sword for personal combat with a long, thin blade\nideal for stabbing. Used mostly in the 16th and 17th centuries.
+Item/Help/120301┃Have a fragrant death.
+Item/Help/120302┃Historical texts state that Hong Gil-dong, the Robin Hood of ancient\nKorea, used it.
+Item/Help/120303┃A mid-sized sword used in Europe from about the 14th - 17th centuries.\nIt was able to pierce chain mail with relative ease.
+Item/Help/120401┃This sword appeared in the epic French poem "The Song of Roland".\nThe original sword was broken into fragments after the death of Roland,\nbut the fragments that have been found hold an ancient and\nmysterious power and have been reunited in the modern version.
+Item/Help/120402┃When the day comes that blood stains my body, it will be the day you fear.
+Item/Help/120403┃The word "Volticletto" is a portmanteau of 'voltaic,' meaning related\nto electric current, and the Italian 'Stiletto knife'. Punctures from this\nweapon cause double the pain. Ouchy
+Item/Help/120404┃The silver-gray colored metals found in Meteorsteel can be used to\nmake a great sword with great strength. However, manufacturing\nit is no easy task.
+Item/Help/120405┃The sword changed colors from time to time as it glowed. It was only then that I realized why it was called "Joyeuse".
+Item/Help/120406┃A crimson blade capable of slashing through humans, much like its namesake.
+Item/Help/120407┃Wit never gets old.
+Item/Help/120501┃This rapier got its name because it resembles the feathers of a peacock\nand the eye of the giant, Argos. Blood from its\n enemies gives it a more luxurious feel.
+Item/Help/120502┃Offer me fresh blood,\nfor this body will become increasingly sacred to you, and you will humbly accept it.
+Item/Help/121201┃Some people think that the more expensive it is, the better it sounds.
+Item/Help/121202┃Single coil guitars generally have a brighter, crisper output, and\nsound clearer.
+Item/Help/121301┃A unique guitar that is as red as a ruby.
+Item/Help/121302┃A guitar with dual coil pickups. It has a darker output.
+Item/Help/121303┃This guitar has an unconventional V shape. Although it was sensational at\nrelease, it didn't see huge popularity.
+Item/Help/121304┃The most used title in art is "Untitled". Isn't there an unsaid rule that says\nnot to do that with guitar names?
+Item/Help/121305┃Collectively refers to the most famous types of guitars in the world.
+Item/Help/121306┃If it follows in the footsteps of the performance it takes its name from,\nyou can probably expect to be in front of a large audience with this one.
+Item/Help/121401┃"Bohemian" was first used to describe a part of the Czech population,\nbut it is now used to represent free spirits.
+Item/Help/121402┃Heaven might be all bright and shiny, but we can't say the same for\nthe stairway leading up to it. It might be covered in lead...
+Item/Help/121403┃Whether tomorrow is waiting for you, or if it's really the end of time...\nthis island doesn't have the answer.
+Item/Help/121404┃The human nature of not being satisfied is what drives development.\nHumanity always blindly trusts evolution.
+Item/Help/121405┃If it's late in the evening, and you're wondering what item to craft,\ntry this one!
+Item/Help/121406┃The test subjects on this island might as well just be, all in all,\nbricks in a wall.
+Item/Help/121407┃Humans shine the most as teens. This shining aura fades slowly, but inevitably,\nas times passes by.
+Item/Help/121501┃Did you know that the traditional Indian instrument, the sitar, was used on one of the greatest rock 'n' roll albums?
+Item/Help/121502┃How to heal a broken heart with another love.\nAfter a painful breakup, it's time to move on and find your next love.
+Item/Help/122101┃An ordinary lens that fits into a camera.
+Item/Help/122301┃A small camera that's easy to carry around.
+Item/Help/122401┃I'll turn you into a work of art.
+Item/Help/122402┃A scope with cutting-edge features.
+Item/Help/122403┃You'll need some serious arm strength to carry this camera around.
+Item/Help/122404┃Is the last picture taken... going to be my portrait?
+Item/Help/122405┃An instant camera that lets you instantly print the photos you take.
+Item/Help/122501┃A camera with a gunstock attached. They say it's for stability, but it's easy to misunderstand because it looks like a gun.
+Item/Help/122502┃A large camera that can take super resolution photos in one shot.
+Item/Help/130101┃How about a game of marbles with this?
+Item/Help/130201┃When you look into the bead, a world is trapped inside.\nIt's as if this bead is a mirror that can hold the whole world!
+Item/Help/130202┃Ice balls made from angled ice cubes.
+Item/Help/130301┃Only those with passion, determination, and a fighting spirit can navigate this harsh world!
+Item/Help/130302┃Life is all about emotions, love, and eternal agitation.
+Item/Help/130303┃The most important thing is the determination and reason of the person holding the sword.
+Item/Help/130304┃Only prosperity and abundance can promise a stable life.
+Item/Help/130401┃You who hold this lamp, your wisdom will shine.
+Item/Help/130402┃Cruel or merciful, the universe stops for nothing.
+Item/Help/130403┃True change takes time. Remember that patience is infinite.
+Item/Help/130404┃Is the light in the distance my guide, or is it just an illusion?
+Item/Help/130405┃Although it always shows the same side, the moon's ever-changing face seems to resemble a person.
+Item/Help/130501┃It embraces everything and fills you up. Pure love is like that.
+Item/Help/130502┃Some deaths leave behind love, some leave behind regret,\n and some mark a new beginning.
+Item/Help/201101┃If you use a cheap one, the glue might stick to your hair or ears.
+Item/Help/201102┃Nothing beats than a simple cap when it's sunny, raining,\nor snowing.
+Item/Help/201104┃A shabby and cheap looking helmet for when you take your\nbike for a spin.
+Item/Help/201201┃If you can escape from Lumia Island, try visiting the\nCarnival of Venice. It's one of the most popular festivals in the world!
+Item/Help/201202┃A simple accessory worn on the head. It looks rather plain.
+Item/Help/201203┃The trademark hat of painters and soldiers. It gets sweaty inside\neasily and it doesn't block the sun, but at least it looks cool.
+Item/Help/201204┃A piece of defensive equipment that was commonly used in\nMedieval Europe. It's quite heavy, but has good defensive capabilities.
+Item/Help/201205┃Please wear your personal protective equipment in all construction areas.
+Item/Help/201301┃Battered and tattered Ballistic Helmet. Initials marked inside\nthe helmet scratched out and written over. Seems it's been passed around\nplenty of times.
+Item/Help/201302┃Head protection for firefighters. Strong resistance to flames and heat.\n(Flashlight sold separately)
+Item/Help/201303┃A crown-like accessory for the head. Worn by both princesses\nand beauty pagent winners.
+Item/Help/201304┃Only a fool tries to stop the unstoppable.
+Item/Help/201401┃The one to wear the crown must bear its weight.
+Item/Help/201402┃A helmet made out of steel to protect the head of its wearer.\nIt's heavy, but it makes you feel safe.
+Item/Help/201403┃A helm made of mythril that's been reforged through generations.\nDelicate reliefs carved into the surface hint at the\ncraftsmanship invested into it.
+Item/Help/201404┃A tiara made of crystals. The intricacies are impressive. (And shiny)
+Item/Help/201405┃Remember to wear a helmet when riding a motorcycle.
+Item/Help/201406┃A tactical helmet used by special forces. Military grade\ncommunication technology is built-in.
+Item/Help/201407┃The war has begun and the righteous knight stands at the vanguard.\nMay the blessings of victory be upon him.
+Item/Help/201408┃A crown made of branches of a laurel tree, which is a symbol of\nApollo. Crowns symbolize wealth, but a laurel crown\nsymbolizes honor.
+Item/Help/201409┃A crown built for the first and only monarch of the Kingdom of Finland,\nFriedrich Karl. However, due to the adoption of the republican constitution\nbefore the coronation, the crown has never been used since.
+Item/Help/201410┃An extravagant burgonet used by the imperial family. Unlike a basic\nhelmet, it is lavishly decorated.
+Item/Help/201411┃In The King of Masks, a traditional Chinese play, they are known for switching\nbetween dozens of masks in an instant - almost as if it was magic.
+Item/Help/201412┃Named after the indigenous Keepers of the Eastern Door, it's a unique helmet with unique sensibilities.
+Item/Help/201413┃If you shout "Help!", a superhero wearing this helmet will arrive.
+Item/Help/201414┃A crown with luxurious decorations. \Known as the crown of the ancient Oriental Empire.
+Item/Help/201415┃The helmet of a knight in shining armor.
+Item/Help/201416┃A wreath made by plucking flowers in full bloom. No crown can match its beauty.
+Item/Help/201516┃A crown of heavenly melodies sprinkled across the petals. It's like a celestial glow.
+Item/Help/201417┃The hat of a white horse-riding gunslinger.\nIt smells overwhelmingly like gunpowder. Yeehaw!
+Item/Help/201418┃Your hair will stand on end when you wear it, but don't worry. Because no one else can see it!
+Item/Help/201501┃It is by suffering that human beings become angels.
+Item/Help/201502┃You'll feel empowered to defeat the forces of darkness, and when you're done, you can sell it and save for retirement!
+Item/Help/201503┃Said to be used by a band of phantom thieves.
+Item/Help/201504┃A legacy left by an unknown sultan. Despite being old, this item seems more practical than you think.
+Item/Help/201505┃This full-face helmet is made from carbon material and can provide excellent protection to its user.\nHowever, people with large heads may require this helmet to be customized.
+Item/Help/201506┃The hat of the sheriff who guards the Wild West.\nStars can be seen twinkling, even at the end of the dusty, windy wilds.
+Item/Help/201507┃A helmet used to traverse outer space.\nHurry up and you might be able to reach the galaxy that is shining through the window.
+Item/Help/201508┃A helmet made by a race of dwarves.\nThe skilled wizards and blacksmiths' armor is said to be imbued with mystical powers.
+Item/Help/201509┃A dazzlingly decorated hat.\nIt is said that beauty is the best weapon and defense.
+Item/Help/202101┃A jacket that keeps you warm by blocking out the wind.\nIf it's snowing, you'll probably need something warmer.
+Item/Help/202103┃Clothing for monks. The arm of each side is divided into four parts,\nrepresenting Manjushri, Samantabhadra, Guanyin,\nand Ksitigarbha
+Item/Help/202104┃A white gown that scientists and doctors wear. Feels sterile.
+Item/Help/202105┃A kind of swimsuit that covers parts of the legs and arms or the\nwhole body from neck down. Also known as a full body swimsuit!
+Item/Help/202106┃Garment made from fabric. It doesn't seem to protect you from much.\nGood luck.
+Item/Help/202201┃Made from leather and stronger than garment made from just fabric!\nRewarded if your daughter catches a criminal.
+Item/Help/202202┃A reliable jacket that doesn't tear easily. Useful in most\nweather conditions.
+Item/Help/202203┃A martial arts uniform worn by ninja turtles. They're obviously giant\nturtles, why do they need masks?
+Item/Help/202205┃Like a school uniform, these military uniforms get some people\nexcited! But when you actually see them out in the street...meh.
+Item/Help/202206┃Made by patching together various robes. Might be more reliable\nthan a regular robe.
+Item/Help/202207┃Historically, not only women wore dresses as casual attire. In fact,\nit's only been about 600 years since men started wearing pants.
+Item/Help/202208┃A man's ceremonial shirt, worn under a suit jacket. Good for\ndressing up, but a bit restricting to move in.
+Item/Help/202209┃It's a bikini made of a thin fabric. A crowd favorite for\neveryone on the beach. Men can wear it too, I don't judge!
+Item/Help/202210┃A diving suit with filler between the inner and outer skin. It excels\nat maintaining body temperature and enduring higher pressure.
+Item/Help/202211┃A type of vestment worn by Christian clergy,\nan outer garment that reaches down to the ankles.
+Item/Help/202301┃Worn more often as a fashion statement than for actual riding.
+Item/Help/202302┃Armor used in both Asia and Europe in the past. Made out of interconnecting\nmetal links.
+Item/Help/202303┃A sharp outfit that can be worn for any special event! Or if your office\nhas a dress code!
+Item/Help/202304┃A traditional Chinese dress. They vary in style from simple cotton\ndresses to silk ones with elaborate fine details.
+Item/Help/202305┃Armor comprised of several layers of metal plates. Sheet Metal Armor\nis effective at withstanding slashing and striking attacks,\nbut is weaker against long-range weapons.
+Item/Help/202306┃A traditional Korean dress. The diverse range of colors and elegant\nembroidery enhances the harmony of curves and straight lines.
+Item/Help/202307┃A priest's robe with a small hooded short cape attached, unlike regular priestly robes.
+Item/Help/202401┃A vest used to protect your torso from bullets. The rest of the\nbody is still vulnerable, though.
+Item/Help/202402┃Made of leather, it features a ruby that shines like a bright, red\nsun.
+Item/Help/202404┃The uniform worn by agents that performed special missions for\nthe King. Secretly.
+Item/Help/202405┃In the right environment, body parts covered by the suit become\ninvisible.
+Item/Help/202406┃There's something burning in my HEART. Today, I can do anything.
+Item/Help/202407┃Normal chain armor cannot completely protect its wearer from external\nimpact, but the mythril material on this armor defies\nthe normality of chain armor.
+Item/Help/202408┃Some say that this armor provides special protection from the undead.\nIt's a shame there's no zombies around here.
+Item/Help/202409┃Armor that is beautiful in both design and name.
+Item/Help/202410┃Armor bestowed upon female warriors with outstanding archery ability\nand agility. Allows for flexibility and protection.
+Item/Help/202411┃A martial arts uniform designed for mental and physical training.\nYou only qualify to wear this if you fulfill a particular set of prerequisites.
+Item/Help/202412┃It's the General's armor, so it gotta be the strongest armor in town.
+Item/Help/202413┃A graceful and courteous attitude, a soft tone, and a swallow-tailed\nblack coat are the essentials of a butler. We can get a taste of high society\nby looking at them.
+Item/Help/202414┃The traditional clothing of mounted nomads. It is well insulated\nand comfortable for horseback riding.
+Item/Help/202415┃A futuristic combat suit. It's made with bulletproof material that makes\nit great armor. However, when worn in hot areas, you might die of\ndehydration before encountering a single bad guy.
+Item/Help/202416┃You don't have to worry about the freezing winter.
+Item/Help/202417┃Originally developed as a bulletproof vest, often used at bomb\ndisposal sites due to its protection.
+Item/Help/202418┃The fanciest of suits. You don't even own these, you rent them!\nAdd a mask to the mix and you're the king of mystery.
+Item/Help/202419┃Robes once worn by ancient priests.\n\nThe textiles aren't naturally white, so they had to bleach them first. \nWhite robes were a sign of wealth due to the cost of keeping them clean.
+Item/Help/202420┃Traditional dress of nomadic horsemen. Very suitable for keeping warm and windproof because it does not have a front hem,\nand it is easy to ride a horse because it is open on the sides.
+Item/Help/202421┃A combat uniform for the sake of beauty... Who the heck designed it?
+Item/Help/202422┃Clothes that don't burn easily. With these clothes, you won't be afraid of open flames!
+Item/Help/202501┃The armor of Karna, hero of the epic, Mahabharata. The armor\nbecomes one with the body.
+Item/Help/202502┃A magical cloak that only a true queen can wear. The magic from the\ncloak protected the Queen, but its power hasn't been\nused for a while...
+Item/Help/202503┃Remember that true authority is service.
+Item/Help/202504┃A classy suit in wine color.\nThe good thinf is that blood on your clothes won't show up.
+Item/Help/202505┃A traditional outfit that symbolizes Vietnam. Simple, but so beautiful.
+Item/Help/202506┃When I run, hell shall follow.
+Item/Help/202507┃The ultimate active battle suit that has built-in AI. However, you can't scratch an itch while wearing this suit.
+Item/Help/202508┃A dress that's light enough to fly, but stronger than most metals!
+Item/Help/202509┃Wing-like clothing, made from a thin layer of beautiful silk.\nIt's so soft and light that you will feel like you're actually flying!
+Item/Help/202510┃A suit that tricks the enemies' sight, sound, and even smell .\nIt doesn't trick their sense of touch though so feel free to punch that one guy that you hate.
+Item/Help/202511┃A cloak as red as blood.\nWho could have used such a thing?
+Item/Help/202512┃A leather coat worn by the head of the mafia.\nThey say that one pitch-black night, the man who wore this hunted down a traitor who had broken their "Code of Silence".
+Item/Help/202513┃The jacket of a legendary rock star.\nWhen light hits the numerous metal studs, it sparkles like hundreds of shooting stars.
+Item/Help/202514┃A dress sewn by a famously picky fashion designer who wants everything to be perfect.\nThe shawl over the arm adds a touch of elegance.
+Item/Help/202515┃A tactical vest with great body protection.\nMainly worn by vanguards in charge of scouting and advancing in front of the main unit.
+Item/Help/202516┃This dress looks like something a fairy would wear in a fairy tale, and it makes you feel lighter when you wear it.
+Item/Help/203101┃Does anyone have the time?
+Item/Help/203102┃A patch that's pretty stretchy. It's good for covering injuries.
+Item/Help/203103┃Can be worn on eother forearm. Somewhat effective in protecting you\nfrom bird claws and other sharp things, or if you spill\ncoffee on your sleeves.
+Item/Help/203104┃A metal bracelet. It feels tight. Maybe you're just nervous.
+Item/Help/203201┃Strong, but flexible. Not the best for blocking sharp attacks, but it's better than nothing.
+Item/Help/203202┃An armband normally worn by a squad commander. How did you get this?!
+Item/Help/203203┃Throw this on your wrist to protect yourself from the bow string.
+Item/Help/203204┃At least it's right twice a day!
+Item/Help/203301┃Used to keep your blade sharp. Often decorated with jewels.
+Item/Help/203302┃Most gold accessories are actually gold alloys. True gold\nis too soft. This golden bracelet would have been worth far more\nif it were 100% gold.
+Item/Help/203303┃Older styled forearm protectors to protect your, well, forearms.
+Item/Help/203304┃A handcrafted bracelet made white jade.\nOriginally a vibrant white hue, it becomes red the longer it is worn.
+Item/Help/203305┃Should we call it a thorny flower?
+Item/Help/203306┃Caution: Always wash your hands after use.
+Item/Help/203401┃A durable shield made of metal and leather.
+Item/Help/203402┃It is, quite literally, armor that protects from swords. The\nhooks on it catch and entangle blades
+Item/Help/203403┃The magical golden bracelet of the Norse God, Odin. It has the power\nto provide unthinkable riches... and a full stomach.
+Item/Help/203404┃A shield made with mythril. It's light, but the strength is beyond\nimagination.
+Item/Help/203405┃Vital signs ahead!
+Item/Help/203406┃Shielding is not just a skill that must be mastered by a knight,\nbut also symbolizes a knight's creed to protect the weak.
+Item/Help/203407┃A sheath used by the emperor of India's great Mughal Empire.\nDue to the jewels around the sheath, historians doubt its use in battle.
+Item/Help/203408┃Made from unknown extraterrestrial material.\nWhat happens if I spin it?
+Item/Help/203409┃Crafted by Hephaestus, the Greek god of blacksmiths on the behest of Athena, the goddess of war.
+Item/Help/203410┃Although crafted with the Hounds of Tindalos in mind, this terrifying bracelet somewhat resembles a bat more than a hound.
+Item/Help/203415┃You can gather the Minutemen just by putting it on.
+Item/Help/203501┃A bracelet worn by Skadi, a Norse Goddess associated with winter.\nDo you feel a chill?
+Item/Help/203502┃If you can get it working properly, it might help you find the location\nof anyone in the world.
+Item/Help/203505┃It seems that people call it the 'Centipede's Pauldron' because it has spikes coming out that look like a centipede.\nI can't accept the fact that the name was given out of such laziness.
+Item/Help/203506┃It's a sports watch that dared to use a skeleton design. Of course, this watch doesn't offer any sports functionality. A dumb product that was buried in its concept.
+Item/Help/203511┃This armor protects from enemy attacks with its sharp, pointy thorns and deals damage in return.
+Item/Help/203512┃Gloves with knives for fingers. Just like a poisonous snake, it's silent until delivering the fatal blow.
+Item/Help/203513┃A wrist-mounted arm protector that modifies your DNA the moment you put it on, increasing Shield and Attack Power.
+Item/Help/203514┃Armbands are supposed to be heavy... but this one is very light. Maybe because it's made of Mythril...
+Item/Help/204101┃A slipper soaked in sweat. The stench alone makes it a serious contender\nas a lethal weapon.
+Item/Help/204102┃Everyone likes running shoes. (You can walk in them, too y'know.)
+Item/Help/204103┃It's thin and tight. You can wear them on your legs or over your head\nif you're going to rob a bank.
+Item/Help/204201┃Learning to ride a bike? Put these on.
+Item/Help/204202┃Protective leg equipment. Very effective and easily made.
+Item/Help/204203┃Makes you a bit taller. Maybe the air is fresher up there.
+Item/Help/204204┃They look like regular shoes, but you can ride them like rollerblades\nbecause of the wheels mounted in the heels.\nThat's just the way I roll.
+Item/Help/204302┃Protects your feet and calves. Don't wear them too tight -- it\nmight restrict your bloodflow.
+Item/Help/204401┃A kick to the shin is a favorite among angry girlfriends.\nKeep your shins protected.
+Item/Help/204402┃They feel as light as a feather! Maybe because that's what they're made of!
+Item/Help/204403┃Heelys designed using futuristic concepts by the world renowned\nfashion company, Soberef. The parts are even certified by the\nFederal Aviation Administration. They are driven by linear motors that can get\npropulsion even when stopped, and there are eight compressed gas\ninjection devices on the front allowing for limited three-dimensional\noperation. Also, they're LOUD.
+Item/Help/204405┃Heels sharp enough to be used as weapons themselves.
+Item/Help/204406┃180,000 miles in a single step?
+Item/Help/204407┃Boots made out of mythril. Stronger than steel and fireproof too!
+Item/Help/204409┃Boots worn by explosives disposal teams. They protect the wearer's\nlegs from shrapnel if something goes wrong.
+Item/Help/204501┃Shoes worn by Hermes, the Greek God of Travellers.\nTry them on, you'll feel like you're floating.
+Item/Help/204503┃An assassin's high-cut boots with protruding knives.\nIt's hard to inflict wounds if these boots are not made skillfully.
+Item/Help/205101┃Great for heat preservation or just for decoration!
+Item/Help/205102┃Roses are red, violets are blue, this flower makes good items,\ntry crafting them too.
+Item/Help/205103┃It'll be pretty if you put it in your hair.
+Item/Help/205105┃Sure, it's a bit old, but the wind from this fan isn't.
+Item/Help/205106┃Smells like incense. No idea what it says, though.
+Item/Help/205107┃...It's an empty box.
+Item/Help/205108┃A relic that has materializes through various trials\nand adventures in Medieval myths. Many knights endured the trials,\nyet none ended up with a happy ending.
+Item/Help/205109┃It's a cross.\nAcross from where?
+Item/Help/205110┃These don't seem to zoom in much. Perhaps it's because\nthey're homemade.
+Item/Help/205201┃Though a person may make plans in life, it is the heavens that will\nbring them to fruition.
+Item/Help/205202┃The last relic of one who fought to save those who have\nfallen, despite being betrayed, tortured, and crucified.
+Item/Help/205204┃Be careful not to cut yourself on the sharp edges.
+Item/Help/205205┃Aren't you a little old to be playing with dolls?
+Item/Help/205206┃You might be able to improve your accuracy with this on a rifle or other firearm.
+Item/Help/205207┃A relic found in the ashes from the body of Buddha. It smells\nvaguely of incense.
+Item/Help/205208┃Rather pointless by itself. On the other hand, if you stash\nsome arrows in it...
+Item/Help/205211┃A ritual tool that is less practical but has a strong symbolic meaning.
+Item/Help/205212┃Great to put next to the Jolly Roger on your wall for\nall you aspiring pirates.
+Item/Help/205301┃A powder that summons the spirits. Better combined with\nother items to make something mystical.
+Item/Help/205302┃A fan with your favorite celebrity's face printed on it. It might block\nthe view of the person behind you, so keep it at home during the concert.
+Item/Help/205303┃You can't fire a gun with nothing in the magazine.\nI mean.. you could try?
+Item/Help/205304┃During the Cold War era, the most destructive branch of the army\nwas the nomad troops, which possesed mobility and superior range.
+Item/Help/205305┃King Goujian of Yue swore revenge against his rival and used this sword\nto see it through.
+Item/Help/205306┃The mark of a tried and true pirate.\nIf anything happens in the future, you'll always have proof that you sailed the seven seas.
+Item/Help/205308┃Raise the Jolly Roger!
+Item/Help/205313┃Similar to a jackhammer but stronger. Uses gun powder to drive the piston.
+Item/Help/205401┃It is not just a simple pendant. Magical powers are unleashed\nwhen shining a particular light through it.
+Item/Help/205402┃It seems different from normal ice. It practically burns me to\nthe bone by just looking at it. Keep it out of your lemonade.
+Item/Help/205403┃Flames captured in a delicate glass sphere. Ascetics used it to escape.
+Item/Help/205404┃The cat inside the box is both alive and dead at the same time.\nUse it to show off your knowledge of quantum physics.
+Item/Help/205405┃Truth is my light.
+Item/Help/205406┃I raised my cup to invite the moon\n\nTurned to my shadow, and we became three
+Item/Help/205501┃Luck or misfortune, this dice will know your fate.
+Item/Help/205502┃Fan it once for strong winds, twice to cause rain, and three times for a great typhoon.
+Item/Help/302101┃Sweet and sticky. A natural ingredient that is good for cooking\nor just eating raw!
+Item/Help/302102┃You can't live without it.
+Item/Help/302103┃Without teeth, use gums! Without water, use ice!
+Item/Help/302104┃A classic liquor made by distilling grain. Used as the main ingredient\nin many cocktails, but popular just by itself.
+Item/Help/302106┃Don't talk to me until I've had my fourth morning coffee.
+Item/Help/302107┃It would probably be tasty if you made juice with this.
+Item/Help/302201┃Put something in it before it cools down.
+Item/Help/302204┃A traditional Chinese liquor. Typically made from Sorghum.\nOften regarded as the best selling spirit in the world,\ndue to China's affection for it.
+Item/Help/302205┃Although this hard liquor might smell like disinfectant, it's loved by\nKoreans and can be found at every single social gathering.
+Item/Help/302206┃You take it with cream and sugar?
+Item/Help/302207┃The origin of cocktails is actually unclear.\nIt's also unclear how they come up with the names for some of them.
+Item/Help/302208┃A very popular liqueur. It goes well with milk...or vodka.
+Item/Help/302215┃It is good for recovering stamina or if you have a sore throat.
+Item/Help/302216┃You can even chew on the leftover ice after you drink it.
+Item/Help/302301┃A very strong 100-120 proof alcohol. It has a clean, soft taste and\ndelicate scent.
+Item/Help/302302┃Did you ever hear that lukewarm honey is a cure for hangovers?
+Item/Help/302303┃Made with real flowers for a unique taste!
+Item/Help/302304┃For those who don't drink coffee, this tastes like bitter water.
+Item/Help/302305┃It's sometimes consumed for its medicinal properties as it is made from\nmedicinal herbs.
+Item/Help/302308┃Clean water fetched from the well early in the morning. It can be used\nfor medicine or to drink while praying for victory.
+Item/Help/302310┃A sweet, warm drink with cocoa powder and milk.\nTry it with marshmallows!
+Item/Help/302312┃A tear shed from the Goddess of the Moon.\nDrinking it is said to empower effects of the moon on you.
+Item/Help/301102┃Boil them, mash them, or stick them in a stew. They're also delicious\neaten raw.
+Item/Help/301105┃I feel like these used to look... different.
+Item/Help/301106┃A delicious addition to many dishes. Also great for keeping\naway vampires.
+Item/Help/301107┃Useful because it sticks to skin well and doesn't fall off easily.\nJust don't keep it on for too long.
+Item/Help/301109┃A carp is actually good for throwing. I don't think the carp\nlikes it though.
+Item/Help/301110┃A staple food. You can also staple it to trees.
+Item/Help/301113┃Put it in a bag, smash it into pieces, add some spices,\nshake it up, and eat.
+Item/Help/301116┃An herb used in traditional medicine.
+Item/Help/301119┃When you're low on sugar, eating this makes you feel strong and happy.
+Item/Help/301120┃Would taste great if it were cooked with hot water.
+Item/Help/301205┃One of the most delicious substances known to man.
+Item/Help/301207┃As effective as it is bitter.
+Item/Help/301209┃Carefully contemplate where to take your first bite.. the head or the tail?
+Item/Help/301305┃Holy water. Good for body and spirit.
+Item/Help/301216┃Delicious frozen or in the microwave. You can even just eat the\nmarshmallow in between.
+Item/Help/301217┃It stings.. but only just a little.
+Item/Help/301235┃A nice treat to celebrate the 1st anniversary of Eternal Return. It tastes like chocolate chip cookies.
+Item/Help/301302┃This is undoubtedly the ultimate form of potato. Don't deny it.
+Item/Help/301303┃Just add butter and salt for a fantastic side dish!
+Item/Help/301304┃Fish is actually one of the most common foods to choke on...
+Item/Help/301307┃With chopped onions and egg it tastes heavenly. You probably\ncan't stop yourself from slurping it up when you eat.
+Item/Help/301308┃Bread with a slight coffee flavor.\nTry it sometime - it goes great with breakfast.
+Item/Help/301309┃A common egg variety, competing with sunny-side-up.\nWhen you have no butter or milk, why not scramble an egg?
+Item/Help/301311┃A timeless classic, the chocolate chip cookie is the king of snacks.
+Item/Help/301312┃A box of choco pies is like a first-aid kit for your soul.
+Item/Help/301313┃Curry is a dish made by mixing many different kinds of spices.\nOne of the main ingredients is turmeric, which may help prevent\nAlzheimer's disease.
+Item/Help/301314┃A concoction prepared by brewing medicial herbs.\nRevitalizes the body.
+Item/Help/301316┃If it can fly and has wings and a beak, it's definitely a chicken.\nIt could actually be a crow, pigeon, or whatever, but once you fry it,\nit will still be Fried Chicken.
+Item/Help/301317┃Also known as modern medicine.
+Item/Help/301324┃The best bet for treating injuries. If you're in a hurt, this looks more\nlike a treasure chest.
+Item/Help/301327┃Are there.. too many different ways to eat ramen?
+Item/Help/301329┃If you count the three major elixirs in the martial arts world, one place\nis always the Great Hall of the Shaolin Monastery. The other two are up to the writer.
+Item/Help/301331┃You can't compete with expertly cooked ramen.
+Item/Help/301347┃I asked for no cucumbers...
+Item/Help/301348┃A cake full of joy to celebrate a year of awesome memories together!
+Item/Help/301403┃Everyone's favorite combo meal prepared by Eleven herself.
+Item/Help/301407┃Ready in minutes.
+Item/Help/301408┃To some, it's a toothpaste twist, to others, a divine delight.\nTaste and decide!
+Item/Help/301503┃A Thanksgiving favorite.
+Item/Help/301598┃Crumbly, Crunchy and Crispy!
+Item/Help/401103┃Are there any beasts around? Leather is versitile and can be used\nin tons of different ways.
+Item/Help/401104┃Reminds me of a sandbox I had as a kid.
+Item/Help/401105┃A material that is always elastic. Unlike your cheeks, which lose\nelasticity day by day.
+Item/Help/401106┃Very old, beat up metal. Can you craft a weapon out of this?
+Item/Help/401107┃If you use all the fluid, it might feel a little lighter.
+Item/Help/401108┃A useful addition when aiming weapons or pointing at the whiteboard.\nMade from a cell phone battery and a laser.
+Item/Help/401109┃A form of identification that verifies the recognition of the royal\norder. There have been many cases where royalty have used this for inspection\npurposes.
+Item/Help/401110┃Would be good for a flashlight, remote control, or your\nbeeping smoke detector.
+Item/Help/401111┃Whenever you smell this, either a laboratory or a hospital might\ncome to mind.
+Item/Help/401112┃At room temperature, this fatty component exists in liquid form.
+Item/Help/401113┃Made by weaving fibers. Different thread types make different fabrics.
+Item/Help/401114┃An unrefined outrageous gemstone. Could be worth something in the right hands.
+Item/Help/401116┃Why doesn't it stick to itself in the bottle?
+Item/Help/401118┃Just the ore. Extract the iron to make it useful!
+Item/Help/401120┃Is there even one little sip left?
+Item/Help/401121┃Explosive powder. It goes in guns. Boom.
+Item/Help/401201┃Just some strong steel. They could name a football team after this.
+Item/Help/401202┃Oiled cloth. Might be needed for something involving fire.
+Item/Help/401203┃Heated oil. It was sometimes used as a thermal weapon in the past,\nbut now mostly used for cooking.
+Item/Help/401217┃Rubies and sapphires actually have the same chemical composition and\nmineral structure! However, rubies have a small amount\nof chromium that makes them appear red.
+Item/Help/401205┃Rest in peace, battery.
+Item/Help/401206┃White powder made from ground-up chalk.
+Item/Help/401208┃A tree that accumulated a lot of vital force over a long time. Also known\nas the World Tree, it symbolizes the origin of the universe and the root of life.
+Item/Help/401209┃A stone containing traces of alien vital force. It has mystical effects.
+Item/Help/401210┃The remains of burning something.
+Item/Help/401211┃This has gotta be a part of something bigger.
+Item/Help/401212┃An elaborate blueprint. What on earth do all the lines and\nnumbers mean?
+Item/Help/401213┃This will give you goosebumps if it's scratched with fingernails.
+Item/Help/401214┃Soft, valuable, and gorgeous. A must have for any piece of jewelery.
+Item/Help/401301┃A jewel with a subdued shine.
+Item/Help/401302┃DO NOT DRINK.
+Item/Help/401303┃The motor itself is useless, but you can probably turn it into something\ngreat.
+Item/Help/401304┃This silver metal has the best reaction to vital force.\nIt was strengthened due to its long exposure to VF.\nLight as a feather, but stronger than steel.
+Item/Help/401305┃A glass panel used for a display. If you break the one on your TV,\nyou gotta replace it with a new panel. At that point,\nyou might as well just get a new TV.
+Item/Help/401306┃A high capacity battery made of lithium ion that can be recharged\nmany times.
+Item/Help/401401┃Only the strongest can get this blood sample.
+Item/Help/401403┃This seems to hold untapped power.
+Item/Help/401405┃A low-probability byproduct of an organism's transformation by VF that responds to physical impact.
+Item/Help/401406┃A low-probability byproduct of VF-induced mutations in organisms. They are sensitive to powerful VF waves.
+Item/Help/501401┃I'm not getting any bars here...
+Item/Help/501501┃What's the password for the wifi?
+Item/Help/501402┃I can't believe I lost my login info...
+Item/Help/501502┃By hacking the control system of Lumia Island, all Restricted Areas\nare unlocked, and the research facility control room becomes accessible.\nRequires Stamina
+Item/Help/502101┃A surveillance camera that reveals up to 7m of its surroundings.
+Item/Help/502102┃A device used to entangle legs. It's more effective when hidden.
+Item/Help/502103┃This is for a mouse or a rat jam, not a person.
+Item/Help/502104┃...where did you find a piano?
+Item/Help/502201┃A surprising number of people have fallen victim to this device.
+Item/Help/502202┃Mousetrap: new and improved. Now works better on humans.
+Item/Help/502203┃Try and get out of range before it explodes.
+Item/Help/502204┃It's used for hunting, but it can really injure someone if stepped on.
+Item/Help/502205┃Looks harmless, but if you put this on the ground and trap\nsomeone, they won't be going anywhere.
+Item/Help/502206┃Use this item to make noise in the current area. Or craft it into something else.
+Item/Help/502207┃A telephoto camera that reveals up to 13m of its surroundings.
+Item/Help/502208┃A recon drone that grants you vision of the targeted location.
+Item/Help/502209┃A telephoto camera that reveals up to 13m of its surroundings. It is camouflaged with branches that makes it blend into its surroundings.
+Item/Help/502211┃A special camera with long vision toward the direction of your choice.\nGain 45 degree vision in the installed direction.
+Item/Help/502302┃A roulette trap that contains a somewhat familiar decoy.
+Item/Help/502303┃Look out France, a new guillotine is in town.\nA blade hidden in the bush cleanly slices up any trapped victim quickly.
+Item/Help/502304┃Probably hidden under leaves or buried. Try not to step on one.
+Item/Help/502305┃As soon your trigger it, a huge axe swings down to slice victim.
+Item/Help/502306┃Explodes when touched. Try and set it down exactly where you\nthink your enemy will go.
+Item/Help/502307┃Stronger than TNT. Used common in historical conflicts,\nand still sees use in modern warfare applications.
+Item/Help/502308┃An EMP drone neutralizes traps and electronics.\nThis drone is also equipped with EMP shielding technology. After the EMP pulse, it lifts off and grants vision.
+Item/Help/502310┃Merciless trap that sends impulses to the peripheral nerves of the entire body, sending shivers down the spine.
+Item/Help/502401┃Mythril string, which is extracted from mythril, is thinner than\nstring but stronger than steel. Its near invisibility makes it\neven more threatening.
+Item/Help/502402┃Tons of needles shoot out with a blast. The needles can pierce\ndeep through the skin. Applying poison to the needles\ncauses near instant affliction.
+Item/Help/502403┃A hot trap that bursts into wicked flames when touched.
+Item/Help/502404┃Looks and feels like modelling clay, but is certainly much\nmore explosive.
+Item/Help/502405┃Two blades drop down to chop the trapped victim.\nOne blade would probably do the trick though...
+Item/Help/502406┃Anti-personnel mine that shoots iron pellets into the kill zone.
+Item/Help/502407┃When stepped on, the spiked metal plates snap up and trap the\nvictim in a painful spiked cocoon.
+Item/Help/502501┃A futuristic mine that can be activated far away and safe from danger.
+Item/Help/502502┃It has incredible killing power and destructive force.\nUse this trap as a last resort.
+Item/Help/999999┃A device built with now-lost technology. This device is automatically destroyed when data is transferred.
+Item/Help/204411┃What kind of rhino wears boots..?
+Item/Help/204412┃A futuristic exoskeleton that offers both mobility and protection.\nOnce you get used to it and loosen your death grip, it's supposed to be a pretty smooth ride.
+Item/Help/205210┃If you fan your face with this, try not to scratch yourself.
+Item/Help/103301┃The master of these swords from Florence says you can't use them separately.\nOne in each hand at all times.
+Item/Help/103501┃Named after the Greek mythological twin brothers, Castor and Pollux.\n Twins but with different dads!
+Item/Help/103502┃You'll love crafting these twin swords, just be careful if you feel wind but\n the weather isn't windy. Lloigor might be watching.

@@ -1,0 +1,1 @@
+GameSetting/AutoAttack┃Never: Will not automatically attack nearby enemies.\nDefault: Automatically attack enemies nearby. Will not automatically attack after crafting or collecting.\nAlways: Automatically attack enemies nearby unless you input the stop command, are resting, checking a box, or interacting with a Kiosk.

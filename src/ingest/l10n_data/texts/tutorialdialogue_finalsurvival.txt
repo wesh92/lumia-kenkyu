@@ -1,0 +1,15 @@
+TutorialDialogue/FinalSurvival/9┃We need to craft our weapon quickly.\nIf we go to Cemetery, Chapel, and Factory, we can get all the materials needed to craft an Agni.\nWhile we're on the way, It'd be nice to get some other materials for crafting some armor, too.
+TutorialDialogue/FinalSurvival/10┃Should we look for <color=silver>Gunpowder</color>?
+TutorialDialogue/FinalSurvival/11┃I think we can craft our weapon now. Let's hurry and make it!
+TutorialDialogue/FinalSurvival/12┃Great! Let's go to Chapel to get more materials.
+TutorialDialogue/FinalSurvival/13┃Where can we find <color=silver>Piano Wire</color>...?
+TutorialDialogue/FinalSurvival/14┃I found all the items I need from here!\nLet's head to the Factory to get the last materials we need to make the Agni!
+TutorialDialogue/FinalSurvival/15┃We should look for <color=silver>Battery, Scrap Metal, Oil, and Lighter</color> here.
+TutorialDialogue/FinalSurvival/16┃We're slowly gathering everything we need!
+TutorialDialogue/FinalSurvival/17┃Only one item left to find!
+TutorialDialogue/FinalSurvival/18┃I can finally make my targeted items! Let's do it.
+TutorialDialogue/FinalSurvival/19┃Alright!\nAll that's left is to go out and find enemies.\nI'll let you know the location of the others, but only this time! Press [M] to check their location.
+TutorialDialogue/FinalSurvival/20┃Since we're still in training, I think we should just craft Agni first.
+TutorialDialogue/FinalSurvival/5┃Staying in restricted areas is dangerous.\nWhen the timer hits 0, you'll explode! Get to a safe area or else... boom.
+TutorialDialogue/FinalSurvival/7┃Our inventory is full, we can't pick up anything else...\nDrag and drop items that we don't need out of our inventory and onto the ground.
+TutorialDialogue/FinalSurvival/8┃Looks like we gathered all the material we needed from here.\nLet's move to a different area to try to find other items.

@@ -1,0 +1,1 @@
+GameSetting/SkipResultAnimation┃Skip result animation

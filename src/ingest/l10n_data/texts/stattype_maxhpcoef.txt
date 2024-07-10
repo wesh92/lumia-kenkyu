@@ -1,0 +1,1 @@
+StatType/MaxHpCoef┃Max HP

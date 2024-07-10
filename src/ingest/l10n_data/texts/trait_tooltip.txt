@@ -1,0 +1,51 @@
+Trait/Tooltip/7000201┃Your 3rd basic attack or skill against the same test subject deals additional true damage and reduces their defense.
+Trait/Tooltip/7000401┃Gain a stack of Omnisyphon, Attack Power or Skill Amp every time you damage a test subject with a basic attack or an individual skill. At max Stacks, Attack Power or Skill Amp is additionally increased.
+Trait/Tooltip/7000501┃Damaging an enemy with a skill spawns a sprite that can chain to multiple enemy test subjects, starting with the one closest to them, dealing additional skill damage to each chained test subject. \nThe further the enemy, the stronger the damage dealt.
+Trait/Tooltip/7000601┃For each Basic Attack on an enemy test subject or every few seconds spent in combat, gain a stack of Adrenaline, granting additional Attack Speed.\nWhile at max stacks, your attack and movement speed are increased.
+Trait/Tooltip/7010101┃Gain Armor Penetration.
+Trait/Tooltip/7010501┃Deal extra damage to test subjects with a higher Max HP than you.\n
+Trait/Tooltip/7010201┃Deal more damage in Safe Zones after Final Restricted Areas are activated.
+Trait/Tooltip/7010301┃Restore damage dealt as SP.
+Trait/Tooltip/7010401┃You and your summons deal more damage and heal part of damage dealt to Wild Animals and Androids.
+Trait/Tooltip/7010601┃Killing a test subject, bear, or android will grant a stack of Anima Reaper. \nEach stack increases Attack Power or Skill Amp.
+Trait/Tooltip/7100101┃Immobilizing an enemy player increases your Defense.\nAfter you are finished increasing your Defense, you deal Skill Damage around you.\nEnemies hit are slowed.\n
+Trait/Tooltip/7100201┃Using a Weapon Skill makes you Ironclad, reducing your damage taken and granting you Tenacity.
+Trait/Tooltip/7100301┃Take less Basic Attack Damage when your HP is low.\nPart of the damage reduced is reflected to the inflictor as Cellular Damage.\n
+Trait/Tooltip/7100401┃Gain a shield proportional to your max HP that cleanses crowd control, debuffs, and grants additional movement speed when broken.
+Trait/Tooltip/7100501┃For every certain amount of HP lost in damage taken from enemy test subjects, gain a stack of Bitter Retribution. Damage taken is reduced based on the amount of stacks you have.\nAt max stacks, your next Basic Attack consumes Bitter Retribution's stacks to deal additional damage and apply a slow if a melee test subject uses this Augment.\n\nFor each stack that expires, recover an amount of HP.
+Trait/Tooltip/7110101┃Increase your Defense after gaining a shield from a skill or being healed by a skill or an augment.
+Trait/Tooltip/7110201┃Reduce damage taken when there are no allies near you.
+Trait/Tooltip/7110401┃Take less damage when immobilized.
+Trait/Tooltip/7110301┃Upon receiving critical strike damage, critical strike damage taken later is reduced.
+Trait/Tooltip/7110501┃Damage Reduction stats on items are effective on you.
+Trait/Tooltip/7110601┃Food/Beverages are automatically consumed, reducing the time it takes to finish and recover.
+Trait/Tooltip/7200101┃Healing and shields from your skills or augments are increased. Targets shielded or healed by you gain increased Attack Power or Skill Amp.
+Trait/Tooltip/7200301┃If you and your ally test subjects take damage while below a certain amount of HP, a Healing Drone will follow you.\nThe drone heals you and your allies in a certain range missing health every second.
+Trait/Tooltip/7200201┃Using your ultimate summons an Amplification Drone that follows you around, increasing Movement Speed and granting Skill Amplification to all allies in range.
+Trait/Tooltip/7200401┃Right after killing an enemy or a wild animal, moving towards another enemy test subject increases movement speed and reduces your damage taken. Based on the type of kill, either HP is restored or taken damage is reduced.
+Trait/Tooltip/7200501┃Damaging an enemy test subject with a skill grants you and nearby allies a shield.\nAt low health, the shield's HP is doubled.\n
+Trait/Tooltip/7210101┃Immobilizing a target causes them to take increased damage from all sources.
+Trait/Tooltip/7210201┃Using your ultimate grants you and your allies in a certain range a shield.
+Trait/Tooltip/7210401┃Gain Telephoto Cameras every night.\nTelephoto Cameras is dropped on the ground if you have insufficient inventory space.\n
+Trait/Tooltip/7210301┃Increase your Vision Range at night by 1.25m.
+Trait/Tooltip/7210501┃You get a Claymore every night. It will drop to the ground if you run out of space.\n\n
+Trait/Tooltip/7210601┃Start the game with 'Clogs' equipped. Out of combat movement speed is increased while equipped with a Epic or Legendary leg item.
+Trait/Tooltip/7210801┃Items can be purchased from a Kiosk at a discount.
+Trait/Tooltip/7010311┃Recovers SP for a fraction of all damage dealt by you or your summons. In addition, your SP Regen is increased while in combat.
+Trait/Tooltip/7010701┃When dealing damage to an enemy, damage continues over 2 seconds.
+Trait/Tooltip/7110801┃At the end of each night, you get a Portable Campfire Kit. It will drop to the ground if you run out of item space. \n\nCrafting food/beverages increases out of combat movement speed for a period of time. \n\nAlso, the chance of getting good food ingredients from fishing and collecting potatoes is greatly increased.
+Trait/Tooltip/7110901┃The recovery of meat or meat-containing food is increased, providing instant recovery upon use.
+Trait/Tooltip/7211001┃Increases the damage you or your summons deal to wild animals. Killing a wild animal heals you for the amount of HP you lost, and your movement speed increases and then gradually decreases.
+Trait/Tooltip/7110701┃Gain a shield when using your ultimate.
+Trait/Tooltip/7010901┃Omnisyphon increases as you lose health.
+Trait/Tooltip/7011001┃Damage dealt to enemies with low health is increased.
+Trait/Tooltip/7211101┃Kill assists grant you additional credits.
+Trait/Tooltip/7310101┃You accumulate Adaptability, increasing your Attack Power or Skill Amplification over time.
+Trait/Tooltip/7310301┃Your Cooldown Reduction is increased. \nUpon reaching max cooldown reduction, additional cooldown reduction grants you Adaptability, increasing your Attack Power or Skill Amplification.
+Trait/Tooltip/7310401┃Dealing damage to an enemy increases your Armor Penetration for a short period of time.
+Trait/Tooltip/7310501┃Using an ultimate skill reduces the cooldown of that skill.
+Trait/Tooltip/7111001┃Your defense increases as you lose health.
+Trait/Tooltip/7300201┃Dealing great damage within a short period of time releases a ghost light that attacks the enemy, dealing damage over time and applying great healing reduction.
+Trait/Tooltip/7300101┃Your next basic attack deals additional damage and your basic skill's cooldown is reduced when you activate different skills {2} times within a certain period of time.
+Trait/Tooltip/7000701┃Your first {10} basic attacks are much faster, and the {10}rd one deals additional damage.
+Trait/Tooltip/7310201┃Recover HP equal to a portion of the SP consumed to activate a skill.

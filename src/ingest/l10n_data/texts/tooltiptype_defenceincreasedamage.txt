@@ -1,0 +1,1 @@
+ToolTipType/DefenceIncreaseDamage┃Damage based on Defense

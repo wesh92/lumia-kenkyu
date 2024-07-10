@@ -1,0 +1,1 @@
+ItemTag/Main_Attack┃<color=#ffb62f>Basic Attack</color>

@@ -1,0 +1,7 @@
+Installation/Name/1┃Glowing Flower
+Installation/Name/2┃Sandy Mushroom
+Installation/Name/3┃Healing Spray
+Installation/Name/4┃White Lily
+Installation/Name/5┃Abyss Jar
+Installation/Name/6┃Bomb Fruit
+Installation/Name/7┃Oil Drum

@@ -1,0 +1,3 @@
+Mission/8000101/1┃Achieve Victory in Cobalt Protocol
+Mission/8000101/2┃Play a Normal or Ranked match
+Mission/8000101/3┃Achieve Victory in Cobalt Protocol

@@ -1,0 +1,10 @@
+Loading/MatchingMode/Normal┃NORMAL MATCH
+Loading/MatchingMode/Cobalt┃COBALT PROTOCOL
+Loading/MatchingMode/Rank┃RANKED MATCH
+Loading/MatchingMode/Test┃PRACTICE
+Loading/MatchingMode/Practice┃PRACTICE
+Loading/MatchingMode/Custom┃CUSTOM GAME
+Loading/MatchingMode/CobaltCustom┃COBALT
+Loading/MatchingMode/Tutorial1_Re┃TRAINING
+Loading/MatchingMode/Tutorial2_Re┃TRAINING
+Loading/MatchingMode/Tutorial3_Re┃TRAINING

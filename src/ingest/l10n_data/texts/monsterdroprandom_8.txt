@@ -1,0 +1,1 @@
+MonsterDropRandom/8┃Drops an <color=green>Uncommon</color> or <color=#2AC0FF>Rare</color> that can be crafted together with <color=#2AC0FF>Mythril</color>.

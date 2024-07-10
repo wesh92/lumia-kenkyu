@@ -1,0 +1,1 @@
+ToastMessage/HyperloopNotBattlezone┃You cannot hyperloop to this area until the Battle Zone has ended.

@@ -1,0 +1,1 @@
+MasteryConditionType/MoveRange┃Walk 50m

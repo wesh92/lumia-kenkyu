@@ -1,0 +1,1 @@
+ToolTipType/AddFixedDamage┃Extra True Damage

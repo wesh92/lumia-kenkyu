@@ -1,0 +1,4 @@
+TutorialQuest/PowerUp/Main/Title/2┃Complete 2 targeted items
+TutorialQuest/PowerUp/Main/Comment/1┃Craft a targeted item
+TutorialQuest/PowerUp/Sub/Title/1┃Use the Hyperloop
+TutorialQuest/PowerUp/Sub/Title/2┃Throw out an item from your inventory

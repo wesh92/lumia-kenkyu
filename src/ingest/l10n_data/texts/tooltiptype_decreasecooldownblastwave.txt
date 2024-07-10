@@ -1,0 +1,1 @@
+ToolTipType/DecreaseCooldownBlastWave┃Blast Wave Cooldown Reduction

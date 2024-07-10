@@ -1,0 +1,2 @@
+Mission/1000303/2┃Obtain <color=#D05EFF>Tree of Life</color>
+Mission/1000303/3┃Play a Normal or Ranked Squad match.

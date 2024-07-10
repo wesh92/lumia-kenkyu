@@ -1,0 +1,1 @@
+ToolTipType/ActiveSkillCooldown┃Shared Cooldown

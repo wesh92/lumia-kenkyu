@@ -1,0 +1,1 @@
+ToolTipType/PioloSaveDamageByProjectile┃[Figure Eight] Deflected Projectile to Shield Conversion Rate

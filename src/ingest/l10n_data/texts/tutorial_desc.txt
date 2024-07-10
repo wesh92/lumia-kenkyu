@@ -1,0 +1,11 @@
+Tutorial/Desc/1┃Welcome to Lumia Island.\n\nJackie will teach you the basics of item searching in order to survive on this island.\n\nTo think you'll learn from a Serial Killer! You're in good hands, right?
+Tutorial/Desc/2┃Learn about skills and fighting with the Axe weapon. The axe is good to learn with because it's stronger than other weapons in the beginning of the match.\n\nFind enemies and kill them. The axe will become weaker as the game progresses.
+Tutorial/Desc/3┃You can become stronger by killing wild animals.\n\nYou'll play as Aya. She might seem careless, but she's still a police officer handling a gun.
+Tutorial/Desc/4┃Try exploring Lumia Island a bit more.\n\nJackie is an intelligent murderer. Try efficiently finding materials so you can craft several targeted items at the same time.
+Tutorial/Desc/5┃Your weapon and defense masteries increase as you fight.\n\nMoving around increases your movement mastery and making equipment increases your crafting mastery.\n\nAya might seem like a weak rookie with a puny sniper rifle,\nbut you'll change your mind once she lands a shot on you after increasing her sniper rifle mastery.
+Tutorial/Desc/6┃Survive on Lumia Island by crafting and fighting.
+Tutorial/Desc/7┃Level up and increase your mastery levels to get stronger.
+Tutorial/Desc/8┃Craft targeted items quickly with saved plans.
+Tutorial/Desc/11┃Learn how to craft and how basic battle works on Lumia Island.
+Tutorial/Desc/12┃Learn how to complete target items with saved plans.
+Tutorial/Desc/13┃Collect rare materials to craft Legendary items and become the last survivor standing.

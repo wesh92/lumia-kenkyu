@@ -1,0 +1,1 @@
+ToastMessage/SecurityConsoleErrorInBattlezone┃You cannot use the Security Console while in the Battle Zone.

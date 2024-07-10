@@ -1,0 +1,1 @@
+GameSetting/DirectionalIndicatorActive┃Displays the trajectory of skills that select a targeted direction.\nIf this option is disabled, these skills' range will be displayed as a circle.

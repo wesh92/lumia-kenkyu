@@ -1,0 +1,1 @@
+ToolTipType/RailgunCooldown┃Railgun Cooldown

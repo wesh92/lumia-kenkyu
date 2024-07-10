@@ -1,0 +1,9 @@
+TutorialDialogue/PowerUp/17┃Open boxes to try to find the materials shown here.
+TutorialDialogue/PowerUp/18┃Now let's use the Hyperloop to get to Uptown.
+TutorialDialogue/PowerUp/19┃Always check here.\nIf you see a <color=yellow>yellow triangle</color> don't think twice - just click on it.\nIf there is no <color=yellow>yellow triangle</color>, try hovering over the item icon.\nMaterials consumed to craft the item will be highlighted in white.\nBe careful to not accidentally use the materials you need for your saved plans!
+TutorialDialogue/PowerUp/20┃We're only training, so let's just get the items that have a <color=yellow>yellow triangle</color>!
+TutorialDialogue/PowerUp/21┃This is lovely and all, but it won't be enough.\nLet's <color=orange>choose another targeted item to make.</color>
+TutorialDialogue/PowerUp/22┃Crafting is getting easier and easier!
+TutorialDialogue/PowerUp/23┃The inventory is full.\nWhat should we drop first?\nLet's try dropping items that don't have a <color=yellow>yellow triangle</color>!
+TutorialDialogue/PowerUp/24┃Let's search for materials that we need in this area first.
+TutorialDialogue/PowerUp/25┃We'll only need items with a <color=yellow>yellow triangle</color>!

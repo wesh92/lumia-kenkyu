@@ -1,0 +1,2 @@
+ToolTip/LevelUpGuide/CharacterSkill┃Click or press {0} to level up the skill.
+ToolTip/LevelUpGuide/WeaponSkill┃Click or press {0} to level up the skill.\nThe auto weapon skill level up feature is available in the settings page.

@@ -1,0 +1,1 @@
+Popup/Insufficient/Currency┃Insufficient currency to make a purchase.

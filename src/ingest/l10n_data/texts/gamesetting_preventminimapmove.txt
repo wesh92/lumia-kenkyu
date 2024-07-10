@@ -1,0 +1,1 @@
+GameSetting/PreventMinimapMove┃To improve control, if a movement or skill command is input while your cursor is passing over the minimap, the command will be ignored.\nInputting a movement or skill command after the cursor has hovered over the minimap for a sufficient amount of time will activate the command as usual.

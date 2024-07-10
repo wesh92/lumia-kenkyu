@@ -1,0 +1,8 @@
+Weather/Name/10001┃Cloudy
+Weather/Name/10002┃Clear
+Weather/Name/10003┃Rainy
+Weather/Name/10004┃Sandstorm
+Weather/Name/10501┃Windless
+Weather/Name/10502┃Foggy
+Weather/Name/10503┃Strong Winds
+Weather/Name/10504┃Lightning

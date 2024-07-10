@@ -1,0 +1,1 @@
+GiveUp/CustomMode┃If you leave the game, your test subject will immediately perish.\nAre you sure you want to leave the game?

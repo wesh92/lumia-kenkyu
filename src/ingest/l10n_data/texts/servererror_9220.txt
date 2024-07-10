@@ -1,0 +1,1 @@
+ServerError/9220┃Cannot cancel matchmaking. (9220)

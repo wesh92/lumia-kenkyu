@@ -1,0 +1,1 @@
+StatType/HpRegen┃HP Regen

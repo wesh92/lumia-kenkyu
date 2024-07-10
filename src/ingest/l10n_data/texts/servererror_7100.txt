@@ -1,0 +1,1 @@
+ServerError/7100┃Player friend request list is full.

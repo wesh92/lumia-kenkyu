@@ -1,0 +1,1 @@
+LoadingText/LoadCharacter┃A countdown starts when you are in a restricted area. When it reaches 0, your character explodes.

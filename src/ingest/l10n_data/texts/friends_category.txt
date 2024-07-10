@@ -1,0 +1,4 @@
+Friends/Category/NoInput┃Group names can't be empty!
+Friends/Category/Over20Letter┃Group names cannot exceed 20 characters.
+Friends/Category/DuplicateName┃You already have a group with this name.
+Friends/Category/NoChanges┃This name is the same as the previous name!

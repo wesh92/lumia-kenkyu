@@ -1,0 +1,1 @@
+Shop/RandomKey/Desc/Base┃Provides one-time access to all boxes. Once used, the Data Key is discarded.

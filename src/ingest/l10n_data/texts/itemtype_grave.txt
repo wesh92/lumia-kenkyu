@@ -1,0 +1,2 @@
+ItemType/GRAVE/Name┃Tombstone
+ItemType/GRAVE/Desc┃A tombstone is left behind where a test subject gets killed.

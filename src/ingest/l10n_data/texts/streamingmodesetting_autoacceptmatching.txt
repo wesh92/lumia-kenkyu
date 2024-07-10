@@ -1,0 +1,1 @@
+StreamingModeSetting/AutoAcceptMatching┃After matching is completed, it is automatically accepted. Matching rejection is not possible when using this feature.

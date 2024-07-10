@@ -1,0 +1,1 @@
+Ping/BattleZone/WinnderTeamGetReward┃{0}({1}) has received <color=#C2FFA0>{2}</color> as a Battle Zone reward.

@@ -1,0 +1,1 @@
+GameSetting/PickSurvivor┃The [Target players only] option is activated/deactivated\nevery time you press the designated key shortcut.

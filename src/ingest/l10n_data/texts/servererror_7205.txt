@@ -1,0 +1,1 @@
+ServerError/7205┃This coupon cannot be used on this platform.

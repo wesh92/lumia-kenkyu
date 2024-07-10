@@ -1,0 +1,1 @@
+ToolTipType/SkillApCoef┃Total Attack Power

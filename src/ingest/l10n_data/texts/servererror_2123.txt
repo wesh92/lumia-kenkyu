@@ -1,0 +1,1 @@
+ServerError/2123┃Daily purchase limit exceeded.

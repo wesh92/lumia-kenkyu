@@ -1,0 +1,4 @@
+UI-ItemCatalogIcon/Name/Kiosk┃Kiosk
+UI-ItemCatalogIcon/Name/Hyperloop┃Hyperloop
+UI-ItemCatalogIcon/Name/CampFire┃Campfire
+UI-ItemCatalogIcon/Name/???┃Escape Area

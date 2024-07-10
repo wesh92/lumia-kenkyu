@@ -1,0 +1,1 @@
+DeferPointDemotion/PopupContents┃You've run out of Grace Points and you've been demoted to {0} tier.\nPlaying ranked matches will grant you grace points and change your ranked status to active.

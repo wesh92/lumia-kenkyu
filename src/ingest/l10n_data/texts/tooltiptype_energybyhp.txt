@@ -1,0 +1,1 @@
+ToolTipType/EnergyByHP┃HP for Energy Charge

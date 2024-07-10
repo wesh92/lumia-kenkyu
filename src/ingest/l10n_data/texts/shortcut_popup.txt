@@ -1,0 +1,9 @@
+Shortcut/Popup/Skill┃Skill
+Shortcut/Popup/VPadSkill┃VPad Skill
+Shortcut/Popup/Interface┃Interface
+Shortcut/Popup/Action┃Actions
+Shortcut/Popup/Mark┃HUD
+Shortcut/Popup/Communication┃Communication
+Shortcut/Popup/Reset┃Would you like to reset this page?
+Shortcut/Popup/VPadSkill┃VPad Skills (Weapon & Tactical Skills)
+Shortcut/Popup/ExistKey┃<color=#FFB62F>[{0}]</color> This shortcut is already in use.\nChange anyway?

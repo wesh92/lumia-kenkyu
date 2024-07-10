@@ -1,0 +1,7 @@
+Tutorial/StartScene/Dialogue/00┃.. 17 .. FT 31… … 17M-RFT31
+Tutorial/StartScene/Dialogue/01┃Subject vitals are stable.
+Tutorial/StartScene/Dialogue/02┃There seems to be no problems with the next experiment.
+Tutorial/StartScene/Dialogue/03┃Yes. Let us proceed.
+Tutorial/StartScene/Dialogue/04┃How are you feeling?
+Tutorial/StartScene/Dialogue/05┃Here's hoping you don't die this time.
+Tutorial/StartScene/Dialogue/06┃Alright. It's time to go. Good luck out there.

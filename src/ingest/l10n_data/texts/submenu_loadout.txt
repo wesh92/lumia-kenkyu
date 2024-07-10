@@ -1,0 +1,4 @@
+subMenu/Loadout/SavedPlans┃Saved Plans
+subMenu/Loadout/Augments┃Augments
+subMenu/Loadout/ItemCatalog┃Item Catalog
+subMenu/Loadout/TacticalSkills┃Tactical Skills

@@ -1,0 +1,1 @@
+ToolTipType/MoveRange┃Travel Distance

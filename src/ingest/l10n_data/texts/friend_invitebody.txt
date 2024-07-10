@@ -1,0 +1,1 @@
+Friend/InviteBody┃{0} has invited you to a team.

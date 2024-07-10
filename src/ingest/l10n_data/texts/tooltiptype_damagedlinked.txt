@@ -1,0 +1,1 @@
+ToolTipType/DamagedLinked┃[Linked Partner] Damage Taken

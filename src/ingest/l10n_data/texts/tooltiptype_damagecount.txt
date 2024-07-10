@@ -1,0 +1,1 @@
+ToolTipType/DamageCount┃Damage Count

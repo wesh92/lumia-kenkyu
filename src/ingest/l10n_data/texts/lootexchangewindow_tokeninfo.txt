@@ -1,0 +1,6 @@
+LootExchangeWindow/tokenInfo/TokenTimeRemainder/Months┃{0} M {1} D {2} H {3} Mins
+LootExchangeWindow/tokenInfo/TokenTimeRemainder/Days┃{0} D {1} H {2} Mins
+LootExchangeWindow/tokenInfo/TokenTimeRemainder/Hours┃{0} H {1} Mins
+LootExchangeWindow/tokenInfo/TokenTimeRemainder/Minutes┃{0} mins {1} s
+LootExchangeWindow/tokenInfo/TokenTimeRemainder/Seconds┃{0} s
+LootExchangeWindow/tokenInfo/TokenRemainder┃Exchange will not be available after the Token expiration date.

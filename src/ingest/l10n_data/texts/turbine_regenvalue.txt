@@ -1,0 +1,1 @@
+Turbine/RegenValue┃HP / SP Regen

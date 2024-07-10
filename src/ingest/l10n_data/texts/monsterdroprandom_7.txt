@@ -1,0 +1,1 @@
+MonsterDropRandom/7┃Drops either <color=#D05EFF>Mythril</color>, <color=#D05EFF>Meteorite</color>, <color=#D05EFF>Tree of Life</color>, <color=#FFD738>Holy Water</color>, <color=#FFD738>Tear of Selene</color>, or <color=#FFD738>Zen Vitality</color>.

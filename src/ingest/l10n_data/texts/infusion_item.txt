@@ -1,0 +1,17 @@
+Infusion/Item/705504┃Totem Mk2
+Infusion/Item/705601┃Solar System Miniature
+Infusion/Item/705602┃Cobalt Blue
+Infusion/Item/705502┃Sanguine Gunbai Mk2
+Infusion/Item/705607┃Smash Totem
+Infusion/Item/705604┃Claddagh Ring
+Infusion/Item/705603┃Burning Heart
+Infusion/Item/705605┃Mercury
+Infusion/Item/705606┃Arc Reactor
+Infusion/Item/705608┃Pharaoh's Artifact
+Infusion/Item/705610┃Hero's Record
+Infusion/Item/705611┃E.M.O.T.E
+Infusion/Item/705612┃Claddagh Ring Mk2
+Infusion/Item/705613┃Arc Reactor Mk2
+Infusion/Item/705614┃Psyche's Blade Mk2
+Infusion/Item/705615┃Hero's Record Mk2
+Infusion/Item/705616┃E.M.O.T.E Mk2

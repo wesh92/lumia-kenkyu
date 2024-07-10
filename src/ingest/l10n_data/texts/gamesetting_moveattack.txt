@@ -1,0 +1,1 @@
+GameSetting/MoveAttack┃Prioritize targets near cursor

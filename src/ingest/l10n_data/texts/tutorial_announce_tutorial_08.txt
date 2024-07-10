@@ -1,0 +1,1 @@
+Tutorial/Announce_Tutorial_08┃Guns have a limited amount of ammo.\nPress F1 to manually reload your weapon.

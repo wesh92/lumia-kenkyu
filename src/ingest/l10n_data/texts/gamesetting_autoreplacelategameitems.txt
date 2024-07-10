@@ -1,0 +1,1 @@
+GameSetting/AutoReplaceLateGameItems┃Automatically replaces all starting items with the first list of Late Game items registered in the Saved Plan after completing them.

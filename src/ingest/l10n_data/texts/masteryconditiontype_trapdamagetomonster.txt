@@ -1,0 +1,1 @@
+MasteryConditionType/TrapDamageToMonster┃Deal 60 Damage to a wild animal with a trap

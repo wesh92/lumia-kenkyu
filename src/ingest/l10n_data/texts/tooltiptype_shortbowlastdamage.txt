@@ -1,0 +1,1 @@
+ToolTipType/ShortBowLastDamage┃Hankyu last arrow damage

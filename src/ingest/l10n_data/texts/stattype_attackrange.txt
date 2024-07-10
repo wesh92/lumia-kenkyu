@@ -1,0 +1,2 @@
+StatType/AttackRange┃Attack Range
+StatType/AttackRange/Desc┃The maximum distance that Basic Attacks can reach.

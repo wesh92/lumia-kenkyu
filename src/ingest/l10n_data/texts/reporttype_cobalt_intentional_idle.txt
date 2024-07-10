@@ -1,0 +1,1 @@
+ReportType/COBALT_INTENTIONAL_IDLE┃Negative Behaviour

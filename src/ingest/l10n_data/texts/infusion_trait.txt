@@ -1,0 +1,87 @@
+Infusion/Trait/Desc/7900101┃Gain {0} Attack Power.
+Infusion/Trait/Desc/7900102┃Gain {0} Attack Power.
+Infusion/Trait/Desc/7900103┃Gain {0} Attack Power.
+Infusion/Trait/Desc/7900201┃Gain {0} Defense.
+Infusion/Trait/Desc/7900202┃Gain {0} Defense.
+Infusion/Trait/Desc/7900203┃Gain {0} Defense.
+Infusion/Trait/Desc/7900301┃Increases Attack Speed by {0}%.
+Infusion/Trait/Desc/7900302┃Increases Attack Speed by {0}%.
+Infusion/Trait/Desc/7900303┃Increases Attack Speed by {0}%.
+Infusion/Trait/Desc/7900401┃Increases Movement Speed by {0}.
+Infusion/Trait/Desc/7900402┃Increases Movement Speed by {0}.
+Infusion/Trait/Desc/7900403┃Increases Movement Speed by {0}.
+Infusion/Trait/Desc/7900501┃Increases Cooldown Reduction by {0}%.\nIncreases maximum Cooldown Reduction by {1}%.
+Infusion/Trait/Desc/7900502┃Increases Cooldown Reduction by {0}%.\nIncreases maximum Cooldown Reduction by {1}%.
+Infusion/Trait/Desc/7900503┃Increases Cooldown Reduction by {0}%.\nIncreases maximum Cooldown Reduction by {1}%.
+Infusion/Trait/Desc/7900601┃Gain {0}% Omnisyphon.
+Infusion/Trait/Desc/7900602┃Gain {0}% Omnisyphon.
+Infusion/Trait/Desc/7900603┃Gain {0}% Omnisyphon.
+Infusion/Trait/Desc/7900701┃Gain {0}% Tenacity.
+Infusion/Trait/Desc/7900702┃Gain {0}% Tenacity.
+Infusion/Trait/Desc/7900703┃Gain {0}% Tenacity.
+Infusion/Trait/Desc/7900801┃Gain {0}% Critical Strike Chance.
+Infusion/Trait/Desc/7900802┃Gain {0}% Critical Strike Chance.
+Infusion/Trait/Desc/7900803┃Gain {0}% Critical Strike Chance.
+Infusion/Trait/Desc/7920101┃Gain additional Defense and Omnisyphon when below {0}% HP.
+Infusion/Trait/Desc/7920102┃Gain additional Defense and Omnisyphon when below {0}% HP.
+Infusion/Trait/Desc/7920103┃Gain additional Defense and Omnisyphon when below {0}% HP.
+Infusion/Trait/Desc/7920201┃Gain additional Critical Strike Chance and Attack Speed when below {0}% HP.\n\n
+Infusion/Trait/Desc/7920202┃Gain additional Critical Strike Chance and Attack Speed when below {0}% HP.\n\n
+Infusion/Trait/Desc/7920203┃When your current HP falls below {0}% of your max HP, your movement speed and HP Regen increase.
+Infusion/Trait/Desc/7920301┃Whenever you deal skill damage to an enemy test subject, drain a percentage of their current HP as true damage to recover a percentage of your current HP. (Cooldown: {0}s)\n
+Infusion/Trait/Desc/7920302┃Whenever you deal skill damage to an enemy test subject, drain a percentage of their current HP as true damage to recover a percentage of your current HP. (Cooldown: {0}s)\n
+Infusion/Trait/Desc/7920303┃Whenever you deal skill damage to an enemy test subject, drain a percentage of their current HP as true damage to recover a percentage of your current HP. (Cooldown: {0}s)\n
+Infusion/Trait/Desc/7920401┃Upon dying, create a blast that knocks enemies airborne and deals {0}% of their missing HP as true damage.
+Infusion/Trait/Desc/7920402┃Upon dying, create a blast that knocks enemies airborne and deals {0}% of their missing HP as true damage.
+Infusion/Trait/Desc/7920403┃Upon dying, create a blast that knocks enemies airborne and deals {0}% of their missing HP as true damage.
+Infusion/Trait/Desc/7920501┃If you haven't received combat damage in the last {0} seconds, recover {1}% of your missing HP and SP per second.
+Infusion/Trait/Desc/7920502┃If you haven't received combat damage in the last {0} seconds, recover {1}% of your missing HP and SP per second.
+Infusion/Trait/Desc/7920503┃If you haven't received combat damage in the last {0} seconds, recover {1}% of your missing HP and SP per second.
+Infusion/Trait/Desc/7920603┃Upon death, automatically revive with fully recovered HP and SP after 3 seconds. (Cooldown: {0}s)\nDuring cooldown, you gain 35{1} Attack Power and 50{2} Skill Amplification.
+Infusion/Trait/Desc/7920701┃Skill Amplification increased by {0}.\nGain {1}% additional Skill Amplification for each Infusion attached.
+Infusion/Trait/Desc/7920702┃Skill Amplification increased by {0}.\nGain {1}% additional Skill Amplification for each Infusion attached.
+Infusion/Trait/Desc/7920703┃Skill Amplification increased by {0}.\nGain {1}% additional Skill Amplification for each Infusion attached.
+Infusion/Trait/Desc/7920801┃Upon dying, create a swamp that slows enemies in it by {1}% and lowers their defense by {2}% for {0} seconds.\n\nPer Team: 1
+Infusion/Trait/Desc/7920802┃Upon dying, create a swamp that slows enemies in it by {1}% and lowers their defense by {2}% for {0} seconds.\n\nPer Team: 1
+Infusion/Trait/Desc/7920803┃Upon dying, create a swamp that slows enemies in it by {1}% and lowers their defense by {2}% for {0} seconds.\n\nPer Team: 1
+Infusion/Trait/Desc/7920903┃After casting your weapon skill, nearby enemy test subjects are silenced for a certain period of time. (Cooldown: {0}s)\n
+Infusion/Trait/Desc/7921003┃After casting your weapon skill, deal {0} true damage for {4} seconds to all enemies in range. (Cooldown: {1}s)\n
+Infusion/Trait/Desc/7921101┃Casting your Ultimate (R) reduces the cooldown of your normal skills by {0}%. (Infusion cooldown: {1}s)\nCasting a normal skill reduces the cooldown of this Infusion by {2} seconds.
+Infusion/Trait/Desc/7921102┃Casting your Ultimate (R) reduces the cooldown of your normal skills by {0}%. (Infusion cooldown: {1}s)\nCasting a normal skill reduces the cooldown of this Infusion by {2} seconds.
+Infusion/Trait/Desc/7921103┃Casting your Ultimate (R) reduces the cooldown of your normal skills by {0}%. (Infusion cooldown: {1}s)\nCasting a normal skill reduces the cooldown of this Infusion by {2} seconds.
+Infusion/Trait/Desc/7921203┃Become Unstoppable for {0} seconds with {2}% increased Movement Speed upon casting your Ultimate (R). (Cooldown :{1}s)
+Infusion/Trait/Desc/7921301┃For each Power Beacon under ally control, the effect of each Power Beacon is increased by {0}%.
+Infusion/Trait/Desc/7921302┃For each Power Beacon under ally control, the effect of each Power Beacon is increased by {0}%.
+Infusion/Trait/Desc/7921303┃Armor Penetration and HP increase {4} and {5} respectively.
+Infusion/Trait/Desc/7921401┃For every {0} Credits you own, deal {1}% additional damage to enemy test subjects and their summons. (Up to {2} stacks)
+Infusion/Trait/Desc/7921402┃For every {0} Credits you own, deal {1}% additional damage to enemy test subjects and their summons. (Up to {2} stacks)
+Infusion/Trait/Desc/7921403┃For every {0} Credits you own, deal {1}% additional damage to enemy test subjects and their summons. (Up to {2} stacks)
+Infusion/Trait/Desc/7921501┃Hitting an enemy test subject with a skill causes them to dance for {0} seconds. (Cooldown: {1}s)\n\nPer Team: 1
+Infusion/Trait/Desc/7921502┃Hitting an enemy test subject with a skill causes them to dance for {0} seconds. (Cooldown: {1}s)\n\nPer Team: 1
+Infusion/Trait/Desc/7921503┃Hitting an enemy test subject with a skill causes them to dance for {0} seconds. (Cooldown: {1}s)\n\nPer Team: 1
+Infusion/Trait/Desc/7921602┃Heal Packs recover {0}% more HP/SP and grants a {1} HP shield. While you have a shield from Health Insurance, your movement speed is increased by {2}%.
+Infusion/Trait/Desc/7921701┃Upon passing the Acceleration Influx Perimeter, deal {1} additional true damage to enemies hit by Basic Attack within {0} seconds and slow the target.
+Infusion/Trait/Desc/7921702┃Upon passing the Acceleration Influx Perimeter, deal {1} additional true damage to enemies hit by Basic Attack within {0} seconds and slow the target.
+Infusion/Trait/Desc/7921703┃Upon passing the Acceleration Influx Perimeter, deal {1} additional true damage to enemies hit by Basic Attack within {0} seconds and slow the target.
+Infusion/Trait/Desc/7921802┃Get a random Infusion.
+Infusion/Trait/Desc/7921903┃While below a certain amount of HP, taking damage from an enemy test subject will cause you to instantly teleport away from combat, gain increased Movement Speed, and a shield that lasts for {1} seconds. (Cooldown {0}s)\n\nPer Team: 1
+Infusion/Trait/Desc/7922003┃Gain a barrier that makes you immune to all skill effects and damage dealt by enemies.\n(Cooldown: {0}s). When an enemy test subject breaks the barrier, counterattack with a homing missile.
+Infusion/Trait/Desc/7922102┃Your basic attacks that target enemy test subjects send a shockwave to enemies in range, dealing true damage based on your Max HP to enemies behind the target.\nAttack Speed is fixed at a low level.
+Infusion/Trait/Desc/7922201┃Leave a scar whenever you hit an enemy test subject with a basic attack. Your basic attacks deal additional true damage for each scar stack on the enemy. (Maximum {2} stacks)
+Infusion/Trait/Desc/7922202┃Leave a scar whenever you hit an enemy test subject with a basic attack. Your basic attacks deal additional true damage for each scar stack on the enemy. (Maximum {2} stacks)
+Infusion/Trait/Desc/7922203┃Leave a scar whenever you hit an enemy test subject with a basic attack. Your basic attacks deal additional true damage for each scar stack on the enemy. (Maximum {2} stacks)
+Infusion/Trait/Desc/7922302┃Increases Armor Penetration by {0}%.
+Infusion/Trait/Desc/7922402┃Whenever you or your summons deal damage, recover HP equal to 28% and SP equal to {0}% of the damage dealt.
+Infusion/Trait/Desc/7922502┃After receiving a Critical Strike, take {1}% reduced damage from subsequent Critical Strikes for {0} seconds. (Cooldown: {2}s)
+Infusion/Trait/Desc/7922602┃Take {0}% reduced damage when immobilized.
+Infusion/Trait/Desc/7922702┃Immobilizing a target increases all damage dealt to them by {1}% for {0} seconds. (Cooldown: {2}s)
+Infusion/Trait/Desc/7922502┃After receiving a Critical Strike, take {1}% reduced damage from subsequent Critical Strikes for {0} seconds. (Cooldown: {2}s)
+Infusion/Trait/Desc/7922602┃Take {0}% reduced damage when immobilized.
+Infusion/Trait/Desc/7922702┃Immobilizing a target increases all damage dealt to them by {1}% for {0} seconds. (Cooldown: {2}s)
+Infusion/Trait/Desc/7922803┃Deal true damage when dealing damage to enemies with skills or basic attack. (Cooldown {0}s) \n\nMelee: Deal {1} true damage per sec for {3} seconds.\nRanged: Deal {2} true damage per sec for {4} seconds.
+Infusion/Trait/Desc/7922903┃Moving leaves a trail of poisonous footsteps that deal true damage over {0} seconds to enemies who step on the trail.\n\nDamage per second: {1} + {2}% of enemy max HP\n\nPer Team: 1
+Infusion/Trait/Desc/7923101┃While owning this Infusion, your Attack Power is reduced by {1}%. \nYour basic attacks now hit enemies twice.\n(Cooldown: {0}s)
+Infusion/Trait/Desc/7923102┃While owning this Infusion, your Attack Power is reduced by {1}%. \nYour basic attacks now hit enemies twice.\n(Cooldown: {0}s)
+Infusion/Trait/Desc/7923103┃While owning this Infusion, your Attack Power is reduced by {1}%. \nYour basic attacks now hit enemies twice.\n(Cooldown: {0}s)
+Infusion/Trait/Desc/7923002┃When you revive, all other test subjects and summons are put into stasis for {0} seconds.
+Infusion/Trait/Desc/7923203┃Critical Strike activates when you inflict skill damage. Crit Chance and Attack Power are reduced by {0}% and {1}% respectively.

@@ -1,0 +1,1 @@
+StatType/SpRegenRatioOutOfCombat┃Out of combat SP Regeneration

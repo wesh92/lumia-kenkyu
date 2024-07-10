@@ -1,0 +1,1 @@
+StatType/PreventDamageByDefense┃Damage Reduction % by Defense

@@ -1,0 +1,2 @@
+MasteryType/Polearm┃Polearm
+MasteryType/Polearm/Desc┃Polearms have the most balance of destructive power and long range - especially when dealing with many enemies at the same time.

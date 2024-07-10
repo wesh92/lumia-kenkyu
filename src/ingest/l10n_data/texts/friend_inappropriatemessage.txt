@@ -1,0 +1,1 @@
+Friend/InappropriateMessage┃Inappropriate words are not allowed in your message.

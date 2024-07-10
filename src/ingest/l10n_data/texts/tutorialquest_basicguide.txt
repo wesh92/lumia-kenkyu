@@ -1,0 +1,8 @@
+TutorialQuest/BasicGuide/Main/Title/1┃Craft Vibroblade
+TutorialQuest/BasicGuide/Main/Comment/1┃Gather the materials to craft a Vibroblade by searching the island and collecting them.
+TutorialQuest/BasicGuide/Sub/Title/1┃Find Scrap Metal and Battery from a box
+TutorialQuest/BasicGuide/Sub/Title/2┃Collect Branches
+TutorialQuest/BasicGuide/Sub/Title/3┃Craft Army Knife
+TutorialQuest/BasicGuide/Sub/Title/4┃Go to Chapel
+TutorialQuest/BasicGuide/Sub/Title/5┃Find Piano Wire
+TutorialQuest/BasicGuide/Sub/Title/6┃Get an Uncommon item from an Air Supply

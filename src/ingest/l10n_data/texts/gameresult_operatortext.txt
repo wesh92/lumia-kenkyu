@@ -1,0 +1,57 @@
+GameResult/OperatorText/MatchingMode/Normal/MatchingTeamMode/3/GameRank/1┃You won. Impressive.
+GameResult/OperatorText/MatchingMode/Normal/MatchingTeamMode/3/GameRank/2┃This is what research can achieve.
+GameResult/OperatorText/MatchingMode/Normal/MatchingTeamMode/3/GameRank/3┃Interesting results.
+GameResult/OperatorText/MatchingMode/Normal/MatchingTeamMode/3/GameRank/4┃Interesting results.
+GameResult/OperatorText/MatchingMode/Normal/MatchingTeamMode/3/GameRank/5┃Interesting results.
+GameResult/OperatorText/MatchingMode/Normal/MatchingTeamMode/3/GameRank/6┃Interesting results.
+GameResult/OperatorText/MatchingMode/Normal/MatchingTeamMode/3/GameRank/7┃Hmm. Gathering data is important too, I guess.
+GameResult/OperatorText/MatchingMode/Normal/MatchingTeamMode/3/GameRank/8┃Make sure to leave me on. It looks like you'll need my help.
+GameResult/OperatorText/MatchingMode/Normal/MatchingTeamMode/3/GameRank/-1┃...
+GameResult/OperatorText/MatchingMode/Normal/MatchingTeamMode/3/GameRank/-2┃...
+GameResult/OperatorText/MatchingMode/Normal/MatchingTeamMode/3/GameRank/-3┃Next time fight till the end!
+GameResult/OperatorText/MatchingMode/Normal/MatchingTeamMode/3/GameRank/1-1┃You're on fire! Next time, I'll bring marshmellows.
+GameResult/OperatorText/MatchingMode/Rank/MatchingTeamMode/3/GameRank/1┃You won. Impressive.
+GameResult/OperatorText/MatchingMode/Rank/MatchingTeamMode/3/GameRank/2┃This is what research can achieve.
+GameResult/OperatorText/MatchingMode/Rank/MatchingTeamMode/3/GameRank/3┃Interesting results.
+GameResult/OperatorText/MatchingMode/Rank/MatchingTeamMode/3/GameRank/4┃Interesting results.
+GameResult/OperatorText/MatchingMode/Rank/MatchingTeamMode/3/GameRank/5┃Interesting results.
+GameResult/OperatorText/MatchingMode/Rank/MatchingTeamMode/3/GameRank/6┃Interesting results.
+GameResult/OperatorText/MatchingMode/Rank/MatchingTeamMode/3/GameRank/7┃Hmm. Gathering data is important too, I guess.
+GameResult/OperatorText/MatchingMode/Rank/MatchingTeamMode/3/GameRank/8┃Make sure to leave me on. It looks like you'll need my help.
+GameResult/OperatorText/MatchingMode/Rank/MatchingTeamMode/3/GameRank/-1┃...
+GameResult/OperatorText/MatchingMode/Rank/MatchingTeamMode/3/GameRank/-2┃...
+GameResult/OperatorText/MatchingMode/Rank/MatchingTeamMode/3/GameRank/-3┃Research note: "This test subject appears to be weak mentally. Needs more training."
+GameResult/OperatorText/MatchingMode/Rank/MatchingTeamMode/3/GameRank/1-1┃You're on fire! Next time, I'll bring marshmellows.
+GameResult/OperatorText/MatchingMode/Custom/MatchingTeamMode/3/GameRank/1┃You won. Impressive.
+GameResult/OperatorText/MatchingMode/Custom/MatchingTeamMode/3/GameRank/2┃This is what research can achieve.
+GameResult/OperatorText/MatchingMode/Custom/MatchingTeamMode/3/GameRank/3┃Interesting results.
+GameResult/OperatorText/MatchingMode/Custom/MatchingTeamMode/3/GameRank/4┃Interesting results.
+GameResult/OperatorText/MatchingMode/Custom/MatchingTeamMode/3/GameRank/5┃Interesting results.
+GameResult/OperatorText/MatchingMode/Custom/MatchingTeamMode/3/GameRank/6┃Interesting results.
+GameResult/OperatorText/MatchingMode/Custom/MatchingTeamMode/3/GameRank/7┃Hmm. Gathering data is important too, I guess.
+GameResult/OperatorText/MatchingMode/Custom/MatchingTeamMode/3/GameRank/8┃Make sure to leave me on. It looks like you'll need my help.
+GameResult/OperatorText/MatchingMode/Custom/MatchingTeamMode/3/GameRank/-1┃...
+GameResult/OperatorText/MatchingMode/Custom/MatchingTeamMode/3/GameRank/-2┃...
+GameResult/OperatorText/MatchingMode/Custom/MatchingTeamMode/3/GameRank/-3┃Next time fight till the end!
+GameResult/OperatorText/MatchingMode/Custom/MatchingTeamMode/3/GameRank/1-1┃You won. Impressive.
+GameResult/OperatorText/MatchingMode/Cobalt/MatchingTeamMode/4/GameRank/1┃Test complete. Research was a success.
+GameResult/OperatorText/MatchingMode/Cobalt/MatchingTeamMode/4/GameRank/2┃Let's just say it was a stroke of bad luck.
+GameResult/OperatorText/MatchingMode/Cobalt/MatchingTeamMode/4/GameRank/-3┃Next time fight till the end!
+GameResult/OperatorText/MatchingMode/CobaltCustom/MatchingTeamMode/4/GameRank/1┃Test complete. Research was a success.
+GameResult/OperatorText/MatchingMode/CobaltCustom/MatchingTeamMode/4/GameRank/2┃Let's just say it was a stroke of bad luck.
+GameResult/OperatorText/MatchingMode/CobaltCustom/MatchingTeamMode/4/GameRank/-3┃Next time fight till the end!
+GameResult/OperatorText/MatchingMode/Tutorial1_Re/MatchingTeamMode/1/GameRank/1┃How does it feel to get revenge?
+GameResult/OperatorText/MatchingMode/Tutorial2_Re/MatchingTeamMode/1/GameRank/1┃There's no such thing as a set fate.
+GameResult/OperatorText/MatchingMode/Tutorial3_Re/MatchingTeamMode/1/GameRank/1┃Looks like you're ready. Good job.
+GameResult/OperatorText/MatchingMode/Test/MatchingTeamMode/3/GameRank/1┃You won. Impressive.
+GameResult/OperatorText/MatchingMode/Test/MatchingTeamMode/3/GameRank/2┃This is what research can achieve.
+GameResult/OperatorText/MatchingMode/Test/MatchingTeamMode/3/GameRank/3┃Interesting results.
+GameResult/OperatorText/MatchingMode/Test/MatchingTeamMode/3/GameRank/4┃Interesting results.
+GameResult/OperatorText/MatchingMode/Test/MatchingTeamMode/3/GameRank/5┃Interesting results.
+GameResult/OperatorText/MatchingMode/Test/MatchingTeamMode/3/GameRank/6┃Interesting results.
+GameResult/OperatorText/MatchingMode/Test/MatchingTeamMode/3/GameRank/7┃Hmm. Gathering data is important too, I guess.
+GameResult/OperatorText/MatchingMode/Test/MatchingTeamMode/3/GameRank/8┃Make sure to leave me on. It looks like you'll need my help.
+GameResult/OperatorText/MatchingMode/Test/MatchingTeamMode/3/GameRank/-1┃...
+GameResult/OperatorText/MatchingMode/Test/MatchingTeamMode/3/GameRank/-2┃...
+GameResult/OperatorText/MatchingMode/Test/MatchingTeamMode/3/GameRank/-3┃Next time fight till the end!
+GameResult/OperatorText/MatchingMode/Test/MatchingTeamMode/3/GameRank/1-1┃You won. Impressive.

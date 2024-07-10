@@ -1,0 +1,1 @@
+ToolTipType/ConjunctionStarHeal┃Star Conjunct: HP Recovery per Second

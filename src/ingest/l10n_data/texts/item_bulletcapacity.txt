@@ -1,0 +1,2 @@
+Item/BulletCapacity/Reload┃<color=yellow>Max Ammo:</color> {0}
+Item/BulletCapacity/Charge┃<color=yellow>Max Charges:</color> {0} (Recharge: {1}s)

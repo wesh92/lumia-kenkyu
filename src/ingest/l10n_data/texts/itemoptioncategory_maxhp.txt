@@ -1,0 +1,1 @@
+ItemOptionCategory/MaxHp┃Maximum HP

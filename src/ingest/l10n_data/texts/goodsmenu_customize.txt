@@ -1,0 +1,3 @@
+GoodsMenu/Customize┃Game Customization
+GoodsMenu/Customize/1┃Sound
+GoodsMenu/Customize/2┃UI

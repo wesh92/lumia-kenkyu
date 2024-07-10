@@ -1,0 +1,5 @@
+Phase/Name/0┃Combat Preparation
+Phase/Name/1┃Siege Combat
+Phase/Name/2┃Open Combat
+Phase/Name/3┃Open Combat: Gamma has appeared!
+Phase/Name/4┃Final Selection

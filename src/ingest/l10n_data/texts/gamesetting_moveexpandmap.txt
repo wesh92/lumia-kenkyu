@@ -1,0 +1,1 @@
+GameSetting/MoveExpandMap┃Move using the expanded minimap by pressing Ctrl+MB2.

@@ -1,0 +1,4 @@
+TutorialMessageBox/PowerUp/Step1/Title┃Crafting a targeted item
+TutorialMessageBox/PowerUp/Step1/Comment┃\n\nLet's take a look around a bit more!\n\nChoose items by <color=orange>looking at the list of targeted items on the right side of your screen</color>.
+TutorialMessageBox/PowerUp/Step2/Title┃Hyperloop
+TutorialMessageBox/PowerUp/Step2/Comment┃You can directly teleport to any area you want with the Hyperloop.

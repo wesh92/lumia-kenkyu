@@ -1,0 +1,51 @@
+Area/Name/Cobalt1┃Right Sector
+Area/Name/Cobalt2┃Central Sector
+Area/Name/Cobalt3┃Left Sector
+Area/Name/Cobalt4┃Safe Zone
+Area/Name/Cobalt5┃Safe Zone
+Area/Name/Cobalt6┃Gamma Area
+Area/Name/SituationAreaA┃Control Room
+Area/Name/SituationAreaB┃Control Room
+Area/Name/Harbor┃Dock
+Area/Name/Warehouse┃Warehouse
+Area/Name/Pond┃Pond
+Area/Name/Stream┃Stream
+Area/Name/SandyBeach┃Beach
+Area/Name/Uptown┃Uptown
+Area/Name/Alley┃Alley
+Area/Name/GasStation┃Gas Station
+Area/Name/Hotel┃Hotel
+Area/Name/PoliceStation┃Police Station
+Area/Name/FireStation┃Fire Station
+Area/Name/Hospital┃Hospital
+Area/Name/Temple┃Temple
+Area/Name/Archery┃Archery Range
+Area/Name/Cemetery┃Cemetery
+Area/Name/Forest┃Forest
+Area/Name/Factory┃Factory
+Area/Name/Church┃Chapel
+Area/Name/School┃School
+Area/Name/Laboratory┃Research Center
+Area/Name/BriefingRoom┃Briefing Room
+Area/Name/EscapeM┃???
+Area/Name/EscapeA┃???
+Area/Name/EscapeB┃???
+Area/Name/1┃Dock
+Area/Name/2┃Pond
+Area/Name/3┃Beach
+Area/Name/4┃Uptown
+Area/Name/5┃Alley
+Area/Name/6┃Hotel
+Area/Name/7┃Avenue
+Area/Name/8┃Hospital
+Area/Name/9┃Temple
+Area/Name/10┃Archery Range
+Area/Name/11┃Cemetery
+Area/Name/12┃Forest
+Area/Name/13┃Factory
+Area/Name/14┃Chapel
+Area/Name/15┃School
+Area/Name/16┃Research Center
+Area/Name/17┃???
+Area/Name/18┃???
+Area/Name/19┃???

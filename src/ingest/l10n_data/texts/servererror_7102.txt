@@ -1,0 +1,1 @@
+ServerError/7102┃Player friend list is full.

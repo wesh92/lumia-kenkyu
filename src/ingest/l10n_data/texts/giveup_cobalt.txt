@@ -1,0 +1,2 @@
+GiveUp/Cobalt/Cobalt/Alone┃Forfeiting the match early can result in a penalty.
+GiveUp/Cobalt/Cobalt/WithTeam┃Forfeiting the match early can result in a penalty.

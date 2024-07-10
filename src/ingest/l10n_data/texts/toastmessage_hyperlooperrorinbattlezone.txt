@@ -1,0 +1,1 @@
+ToastMessage/HyperloopErrorInBattlezone┃You cannot hyperloop while in the Battle Zone.

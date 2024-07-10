@@ -1,0 +1,3 @@
+ItemType/RANDOM_KEY/Name┃Data Key
+ItemType/RANDOM_KEY/Desc┃Provides one-time access to all boxes. Once used, the Data Key is discarded.
+ItemType/RANDOM_KEY/Name┃Data Key
