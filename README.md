@@ -144,4 +144,4 @@ This project is licensed under the GNU AGPLv3 License - see the `LICENSE.md` fil
 
 ## Authors
 
-- Wes Hahn <westly.hahn@gmail.com>
+- Wes Hahn <wes@cloudskipper.work>
