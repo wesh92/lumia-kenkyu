@@ -6,7 +6,7 @@ from models.game import UserGame
 from getter import _fetch_by_game_id
 import random
 from time import sleep
-from CONSTS import CURRENT_SEASON
+from CONSTS import CURRENT_SEASON, ARCHIVE_PATH
 
 app = typer.Typer()
 
@@ -54,9 +54,20 @@ def generate_game_ids(count) -> list[int]:
     for _ in range(count):
         # Generate a random 6-digit number
         random_part = random.randint(0, 999999)
+        random_stem = random.choice([35,36,37])
         # Combine '36' with the random part, ensuring it's 8 digits long
-        game_id = int(f"36{random_part:06d}")
+        game_id = int(f"{random_stem}{random_part:06d}")
         game_ids.append(game_id)
+    # Get game IDs from the archives to make sure we aren't processing the same game twice
+    for root, dirs, files in os.walk(ARCHIVE_PATH):
+        # Pop IDs from the list if they are already in the archive. IDs are the directory names
+        for d in dirs:
+            if int(d) in game_ids:
+                game_ids.remove(int(d))
+                print(f"Game ID {d} is already in the archive, skipping...")
+            else:
+                pass
+
     return game_ids
 
 

@@ -126,6 +126,7 @@ def insert_game_data(json_data: str):
                 for mastery_type, level in player["final_mastery_levels"].items()
             ]
             supabase.table("mastery_levels").upsert(mastery_inserts).execute()
+            print(f"Inserted mastery levels for user {player['user_id']} in game {game_id}")
 
             # Insert equipment
             equipment_inserts = [
@@ -135,10 +136,27 @@ def insert_game_data(json_data: str):
                     "user_id": player["user_id"],
                     "slot": int(slot),
                     "item_id": item_id,
+                    "type": 2 # Final equipment (equipment the user died/won with)
                 }
                 for slot, item_id in player["final_equipment"].items()
             ]
             supabase.table("equipment").upsert(equipment_inserts).execute()
+            print(f"Inserted final equipment for user {player['user_id']} in game {game_id}")
+
+            # Insert for equipment_first_item (first purchased items)
+            equipment_first_item_inserts = [
+                {
+                    "game_start_time": game_start_time.isoformat(),
+                    "game_id": game_id,
+                    "user_id": player["user_id"],
+                    "slot": int(slot),
+                    "item_id": item_id[0],
+                    "type": 1 # Phase 1 items (usually referred to as purples)
+                }
+                for slot, item_id in player["equipment_first_item"].items()
+            ]
+            supabase.table("equipment").upsert(equipment_first_item_inserts).execute()
+            print(f"Inserted first equipment for user {player['user_id']} in game {game_id}")
 
             # Insert skill_order
             skill_inserts = [
@@ -152,6 +170,7 @@ def insert_game_data(json_data: str):
                 for skill_level, skill_id in player["skill_order"].items()
             ]
             supabase.table("skill_order").upsert(skill_inserts).execute()
+            print(f"Inserted skill order for user {player['user_id']} in game {game_id}")
 
             # Insert killed_by_data
             killed_by_inserts = [
@@ -171,6 +190,7 @@ def insert_game_data(json_data: str):
                 for kill_data in player["killed_by_data"]
             ]
             supabase.table("killed_by_data").upsert(killed_by_inserts).execute()
+            print(f"Inserted killed by data for user {player['user_id']} in game {game_id}")
 
             # Insert items_purchased
             console_items = Counter(player["items_purchased_from_console"])
@@ -200,11 +220,11 @@ def insert_game_data(json_data: str):
             supabase.table("items_purchased").upsert(item_purchases).execute()
 
             print(
-                f"Inserted related data for user {player['user_id']} in game {game_id}"
+                f"Inserted all related data for user {player['user_id']} in game {game_id}"
             )
         else:
             print(
-                f"Player stats for user {player['user_id']} in game {game_id} already exist, skipping insertion"
+                f"Player stats for user {player['user_id']} in game {game_id} already exists, skipping insertion"
             )
 
     print(f"Finished processing data for game {game_id}")
@@ -252,8 +272,9 @@ def process_json_file(file_path):
 
 
 def process_json_files(directory):
-    with concurrent.futures.ThreadPoolExecutor(max_workers=15) as executor:
+    with concurrent.futures.ThreadPoolExecutor(max_workers=3) as executor:
         for root, dirs, files in os.walk(directory):
+            dirs[:] = [d for d in dirs if d not in ["archive", "error"]]
             json_files = [f for f in files if f.endswith(".json")]
             if json_files:
                 game_folder = root

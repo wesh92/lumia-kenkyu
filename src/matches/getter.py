@@ -51,9 +51,18 @@ def _fetch_by_game_id(game_id: int) -> list[UserGame]:
                 player_data["startDtm"].replace("+0900", "+09:00")
             )
 
+            # Ensure equipment data is present
+            if "equipment" not in player_data:
+                player_data["equipment"] = {}
+            if "equipFirstItemForLog" not in player_data:
+                player_data["equipFirstItemForLog"] = {}
+
             # Create UserGame object
             user_game = UserGame(
-                **player_data, killerList=KillDataList(root=kill_data_list)
+                **player_data,
+                killerList=KillDataList(root=kill_data_list),
+                # equipment=player_data["equipment"],
+                # equipFirstItemForLog=player_data["equipFirstItemForLog"]
             )
             user_games.append(user_game)
 
