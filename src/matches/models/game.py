@@ -87,5 +87,6 @@ class UserGame(BaseModel):
     triple_kills: int = Field(..., alias="totalTripleKill")
     quadra_kills: int = Field(..., alias="totalQuadraKill")
     extra_kills: int = Field(..., alias="totalExtraKill")
+    equipment_first_item: dict[str, list[int]] = Field(..., alias="equipFirstItemForLog")
     main_weather: Optional[int] = Field(None, alias="mainWeather")
     sub_weather: Optional[int] = Field(None, alias="subWeather")
