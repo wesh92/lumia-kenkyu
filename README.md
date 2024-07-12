@@ -136,7 +136,7 @@ If any errors occur during processing, affected files or folders will be moved t
 
 ## Contributing
 
-Please read `CONTRIBUTING.md` for details on our code of conduct and the process for submitting pull requests.
+Please read [CONTRIBUTING.md](https://github.com/wesh92/lumia-kenkyu/blob/main/CONTRIBUTING.md) for details on our code of conduct and the process for submitting pull requests.
 
 ## License
 
