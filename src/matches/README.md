@@ -2,22 +2,21 @@
 
 <!--toc:start-->
 - [Lumia Kenkyu](#lumia-kenkyu)
-  - [Match Retrieval Utilities](#match-retrieval-utilities)
+  - [Game Data Processing Utilities](#game-data-processing-utilities)
   - [Project Structure](#project-structure)
-  - [Files](#files)
+  - [Components](#components)
   - [Setup](#setup)
   - [Configuration](#configuration)
   - [Usage](#usage)
-    - [Fetching and Grouping Game Data](#fetching-and-grouping-game-data)
-    - [Inserting Data into Supabase](#inserting-data-into-supabase)
+    - [CLI Commands](#cli-commands)
   - [Error Handling](#error-handling)
   - [License](#license)
   - [Authors](#authors)
 <!--toc:end-->
 
-## Match Retrieval Utilities
+## Game Data Processing Utilities
 
-This directory contains utilities for retrieving, processing, and storing match data for Eternal Return. The utilities include scripts for fetching game data, grouping it by teams, and inserting it into a Supabase database.
+This project contains utilities for retrieving, processing, and storing game data for Eternal Return. The utilities include a CLI tool for fetching game data, grouping it by teams, inserting it into a Supabase database, and various other data processing tasks.
 
 ## Project Structure
 
@@ -26,26 +25,33 @@ lumia-kenkyu/
 ├── pyproject.toml
 ├── README.md
 └── src/
-    └── matches/ <-- You are here
+    └── matches/
         ├── CONSTS.py
-        ├── game.py
-        ├── getter.py
-        ├── grouper.py
-        └── inserter.py
+        ├── game_data_cli.py
+        ├── models/
+        │   ├── game.py
+        │   └── user.py
+        ├── data_access/
+        │   └── supabase.py
+        ├── processors/
+        │   ├── prepare_processors.py
+        │   └── insertion_processors.py
+        └── getter.py
 ```
 
-## Files
+## Components
 
 - `CONSTS.py`: Contains constants and configuration settings.
-- `game.py`: Defines data models for game and player information.
-- `getter.py`: Functions for fetching game data from an API.
-- `grouper.py`: Groups game data by teams and writes it to JSON files.
-- `inserter.py`: Inserts processed game data into a Supabase database.
+- `game_data_cli.py`: Main CLI tool for all game data processing operations.
+- `models/`: Defines data models for game and user information.
+- `data_access/`: Contains database access layer (Supabase DAO).
+- `processors/`: Includes data preparation and insertion strategy processors.
+- `getter.py`: Functions for fetching game data from the API.
 
 ## Setup
 
 1. Clone this repository.
-2. Ensure you have Poetry installed. If not, install it following the instructions at [Python Poetry Docs.](https://python-poetry.org/docs/#installation).
+2. Ensure you have Poetry installed. If not, install it following the instructions at [Python Poetry Docs](https://python-poetry.org/docs/#installation).
 3. Navigate to the project root and install dependencies using Poetry:
    ```
    poetry install
@@ -71,34 +77,48 @@ Replace `your_api_key_here`, `your_supabase_project_url`, and `your_supabase_api
 
 ## Usage
 
-To run the scripts, use Poetry to ensure you're in the correct virtual environment:
-
-### Fetching and Grouping Game Data
-
-To fetch game data and group it by teams, run:
+The project now uses a unified CLI tool for all operations. To run the CLI tool, use Poetry to ensure you're in the correct virtual environment:
 
 ```
-poetry run python src/matches/grouper.py --count <number_of_games> --output_dir <output_directory> --delay <delay_between_requests>
+poetry run python src/matches/game_data_cli.py [COMMAND] [OPTIONS]
 ```
 
-Options:
-- `--count`: Number of game IDs to generate and process (default: 100)
-- `--output_dir`: Directory to write output JSON files (default: "output_examples")
-- `--delay`: Delay in seconds between processing each game (default: 1.33)
+### CLI Commands
 
-### Inserting Data into Supabase
+1. Insert Users:
+   ```
+   poetry run python src/matches/game_data_cli.py insert-users [USERNAMES]... [--force]
+   ```
 
-To process the JSON files and insert the data into Supabase, run:
+2. Fetch User Games:
+   ```
+   poetry run python src/matches/game_data_cli.py fetch-user-games-command [USERNAME] [--limit LIMIT]
+   ```
+
+3. Process JSON Files:
+   ```
+   poetry run python src/matches/game_data_cli.py process-json-files [--directory DIR] [--archive-dir DIR] [--error-dir DIR]
+   ```
+
+4. Process Single File:
+   ```
+   poetry run python src/matches/game_data_cli.py process-single-file [FILE_PATH] [--archive-dir DIR] [--error-dir DIR]
+   ```
+
+5. Process Games (Grouper functionality):
+   ```
+   poetry run python src/matches/game_data_cli.py process-games [--count COUNT] [--output-dir DIR] [--delay DELAY]
+   ```
+
+For more information on each command and its options, use the `--help` flag:
 
 ```
-poetry run python src/matches/inserter.py
+poetry run python src/matches/game_data_cli.py [COMMAND] --help
 ```
-
-This script will process all JSON files in the `output_examples` directory (or the directory specified in `CONSTS.py`), insert the data into Supabase, and move processed files to an archive directory.
 
 ## Error Handling
 
-If any errors occur during processing, the affected game folders will be moved to an error directory for further investigation.
+If any errors occur during processing, the affected files or data will be logged, and in the case of file processing, problematic files will be moved to an error directory for further investigation.
 
 ## License
 
@@ -106,4 +126,4 @@ This project is licensed under the GNU AGPLv3 License - see the `LICENSE.md` fil
 
 ## Authors
 
-- Wes Hahn <westly.hahn@gmail.com>
+- Wes Hahn <wes@cloudskipper.work>

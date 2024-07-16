@@ -38,9 +38,9 @@ class UserGame(BaseModel):
     game_start_datetime: datetime = Field(..., alias="startDtm")
     duration: int = Field(..., alias="duration")
     mmr_change: Optional[int] = Field(alias="mmrGainInGame")
-    mmr_before: Optional[int] = Field(None, alias='mmrBefore')
-    mmr_gain: Optional[int] = Field(None, alias='mmrGain')
-    mmr_after: Optional[int] = Field(None, alias='mmrAfter')
+    mmr_before: Optional[int] = Field(None, alias="mmrBefore")
+    mmr_gain: Optional[int] = Field(None, alias="mmrGain")
+    mmr_after: Optional[int] = Field(None, alias="mmrAfter")
     total_player_played_time: int = Field(..., alias="playTime")
     bots_added: int = Field(..., alias="botAdded")
     team_id: int = Field(
@@ -87,6 +87,8 @@ class UserGame(BaseModel):
     triple_kills: int = Field(..., alias="totalTripleKill")
     quadra_kills: int = Field(..., alias="totalQuadraKill")
     extra_kills: int = Field(..., alias="totalExtraKill")
-    equipment_first_item: dict[str, list[int]] = Field(..., alias="equipFirstItemForLog")
+    equipment_first_item: dict[str, list[int]] = Field(
+        ..., alias="equipFirstItemForLog"
+    )
     main_weather: Optional[int] = Field(None, alias="mainWeather")
     sub_weather: Optional[int] = Field(None, alias="subWeather")
