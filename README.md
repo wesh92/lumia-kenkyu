@@ -1,15 +1,15 @@
 # Lumia Kenkyu 【研究】
 
 <!--toc:start-->
-- [Lumia Kenkyu](#lumia-kenkyu)
+- [Lumia Kenkyu 【研究】](#lumia-kenkyu-研究)
   - [Project Overview](#project-overview)
   - [Project Structure](#project-structure)
-  - [Match Retrieval Utilities](#match-retrieval-utilities)
-    - [Files](#files)
-    - [Usage](#usage)
+  - [Match Retrieval and Processing](#match-retrieval-and-processing)
+    - [Match Processing Components](#match-processing-components)
+    - [Match Processing CLI Usage](#match-processing-cli-usage)
   - [Localization (l10n) Data Processing](#localization-l10n-data-processing)
-    - [Files](#files)
-    - [Usage](#usage)
+    - [Localization (l10n) Files](#localization-l10n-files)
+    - [Localization (l10n) Usage](#localization-l10n-usage)
   - [Setup](#setup)
   - [Configuration](#configuration)
   - [Error Handling](#error-handling)
@@ -24,22 +24,28 @@ Research and data-related information for the MOBA Eternal Return by Nimble Neur
 
 This project contains utilities for retrieving, processing, and storing match data for Eternal Return, as well as tools for managing localization (l10n) data. The project is divided into two main components:
 
-1. Match Retrieval Utilities
+1. Match Retrieval and Processing
 2. Localization (l10n) Data Processing
 
 ## Project Structure
 
 ```
-lumia-kenkyu/
+lumia-kenkyu/ <-- You are here
 ├── pyproject.toml
 ├── README.md
 └── src/
     ├── matches/
     │   ├── CONSTS.py
-    │   ├── game.py
-    │   ├── getter.py
-    │   ├── grouper.py
-    │   └── inserter.py
+    │   ├── game_data_cli.py
+    │   ├── models/
+    │   │   ├── game.py
+    │   │   └── user.py
+    │   ├── data_access/
+    │   │   └── supabase.py
+    │   ├── processors/
+    │   │   ├── prepare_processors.py
+    │   │   └── insertion_processors.py
+    │   └── getter.py
     └── l10n_data/
         ├── l10n_data_splitter.py
         ├── convert.py
@@ -49,42 +55,70 @@ lumia-kenkyu/
             └── (generated JSON files)
 ```
 
-## Match Retrieval Utilities
+## Match Retrieval and Processing
 
-Located in `src/matches/`, these utilities include scripts for fetching game data, grouping it by teams, and inserting it into a Supabase database.
+Located in `src/matches/`, these utilities include a unified CLI tool for fetching game data, grouping it by teams, inserting it into a Supabase database, and performing various other data processing tasks.
 
-### Files
+### Match Processing Components
 
 - `CONSTS.py`: Contains constants and configuration settings.
-- `game.py`: Defines data models for game and player information.
-- `getter.py`: Functions for fetching game data from an API.
-- `grouper.py`: Groups game data by teams and writes it to JSON files.
-- `inserter.py`: Inserts processed game data into a Supabase database.
+- `game_data_cli.py`: Main CLI tool for all game data processing operations.
+- `models/`: Defines data models for game and user information.
+- `data_access/`: Contains database access layer (Supabase DAO).
+- `processors/`: Includes data preparation and insertion strategy processors.
+- `getter.py`: Functions for fetching game data from the API.
 
-### Usage
+### Match Processing CLI Usage
 
-To fetch and group game data:
-
-```
-poetry run python src/matches/grouper.py --count <number_of_games> --output_dir <output_directory> --delay <delay_between_requests>
-```
-
-To insert data into Supabase:
+The project now uses a unified CLI tool for all match processing operations:
 
 ```
-poetry run python src/matches/inserter.py
+poetry run python src/matches/game_data_cli.py [COMMAND] [OPTIONS]
+```
+
+Available commands:
+
+1. Insert Users:
+   ```
+   poetry run python src/matches/game_data_cli.py insert-users [USERNAMES]... [--force]
+   ```
+
+2. Fetch User Games:
+   ```
+   poetry run python src/matches/game_data_cli.py fetch-user-games-command [USERNAME] [--limit LIMIT]
+   ```
+
+3. Process JSON Files:
+   ```
+   poetry run python src/matches/game_data_cli.py process-json-files [--directory DIR] [--archive-dir DIR] [--error-dir DIR]
+   ```
+
+4. Process Single File:
+   ```
+   poetry run python src/matches/game_data_cli.py process-single-file [FILE_PATH] [--archive-dir DIR] [--error-dir DIR]
+   ```
+
+5. Process Games (Grouper functionality):
+   ```
+   poetry run python src/matches/game_data_cli.py process-games [--count COUNT] [--output-dir DIR] [--delay DELAY]
+   ```
+
+For more information on each command and its options, use the `--help` flag:
+
+```
+poetry run python src/matches/game_data_cli.py [COMMAND] --help
 ```
 
 ## Localization (l10n) Data Processing
 
 Located in `src/l10n_data/`, these utilities help manage and process localization data for Eternal Return.
 
-### Files
+### Localization (l10n) Files
 
 - `l10n_data_splitter.py`: Splits a large l10n text file into smaller, categorized files.
 - `convert.py`: Converts the split text files into JSON format for easier programmatic use.
 
-### Usage
+### Localization (l10n) Usage
 
 1. Download the l10n text file:
    ```
@@ -106,7 +140,7 @@ Located in `src/l10n_data/`, these utilities help manage and process localizatio
 ## Setup
 
 1. Clone this repository.
-2. Ensure you have Poetry installed. If not, install it following the instructions at [https://python-poetry.org/docs/#installation](https://python-poetry.org/docs/#installation).
+2. Ensure you have Poetry installed. If not, install it following the instructions at [Python Poetry Docs](https://python-poetry.org/docs/#installation).
 3. Navigate to the project root and install dependencies using Poetry:
    ```
    poetry install
@@ -132,7 +166,7 @@ Replace `your_api_key_here`, `your_supabase_project_url`, and `your_supabase_api
 
 ## Error Handling
 
-If any errors occur during processing, affected files or folders will be moved to an error directory for further investigation.
+If any errors occur during processing, affected files or data will be logged, and in the case of file processing, problematic files will be moved to an error directory for further investigation.
 
 ## Contributing
 
