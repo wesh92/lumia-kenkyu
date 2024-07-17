@@ -92,7 +92,7 @@ poetry run python src/matches/game_data_cli.py [COMMAND] [OPTIONS]
 
 2. Fetch User Games:
    ```
-   poetry run python src/matches/game_data_cli.py fetch-user-games-command [USERNAME] [--limit LIMIT]
+   poetry run python src/matches/game_data_cli.py fetch-user-games [USERNAME] [--limit LIMIT]
    ```
 
 3. Process JSON Files:
