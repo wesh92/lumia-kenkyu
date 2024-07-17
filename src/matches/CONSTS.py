@@ -32,6 +32,6 @@ class endpoints(enum.Enum):
     }
     user = {
         "fetch_user_games": "user/games/{user_id}",
-        "info_by_username": "user/nickname/",
+        "fetch_by_username": "user/nickname/",
         "user_season_stats": "user/stats/{userNum}/{seasonId}",
     }
