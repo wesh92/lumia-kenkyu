@@ -50,29 +50,62 @@ class SupabaseDAO:
     def insert_mastery_levels(
         self, mastery_inserts: list[dict[str, Any]]
     ) -> dict[str, Any]:
-        return self.client.table("mastery_levels").upsert(mastery_inserts).execute()
+        return (
+            self.client.table("mastery_levels")
+            .upsert(
+                mastery_inserts,
+                on_conflict="game_start_time,game_id,user_id,mastery_type",
+            )
+            .execute()
+        )
 
     # Equipment methods
     def insert_equipment(
         self, equipment_inserts: list[dict[str, Any]]
     ) -> dict[str, Any]:
-        return self.client.table("equipment").upsert(equipment_inserts).execute()
+        return (
+            self.client.table("equipment")
+            .upsert(
+                equipment_inserts, on_conflict="game_start_time,game_id,user_id,slot"
+            )
+            .execute()
+        )
 
     # Skill order methods
     def insert_skill_order(self, skill_inserts: list[dict[str, Any]]) -> dict[str, Any]:
-        return self.client.table("skill_order").upsert(skill_inserts).execute()
+        return (
+            self.client.table("skill_order")
+            .upsert(
+                skill_inserts, on_conflict="game_start_time,game_id,user_id,skill_level"
+            )
+            .execute()
+        )
 
     # Killed by data methods
     def insert_killed_by_data(
         self, killed_by_inserts: list[dict[str, Any]]
     ) -> dict[str, Any]:
-        return self.client.table("killed_by_data").upsert(killed_by_inserts).execute()
+        return (
+            self.client.table("killed_by_data")
+            .upsert(
+                killed_by_inserts,
+                on_conflict="game_start_time,game_id,user_id,killed_by_id",
+            )
+            .execute()
+        )
 
     # Items purchased methods
     def insert_items_purchased(
         self, item_purchases: list[dict[str, Any]]
     ) -> dict[str, Any]:
-        return self.client.table("items_purchased").upsert(item_purchases).execute()
+        return (
+            self.client.table("items_purchased")
+            .upsert(
+                item_purchases,
+                on_conflict="game_start_time,game_id,user_id,item_id,purchase_type",
+            )
+            .execute()
+        )
 
     # User-related methods
     def insert_user(self, user_data: dict[str, Any]) -> dict[str, Any]:

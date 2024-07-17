@@ -107,7 +107,7 @@ poetry run python src/matches/game_data_cli.py [COMMAND] [OPTIONS]
 
 5. Process Games (Grouper functionality):
    ```
-   poetry run python src/matches/game_data_cli.py process-games [--count COUNT] [--output-dir DIR] [--delay DELAY]
+   poetry run python src/matches/game_data_cli.py retrieve-games [--count COUNT] [--output-dir DIR] [--delay DELAY]
    ```
 
 For more information on each command and its options, use the `--help` flag:

@@ -1,5 +1,15 @@
+"""
+Eternal Return Game Data CLI Module
+
+This module provides a command-line interface for fetching, processing, and inserting
+game data into a database. It includes functionality for handling user information,
+game data, and file processing.
+
+The module uses Typer for creating the CLI, and interacts with external APIs and
+a Supabase database for data storage and retrieval.
+"""
+
 import typer
-import requests
 from typing import Optional
 from models.game import UserGame
 from data_access.supabase import SupabaseDAO
@@ -12,10 +22,6 @@ from CONSTS import (
     MATCHES_PATH,
     ARCHIVE_PATH,
     ERROR_PATH,
-    BASE_URL,
-    version,
-    endpoints,
-    HEADERS,
     CURRENT_SEASON,
 )
 import os
@@ -24,39 +30,27 @@ import json
 import random
 from time import sleep
 from collections import defaultdict
-from getter import _fetch_by_game_id, _fetch_user_id_by_username
+from getter import _fetch_by_game_id, _fetch_user_id_by_username, _fetch_by_user_id
 
 app = typer.Typer()
 dao = SupabaseDAO()
 game_service = GameDataService()
 
 
-def fetch_user_games(
-    user_id: int, next_id: Optional[int] = None
-) -> tuple[list[UserGame], Optional[int]]:
-    endpoint = endpoints.user.value["fetch_user_games"].format(user_id=user_id)
-    url = f"{BASE_URL}{version.v1.value}/{endpoint}"
-    if next_id:
-        url += f"?next={next_id}"
-
-    response = requests.get(url, headers=HEADERS)
-    response.raise_for_status()
-    data = response.json()
-
-    games = []
-    for game_data in data.get("userGames", []):
-        try:
-            game = UserGame(**game_data)
-            games.append(game)
-        except Exception as e:
-            typer.echo(f"Error creating UserGame object: {str(e)}")
-            typer.echo(f"Problematic game data: {game_data}")
-            continue
-
-    return games, data.get("next")
-
-
 def get_user_id(username: str) -> Optional[int]:
+    """
+    Get the user ID by username. If the user is not found in the database, fetch
+    the user ID from the API and insert it into the database.
+
+    Args:
+        username (str): The username of the user to fetch.
+
+    Returns:
+        Optional[int]: The user ID if found, otherwise None.
+
+    Raises:
+        requests.HTTPError: If the API request fails.
+    """
     user = dao.get_user_by_nickname(username)
     if user:
         return user["user_id"]
@@ -73,7 +67,18 @@ def get_user_id(username: str) -> Optional[int]:
 
 
 def group_by_team(user_games: list[UserGame]) -> dict[int, list[UserGame]]:
-    """Group UserGame objects by team_id."""
+    """Group UserGame objects by team_id.
+
+    Args:
+        user_games (list[UserGame]): A list of UserGame objects.
+
+    Returns:
+        dict[int, list[UserGame]]: A dictionary with team IDs as keys and lists of
+        UserGame objects as values.
+
+    Raises:
+        Exception: If the team_id is not found in the UserGame object.
+    """
     teams = defaultdict(list)
     for game in user_games:
         teams[game.team_id].append(game)
@@ -82,8 +87,21 @@ def group_by_team(user_games: list[UserGame]) -> dict[int, list[UserGame]]:
 
 def write_teams_to_json(
     grouped_teams: dict[int, list[UserGame]], output_dir: str, game_id: int
-):
-    """Write grouped team data to JSON files."""
+) -> None:
+    """Write grouped team data to JSON files.
+
+    Args:
+        grouped_teams (dict[int, list[UserGame]]): A dictionary with team IDs as keys
+            and lists of UserGame objects as values.
+        output_dir (str): The output directory to write the JSON files to.
+        game_id (int): The game ID to use for the output directory.
+
+    Returns:
+        None, writes JSON files to the output directory.
+
+    Raises:
+        Exception: If the output directory cannot be created.
+    """
     os.makedirs(output_dir, exist_ok=True)
 
     for team_id, team_data in grouped_teams.items():
@@ -97,7 +115,18 @@ def write_teams_to_json(
 
 
 def generate_game_ids(count: int) -> list[int]:
-    """Generate unique game IDs."""
+    """Generate unique game IDs.
+
+    Args:
+        count (int): The number of game IDs to generate.
+
+    Returns:
+        list[int]: A list of unique game IDs.
+
+    Raises:
+        Exception: If the game ID is already in the archive.
+        The exception is caught but does not stop the process.
+    """
     game_ids = []
     for _ in range(count):
         random_part = random.randint(0, 999999)
@@ -115,7 +144,18 @@ def generate_game_ids(count: int) -> list[int]:
 
 
 def process_game(game_id: int) -> Optional[list[UserGame]]:
-    """Process a single game by ID."""
+    """Process a single game by ID.
+
+    Args:
+        game_id (int): The ID of the game to process.
+
+    Returns:
+        Optional[list[UserGame]]: A list of UserGame objects if the game is processed
+        successfully, otherwise None.
+
+    Raises:
+        Exception: If the game is not from the current season or season 0.
+    """
     response = None
     try:
         response = _fetch_by_game_id(game_id)
@@ -167,8 +207,21 @@ def insert_users(
     force: bool = typer.Option(
         False, "--force", "-f", help="Force update even if user exists"
     ),
-):
-    """Fetch user IDs by username(s) and insert them into the database."""
+) -> None:
+    """Fetch user IDs by username(s) and insert them into the database.
+
+    Args:
+        usernames (list[str]): A list of usernames to fetch and insert.
+        force (bool): Force update even if user exists.
+
+    Returns:
+        None, inserts user data into the database.
+
+    Raises:
+        Exception: If the user data cannot be fetched.
+        Exception: If the user data cannot be inserted into the database.
+        Exception: If the user already exists in the database and force is not set.
+    """
     for username in usernames:
         user = dao.get_user_by_nickname(username)
         if user and not force:
@@ -188,11 +241,24 @@ def insert_users(
 
 
 @app.command()
-def fetch_user_games_command(
+def fetch_user_games(
     username: str = typer.Argument(..., help="Username to fetch games for"),
     limit: int = typer.Option(10, help="Maximum number of games to fetch"),
-):
-    """Fetch and insert user games data for a given username."""
+) -> None:
+    """Fetch and insert user games data for a given username.
+
+    Args:
+        username (str): The username to fetch games for.
+        limit (int): The maximum number of games to fetch.
+
+    Returns:
+        None, fetches and inserts user games data into the database.
+
+    Raises:
+        Exception: If the user ID cannot be fetched.
+        Exception: If the user games data cannot be fetched.
+        Exception: If the user games data cannot be inserted into the database.
+    """
     user_id = get_user_id(username)
     if not user_id:
         typer.echo(f"Failed to find or fetch user ID for username: {username}")
@@ -203,7 +269,7 @@ def fetch_user_games_command(
     insertion_context = DataInsertionContext(AllDataInsertionStrategy())
 
     while games_processed < limit:
-        games, next_id = fetch_user_games(user_id, next_id)
+        games, next_id = _fetch_by_user_id(user_id, next_id)
 
         for game in games:
             if not dao.game_exists(game.game_id) or not dao.player_game_stats_exist(
@@ -237,8 +303,20 @@ def process_json_files(
     error_dir: str = typer.Option(
         ERROR_PATH, help="Directory to move files with errors"
     ),
-):
-    """Process JSON files in the specified directory and insert data into the database."""
+) -> None:
+    """Process JSON files in the specified directory and insert data into the database.
+
+    Args:
+        directory (str): Directory containing JSON files to process.
+        archive_dir (str): Directory to move processed files.
+        error_dir (str): Directory to move files with errors.
+
+    Returns:
+        None, processes JSON files and inserts data into the database.
+
+    Raises:
+        Exception: If an error occurs while processing a file.
+    """
     insertion_context = DataInsertionContext(AllDataInsertionStrategy())
 
     for root, _, files in os.walk(directory):
@@ -267,8 +345,19 @@ def process_single_file(
     error_dir: str = typer.Option(
         ERROR_PATH, help="Directory to move file if processing fails"
     ),
-):
-    """Process a single JSON file and insert data into the database."""
+) -> None:
+    """Process a single JSON file and insert data into the database.
+
+    Args:
+        file_path (str): Path to a single JSON file to process.
+        archive_dir (str): Directory to move processed file.
+
+    Returns:
+        None, processes a single JSON file and inserts data into the database.
+
+    Raises:
+        Exception: If an error occurs while processing the file.
+    """
     insertion_context = DataInsertionContext(AllDataInsertionStrategy())
 
     try:
@@ -285,7 +374,7 @@ def process_single_file(
 
 
 @app.command()
-def process_games(
+def retrieve_games(
     count: int = typer.Option(100, help="Number of game IDs to generate and process"),
     output_dir: str = typer.Option(
         "output_examples", help="Directory to write output JSON files"
@@ -293,8 +382,20 @@ def process_games(
     delay: float = typer.Option(
         1.33, help="Delay in seconds between processing each game"
     ),
-):
-    """Generate game IDs, process games, and write team data to JSON files."""
+) -> None:
+    """Generate game IDs, process games, and write team data to JSON files.
+
+    Args:
+        count (int): Number of game IDs to generate and process.
+        output_dir (str): Directory to write output JSON files.
+        delay (float): Delay in seconds between processing each game.
+
+    Returns:
+        None, generates game IDs, processes games, and writes team data to JSON files.
+
+    Raises:
+        Exception: If an error occurs while processing a game.
+    """
     game_ids = generate_game_ids(count)
 
     for i, game_id in enumerate(game_ids, 1):

@@ -1,6 +1,9 @@
 from abc import ABC, abstractmethod
 from models.game import UserGame
 from data_access.supabase import SupabaseDAO
+from itertools import groupby
+from operator import itemgetter
+from collections import Counter
 
 
 class InsertionStrategy(ABC):
@@ -62,7 +65,7 @@ class PlayerStatsInsertionStrategy(InsertionStrategy):
 
 
 class MasteryLevelsInsertionStrategy(InsertionStrategy):
-    def insert(self, game_data: UserGame, dao: SupabaseDAO) -> None:
+    def insert(self, game_data: UserGame, dao: SupabaseDAO):
         mastery_inserts = [
             {
                 "game_start_time": game_data.game_start_datetime.isoformat(),
@@ -73,11 +76,24 @@ class MasteryLevelsInsertionStrategy(InsertionStrategy):
             }
             for mastery_type, level in game_data.final_mastery_levels.items()
         ]
-        dao.insert_mastery_levels(mastery_inserts)
+
+        mastery_inserts.sort(
+            key=itemgetter("game_start_time", "game_id", "user_id", "mastery_type")
+        )
+        unique_mastery = [
+            next(group)
+            for _, group in groupby(
+                mastery_inserts,
+                key=itemgetter("game_start_time", "game_id", "user_id", "mastery_type"),
+            )
+        ]
+
+        if unique_mastery:
+            dao.insert_mastery_levels(unique_mastery)
 
 
 class EquipmentInsertionStrategy(InsertionStrategy):
-    def insert(self, game_data: UserGame, dao: SupabaseDAO) -> None:
+    def insert(self, game_data: UserGame, dao: SupabaseDAO):
         final_equipment = [
             {
                 "game_start_time": game_data.game_start_datetime.isoformat(),
@@ -102,11 +118,17 @@ class EquipmentInsertionStrategy(InsertionStrategy):
             for slot, item_id in game_data.equipment_first_item.items()
         ]
 
-        dao.insert_equipment(final_equipment + first_equipment)
+        # Insert final equipment
+        if final_equipment:
+            dao.insert_equipment(final_equipment)
+
+        # Insert first equipment
+        if first_equipment:
+            dao.insert_equipment(first_equipment)
 
 
 class SkillOrderInsertionStrategy(InsertionStrategy):
-    def insert(self, game_data: UserGame, dao: SupabaseDAO) -> None:
+    def insert(self, game_data: UserGame, dao: SupabaseDAO):
         skill_inserts = [
             {
                 "game_start_time": game_data.game_start_datetime.isoformat(),
@@ -117,11 +139,24 @@ class SkillOrderInsertionStrategy(InsertionStrategy):
             }
             for skill_level, skill_id in game_data.skill_order.items()
         ]
-        dao.insert_skill_order(skill_inserts)
+
+        skill_inserts.sort(
+            key=itemgetter("game_start_time", "game_id", "user_id", "skill_level")
+        )
+        unique_skills = [
+            next(group)
+            for _, group in groupby(
+                skill_inserts,
+                key=itemgetter("game_start_time", "game_id", "user_id", "skill_level"),
+            )
+        ]
+
+        if unique_skills:
+            dao.insert_skill_order(unique_skills)
 
 
 class KilledByDataInsertionStrategy(InsertionStrategy):
-    def insert(self, game_data: UserGame, dao: SupabaseDAO) -> None:
+    def insert(self, game_data: UserGame, dao: SupabaseDAO):
         killed_by_inserts = [
             {
                 "game_start_time": game_data.game_start_datetime.isoformat(),
@@ -136,13 +171,25 @@ class KilledByDataInsertionStrategy(InsertionStrategy):
             }
             for kill_data in game_data.killed_by_data.root
         ]
-        dao.insert_killed_by_data(killed_by_inserts)
+
+        # Sort and group by the primary key fields
+        killed_by_inserts.sort(
+            key=itemgetter("game_start_time", "game_id", "user_id", "killed_by_id")
+        )
+        unique_killed_by = [
+            next(group)  # Take the first item from each group
+            for _, group in groupby(
+                killed_by_inserts,
+                key=itemgetter("game_start_time", "game_id", "user_id", "killed_by_id"),
+            )
+        ]
+
+        if unique_killed_by:
+            dao.insert_killed_by_data(unique_killed_by)
 
 
 class ItemPurchasesInsertionStrategy(InsertionStrategy):
-    def insert(self, game_data: UserGame, dao: SupabaseDAO) -> None:
-        from collections import Counter
-
+    def insert(self, game_data: UserGame, dao: SupabaseDAO):
         console_items = Counter(game_data.items_purchased_from_console)
         drone_items = Counter(game_data.items_purchased_from_drone)
 
@@ -167,7 +214,24 @@ class ItemPurchasesInsertionStrategy(InsertionStrategy):
             }
             for item_id, quantity in drone_items.items()
         ]
-        dao.insert_items_purchased(item_purchases)
+
+        item_purchases.sort(
+            key=itemgetter(
+                "game_start_time", "game_id", "user_id", "item_id", "purchase_type"
+            )
+        )
+        unique_purchases = [
+            next(group)
+            for _, group in groupby(
+                item_purchases,
+                key=itemgetter(
+                    "game_start_time", "game_id", "user_id", "item_id", "purchase_type"
+                ),
+            )
+        ]
+
+        if unique_purchases:
+            dao.insert_items_purchased(unique_purchases)
 
 
 class DataInsertionContext:
