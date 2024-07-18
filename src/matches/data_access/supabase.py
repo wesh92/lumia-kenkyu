@@ -1,6 +1,6 @@
 import threading
 from supabase import create_client, Client
-from CONSTS import SUPABASE_URL, SUPABASE_KEY
+from CONSTS import get_provider_secrets, DBProvider
 from typing import Optional, Any
 
 
@@ -17,6 +17,9 @@ class SupabaseDAO:
         return cls._instance
 
     def __initialize(self) -> None:
+        secrets = get_provider_secrets(DBProvider.SUPABASE)
+        SUPABASE_URL = secrets["url"]
+        SUPABASE_KEY = secrets["key"]
         self.client: Client = create_client(SUPABASE_URL, SUPABASE_KEY)
 
     # Game-related methods
