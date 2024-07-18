@@ -64,6 +64,21 @@ class version(enum.Enum):
 
 
 class endpoints(enum.Enum):
+    """
+    Enum class for the different endpoints in the API.
+
+    Attributes:
+        game (dict[str, str]): The different game endpoints.
+            fetch_by_id (str): The endpoint to fetch a game by its ID. Use .format(game_id) to insert the game ID.
+        rank (dict[str, str]): The different rank endpoints.
+            seasonal_top_rankers (str): The endpoint to fetch the top rankers for a season and mode. Use .format(season_id, mode_id) to insert the season and mode IDs.
+            user_rank (str): The endpoint to fetch the rank of a user for a season and mode. Use .format(user_id, season_id, mode_id) to insert the user ID, season ID, and mode ID.
+        user (dict[str, str]): The different user endpoints.
+            fetch_user_games (str): The endpoint to fetch the games of a user. Use .format(user_id) to insert the user ID.
+            fetch_by_username (str): The endpoint to fetch a user by their username. Use .format(username) to insert the username.
+            user_season_stats (str): The endpoint to fetch the stats of a user for a season. Use .format(userNum, seasonId) to insert the user number and season ID.
+    """
+
     game = {
         "fetch_by_id": "games/{game_id}",
     }
