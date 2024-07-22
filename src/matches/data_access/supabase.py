@@ -1,7 +1,7 @@
 from typing import Any, Optional, Sequence
 from supabase import create_client, Client
 from data_access.dao import AbstractDAO
-from CONSTS import SUPABASE_URL, SUPABASE_KEY
+from CONSTS import get_secrets, DAOType, Environment
 
 
 class SupabaseDAO(AbstractDAO):
@@ -13,10 +13,12 @@ class SupabaseDAO(AbstractDAO):
     def __init__(self):
         """Initialize the SupabaseDAO."""
         self.client: Client
+        self.env: Environment = Environment.DEV
 
     def initialize(self) -> None:
         """Initialize the Supabase client."""
-        self.client = create_client(SUPABASE_URL, SUPABASE_KEY)
+        secrets = get_secrets(DAOType.SUPABASE, self.env)
+        self.client = create_client(secrets["url"], secrets["key"])
 
     def insert_game(self, game_data: dict[str, Any]) -> dict[str, Any]:
         """Insert a new game record into the Supabase database."""
