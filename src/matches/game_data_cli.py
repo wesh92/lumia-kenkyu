@@ -34,6 +34,7 @@ from getter import _fetch_by_game_id, _fetch_user_id_by_username, _fetch_by_user
 
 app = typer.Typer()
 dao = SupabaseDAO()
+dao.initialize()
 game_service = GameDataService()
 
 
