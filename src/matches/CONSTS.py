@@ -38,7 +38,7 @@ def get_secrets(
         elif dao_type == DAOType.DRAGONFLYDB:
             dragonfly_secrets = secrets["dragonfly"][0][environment.value][0]
             return {
-                "url": dragonfly_secrets["host"],
+                "host": dragonfly_secrets["host"],
                 "port": dragonfly_secrets["port"],
                 "password": dragonfly_secrets["password"],
                 "key_namespace": dragonfly_secrets["namespace"],
