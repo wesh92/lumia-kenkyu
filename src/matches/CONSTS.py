@@ -1,6 +1,7 @@
 import tomllib
 import enum
 import os
+from typing import Any
 
 # with open(".secrets.toml", "rb") as f:
 #     secrets = tomllib.load(f)
@@ -13,6 +14,7 @@ class DAOType(enum.Enum):
     API_ONLY = "api_only"
     SUPABASE = "supabase"
     POSTGRES = "postgres"
+    DRAGONFLYDB = "dragonfly"
 
 
 class Environment(enum.Enum):
@@ -22,7 +24,7 @@ class Environment(enum.Enum):
 
 def get_secrets(
     dao_type: DAOType, environment: Environment = Environment.DEV
-) -> dict[str, str] | NotImplementedError | ValueError | None:
+) -> dict[str, Any] | NotImplementedError | ValueError | None:
     with open(".secrets.toml", "rb") as f:
         secrets = tomllib.load(f)
         if dao_type == DAOType.API_ONLY:
@@ -32,6 +34,14 @@ def get_secrets(
             return {
                 "url": supabase_secrets["url"],
                 "key": supabase_secrets["key"],
+            }
+        elif dao_type == DAOType.DRAGONFLYDB:
+            dragonfly_secrets = secrets["dragonfly"][0][environment.value][0]
+            return {
+                "url": dragonfly_secrets["host"],
+                "port": dragonfly_secrets["port"],
+                "password": dragonfly_secrets["password"],
+                "key_namespace": dragonfly_secrets["namespace"],
             }
         elif dao_type == DAOType.POSTGRES:
             NotImplementedError("Postgres secrets not implemented.")
